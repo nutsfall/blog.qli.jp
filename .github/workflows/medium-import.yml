@@ -182,27 +182,47 @@ jobs:
                   print(f"Error creating post for '{post['title']}': {e}")
                   return False, None, None
 
+          def get_imported_urls(output_dir):
+              """既存記事のoriginal_urlを収集"""
+              imported = set()
+              for root, _, files in os.walk(output_dir):
+                  for fname in files:
+                      if fname != 'index.md':
+                          continue
+                      with open(os.path.join(root, fname), encoding='utf-8') as f:
+                          for line in f:
+                              if line.startswith('original_url:'):
+                                  url = line.split(':', 1)[1].strip().strip('"')
+                                  imported.add(url)
+                                  break
+              return imported
+
           def main():
               print("=== Medium Post Fetcher (Directory: YYYYMM/UUID, Slug: UUID) ===")
 
               username = "hiro"
               days_back = 7
               output_dir = "content/posts"
-              
+
               os.makedirs(output_dir, exist_ok=True)
-              
+
               posts = fetch_recent_posts(username, days_back)
-              
+
               if not posts:
                   print("No recent posts found")
                   return
-              
+
               print(f"Found {len(posts)} recent posts")
-              
+
+              imported_urls = get_imported_urls(output_dir)
+
               success_count = 0
               imported_posts = []
-              
+
               for post in posts:
+                  if post['link'] in imported_urls:
+                      print(f"Skipping already imported: {post['title']}")
+                      continue
                   success, directory_name, uuid_slug = create_hugo_post(post, output_dir)
                   if success:
                       success_count += 1
