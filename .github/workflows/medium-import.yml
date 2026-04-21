@@ -8,6 +8,7 @@ on:
 
 env:
   HUGO_VERSION: "0.155.1"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   import-and-build:
