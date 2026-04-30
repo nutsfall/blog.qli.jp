@@ -90,6 +90,20 @@ Available image shortcodes (from PaperMod):
 
 **Note:** The Medium importer does not download images. Images from Medium posts remain as external URLs in the content.
 
+### Medium記事の画像対応
+
+`git pull` 後に新しいMedium記事が追加されたら、外部画像URL（`cdn-images-1.medium.com`）をローカルに落とす。
+
+1. 画像をページバンドルにダウンロード: `curl -L <url> -o content/posts/.../cover.png`
+2. フロントマターに `cover:` を追加。キャプションテキストがあれば `caption:` も設定する
+3. 本文中の `![]()` やキャプションのテキスト行は削除する（coverで表示されるので二重になるため）
+
+```yaml
+cover:
+  image: "cover.png"
+  caption: "キャプションテキスト"
+```
+
 ## Maintenance Scripts (Ruby)
 
 Located in `scripts/`:
