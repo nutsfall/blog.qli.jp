@@ -33,6 +33,42 @@ body {
 }
 */
 
+/* 記事一覧: cover付き記事を横並びサムネイル表示 */
+.post-entry:has(.entry-cover),
+.first-entry:has(.entry-cover) {
+  display: grid;
+  grid-template-columns: 1fr 96px;
+  grid-template-areas:
+    "header cover"
+    "content cover"
+    "footer cover";
+  column-gap: 1rem;
+  align-items: start;
+}
+
+.post-entry:has(.entry-cover) .entry-cover,
+.first-entry:has(.entry-cover) .entry-cover {
+  grid-area: cover;
+  margin-bottom: 0;
+}
+
+.post-entry:has(.entry-cover) .entry-cover img,
+.first-entry:has(.entry-cover) .entry-cover img {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: var(--radius);
+}
+
+.post-entry:has(.entry-cover) .entry-header,
+.first-entry:has(.entry-cover) .entry-header { grid-area: header; }
+
+.post-entry:has(.entry-cover) .entry-content,
+.first-entry:has(.entry-cover) .entry-content { grid-area: content; }
+
+.post-entry:has(.entry-cover) .entry-footer,
+.first-entry:has(.entry-cover) .entry-footer { grid-area: footer; }
+
 .dark {
     --theme: #1a2332;      /* アビスパネイビー - メイン背景のみ */
     
