@@ -105,6 +105,8 @@ params:
       url: "https://medium.com/@hiro"
     - name: mastodon
       url: "https://mastodon.cloud/@hiro"
+    - name: applemusic
+      url: "https://music.apple.com/profile/hiroqli"
     - name: rss
       url: "/index.xml"
 

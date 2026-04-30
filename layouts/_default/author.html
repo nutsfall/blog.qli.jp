@@ -40,6 +40,8 @@
             <i class="fa-brands fa-facebook"></i>
             {{- else if eq .name "youtube" }}
             <i class="fa-brands fa-youtube"></i>
+            {{- else if eq .name "applemusic" }}
+            <i class="fa-brands fa-apple"></i>
             {{- else if eq .name "bluesky" }}
             <i class="fa-solid fa-cloud"></i>
             {{- else }}
@@ -50,6 +52,17 @@
         {{- end }}
         {{- end }}
       </ul>
+    </div>
+    {{- end }}
+
+    {{- with .Params.favoriteArtists }}
+    <div class="author-artists">
+      <h2 class="author-artists-title">Favourite artists</h2>
+      <div class="artist-chips">
+        {{- range . }}
+        <span class="artist-chip">{{ . }}</span>
+        {{- end }}
+      </div>
     </div>
     {{- end }}
 
@@ -129,6 +142,35 @@
   .social-links a:hover {
     color: var(--tertiary);
     transform: translateY(-3px);
+  }
+
+  .author-artists {
+    margin: 2.5rem 0;
+  }
+
+  .author-artists-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--secondary);
+    margin: 0 0 1rem 0;
+  }
+
+  .artist-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  .artist-chip {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.75rem;
+    border-radius: 999px;
+    background: var(--code-bg);
+    color: var(--secondary);
+    white-space: nowrap;
   }
 
   .author-bio {
