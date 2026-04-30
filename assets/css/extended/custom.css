@@ -8,13 +8,15 @@
 
 body {
     font-family: var(--font-family);
-    font-size: 16px; /* デフォルトのフォントサイズを指定 */
+    font-size: 1.125rem;
 }
 
-/* 記事本文のフォントサイズ */
 .post-content {
-    font-size: 18px; /* 本文のフォントサイズ */
-    line-height: 1.8; /* 行間も調整可能 */
+    line-height: 1.8;
+}
+
+.post-content p {
+    margin-bottom: 1.2em;
 }
 
 /* アビスパ福岡カラー - ダークモード背景のみ */
