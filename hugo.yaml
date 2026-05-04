@@ -87,6 +87,7 @@ params:
   description: "Just a personal blog"
   keywords: [ブログ, 福岡, 個人サイト, PaperMod, Apple, 映画, 音楽]
   author: "hiro"
+  images: ["images/og-default.png"]
 
   # Home-Info Mode
   homeInfoParams:
