@@ -6,11 +6,10 @@ source: "medium"
 original_url: "https://medium.com/@hiro/%E6%9C%89%E7%B7%9A%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%81%AE%E8%A9%B1-87c405517f8a?source=rss-21bfda6f823e------2"
 tags: ["earphones", "notes"]
 draft: false
+cover:
+  image: "cover.png"
+  caption: "Wired Summer Nostalgia Created by Gemini"
 ---
-
-![](https://cdn-images-1.medium.com/max/1024/1*XW_rAPxAKjhoJ7bJLrumzA.png)
-
-Wired Summer Nostalgia Created by Gemini
 
 5月になり季節も初夏。春から夏に切り替わりました。気温が上がる日も増えていて、毎日長袖にするか半袖にするか悩んだりもします。同様に、ヘッドフォンを選びがちな日々が続いていましたが、イヤホンを選びたくなる日も多くなってきました。
 
