@@ -4,6 +4,7 @@ description: ''
 date: '2006-09-15T11:32:09.000Z'
 categories: []
 keywords: []
+tags: ["subversion", "version-control"]
 slug: "ec6e1a10-c931-4ebd-a6dd-24357e2f46bf"
 ---
 ファイル整理術のもう一個、svn編。これはドキュメント作成時なんかに役に立つはずです。

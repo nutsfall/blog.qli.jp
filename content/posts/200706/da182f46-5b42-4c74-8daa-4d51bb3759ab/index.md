@@ -4,6 +4,7 @@ description: ''
 date: '2007-06-29T22:10:41.000Z'
 categories: []
 keywords: []
+tags: ["kururi", "music"]
 slug: "da182f46-5b42-4c74-8daa-4d51bb3759ab"
 ---
 多分に漏れず、くるりの新盤。

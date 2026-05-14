@@ -4,6 +4,7 @@ description: ''
 date: '2009-06-27T20:15:19.000Z'
 categories: []
 keywords: []
+tags: ["naoto-intiraymi", "live-music", "kimaguren"]
 slug: "1f5b938e-28fe-4dc6-bfc6-5b1a1e9a0ed8"
 ---
 かつて、このブログでも紹介したことがあるんですが、ナオト・インティライミさんのライブに行ってきました。

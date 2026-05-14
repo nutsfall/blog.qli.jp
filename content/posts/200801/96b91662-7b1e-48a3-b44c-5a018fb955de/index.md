@@ -4,6 +4,7 @@ description: ""
 date: "2008-01-27T11:16:51.000Z"
 categories: []
 keywords: []
+tags: ["au", "mobile-phones"]
 slug: "96b91662-7b1e-48a3-b44c-5a018fb955de"
 ---
 

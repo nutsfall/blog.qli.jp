@@ -4,6 +4,7 @@ description: ''
 date: '2007-04-02T21:43:23.000Z'
 categories: []
 keywords: []
+tags: ["apple", "itunes", "drm"]
 slug: "3a8e36e9-9b58-4185-989e-67b68d62494b"
 ---
 Appleは、DRMフリーの楽曲をiTunesStoreで販売することを発表しました。最初に提供されるのは、EMIの楽曲です。あわせてビットレートも上げられます。  

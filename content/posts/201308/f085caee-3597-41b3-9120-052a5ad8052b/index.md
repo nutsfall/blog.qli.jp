@@ -4,6 +4,7 @@ description: ''
 date: '2013-08-08T21:00:50.000Z'
 categories: []
 keywords: []
+tags: ["blogging"]
 slug: "f085caee-3597-41b3-9120-052a5ad8052b"
 ---
 徳力さんの記事をうけて書いてみようということで、タイトルはわざとオリジナルと同じに

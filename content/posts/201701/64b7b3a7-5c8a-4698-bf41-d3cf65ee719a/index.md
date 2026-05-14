@@ -4,6 +4,7 @@ description: ''
 date: '2017-01-08T03:26:03.901Z'
 categories: []
 keywords: []
+tags: ["productivity", "omnifocus", "tools"]
 slug: "64b7b3a7-5c8a-4698-bf41-d3cf65ee719a"
 ---
 ![](1____8__WviQnSRXadQTulOBdHw.jpeg)

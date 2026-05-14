@@ -4,6 +4,7 @@ description: 嫌な暑さも落ち着いてきて、ヘッドフォンでお出�
 date: '2024-10-05T11:33:02.136Z'
 categories: []
 keywords: []
+tags: ["marshall", "headphones", "noise-cancelling"]
 slug: "f713adea-f9dc-4117-b4d0-c80e5ab71803"
 cover:
   image: "cover.jpg"

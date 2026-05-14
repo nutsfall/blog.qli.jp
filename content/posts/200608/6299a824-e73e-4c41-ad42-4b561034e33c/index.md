@@ -4,6 +4,7 @@ description: ""
 date: "2006-08-31T20:37:46.000Z"
 categories: []
 keywords: []
+tags: ["shopping", "tote-bag"]
 slug: "6299a824-e73e-4c41-ad42-4b561034e33c"
 ---
 

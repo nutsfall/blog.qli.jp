@@ -4,6 +4,7 @@ description: ''
 date: '2010-04-15T08:35:10.000Z'
 categories: []
 keywords: []
+tags: ["gtd", "productivity"]
 slug: "5af2935a-6467-4158-98f4-57aaf7bb9f6e"
 ---
 流れに流されて「なぜGTDをやっているのか」ということをふっと考えてみた。よく考えたら、もう2年くらいやっているんだよね。Twitterより長いくらいなのでもっとか。

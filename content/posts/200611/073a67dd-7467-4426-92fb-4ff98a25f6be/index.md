@@ -4,6 +4,7 @@ description: ''
 date: '2006-11-14T10:23:01.000Z'
 categories: []
 keywords: []
+tags: ["blogging", "tech-notes"]
 slug: "073a67dd-7467-4426-92fb-4ff98a25f6be"
 ---
 VOXからのクロスポストで”メインとして”と書いてたと思いますが、最近もう一つブログをあげました。

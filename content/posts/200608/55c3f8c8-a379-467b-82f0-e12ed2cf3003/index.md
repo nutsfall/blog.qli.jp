@@ -4,6 +4,7 @@ description: ''
 date: '2006-08-12T21:42:59.000Z'
 categories: []
 keywords: []
+tags: ["web-development", "gtd"]
 slug: "55c3f8c8-a379-467b-82f0-e12ed2cf3003"
 ---
 今日は朝から週次レビューの日・・・のはずが朝寝坊してしまいました。

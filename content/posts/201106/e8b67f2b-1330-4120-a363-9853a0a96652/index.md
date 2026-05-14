@@ -4,6 +4,7 @@ description: ''
 date: '2011-06-30T21:51:20.000Z'
 categories: []
 keywords: []
+tags: ["google-plus", "android"]
 slug: "e8b67f2b-1330-4120-a363-9853a0a96652"
 ---
 Google+がやってきました。ずっと噂になっていた、Googleのソーシャルサービスです。今日、招待状をもらえたので、触っていました。

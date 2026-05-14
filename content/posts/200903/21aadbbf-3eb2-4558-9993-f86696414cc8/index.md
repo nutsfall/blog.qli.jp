@@ -4,6 +4,7 @@ description: ''
 date: '2009-03-13T22:25:46.000Z'
 categories: []
 keywords: []
+tags: ["itunes", "apple"]
 slug: "21aadbbf-3eb2-4558-9993-f86696414cc8"
 ---
 iTunes 8.1から搭載されたiTunes DJ。パーティシャッフルから名前が変わっただけと思われやすいですが、実はそんなことはありませんでした。

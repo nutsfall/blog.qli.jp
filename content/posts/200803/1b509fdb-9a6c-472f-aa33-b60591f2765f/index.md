@@ -4,6 +4,7 @@ description: ''
 date: '2008-03-20T09:30:32.000Z'
 categories: []
 keywords: []
+tags: ["airmac-extreme", "apple"]
 slug: "1b509fdb-9a6c-472f-aa33-b60591f2765f"
 ---
 個人的に追い続けているこの問題についてです。

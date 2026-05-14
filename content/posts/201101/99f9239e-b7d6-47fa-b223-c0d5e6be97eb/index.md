@@ -4,6 +4,7 @@ description: ''
 date: '2011-01-15T15:25:26.000Z'
 categories: []
 keywords: []
+tags: ["the-social-network", "film-review"]
 slug: "99f9239e-b7d6-47fa-b223-c0d5e6be97eb"
 ---
 公開初日のレイトショー第２弾というわけで。

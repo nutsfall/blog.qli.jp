@@ -4,6 +4,7 @@ description: ''
 date: '2008-03-05T00:00:26.000Z'
 categories: []
 keywords: []
+tags: ["friendfeed", "social-media"]
 slug: "c3d2b346-c14a-4348-9b6c-3677e6605036"
 ---
 前回紹介したimintaと同種のサービスとして、Friendfeedというものがあります。Google出身者によって作られたサービスだそうで、クローズドベータにてサービスされていたのですが、つい先日オープン化されました。

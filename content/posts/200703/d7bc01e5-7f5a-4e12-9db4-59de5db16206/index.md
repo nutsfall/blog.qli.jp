@@ -4,6 +4,7 @@ description: ''
 date: '2007-03-15T20:32:33.000Z'
 categories: []
 keywords: []
+tags: ["feedburner", "typepad", "vox"]
 slug: "d7bc01e5-7f5a-4e12-9db4-59de5db16206"
 ---
 以前ご紹介していたVOXのクロスポスト記事による文字化けが解決したようです。

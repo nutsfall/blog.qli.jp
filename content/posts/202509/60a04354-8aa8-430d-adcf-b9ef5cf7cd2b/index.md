@@ -1,6 +1,7 @@
 ---
 title: "the brilliant greenの話"
 date: "2025-09-27T03:02:01"
+tags: ["the-brilliant-green", "music", "vinyl"]
 slug: "60a04354-8aa8-430d-adcf-b9ef5cf7cd2b"
 source: "medium"
 original_url: "https://medium.com/@hiro/the-brilliant-green%E3%81%AE%E8%A9%B1-aab98850574f?source=rss-21bfda6f823e------2"

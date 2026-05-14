@@ -4,6 +4,7 @@ description: ""
 date: "2007-09-06T03:23:03.000Z"
 categories: []
 keywords: []
+tags: ["ipod", "apple", "iphone"]
 slug: "f379d4ca-b72a-40bd-8d4d-f9ff9717c1ad"
 ---
 ![](0__vK9BWfkZawBjwquO.jpg)

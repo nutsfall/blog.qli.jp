@@ -4,6 +4,7 @@ description: ''
 date: '2008-03-26T12:01:16.000Z'
 categories: []
 keywords: []
+tags: ["internet-explorer", "web-browsers"]
 slug: "33e23610-9413-40e7-b46c-0c7ddfd897b8"
 ---
 かの諸悪の根源、InternetExplorer6(およびそれ以前)を使うのをやめてくださいというキャンペーン。

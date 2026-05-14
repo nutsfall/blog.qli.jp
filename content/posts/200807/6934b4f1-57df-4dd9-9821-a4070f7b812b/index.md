@@ -4,6 +4,7 @@ description: ''
 date: '2008-07-24T21:35:32.000Z'
 categories: []
 keywords: []
+tags: ["macbook-air", "mobileme"]
 slug: "6934b4f1-57df-4dd9-9821-a4070f7b812b"
 ---
 MacBook Airを買って、約4ヶ月。性能には問題は感じていないのですが、問題点がひとつありました。それはCPUのシングルコア化です。

@@ -4,6 +4,7 @@ description: ''
 date: '2007-03-20T12:31:09.000Z'
 categories: []
 keywords: []
+tags: ["mr-children", "magazine"]
 slug: "2823efae-af73-414f-a5c0-e1790096cc21"
 ---
 別カド読み終わりましたよ。  

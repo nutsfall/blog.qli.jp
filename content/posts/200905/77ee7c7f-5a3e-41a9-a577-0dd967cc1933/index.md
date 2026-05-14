@@ -4,6 +4,7 @@ description: ''
 date: '2009-05-02T12:55:19.000Z'
 categories: []
 keywords: []
+tags: ["macbook-air", "mamp"]
 slug: "77ee7c7f-5a3e-41a9-a577-0dd967cc1933"
 ---
 Macを新調しました。正しくはMacBook Airを新調しました。初代MacBook Airから２代目MacBook Airへの移行です。きっかけはささいなことなのですが、MAMPが動かなかったんですよ。

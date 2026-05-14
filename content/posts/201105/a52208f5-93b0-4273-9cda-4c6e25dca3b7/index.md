@@ -4,6 +4,7 @@ description: ''
 date: '2011-05-17T23:29:59.000Z'
 categories: []
 keywords: []
+tags: ["film", "itunes-store", "aoi-yu"]
 slug: "a52208f5-93b0-4273-9cda-4c6e25dca3b7"
 ---
 書き忘れていたのだけど、大阪に行く新幹線の中で、iPad 2使って映画を見てた。

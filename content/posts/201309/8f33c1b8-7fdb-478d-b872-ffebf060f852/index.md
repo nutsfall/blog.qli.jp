@@ -4,6 +4,7 @@ description: ''
 date: '2013-09-11T21:50:26.000Z'
 categories: []
 keywords: []
+tags: ["iphone-5s", "iphone-5c"]
 slug: "8f33c1b8-7fdb-478d-b872-ffebf060f852"
 ---
 新しいiPhoneが発表されました。カラフルな iPhone 5cと、iPhone 5s です。

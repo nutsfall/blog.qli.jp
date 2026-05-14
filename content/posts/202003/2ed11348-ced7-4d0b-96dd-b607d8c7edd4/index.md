@@ -4,6 +4,7 @@ description: 2020年2月23日、ミクニワールドスタジアムで開催さ
 date: "2020-03-02T10:58:31.691Z"
 categories: []
 keywords: []
+tags: ["avispa-fukuoka", "j-league", "giravanz-kitakyushu"]
 slug: "2ed11348-ced7-4d0b-96dd-b607d8c7edd4"
 cover:
   image: "1__9kuIwzWm4NtLY0W781cf__g.png"

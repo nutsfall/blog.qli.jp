@@ -4,6 +4,7 @@ description: ''
 date: '2007-01-24T11:57:32.000Z'
 categories: []
 keywords: []
+tags: ["thunderbird", "mozilla"]
 slug: "5dffb81a-5d5c-4d95-b43b-9bee68f39a69"
 ---
 Tb 2 b2がリリースされました。あくまでもベータ版であり、テスト目的にリリースされているものですので、自己責任にて導入をお願いします。  

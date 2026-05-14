@@ -4,6 +4,7 @@ description: ""
 date: "2009-10-02T08:47:12.000Z"
 categories: []
 keywords: []
+tags: ["google-wave"]
 slug: "b1b93d10-2168-4ffd-9679-cd5b96dbdf30"
 ---
 

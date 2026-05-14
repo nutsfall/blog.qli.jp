@@ -4,6 +4,7 @@ description: ''
 date: '2008-05-28T09:46:18.000Z'
 categories: []
 keywords: []
+tags: ["google-app-engine", "google-io"]
 slug: "7d43b915-cf94-4ca5-9071-d861fbaa340c"
 ---
 サイボウズラボの秋元さんのブログに、Google App Engineの新展開について記述がありました。

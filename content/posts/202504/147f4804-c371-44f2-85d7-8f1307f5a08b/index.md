@@ -4,6 +4,7 @@ description: ''
 date: '2025-04-19T03:02:23.569Z'
 categories: []
 keywords: []
+tags: ["sakurazaka46", "apple-music", "spotify"]
 slug: "147f4804-c371-44f2-85d7-8f1307f5a08b"
 cover:
   image: "album-listening-cover.png"

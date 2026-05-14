@@ -4,6 +4,7 @@ description: ''
 date: '2016-08-01T09:58:38.000Z'
 categories: []
 keywords: []
+tags: ["ap-bank-fes", "reborn-art-festival"]
 slug: "d6851e16-1d7c-4f29-94b5-2f25cd9b32b1"
 ---
 ![](1__C2LmjTzto__tkl5NwVWdUow.jpeg)

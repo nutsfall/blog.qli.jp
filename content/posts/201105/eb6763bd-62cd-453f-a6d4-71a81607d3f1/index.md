@@ -4,6 +4,7 @@ description: ''
 date: '2011-05-22T21:24:42.000Z'
 categories: []
 keywords: []
+tags: ["chim-pom", "art-exhibition"]
 slug: "eb6763bd-62cd-453f-a6d4-71a81607d3f1"
 ---
 “REAL TIMES”にいってきました。

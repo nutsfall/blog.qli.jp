@@ -4,6 +4,7 @@ description: ''
 date: '2007-01-05T02:10:01.000Z'
 categories: []
 keywords: []
+tags: ["last-fm", "scrobbling"]
 slug: "fdd1281b-30a8-4cd3-a90b-8c6783eb26df"
 ---
 うーん、今頃になって気づいてしまった…。

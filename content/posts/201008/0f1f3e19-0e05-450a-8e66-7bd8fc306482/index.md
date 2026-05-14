@@ -4,6 +4,7 @@ description: ""
 date: "2010-08-04T20:37:09.000Z"
 categories: []
 keywords: []
+tags: ["macbook-air", "imac", "apple"]
 slug: "0f1f3e19-0e05-450a-8e66-7bd8fc306482"
 ---
 

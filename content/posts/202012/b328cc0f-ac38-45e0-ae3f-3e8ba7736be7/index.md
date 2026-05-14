@@ -4,6 +4,7 @@ description: ''
 date: '2020-12-20T01:29:09.598Z'
 categories: []
 keywords: []
+tags: ["apple", "year-in-review"]
 slug: "b328cc0f-ac38-45e0-ae3f-3e8ba7736be7"
 ---
 今年買ってよかったもの4つをざざっと紹介していきます。全部Apple製品なのは意外でした。

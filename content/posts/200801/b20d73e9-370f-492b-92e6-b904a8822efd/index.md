@@ -4,6 +4,7 @@ description: ''
 date: '2008-01-06T13:45:25.000Z'
 categories: []
 keywords: []
+tags: ["gtd", "ubiquitous-capture", "productivity"]
 slug: "b20d73e9-370f-492b-92e6-b904a8822efd"
 ---
 意外と知られていないようなのですが、ユビキタスキャプチャというのがあります。このブログでも何回か触れているので知っている方はいると思いますが。

@@ -4,6 +4,7 @@ description: ''
 date: '2009-02-27T00:08:13.000Z'
 categories: []
 keywords: []
+tags: ["typepad", "blogging"]
 slug: "37a6147d-31ff-42a5-975f-930f9416dfc7"
 ---
 誰かの真似をしたというわけではないのですが、前から書かなきゃと思っていたプロフィールを書きました。正確には整備しましたってところですね。

@@ -4,6 +4,7 @@ description: ''
 date: '2006-11-16T23:12:20.000Z'
 categories: []
 keywords: []
+tags: ["mr-children"]
 slug: "2667bbf6-f032-4a99-b8e8-e277583281fc"
 ---
 Mr.Childrenの珠玉曲が、毎週続いてきたOorong-shaリリースラッ…

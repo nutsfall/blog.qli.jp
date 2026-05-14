@@ -4,6 +4,7 @@ description: ''
 date: '2008-01-20T01:35:47.000Z'
 categories: []
 keywords: []
+tags: ["elephant-kashimashi", "music"]
 slug: "53942263-f408-48ca-9ef3-b03ea054903a"
 ---
 シングルが好評らしいエレファントカシマシのアルバムが、今月末発売になるので、現在の最新アルバムを購入して聴いてみた。本当はiTunesで買おうと思ったのだけど、すごく良さそうだったのでCDにした。

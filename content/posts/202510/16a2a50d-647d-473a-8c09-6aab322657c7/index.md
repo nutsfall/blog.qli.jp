@@ -1,6 +1,7 @@
 ---
 title: "Things.appのINBOXを整理する"
 date: "2025-10-04T03:01:53"
+tags: ["things-app", "task-management", "apple-intelligence"]
 slug: "16a2a50d-647d-473a-8c09-6aab322657c7"
 source: "medium"
 original_url: "https://medium.com/@hiro/things-app%E3%81%AEinbox%E3%82%92%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B-2e831224db25?source=rss-21bfda6f823e------2"

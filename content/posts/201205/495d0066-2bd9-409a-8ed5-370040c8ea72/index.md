@@ -4,6 +4,7 @@ description: ''
 date: '2012-05-06T11:35:10.000Z'
 categories: []
 keywords: []
+tags: ["mr-children", "music"]
 slug: "495d0066-2bd9-409a-8ed5-370040c8ea72"
 ---
 Mr.Childrenが3年半ぶりにリリースしたシングル「祈り -涙の軌道 / End of the day / pieces」。祈り、piecesは映画の主題歌でもあるし、End of the dayはいろんなところでリード曲扱いされているみたいなので、耳にしたことがある人もいるかもしれません。  

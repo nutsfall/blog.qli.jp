@@ -4,6 +4,7 @@ description: Palm Phoneをちょっと使って旅行してきたので、簡単
 date: '2019-04-26T23:32:33.086Z'
 categories: []
 keywords: []
+tags: ["palm-phone", "android"]
 slug: "9d8f9cdd-a5d4-4cf7-ad9c-4b44d668fdf3"
 ---
 Palm Phoneをちょっと使って旅行してきたので、簡単なレビューを。

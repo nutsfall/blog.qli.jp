@@ -4,6 +4,7 @@ description: ''
 date: '2008-04-26T00:00:40.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "apple", "wwdc"]
 slug: "84000eb3-8236-4f9b-b327-c266167732e9"
 ---
 mixxをのぞいていたらこんな記事がありました。

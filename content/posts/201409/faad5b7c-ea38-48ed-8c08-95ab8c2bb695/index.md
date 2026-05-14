@@ -4,6 +4,7 @@ description: ''
 date: '2014-09-19T01:58:47.000Z'
 categories: []
 keywords: []
+tags: ["iphone6", "apple-store"]
 slug: "faad5b7c-ea38-48ed-8c08-95ab8c2bb695"
 ---
 Apple Store Onlineの方ではなく、Apple Storeの店頭受け取り予約を9月12日に行い、いま受け取りに行ってきました。  

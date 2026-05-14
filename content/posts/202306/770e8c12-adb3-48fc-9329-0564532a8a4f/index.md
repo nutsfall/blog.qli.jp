@@ -4,6 +4,7 @@ description: ''
 date: '2023-06-10T03:01:54.002Z'
 categories: []
 keywords: []
+tags: ["productivity", "gtd"]
 slug: "770e8c12-adb3-48fc-9329-0564532a8a4f"
 ---
 ![](1__4__LV2ir3GQ__gh__I0V0EqKA.jpeg)

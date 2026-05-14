@@ -4,6 +4,7 @@ description: ''
 date: '2017-05-02T02:11:22.372Z'
 categories: []
 keywords: []
+tags: ["specialty-coffee"]
 slug: "5c848e14-f9d1-4d3f-94a7-5f4d128fa59f"
 ---
 スペシャリティコーヒーってまさにそういう志向のもとに生まれたものじゃなかったっけ？

@@ -4,6 +4,7 @@ description: ''
 date: '2024-04-13T03:02:05.273Z'
 categories: []
 keywords: []
+tags: ["oppenheimer", "film", "technology-ethics"]
 slug: "55267e9f-4e29-49a9-bd86-622ee253cf9c"
 ---
 桜が咲いたり散ったり、もうすっかり春ですね。今年はもう仙台でも桜が咲いたとか。さすがに早すぎませんか。

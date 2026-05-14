@@ -4,6 +4,7 @@ description: ''
 date: '2016-02-24T14:18:00.000Z'
 categories: []
 keywords: []
+tags: ["product-management", "agile"]
 slug: "fd3e54cd-d9d8-4910-b2fa-7264536a09c0"
 ---
 今年もデブサミに行ってきました。バレンタインデー開催を避けた先週と同様、いい天気のデブサミでした。

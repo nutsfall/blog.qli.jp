@@ -4,6 +4,7 @@ description: 今年も6月がきて、久しぶりの寝不足の朝を経験し
 date: '2025-06-14T03:01:40.332Z'
 categories: []
 keywords: []
+tags: ["wwdc", "apple", "sakurazaka46"]
 slug: "d98ef98a-ad6b-4a8e-a226-1fd338502eef"
 cover:
   image: "1__gK8nwoohOAbSZuJyMcyIdA.jpeg"

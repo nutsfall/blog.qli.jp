@@ -4,6 +4,7 @@ description: ''
 date: '2008-12-21T14:55:55.000Z'
 categories: []
 keywords: []
+tags: ["omnifocus", "gtd"]
 slug: "1619a93e-2492-44b2-8ec4-00d402329a28"
 ---
 他の人はどうしているんだろう？と問いの意味も込めて、軽くエントリーを。

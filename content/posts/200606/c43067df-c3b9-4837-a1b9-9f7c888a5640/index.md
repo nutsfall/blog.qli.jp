@@ -4,6 +4,7 @@ description: ""
 date: "2006-06-28T07:51:00.000Z"
 categories: []
 keywords: []
+tags: ["web2.0", "b2b"]
 slug: "c43067df-c3b9-4837-a1b9-9f7c888a5640"
 ---
 

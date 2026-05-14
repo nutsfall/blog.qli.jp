@@ -4,6 +4,7 @@ description: ''
 date: '2008-04-26T22:07:41.000Z'
 categories: []
 keywords: []
+tags: ["au", "mobile-phones"]
 slug: "8da18241-d138-4144-880d-3bd1db953dec"
 ---
 渋谷に行ったついでにW61SAとW61Sを触ってきました。といっても、モックですけど。

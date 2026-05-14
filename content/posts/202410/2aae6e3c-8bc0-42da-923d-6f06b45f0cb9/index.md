@@ -4,6 +4,7 @@ description: ''
 date: '2024-10-19T03:02:05.661Z'
 categories: []
 keywords: []
+tags: ["kyoto-ongaku-hakurankai", "quruli", "music-festival"]
 slug: "2aae6e3c-8bc0-42da-923d-6f06b45f0cb9"
 ---
 秋の3連休は行楽シーズンということもあり、お出かけした方も多いのではないでしょうか。そんな中、自分もDay1となった12日にはいつもより少し早起きをして、朝ごはんを食べることもなく電車に乗りました。目指したのは京都。そう、京都音楽博覧会2024に参加するためです。

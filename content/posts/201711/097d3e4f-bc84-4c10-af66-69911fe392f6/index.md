@@ -6,6 +6,7 @@ description:
 date: "2017-11-03T00:55:12.250Z"
 categories: []
 keywords: []
+tags: ["iphone", "iphone-x"]
 slug: "097d3e4f-bc84-4c10-af66-69911fe392f6"
 ---
 

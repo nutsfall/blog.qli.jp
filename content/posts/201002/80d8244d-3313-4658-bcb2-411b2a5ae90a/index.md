@@ -4,6 +4,7 @@ description: ''
 date: '2010-02-28T15:57:37.000Z'
 categories: []
 keywords: []
+tags: ["love-psychedelico", "abe-mao", "music"]
 slug: "80d8244d-3313-4658-bcb2-411b2a5ae90a"
 ---
 買ったCDのレビューとか長いこと書いていなかったようなので、まとめて。

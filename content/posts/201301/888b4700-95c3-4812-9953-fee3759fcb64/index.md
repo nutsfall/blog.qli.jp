@@ -4,6 +4,7 @@ description: ''
 date: '2013-01-26T23:53:56.000Z'
 categories: []
 keywords: []
+tags: ["strawberry-night", "film", "honda-tetsuya"]
 slug: "888b4700-95c3-4812-9953-fee3759fcb64"
 ---
 映画ストロベリーナイトを見てきた。この映画の原作はストロベリーナイトを発端とする姫川玲子シリーズの「インビジブルレイン」という名前で、それは劇中でも紹介されている。

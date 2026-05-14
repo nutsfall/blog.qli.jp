@@ -4,6 +4,7 @@ description: ''
 date: '2010-04-18T21:45:49.000Z'
 categories: []
 keywords: []
+tags: ["android", "au"]
 slug: "03df9d23-8a55-4ff6-aa6a-c71d8d626d8b"
 ---
 3月30日にauから発表された、Android端末IS01([IS Series](http://au-is.jp/))。

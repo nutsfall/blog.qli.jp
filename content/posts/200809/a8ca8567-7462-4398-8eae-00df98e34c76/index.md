@@ -4,6 +4,7 @@ description: ''
 date: '2008-09-11T12:50:30.000Z'
 categories: []
 keywords: []
+tags: ["itunes", "ipod", "apple"]
 slug: "a8ca8567-7462-4398-8eae-00df98e34c76"
 ---
 Appleの秋の新商品発表会。発表されたのはiPodファミリーのアップデート、そしてiTunesでした。

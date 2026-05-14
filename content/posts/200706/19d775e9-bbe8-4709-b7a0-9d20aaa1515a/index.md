@@ -4,6 +4,7 @@ description: ''
 date: '2007-06-06T08:46:09.000Z'
 categories: []
 keywords: []
+tags: ["atok", "mac"]
 slug: "19d775e9-bbe8-4709-b7a0-9d20aaa1515a"
 ---
 一太郎は使ったことがありませんが、生粋のATOKユーザです。正確にはMS-IMEもことえりも好きではない、といったレベルですが。  

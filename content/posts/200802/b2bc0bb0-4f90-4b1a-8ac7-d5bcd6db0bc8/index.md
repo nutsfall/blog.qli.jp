@@ -4,6 +4,7 @@ description: ""
 date: "2008-02-19T21:02:47.000Z"
 categories: []
 keywords: []
+tags: ["sony-mylo", "wifi"]
 slug: "b2bc0bb0-4f90-4b1a-8ac7-d5bcd6db0bc8"
 ---
 

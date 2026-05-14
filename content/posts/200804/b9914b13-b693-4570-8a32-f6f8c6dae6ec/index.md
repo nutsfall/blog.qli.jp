@@ -4,6 +4,7 @@ description: ''
 date: '2008-04-10T06:21:15.000Z'
 categories: []
 keywords: []
+tags: ["yaida-hitomi", "music"]
 slug: "b9914b13-b693-4570-8a32-f6f8c6dae6ec"
 ---
 次は、矢井田瞳さんのアルバム”Colorhythm”です。タイトルは造語みたいですが。

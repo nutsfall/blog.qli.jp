@@ -4,6 +4,7 @@ description: ''
 date: '2006-11-11T13:46:17.000Z'
 categories: []
 keywords: []
+tags: ["apple", "advertising"]
 slug: "4181f39c-892f-41fa-84e8-9233c5634d71"
 ---
 Jobsさんの基調講演とかのビデオをよく見ている人ならおなじみの、パソコンとMacを擬人化した[Mac乗り換えキャンペーン広告の日本語版](http://www.apple.com/jp/getamac/ads/)がありました。英語で内容がさっぱり分からなかったという人も今度は日本語で楽しめますので、一度見てみましょう。なぜかMacがカジュアルな感じなんですよね。

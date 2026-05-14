@@ -4,6 +4,7 @@ description: ''
 date: '2009-06-18T05:14:26.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "ios"]
 slug: "bc4ced55-9caf-485e-8b9f-28f5c0062280"
 ---
 晴れて今日リリースされたiPhone OS 3.0ですが、軽く触ってみたのでレポートを。主な機能はAppleからも幾度となく説明されているので、日本環境特有の状況をレポートできればと。

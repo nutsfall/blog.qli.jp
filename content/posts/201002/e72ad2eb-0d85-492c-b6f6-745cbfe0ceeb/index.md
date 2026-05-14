@@ -4,6 +4,7 @@ description: ''
 date: '2010-02-18T22:48:17.000Z'
 categories: []
 keywords: []
+tags: ["ustream", "clammbon", "live-streaming"]
 slug: "e72ad2eb-0d85-492c-b6f6-745cbfe0ceeb"
 ---
 クラムボン、ミトさんがUstreamに登場していた。

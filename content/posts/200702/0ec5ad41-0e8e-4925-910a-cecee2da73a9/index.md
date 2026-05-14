@@ -4,6 +4,7 @@ description: ''
 date: '2007-02-05T23:22:42.000Z'
 categories: []
 keywords: []
+tags: ["sony-mylo", "skype"]
 slug: "0ec5ad41-0e8e-4925-910a-cecee2da73a9"
 ---
 myloが届きました。  

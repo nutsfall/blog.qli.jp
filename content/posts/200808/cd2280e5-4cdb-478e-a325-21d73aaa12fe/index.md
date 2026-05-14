@@ -4,6 +4,7 @@ description: ''
 date: '2008-08-18T23:54:14.000Z'
 categories: []
 keywords: []
+tags: ["iddy", "profile-services"]
 slug: "cd2280e5-4cdb-478e-a325-21d73aaa12fe"
 ---
 プロフィールサービスと言われるものというのは、自分を紹介するためのひとつの指標となったりする便利なサービスだったりします。Twitterとかで見ているとiddyを使っている人か、about meを使っている人に大別される気がしますが、さてどちらが多いんでしょうか。

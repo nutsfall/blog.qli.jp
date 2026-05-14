@@ -4,6 +4,7 @@ description: ''
 date: '2014-09-08T13:21:28.000Z'
 categories: []
 keywords: []
+tags: ["amazon", "comply"]
 slug: "762aa97e-1138-4308-95d0-e967b8448a32"
 ---
 普段イヤホンは Atomic Floyd SuperDarts Titanium + Remoteを使っています。このイヤホン、イヤーチップとして最も標準的なシリコン製のものとは別にフォームチップがついています。

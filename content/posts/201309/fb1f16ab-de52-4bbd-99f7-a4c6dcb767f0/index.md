@@ -4,6 +4,7 @@ description: ''
 date: '2013-09-07T09:20:56.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "ntt-docomo"]
 slug: "fb1f16ab-de52-4bbd-99f7-a4c6dcb767f0"
 ---
 9月6日金曜日朝、報道各社がntt docomoがiPhoneを取り扱うのでは、という報道がありました。またかと思われた人もいるかもしれません。

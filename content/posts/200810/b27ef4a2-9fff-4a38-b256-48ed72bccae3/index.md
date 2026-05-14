@@ -4,6 +4,7 @@ description: ''
 date: '2008-10-09T16:37:30.000Z'
 categories: []
 keywords: []
+tags: ["willcom", "wi-fi", "mobile"]
 slug: "b27ef4a2-9fff-4a38-b256-48ed72bccae3"
 ---
 willcomがこんなものを発表していました。

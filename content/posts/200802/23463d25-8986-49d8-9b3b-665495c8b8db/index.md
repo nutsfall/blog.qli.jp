@@ -4,6 +4,7 @@ description: ""
 date: "2008-02-11T10:51:45.000Z"
 categories: []
 keywords: []
+tags: ["ipod-touch", "apple-store", "hardware"]
 slug: "23463d25-8986-49d8-9b3b-665495c8b8db"
 ---
 

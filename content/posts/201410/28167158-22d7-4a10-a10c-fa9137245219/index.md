@@ -4,6 +4,7 @@ description: ''
 date: '2014-10-19T01:31:58.000Z'
 categories: []
 keywords: []
+tags: ["product-development", "agile"]
 slug: "28167158-22d7-4a10-a10c-fa9137245219"
 ---
 いまWEBの業界（業界とかなく、製品開発とはそういうものなのかもしれないけど）で、大事だよねというコンセンサスがとれているもののひとつに

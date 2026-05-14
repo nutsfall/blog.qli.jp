@@ -4,6 +4,7 @@ description: ''
 date: '2015-12-23T09:27:00.000Z'
 categories: []
 keywords: []
+tags: ["music", "apple-music", "mr-children"]
 slug: "de81aaee-f10a-4a1a-9cc6-f0e9ae9c19e7"
 ---
 今年の音楽は、アルバムでは名盤が多く、ステージでも素晴らしいものをたくさん見たなという感じ。

@@ -4,6 +4,7 @@ description: ''
 date: '2012-01-07T15:35:53.000Z'
 categories: []
 keywords: []
+tags: ["marshall", "headphones"]
 slug: "06986cee-b004-49e8-ba50-752b4939053f"
 ---
 マーシャルヘッドフォンを買いました。

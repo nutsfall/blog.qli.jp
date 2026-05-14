@@ -4,6 +4,7 @@ description: ''
 date: '2012-02-07T20:49:23.000Z'
 categories: []
 keywords: []
+tags: ["wimax", "mobile-router"]
 slug: "cbec9847-6c00-4250-a35b-10cb28483aa3"
 ---
 2月3日にTwitterのタイムラインを見てたら、WM3600Rが発売されたという情報があったので、さっそく買いました。ヨドバシ.comの店頭受け取り予約便利ですね。

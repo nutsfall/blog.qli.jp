@@ -4,6 +4,7 @@ description: ''
 date: '2006-12-12T13:51:48.000Z'
 categories: []
 keywords: []
+tags: ["sony-mylo", "skype"]
 slug: "c3ba0fe1-5e3f-4d82-9549-030d32c10771"
 ---
 注文しました。  

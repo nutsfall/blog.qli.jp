@@ -4,6 +4,7 @@ description: ""
 date: "2006-09-14T20:14:17.000Z"
 categories: []
 keywords: []
+tags: ["ipod-nano", "apple", "itunes"]
 slug: "7a55d177-69bc-41c8-bfd4-16f08956eff7"
 ---
 

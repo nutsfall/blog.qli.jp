@@ -4,6 +4,7 @@ description: ""
 date: "2008-03-08T01:33:49.000Z"
 categories: []
 keywords: []
+tags: ["iphone", "apple", "wwdc"]
 slug: "4ac131d8-a432-4874-b3af-cb43519f88e3"
 ---
 

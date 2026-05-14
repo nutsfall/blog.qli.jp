@@ -4,6 +4,7 @@ description: ''
 date: '2006-09-15T11:18:19.000Z'
 categories: []
 keywords: []
+tags: ["gtd", "productivity"]
 slug: "ac9e68b0-f188-44d6-ac91-004654499fce"
 ---
 ファイル整理術というものがある。PC上に大量にあるファイルをいかに管理するかで効率は変わってくるはずだ。  

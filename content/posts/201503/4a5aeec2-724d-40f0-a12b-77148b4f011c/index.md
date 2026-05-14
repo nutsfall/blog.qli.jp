@@ -4,6 +4,7 @@ description: 昨年9月に、クラウドファンディングを経てみなと
 date: '2015-03-17T14:38:04.478Z'
 categories: []
 keywords: []
+tags: ["coffee", "documentary"]
 slug: "4a5aeec2-724d-40f0-a12b-77148b4f011c"
 ---
 昨年9月に、クラウドファンディングを経てみなとみらいで日本で1回だけ上映された”A Film about Coffee”という映画が、Vimeoで買えるようになっていました。昨年11月には買えるようになっていた様子。Vimeoってこんなプラットフォームやってたんですね。

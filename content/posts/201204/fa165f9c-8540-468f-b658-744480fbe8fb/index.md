@@ -4,6 +4,7 @@ description: ''
 date: '2012-04-18T18:27:17.000Z'
 categories: []
 keywords: []
+tags: ["emoji", "mobile-carriers"]
 slug: "fa165f9c-8540-468f-b658-744480fbe8fb"
 ---
 驚きのニュースリリースです。ケータイキャリアの絵文字の絵柄が共通化されることになりました。

@@ -4,6 +4,7 @@ description: ''
 date: '2007-08-30T23:50:20.000Z'
 categories: []
 keywords: []
+tags: ["salyu", "music"]
 slug: "3c9dfefd-349e-4d79-bd0d-2e0541bff4c9"
 ---
 突然ですが、\[音楽\]oorong-sha関連ニュースを。

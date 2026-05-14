@@ -4,6 +4,7 @@ description: ""
 date: "2006-11-12T23:58:34.000Z"
 categories: []
 keywords: []
+tags: ["windows-vista", "bootcamp", "parallels-desktop"]
 slug: "9af9c167-48a7-452e-9716-6fbecf6c37a2"
 ---
 

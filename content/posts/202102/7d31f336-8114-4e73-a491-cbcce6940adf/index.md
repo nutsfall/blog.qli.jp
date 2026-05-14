@@ -4,6 +4,7 @@ description: ZV-1の新しいファームウェアが発表され、USBストリ
 date: "2021-02-09T11:28:05.938Z"
 categories: []
 keywords: []
+tags: ["sony-zv-1", "vlog"]
 slug: "7d31f336-8114-4e73-a491-cbcce6940adf"
 ---
 

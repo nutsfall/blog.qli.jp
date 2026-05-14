@@ -4,6 +4,7 @@ description: ''
 date: '2006-10-27T11:10:09.000Z'
 categories: []
 keywords: []
+tags: ["gtd", "google-calendar", "hobonichi"]
 slug: "907ff823-1c80-4bd4-959e-08681bf42616"
 ---
 自分の勤めている会社でGoogle Calendarがみれなくなった。アクセス禁止サイトと認定されたらしい。最近の騒ぎが事の発端のような気がするけど、プライベートな予定を一切会社では確認不能になったのがつらい。

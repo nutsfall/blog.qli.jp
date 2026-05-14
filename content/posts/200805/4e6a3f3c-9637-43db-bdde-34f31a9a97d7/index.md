@@ -4,6 +4,7 @@ description: ''
 date: '2008-05-02T00:06:46.000Z'
 categories: []
 keywords: []
+tags: ["my-little-lover", "album-review"]
 slug: "4e6a3f3c-9637-43db-bdde-34f31a9a97d7"
 ---
 My Little Loverの13周年に発売された移籍後2枚目のアルバム。

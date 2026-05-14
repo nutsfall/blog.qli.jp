@@ -4,6 +4,7 @@ description: ''
 date: '2008-03-13T23:48:14.000Z'
 categories: []
 keywords: []
+tags: ["macbook-air", "apple"]
 slug: "e3618fcd-babe-48a0-8327-bb9428749527"
 ---
 MacBook Airを使い出して10日くらいが経過しました。今では仕事場にも持って行ったりしていて、いつも一緒です。今回は前回のポストでは書ききれなかったことを書いていきます。

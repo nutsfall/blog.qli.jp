@@ -4,6 +4,7 @@ description: ""
 date: "2007-02-08T22:49:09.000Z"
 categories: []
 keywords: []
+tags: ["stikkit", "gtd"]
 slug: "ce8e8536-26d0-44a7-99a5-7675e5e3fc35"
 ---
 ![]()

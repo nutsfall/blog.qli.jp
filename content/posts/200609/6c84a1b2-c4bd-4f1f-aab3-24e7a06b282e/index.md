@@ -4,6 +4,7 @@ description: ""
 date: "2006-09-24T23:28:12.000Z"
 categories: []
 keywords: []
+tags: ["tagging", "del.icio.us"]
 slug: "6c84a1b2-c4bd-4f1f-aab3-24e7a06b282e"
 ---
 

@@ -4,6 +4,7 @@ description: ""
 date: "2011-08-25T22:46:23.000Z"
 categories: []
 keywords: []
+tags: ["atomic-floyd", "headphones"]
 slug: "5947d2a9-d7aa-44e2-bcbd-82c4bc8d6413"
 ---
 

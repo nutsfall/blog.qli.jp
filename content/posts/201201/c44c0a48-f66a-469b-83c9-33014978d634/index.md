@@ -4,6 +4,7 @@ description: ''
 date: '2012-01-14T15:10:42.000Z'
 categories: []
 keywords: []
+tags: ["princess-toyotomi", "film", "apple-tv"]
 slug: "c44c0a48-f66a-469b-83c9-33014978d634"
 ---
 去年気になっていたのだけど見ていなかった映画にプリンセストヨトミがありまして。iTunes Storeで借りれるようになっていて、時間もあったので見てみることに。

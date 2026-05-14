@@ -4,6 +4,7 @@ description: ''
 date: '2014-04-29T09:15:36.000Z'
 categories: []
 keywords: []
+tags: ["book-review", "user-research"]
 slug: "490deef0-1b2f-4eac-9a9d-df6cc330dea2"
 ---
 「行動観察」の基本、という本を読みました。

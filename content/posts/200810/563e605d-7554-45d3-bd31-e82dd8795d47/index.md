@@ -4,6 +4,7 @@ description: ''
 date: '2008-10-17T08:47:14.000Z'
 categories: []
 keywords: []
+tags: ["my-little-lover", "music", "itunes"]
 slug: "563e605d-7554-45d3-bd31-e82dd8795d47"
 ---
 My Little Loverの活動が活発になっていますが、その中でとくに目につくのが”acoakko ツアー”。MLLによるアコースティックツアーなのですが、MLLの一般的なイメージといえば、やっぱり”白いカイト”、”Man & Woman”なので、意外に思われる方もいるかもしれません。

@@ -4,6 +4,7 @@ description: ''
 date: '2007-03-15T20:23:33.000Z'
 categories: []
 keywords: []
+tags: ["remioromen", "music"]
 slug: "f4104db8-c221-44f4-b43b-27a607c884f0"
 ---
 [レミオロメン キットカット](http://qli.vox.com/library/photo/6a00c225200a1d549d00cd971a64164cd5.html "レミオロメン キットカット")

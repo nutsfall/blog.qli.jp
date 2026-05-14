@@ -4,6 +4,7 @@ description: ''
 date: '2015-09-20T07:34:00.000Z'
 categories: []
 keywords: []
+tags: ["mr-children", "concert"]
 slug: "8dde594a-ccd2-487a-b3ce-29629fba7c6f"
 ---
 Mr.Children REFLECTIONのアルバム発売は6月4日。  

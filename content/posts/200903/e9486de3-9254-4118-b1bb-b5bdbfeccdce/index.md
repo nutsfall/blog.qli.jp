@@ -4,6 +4,7 @@ description: ''
 date: '2009-03-07T16:13:07.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "softbank"]
 slug: "e9486de3-9254-4118-b1bb-b5bdbfeccdce"
 ---
 Softbankが打ち出した、iPhone大放出セール、[iPhone for everybody](http://mb.softbank.jp/mb/iphone/everybody/)。いまいち料金が分かりにくかった。特に既存iPhoneユーザにとっては。まとめると、

@@ -4,6 +4,7 @@ description: ''
 date: '2014-05-28T21:42:57.000Z'
 categories: []
 keywords: []
+tags: ["music", "itunes"]
 slug: "d5dc114e-0ced-4c1b-b9de-557b4629519a"
 ---
 スガシカオさんのTweetがいろんなところで反響を呼んでいるようで。

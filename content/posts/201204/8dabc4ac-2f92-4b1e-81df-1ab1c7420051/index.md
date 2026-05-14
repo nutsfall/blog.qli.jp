@@ -4,6 +4,7 @@ description: ''
 date: '2012-04-18T18:09:32.000Z'
 categories: []
 keywords: []
+tags: ["agile", "ntt-data"]
 slug: "8dabc4ac-2f92-4b1e-81df-1ab1c7420051"
 ---
 NTTデータが自社員にたいしてアジャイル開発研修を行うと発表しました（[プレスリリース](http://www.nttdata.co.jp/release/2012/041700.html))。  

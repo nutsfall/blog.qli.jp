@@ -4,6 +4,7 @@ description: ''
 date: '2009-11-14T11:55:53.000Z'
 categories: []
 keywords: []
+tags: ["itunes", "home-sharing"]
 slug: "70008557-7b23-4aa7-938c-473a3e7a854f"
 ---
 iMacを買って以来、いろいろいじっているのですが、iMacの用途が普段使いというよりも、普段使いのMacBook Airでできないことをいろいろサポートしてもらうという感じでつかっているので、アプリとかをガツガツインストールしたりってことはありません。

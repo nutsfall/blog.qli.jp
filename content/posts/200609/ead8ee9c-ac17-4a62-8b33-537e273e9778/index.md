@@ -4,6 +4,7 @@ description: ""
 date: "2006-09-10T16:36:09.000Z"
 categories: []
 keywords: []
+tags: ["hobonichi", "stationery"]
 slug: "ead8ee9c-ac17-4a62-8b33-537e273e9778"
 ---
 

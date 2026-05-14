@@ -4,6 +4,7 @@ description: ''
 date: '2009-05-15T13:05:23.000Z'
 categories: []
 keywords: []
+tags: ["web-development", "apple-store-ginza"]
 slug: "ca717701-1829-435b-995b-b405c29f538d"
 ---
 昨日、Apple Store Ginzaで行われた[State of Web 2009](http://east08.webdirections.org/blog/progress/state-of-the-web-2009-tokyo/)に行ってきました。

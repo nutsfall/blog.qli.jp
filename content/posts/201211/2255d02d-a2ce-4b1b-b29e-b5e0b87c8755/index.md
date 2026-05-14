@@ -4,6 +4,7 @@ description: ''
 date: '2012-11-30T08:20:08.000Z'
 categories: []
 keywords: []
+tags: ["itunes", "apple"]
 slug: "2255d02d-a2ce-4b1b-b29e-b5e0b87c8755"
 ---
 遅れること一ヶ月。10月末リリースと最初にアナウンスされたiTunes 11が、11月最終日にやっと登場しました。

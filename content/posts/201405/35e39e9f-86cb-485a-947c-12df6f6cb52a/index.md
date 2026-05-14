@@ -4,6 +4,7 @@ description: ''
 date: '2014-05-03T11:28:25.000Z'
 categories: []
 keywords: []
+tags: ["itunes-match", "apple"]
 slug: "35e39e9f-86cb-485a-947c-12df6f6cb52a"
 ---
 iTunes Matchが5月2日に突然日本でサービス開始されました。

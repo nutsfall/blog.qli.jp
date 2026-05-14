@@ -4,6 +4,7 @@ description: ''
 date: '2010-01-16T03:22:55.000Z'
 categories: []
 keywords: []
+tags: ["bandage", "film"]
 slug: "a6413fef-4444-43a4-b579-f03d79410227"
 ---
 どうやら密閉された空間に長いこといると、最近かなり咳き込んでしまうのですが（汗

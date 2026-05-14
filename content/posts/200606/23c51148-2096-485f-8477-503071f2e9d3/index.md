@@ -4,6 +4,7 @@ description: ''
 date: '2006-06-22T19:25:29.000Z'
 categories: []
 keywords: []
+tags: ["stationery", "productivity"]
 slug: "23c51148-2096-485f-8477-503071f2e9d3"
 ---
 [あとで読む](http://www.flickr.com/photos/beyondmywish/171550186/),  

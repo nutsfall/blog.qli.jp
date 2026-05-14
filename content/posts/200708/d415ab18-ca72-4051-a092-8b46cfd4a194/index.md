@@ -4,6 +4,7 @@ description: ''
 date: '2007-08-15T23:08:17.000Z'
 categories: []
 keywords: []
+tags: ["skype", "mac"]
 slug: "d415ab18-ca72-4051-a092-8b46cfd4a194"
 ---
 windows版のskypeにはいろいろとトピックが続いていますが、Mac版も負けじとMacならではの進化を続けているようです。  

@@ -4,6 +4,7 @@ description: ''
 date: '2015-04-18T03:36:20.000Z'
 categories: []
 keywords: []
+tags: ["books", "user-experience"]
 slug: "58f06688-42ba-4792-8f82-46218865de5b"
 ---
 本を本屋で買いました。

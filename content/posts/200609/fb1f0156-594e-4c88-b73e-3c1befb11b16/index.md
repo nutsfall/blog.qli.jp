@@ -4,6 +4,7 @@ description: ''
 date: '2006-09-29T10:44:57.000Z'
 categories: []
 keywords: []
+tags: ["google-talk", "blackberry"]
 slug: "fb1f0156-594e-4c88-b73e-3c1befb11b16"
 ---
 Googleさん、誕生日迎えて急に元気になりましたね。  

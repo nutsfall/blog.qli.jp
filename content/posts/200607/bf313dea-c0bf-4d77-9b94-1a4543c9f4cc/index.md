@@ -4,6 +4,7 @@ description: ""
 date: "2006-07-18T15:57:00.000Z"
 categories: []
 keywords: []
+tags: ["remember-the-milk", "gtd"]
 slug: "bf313dea-c0bf-4d77-9b94-1a4543c9f4cc"
 ---
 

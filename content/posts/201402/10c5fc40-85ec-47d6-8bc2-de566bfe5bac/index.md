@@ -4,6 +4,7 @@ description: ''
 date: '2014-02-04T13:54:52.000Z'
 categories: []
 keywords: []
+tags: ["rebuild-fm", "podcast"]
 slug: "10c5fc40-85ec-47d6-8bc2-de566bfe5bac"
 ---
 Tweetした内容が思いの外RTされたりファボさられているようなので、少し捕捉しておく。このTweet。

@@ -4,6 +4,7 @@ description: ''
 date: '2008-12-18T00:04:50.000Z'
 categories: []
 keywords: []
+tags: ["things", "omnifocus", "task-management"]
 slug: "69e45051-f1b0-4c0a-85fe-318f31d75999"
 ---
 普段のやることリストにはOmniFocusをMac版・iPhone版を使っているのですが、先日思い切ってThingsだけで生活してみました。

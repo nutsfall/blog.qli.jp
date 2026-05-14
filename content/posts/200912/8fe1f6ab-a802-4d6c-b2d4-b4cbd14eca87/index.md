@@ -4,6 +4,7 @@ description: ''
 date: '2009-12-05T09:42:03.000Z'
 categories: []
 keywords: []
+tags: ["sleep-cycle", "iphone"]
 slug: "8fe1f6ab-a802-4d6c-b2d4-b4cbd14eca87"
 ---
 結構話題になって使ってみた人も多いんじゃないかと思うアプリがSleepCycle。時間をセットして寝ると、その時間付近で寝返りをうったときの振動を感知して、起こしてくれるアプリです。

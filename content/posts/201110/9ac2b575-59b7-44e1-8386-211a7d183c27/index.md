@@ -4,6 +4,7 @@ description: ''
 date: '2011-10-15T09:46:11.000Z'
 categories: []
 keywords: []
+tags: ["iphone-4s", "au"]
 slug: "9ac2b575-59b7-44e1-8386-211a7d183c27"
 ---
 iPhone4Sは、au iPhone 64GBを選びました。色は黒です。

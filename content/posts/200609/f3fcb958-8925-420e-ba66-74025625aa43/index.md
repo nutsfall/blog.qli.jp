@@ -4,6 +4,7 @@ description: ''
 date: '2006-09-26T19:57:30.000Z'
 categories: []
 keywords: []
+tags: ["google-maps"]
 slug: "f3fcb958-8925-420e-ba66-74025625aa43"
 ---
 Google Mapが新しくなりました。  

@@ -4,6 +4,7 @@ description: ''
 date: '2012-09-02T14:35:13.000Z'
 categories: []
 keywords: []
+tags: ["travelers-notebook", "stationery", "hobonichi"]
 slug: "759d6641-b054-468d-84cc-fbfe19be1f10"
 ---
 とうとう今年も発売になった来年のほぼ日手帳。ロフトに行くと、ほぼ日手帳以外にも来年の手帳が並んでいて、いよいよ年末に途中するんだなぁということを思い出させます。クリスマスにむけた年末商戦が始まる時期でもありますよね。  

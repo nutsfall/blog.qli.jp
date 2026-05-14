@@ -4,6 +4,7 @@ description: ''
 date: '2012-01-19T11:45:05.000Z'
 categories: []
 keywords: []
+tags: ["twitter", "rss", "information-management"]
 slug: "525557b0-17b6-4d12-b0f7-b6a7c54abc1f"
 ---
 津田さんの「情報の呼吸法」を読みました。

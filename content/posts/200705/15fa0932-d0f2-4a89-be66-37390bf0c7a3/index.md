@@ -4,6 +4,7 @@ description: ''
 date: '2007-05-27T21:57:14.000Z'
 categories: []
 keywords: []
+tags: ["twitter", "jaiku"]
 slug: "15fa0932-d0f2-4a89-be66-37390bf0c7a3"
 ---
 Jaikuの方で見ていたんですが、twitkuというTwitterとJaikuの両方が使えるサービスが日本語対応して、それからというものTwitterで”Jaiku”という単語が出たことがなかった自分の周りでもずいぶんJaikuユーザが増えたのかなって気がします。  

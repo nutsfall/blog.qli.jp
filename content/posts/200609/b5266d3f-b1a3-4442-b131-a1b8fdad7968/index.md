@@ -4,6 +4,7 @@ description: ""
 date: "2006-09-06T15:14:00.000Z"
 categories: []
 keywords: []
+tags: ["borland", "ide"]
 slug: "b5266d3f-b1a3-4442-b131-a1b8fdad7968"
 ---
 

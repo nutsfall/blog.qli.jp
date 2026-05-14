@@ -4,6 +4,7 @@ description: ''
 date: '2012-01-18T21:16:37.000Z'
 categories: []
 keywords: []
+tags: ["xperia", "android", "sony-ericsson"]
 slug: "e7a31bfd-ff90-43fe-aaf7-ab14ae488b14"
 ---
 Xperiaのブロガーミーティングがあるというので参加してきました。場所は都内某所、ベルサール半蔵門のワンフロアでした。

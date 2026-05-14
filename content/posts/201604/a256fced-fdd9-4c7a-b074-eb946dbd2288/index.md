@@ -4,6 +4,7 @@ description: ''
 date: '2016-04-25T10:31:00.000Z'
 categories: []
 keywords: []
+tags: ["todoist", "omnifocus", "task-management"]
 slug: "a256fced-fdd9-4c7a-b074-eb946dbd2288"
 ---
 駄文だけど、書いておく。

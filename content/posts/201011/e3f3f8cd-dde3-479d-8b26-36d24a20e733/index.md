@@ -4,6 +4,7 @@ description: ''
 date: '2010-11-30T21:45:00.000Z'
 categories: []
 keywords: []
+tags: ["bit.ly", "url-shortener", "twitter"]
 slug: "e3f3f8cd-dde3-479d-8b26-36d24a20e733"
 ---
 ここ数日、たまに以下のようなURLを含んだtweetをしています。

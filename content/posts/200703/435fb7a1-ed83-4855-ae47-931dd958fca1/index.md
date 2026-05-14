@@ -4,6 +4,7 @@ description: ''
 date: '2007-03-15T11:15:43.000Z'
 categories: []
 keywords: []
+tags: ["google-talk", "google"]
 slug: "435fb7a1-ed83-4855-ae47-931dd958fca1"
 ---
 Google TalkのGadgetが発表されました。Googleパーソナライズホームページはもちろん、WEBページ上にも設置することができるそうです。Google Talkメインの人はこれでもうmeeboとかは必要なくなったりするのでは？

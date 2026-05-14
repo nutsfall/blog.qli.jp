@@ -4,6 +4,7 @@ description: ""
 date: "2006-07-23T23:33:44.000Z"
 categories: []
 keywords: []
+tags: ["macos", "development-environment", "coteditor"]
 slug: "60ccbb23-d802-4f83-a3ec-c5fb1154a525"
 ---
 

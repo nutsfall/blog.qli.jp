@@ -4,6 +4,7 @@ description: ''
 date: '2007-02-10T16:41:20.000Z'
 categories: []
 keywords: []
+tags: ["mixi", "web2.0"]
 slug: "380e8e9f-4c4a-433d-8159-926fb32cf085"
 ---
 最近はゲームのおかげでWindowsを立ち上げる時間が長めになってたりしてます。で、(たぶん)Vistaからの初書き込み。ブラウザはFxなんですが。

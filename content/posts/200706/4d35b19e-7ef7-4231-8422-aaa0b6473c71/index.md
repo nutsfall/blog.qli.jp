@@ -4,6 +4,7 @@ description: ''
 date: '2007-06-30T21:22:02.000Z'
 categories: []
 keywords: []
+tags: ["sidecar-ni-inu", "film"]
 slug: "4d35b19e-7ef7-4231-8422-aaa0b6473c71"
 ---
 「[サイドカーに犬](http://sidecar-movie.jp/)」見てきました。

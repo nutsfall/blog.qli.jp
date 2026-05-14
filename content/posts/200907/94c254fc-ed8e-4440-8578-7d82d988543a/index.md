@@ -4,6 +4,7 @@ description: ''
 date: '2009-07-14T08:01:37.000Z'
 categories: []
 keywords: []
+tags: ["macos", "iphone"]
 slug: "94c254fc-ed8e-4440-8578-7d82d988543a"
 ---
 ここ一ヶ月の統計によるとこのブログにアクセスしてくれている約40%がOS Xユーザです。もっと詳細に書けば、そのうちの85%、つまり全体の30%強のユーザがIntelでLeopardを使っているユーザです。

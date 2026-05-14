@@ -4,6 +4,7 @@ description: ''
 date: '2007-04-12T21:45:42.000Z'
 categories: []
 keywords: []
+tags: ["windows-live", "windows-mobile"]
 slug: "d5a42eeb-f2ce-43c2-8437-feb9c3de7695"
 ---
 やっとWindows Live for Windows Mobileのインストールが終わりました。PHSで2MBものファイルをダウンロードさせるのってなんかすごいですね。

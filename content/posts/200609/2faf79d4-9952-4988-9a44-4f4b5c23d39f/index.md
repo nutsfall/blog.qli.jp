@@ -4,6 +4,7 @@ description: ""
 date: "2006-09-13T19:36:00.000Z"
 categories: []
 keywords: []
+tags: ["skype", "video-chat"]
 slug: "2faf79d4-9952-4988-9a44-4f4b5c23d39f"
 ---
 

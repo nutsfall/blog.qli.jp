@@ -4,6 +4,7 @@ description: ''
 date: '2007-04-15T23:47:46.000Z'
 categories: []
 keywords: []
+tags: ["airmac-extreme", "networking"]
 slug: "a4e2e910-7242-448a-b075-fbd9a3106da7"
 ---
 登場したタイミングではスルーしちゃったんですけどね。

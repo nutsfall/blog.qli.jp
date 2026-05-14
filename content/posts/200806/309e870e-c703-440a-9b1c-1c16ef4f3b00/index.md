@@ -4,6 +4,7 @@ description: ''
 date: '2008-06-07T15:55:41.000Z'
 categories: []
 keywords: []
+tags: ["philharmonique", "music"]
 slug: "309e870e-c703-440a-9b1c-1c16ef4f3b00"
 ---
 PhilHarmoUniQueの記念すべきファーストシングル。ミニアルバムでデビューしているので、CDとしてはこれが2枚目ですね。

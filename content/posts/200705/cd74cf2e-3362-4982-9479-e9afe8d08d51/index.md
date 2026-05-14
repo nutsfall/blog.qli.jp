@@ -4,6 +4,7 @@ description: ''
 date: '2007-05-08T21:36:03.000Z'
 categories: []
 keywords: []
+tags: ["macbook-pro", "apple"]
 slug: "cd74cf2e-3362-4982-9479-e9afe8d08d51"
 ---
 Mac Rumorsに先日Jobs氏が明言したLEDディスプレイに関連して、新しいディスプレイを搭載したMBPがWWDCにてアナウンスされるとの記事が載ってました。  

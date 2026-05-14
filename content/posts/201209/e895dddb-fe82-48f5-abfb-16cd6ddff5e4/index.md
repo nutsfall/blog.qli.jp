@@ -4,6 +4,7 @@ description: ''
 date: '2012-09-29T22:20:24.000Z'
 categories: []
 keywords: []
+tags: ["nexus-7", "android"]
 slug: "e895dddb-fe82-48f5-abfb-16cd6ddff5e4"
 ---
 Nexus7が届きました。

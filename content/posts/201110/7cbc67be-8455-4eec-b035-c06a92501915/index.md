@@ -4,6 +4,7 @@ description: ''
 date: '2011-10-05T20:04:08.000Z'
 categories: []
 keywords: []
+tags: ["iphone-4s", "siri", "ios"]
 slug: "7cbc67be-8455-4eec-b035-c06a92501915"
 ---
 Appleが 史上最高のiPhoneを発表しました。この iPhone4S は、

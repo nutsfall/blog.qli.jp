@@ -4,6 +4,7 @@ description: ''
 date: '2008-11-14T00:00:12.000Z'
 categories: []
 keywords: []
+tags: ["eye-fi", "digital-camera"]
 slug: "5734e52e-c41e-4057-8154-53503b654928"
 ---
 iPhoneと並行利用しているもう一つの携帯電話、それがau W62Sです。最近は通話ですらiPhoneでやり始めたりしていて、もはやCメール端末となりかけています。

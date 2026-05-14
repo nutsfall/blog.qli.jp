@@ -4,6 +4,7 @@ description: ''
 date: '2006-07-20T09:22:07.000Z'
 categories: []
 keywords: []
+tags: ["atom", "microformats", "web-standards"]
 slug: "2d550496-4b8d-4593-972a-9dd9c1294a94"
 ---
 興味があって、というか”息抜きの”(←ここ重要)ネットをしてたら、microformats wikiにたどり着いた。そこには[hatom](http://microformats.org/wiki/hatom "hatom - Microformats")なるものがあった。  

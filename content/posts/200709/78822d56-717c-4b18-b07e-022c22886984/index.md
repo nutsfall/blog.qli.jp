@@ -4,6 +4,7 @@ description: ''
 date: '2007-09-27T21:18:04.000Z'
 categories: []
 keywords: []
+tags: ["gtd", "remember-the-milk", "productivity"]
 slug: "78822d56-717c-4b18-b07e-022c22886984"
 ---
 ファンサイトを作っちゃおうかくらいcheck\*pad.jpのシンプルさには感銘を受けていたりして、r\*padとともにガシガシ使っていたのですが、なんというか、最近remember the milkを使ったりしてます。

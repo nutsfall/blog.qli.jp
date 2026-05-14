@@ -4,6 +4,7 @@ description: ''
 date: '2006-12-17T23:44:32.000Z'
 categories: []
 keywords: []
+tags: ["fon", "wi-fi"]
 slug: "9e394e10-4ac0-4989-8c83-79d4fde6f18a"
 ---
 今日FONが届きました。実は先週の時点でさっさと登録すませて、購入まですませていたので、送料だけで購入することが出来ました。  

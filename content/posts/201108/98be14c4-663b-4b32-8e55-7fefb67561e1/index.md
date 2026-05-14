@@ -4,6 +4,7 @@ description: ''
 date: '2011-08-11T21:11:58.000Z'
 categories: []
 keywords: []
+tags: ["google-plus", "social-media", "twitter"]
 slug: "98be14c4-663b-4b32-8e55-7fefb67561e1"
 ---
 Google+、あなたのまわりでは流行ってますか？使い出して1ヶ月くらい立ちますが、いまだに自分の中でのポジションに困っていたりします。

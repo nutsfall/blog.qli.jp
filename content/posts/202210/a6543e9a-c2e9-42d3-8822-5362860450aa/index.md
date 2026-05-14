@@ -4,6 +4,7 @@ description: AirPods Pro（第二世代）が発売されて20日ほどが経ち
 date: '2022-10-10T13:37:51.063Z'
 categories: []
 keywords: []
+tags: ["airpods-pro", "earphones"]
 slug: "a6543e9a-c2e9-42d3-8822-5362860450aa"
 ---
 AirPods Pro（第二世代）が発売されて20日ほどが経ちました。

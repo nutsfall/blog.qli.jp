@@ -4,6 +4,7 @@ description: 誰も予想しなかったタイミングで、MacBookラインナ
 date: '2019-07-13T02:43:00.165Z'
 categories: []
 keywords: []
+tags: ["homepod", "apple-music"]
 slug: "448c3df3-2819-47e1-a4b8-f1d34b0f5ad6"
 ---
 誰も予想しなかったタイミングで、MacBookラインナップの整理が行われ、そしてそのなかでHomePodが日本に来ることが発表されました。

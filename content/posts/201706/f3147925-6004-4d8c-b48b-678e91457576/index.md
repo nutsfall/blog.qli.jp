@@ -4,6 +4,7 @@ description: 今年も例に漏れず2時起きして見ていました。
 date: '2017-06-06T00:11:13.257Z'
 categories: []
 keywords: []
+tags: ["apple", "wwdc"]
 slug: "f3147925-6004-4d8c-b48b-678e91457576"
 ---
 今年も例に漏れず2時起きして見ていました。

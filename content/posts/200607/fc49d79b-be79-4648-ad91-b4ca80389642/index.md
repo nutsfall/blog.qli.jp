@@ -4,6 +4,7 @@ description: ''
 date: '2006-07-10T11:24:07.000Z'
 categories: []
 keywords: []
+tags: ["fifa-world-cup", "zidane"]
 slug: "fc49d79b-be79-4648-ad91-b4ca80389642"
 ---
 ワールドカップが終わった。1ヶ月にわたる素晴らしいサッカー漬けの毎日が終わった。  

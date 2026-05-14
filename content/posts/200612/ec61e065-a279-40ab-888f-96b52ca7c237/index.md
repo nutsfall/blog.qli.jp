@@ -4,6 +4,7 @@ description: ''
 date: '2006-12-26T13:03:01.000Z'
 categories: []
 keywords: []
+tags: ["bose", "headphones"]
 slug: "ec61e065-a279-40ab-888f-96b52ca7c237"
 ---
 BOSEのヘッドフォン買いました。

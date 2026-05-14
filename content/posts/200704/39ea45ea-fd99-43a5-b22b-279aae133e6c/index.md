@@ -4,6 +4,7 @@ description: ''
 date: '2007-04-18T21:39:18.000Z'
 categories: []
 keywords: []
+tags: ["avril-lavigne", "itunes"]
 slug: "39ea45ea-fd99-43a5-b22b-279aae133e6c"
 ---
 新しいCDを買ってリッピング。先週末にiTunesの音楽ファイルはNAS上に移行したので、今回のリッピングはWi-Fiを間に挟むリッピングになりました。  

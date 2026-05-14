@@ -4,6 +4,7 @@ description: Cultured Code のパーソナルタスクマネージャー Things 
 date: '2019-12-16T13:40:58.795Z'
 categories: []
 keywords: []
+tags: ["things", "productivity"]
 slug: "9368e914-ed19-4870-9a4b-b9fc639cf344"
 ---
 Cultured Code のパーソナルタスクマネージャー Things にクリスマスプレゼントが届きました。3.11のリリースです。

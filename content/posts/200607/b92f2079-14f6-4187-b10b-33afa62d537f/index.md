@@ -4,6 +4,7 @@ description: ''
 date: '2006-07-04T08:13:21.000Z'
 categories: []
 keywords: []
+tags: ["hidetoshi-nakata", "soccer"]
 slug: "b92f2079-14f6-4187-b10b-33afa62d537f"
 ---
 中田選手が引退を表明した。  

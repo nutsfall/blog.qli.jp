@@ -4,6 +4,7 @@ description: ''
 date: '2008-05-16T22:05:11.000Z'
 categories: []
 keywords: []
+tags: ["disqus", "seesmic"]
 slug: "dee1179b-4b72-4494-a952-89c18c0e37e3"
 ---
 ブログにスレッド式のコメント投稿を追加する[Disqus](http://disqus.com/)が人気らしいです。

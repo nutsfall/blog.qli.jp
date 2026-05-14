@@ -4,6 +4,7 @@ description: ''
 date: '2014-01-31T11:25:24.097Z'
 categories: []
 keywords: []
+tags: ["tokyo-governor-election", "voting"]
 slug: "9840671f-3c78-4591-916f-feb82ddf17e6"
 ---
 ![](1__1ovxoGewMpNcfj3ruZxTmg.jpeg)

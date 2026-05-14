@@ -4,6 +4,7 @@ description: ''
 date: '2012-12-22T22:35:58.000Z'
 categories: []
 keywords: []
+tags: ["line", "nhk"]
 slug: "08e6187e-91a4-4501-b5d4-54f0750ebd13"
 ---
 LINEについて、今日NHKから以下のようなニュースが報道されました。  

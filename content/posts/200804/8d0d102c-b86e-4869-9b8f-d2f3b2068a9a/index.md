@@ -4,6 +4,7 @@ description: ''
 date: '2008-04-02T23:25:49.000Z'
 categories: []
 keywords: []
+tags: ["ipod", "apple"]
 slug: "8d0d102c-b86e-4869-9b8f-d2f3b2068a9a"
 ---
 ちょっと気になったのでエントリー。

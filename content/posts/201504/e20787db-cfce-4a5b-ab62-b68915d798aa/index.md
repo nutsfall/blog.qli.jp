@@ -4,6 +4,7 @@ description: ''
 date: '2015-04-11T00:06:09.000Z'
 categories: []
 keywords: []
+tags: ["apple", "os-x-yosemite", "photos-app"]
 slug: "e20787db-cfce-4a5b-ab62-b68915d798aa"
 ---
 Apple Watchを中心に、MacBook発売開始や、OS X Yosemite 10.10.3とiOS8.3リリースが同時にきて、Apple周辺がなにやら騒がしいことになっています。

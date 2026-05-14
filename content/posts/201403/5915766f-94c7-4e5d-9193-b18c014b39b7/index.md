@@ -4,6 +4,7 @@ description: ''
 date: '2014-03-30T21:14:30.000Z'
 categories: []
 keywords: []
+tags: ["olympus", "e-m10", "camera"]
 slug: "5915766f-94c7-4e5d-9193-b18c014b39b7"
 ---
 ![](1__mFpuRLSwlfNb0pNMOb64Ng.png)

@@ -4,6 +4,7 @@ description: ""
 date: "2009-12-31T10:36:18.000Z"
 categories: []
 keywords: []
+tags: ["evernote", "omnifocus", "productivity"]
 slug: "35b13cc3-e727-40ea-a83c-160cbf9f5dee"
 ---
 

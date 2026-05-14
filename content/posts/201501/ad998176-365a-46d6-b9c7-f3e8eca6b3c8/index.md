@@ -4,6 +4,7 @@ description: ''
 date: '2015-01-04T01:58:15.000Z'
 categories: []
 keywords: []
+tags: ["sony-rx1", "photography", "olympus-em10"]
 slug: "ad998176-365a-46d6-b9c7-f3e8eca6b3c8"
 ---
 年末にRX1を手放しました。

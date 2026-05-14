@@ -4,6 +4,7 @@ description: ""
 date: "2007-01-11T23:53:25.000Z"
 categories: []
 keywords: []
+tags: ["google-notebook", "safari"]
 slug: "b8f4853b-c0bd-470d-837b-477702dd5bcc"
 ---
 

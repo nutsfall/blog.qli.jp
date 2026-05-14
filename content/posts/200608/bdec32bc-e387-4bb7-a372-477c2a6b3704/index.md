@@ -4,6 +4,7 @@ description: ''
 date: '2006-08-16T17:08:41.000Z'
 categories: []
 keywords: []
+tags: ["blogger", "google"]
 slug: "bdec32bc-e387-4bb7-a372-477c2a6b3704"
 ---
 ネットを徘徊しているとこういうニュースを発見してしまいました。

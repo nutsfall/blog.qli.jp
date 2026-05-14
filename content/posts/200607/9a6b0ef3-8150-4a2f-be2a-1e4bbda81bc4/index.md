@@ -4,6 +4,7 @@ description: ""
 date: "2006-07-24T20:48:00.000Z"
 categories: []
 keywords: []
+tags: ["rhodia", "stationery"]
 slug: "9a6b0ef3-8150-4a2f-be2a-1e4bbda81bc4"
 ---
 

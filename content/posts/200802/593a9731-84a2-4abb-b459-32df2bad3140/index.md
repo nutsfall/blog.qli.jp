@@ -4,6 +4,7 @@ description: ""
 date: "2008-02-13T22:45:03.000Z"
 categories: []
 keywords: []
+tags: ["iminta", "social-aggregation"]
 slug: "593a9731-84a2-4abb-b459-32df2bad3140"
 ---
 

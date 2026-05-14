@@ -4,6 +4,7 @@ description: ''
 date: '2006-08-04T10:12:45.000Z'
 categories: []
 keywords: []
+tags: ["lifehacks", "information-gathering", "blogging"]
 slug: "9dd28b83-de2f-41c7-a8bc-5b89517c2786"
 ---
 情報収集の関するlifehacks。「いいね、これ」って思ったのでエントリーしてみることにします。

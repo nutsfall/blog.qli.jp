@@ -4,6 +4,7 @@ description: ''
 date: '2023-05-27T03:03:12.275Z'
 categories: []
 keywords: []
+tags: ["sakurazaka46", "live-concert"]
 slug: "73855b89-ace3-4378-bab3-5239b1912d99"
 ---
 5月ももうすぐ終わりを迎え、夏の衣替えの時期も近くなってきた。冬の空気を纏った東京は空気が乾燥していて好きですが、夏は湿度が高過ぎてあまり好きではない。

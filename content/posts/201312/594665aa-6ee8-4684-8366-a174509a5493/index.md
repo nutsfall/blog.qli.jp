@@ -4,6 +4,7 @@ description: ''
 date: '2013-12-18T22:05:36.000Z'
 categories: []
 keywords: []
+tags: ["music", "mr-children", "live-music"]
 slug: "594665aa-6ee8-4684-8366-a174509a5493"
 ---
 今年は本当にさまざまなことがありました。

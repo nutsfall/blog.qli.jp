@@ -4,6 +4,7 @@ description: ''
 date: '2007-03-24T22:07:24.000Z'
 categories: []
 keywords: []
+tags: ["mylo", "sony", "fan-event"]
 slug: "057249aa-8cf6-4872-ad7c-f31eb323bda6"
 ---
 myloファンミーティングというものがありまして、行ってきました。昨日当選メール頂いたので。

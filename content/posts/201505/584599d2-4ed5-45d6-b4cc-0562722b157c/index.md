@@ -4,6 +4,7 @@ description: ''
 date: '2015-05-18T21:55:34.000Z'
 categories: []
 keywords: []
+tags: ["eye-fi", "icloud-photo-library"]
 slug: "584599d2-4ed5-45d6-b4cc-0562722b157c"
 ---
 写真アプリがリリースされてから、写真は写真アプリ=iCloudフォトライブラリを使って保存しています。一方、カメラにはEye-fi mobi カードを入れています。

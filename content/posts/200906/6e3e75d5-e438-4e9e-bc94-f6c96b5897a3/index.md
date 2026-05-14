@@ -4,6 +4,7 @@ description: ''
 date: '2009-06-20T22:24:20.000Z'
 categories: []
 keywords: []
+tags: ["twitter", "blogging"]
 slug: "6e3e75d5-e438-4e9e-bc94-f6c96b5897a3"
 ---
 ふらっと目にした記事なのだけど、琴線に触れたので簡単に。

@@ -4,6 +4,7 @@ description: Jリーグ27周年に添えて
 date: '2020-05-15T10:21:01.201Z'
 categories: []
 keywords: []
+tags: ["j-league", "avispa-fukuoka"]
 slug: "8ddc1b40-f818-4471-9c16-bbb2e36c497d"
 ---
 1993年5月15日 19時29分にJリーグのキックオフのホイッスルは吹かれ、Jリーグはスタートしました。それから27年、今年はJリーグの試合のない5月15日を迎えています。

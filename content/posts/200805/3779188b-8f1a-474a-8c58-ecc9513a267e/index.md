@@ -4,6 +4,7 @@ description: ''
 date: '2008-05-31T16:58:19.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "apple", "docomo"]
 slug: "3779188b-8f1a-474a-8c58-ecc9513a267e"
 ---
 先日、NTTdocomoのブランド変更一発目端末506iシリーズが発表されましたが、明日から順次発売開始のようで。このdocomoに端末を供給しているメーカー陣の団結力ってすごすぎるなといつも思います。

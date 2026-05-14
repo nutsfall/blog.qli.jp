@@ -4,6 +4,7 @@ description: ''
 date: '2012-09-21T21:11:39.000Z'
 categories: []
 keywords: []
+tags: ["iphone-5", "apple", "au"]
 slug: "d3525235-e2a6-4ebf-8b35-94b13c327c79"
 ---
 **恒例秋のApple祭り**  

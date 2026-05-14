@@ -4,6 +4,7 @@ description: ''
 date: '2008-12-14T21:54:49.000Z'
 categories: []
 keywords: []
+tags: ["kobayashi-takeshi", "mr-children"]
 slug: "58cce1cc-12c8-425a-a87b-c9709969f68f"
 ---
 小林武史さんの特集ってことで別冊カドカワを買いました。

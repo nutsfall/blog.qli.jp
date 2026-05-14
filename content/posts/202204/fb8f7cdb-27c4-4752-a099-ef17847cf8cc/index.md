@@ -4,6 +4,7 @@ description: 重すぎたレビューを見直して軽くした話
 date: "2022-04-07T13:20:07.540Z"
 categories: []
 keywords: []
+tags: ["gtd", "omnifocus", "productivity"]
 slug: "fb8f7cdb-27c4-4752-a099-ef17847cf8cc"
 ---
 

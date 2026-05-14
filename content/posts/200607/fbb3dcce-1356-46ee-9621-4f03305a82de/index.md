@@ -4,6 +4,7 @@ description: ''
 date: '2006-07-04T12:31:00.000Z'
 categories: []
 keywords: []
+tags: ["gmail", "email-management", "gtd"]
 slug: "fbb3dcce-1356-46ee-9621-4f03305a82de"
 ---
 昨日、ITmedia Biz.IDのオープニング企画で応募していたGmailアカウントのお誘いを頂いたので、さっそく”もう一つのアカウント”を作成してみた。でも、こいつはちょっと保留中。そのうち、プライベートメールの転送用として使うかも。  

@@ -4,6 +4,7 @@ description: ''
 date: '2025-08-16T03:01:45.322Z'
 categories: []
 keywords: []
+tags: ["day-one", "summer-sonic", "journaling"]
 slug: "ebdc5c35-312d-4e19-bc3a-2c72dec17c70"
 ---
 毎日日記を書いています。使っているのはDay Oneというアプリ。テンプレートを決めて書くようになったのは2022年10月のこと。毎日欠かさずにってことは難しいですが、なるべく時間を決めてできる限り書いています。

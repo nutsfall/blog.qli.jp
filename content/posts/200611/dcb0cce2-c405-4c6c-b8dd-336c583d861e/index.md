@@ -4,6 +4,7 @@ description: ""
 date: "2006-11-19T11:37:31.000Z"
 categories: []
 keywords: []
+tags: ["sony-mylo"]
 slug: "dcb0cce2-c405-4c6c-b8dd-336c583d861e"
 ---
 

@@ -4,6 +4,7 @@ description: ''
 date: '2008-06-15T16:57:11.000Z'
 categories: []
 keywords: []
+tags: ["mobileme", "apple"]
 slug: "8d1657a7-e174-4685-b0b4-ab3896e6ac91"
 ---
 アンケート企画第2弾を行います。次はAppleの新しいクラウドサービス”mobileme”について。

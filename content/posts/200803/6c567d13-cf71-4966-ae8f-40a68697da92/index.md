@@ -4,6 +4,7 @@ description: ''
 date: '2008-03-13T23:58:14.000Z'
 categories: []
 keywords: []
+tags: ["omnifocus", "task-management"]
 slug: "6c567d13-cf71-4966-ae8f-40a68697da92"
 ---
 MacBook Airにして変えたことが一つあって、今まで使えていなかったOmniFocusを使ってみるってことでした。

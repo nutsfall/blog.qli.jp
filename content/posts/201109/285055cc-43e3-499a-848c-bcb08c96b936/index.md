@@ -4,6 +4,7 @@ description: ''
 date: '2011-09-28T19:36:21.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "icloud", "ios"]
 slug: "285055cc-43e3-499a-848c-bcb08c96b936"
 ---
 Appleから10月4日10時（日本時間：10月5日2時）にイベントが行うことが発表されました。メッセージは”Let’s talk iPhone”。まさにiPhoneの為のイベントということになります。

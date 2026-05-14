@@ -4,6 +4,7 @@ description: ''
 date: '2008-12-26T22:39:47.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "android", "year-in-review"]
 slug: "7d5dc637-46d3-4f0f-85e2-d9a0acca0645"
 ---
 今日は今年最後の金曜日。仕事納めの人も多いのではないでしょうか？そろそろ2008年も終わり。というわけで、毎年恒例の振り返りをしたいと思います。

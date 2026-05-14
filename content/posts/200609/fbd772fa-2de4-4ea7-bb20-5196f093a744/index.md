@@ -4,6 +4,7 @@ description: ''
 date: '2006-09-21T12:41:54.000Z'
 categories: []
 keywords: []
+tags: ["telecom", "ntt"]
 slug: "fbd772fa-2de4-4ea7-bb20-5196f093a744"
 ---
 もはや、そんな制度あったんだ、ってくらいの勢いなんですが。

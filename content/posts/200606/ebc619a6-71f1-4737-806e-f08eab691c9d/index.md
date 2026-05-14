@@ -4,6 +4,7 @@ description: ""
 date: "2006-06-29T15:25:42.000Z"
 categories: []
 keywords: []
+tags: ["blogging", "web2.0"]
 slug: "ebc619a6-71f1-4737-806e-f08eab691c9d"
 ---
 

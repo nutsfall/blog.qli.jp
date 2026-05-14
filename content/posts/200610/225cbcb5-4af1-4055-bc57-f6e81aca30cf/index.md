@@ -4,6 +4,7 @@ description: ''
 date: '2006-10-02T10:11:13.000Z'
 categories: []
 keywords: []
+tags: ["remember-the-milk", "gtd"]
 slug: "225cbcb5-4af1-4055-bc57-f6e81aca30cf"
 ---
 非常に高機能で使い勝手がいいRemember the milk。僕がcheck\*padに戻った理由の１つに、複数タスクを気軽にメールで入れられないという問題があった。  

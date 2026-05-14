@@ -4,6 +4,7 @@ description: ''
 date: '2008-08-03T01:30:16.000Z'
 categories: []
 keywords: []
+tags: ["gtd", "lifehacking"]
 slug: "ff04367f-fedd-4749-9434-08489c873a4e"
 ---
 GTD勉強会というものに行ってきました。

@@ -4,6 +4,7 @@ description: ""
 date: "2006-08-21T15:07:00.000Z"
 categories: []
 keywords: []
+tags: ["web-design", "quiz"]
 slug: "1631e1ed-b7a6-4aa6-ad2e-ce807ab5cac4"
 ---
 

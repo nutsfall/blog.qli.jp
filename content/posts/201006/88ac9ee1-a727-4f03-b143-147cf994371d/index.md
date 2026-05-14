@@ -4,6 +4,7 @@ description: ''
 date: '2010-06-25T08:41:47.000Z'
 categories: []
 keywords: []
+tags: ["iphone-4", "apple-store"]
 slug: "88ac9ee1-a727-4f03-b143-147cf994371d"
 ---
 突然ですが、iPhone4を昨日買いました。買ったのは、iPhone4 32GB Blackです。

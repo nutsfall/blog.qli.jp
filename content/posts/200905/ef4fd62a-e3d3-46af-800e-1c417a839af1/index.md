@@ -4,6 +4,7 @@ description: ''
 date: '2009-05-30T08:51:19.000Z'
 categories: []
 keywords: []
+tags: ["productivity", "task-management", "gtd"]
 slug: "ef4fd62a-e3d3-46af-800e-1c417a839af1"
 ---
 しごと術については多くを語る必要はないのですが、この体制で数ヶ月間本当に安定してきているので、タスク管理で使っているアプリとかサービスとかを書いておきたいと思います。

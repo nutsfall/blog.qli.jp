@@ -4,6 +4,7 @@ description: ''
 date: '2010-06-10T22:19:10.000Z'
 categories: []
 keywords: []
+tags: ["hmv", "music-retail"]
 slug: "08df042b-7e54-40be-8d9f-e387c2151305"
 ---
 「HMV渋谷が閉店するらしいよ」

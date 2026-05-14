@@ -4,6 +4,7 @@ description: ''
 date: '2012-12-09T20:53:04.000Z'
 categories: []
 keywords: []
+tags: ["bloggers-tote", "sony-dsc-rx100"]
 slug: "22f958e5-7d17-4959-8032-27fee4166f38"
 ---
 ブロガーズトートが届きました。このトートバッグは、\[mi\]みたいもん！のいしたにまさきさんと、まつゆうさんで作られたトートバッグ。  

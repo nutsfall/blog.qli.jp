@@ -4,6 +4,7 @@ description: ''
 date: '2008-05-05T22:13:38.000Z'
 categories: []
 keywords: []
+tags: ["w61s", "au", "mobile-phone"]
 slug: "dea62669-2b14-42db-9164-33fd00bcbb61"
 ---
 いろいろ悩んでいたのですが、やっぱり”ソニエリのスライド”ってのが決定打になってW61Sを買いました。やっぱりスライドって使い勝手悪くないなと思ってます。

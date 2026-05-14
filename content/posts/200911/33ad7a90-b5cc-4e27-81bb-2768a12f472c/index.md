@@ -4,6 +4,7 @@ description: ''
 date: '2009-11-23T22:19:07.000Z'
 categories: []
 keywords: []
+tags: ["twitter", "book-review"]
 slug: "33ad7a90-b5cc-4e27-81bb-2768a12f472c"
 ---
 書籍レビューは、もうひとつのブログでやることにしたのですが、これはWEBにかかっているので。

@@ -4,6 +4,7 @@ description: ''
 date: '2021-04-28T10:22:03.235Z'
 categories: []
 keywords: []
+tags: ["film", "shimokitazawa"]
 slug: "b6a6e7bf-3c54-4673-ae71-c805a34bc85e"
 ---
 2021年4月9日、「街の上で」という映画を見た。

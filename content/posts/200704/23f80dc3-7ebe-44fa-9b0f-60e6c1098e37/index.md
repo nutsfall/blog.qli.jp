@@ -4,6 +4,7 @@ description: ''
 date: '2007-04-07T10:38:03.000Z'
 categories: []
 keywords: []
+tags: ["twitter", "istalkr"]
 slug: "23f80dc3-7ebe-44fa-9b0f-60e6c1098e37"
 ---
 twitter流行ってますね。ごく一部でweb系の人でも知らない人がいたりいなかったりするみたいですが。個人的にRocketboomさんとtwitterでつながっていますが、「今日の分をアップロードしたよ」とか「今日のネタを考え中」とか飛んできて、裏側を見れるような感じで面白いです。

@@ -4,6 +4,7 @@ description: ""
 date: "2006-08-23T16:10:00.000Z"
 categories: []
 keywords: []
+tags: ["bonnie-pink", "music"]
 slug: "64fa92c7-c504-47fc-b8cc-3ca773748890"
 ---
 

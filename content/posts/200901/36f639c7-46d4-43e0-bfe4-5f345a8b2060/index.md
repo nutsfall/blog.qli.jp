@@ -4,6 +4,7 @@ description: ""
 date: "2009-01-29T23:46:58.000Z"
 categories: []
 keywords: []
+tags: ["google-chrome", "tech-event"]
 slug: "36f639c7-46d4-43e0-bfe4-5f345a8b2060"
 ---
 

@@ -4,6 +4,7 @@ description: ''
 date: '2009-09-27T11:46:54.000Z'
 categories: []
 keywords: []
+tags: ["gtd", "omnifocus", "things"]
 slug: "db2e5824-0f15-4798-8814-d97e220809db"
 ---
 現在のGTDのツールは OmniFocus を使っています。もう一つ、メジャーなツールと言えば Things でこれは以前使っていましたし、あといくつかの機能さえ実装されればいつでも乗り換えたいと思っています。

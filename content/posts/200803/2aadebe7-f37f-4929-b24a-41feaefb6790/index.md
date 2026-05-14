@@ -4,6 +4,7 @@ description: ""
 date: "2008-03-08T10:52:43.000Z"
 categories: []
 keywords: []
+tags: ["macbook-air", "apple"]
 slug: "2aadebe7-f37f-4929-b24a-41feaefb6790"
 ---
 

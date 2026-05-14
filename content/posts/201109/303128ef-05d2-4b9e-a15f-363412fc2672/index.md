@@ -4,6 +4,7 @@ description: ''
 date: '2011-09-20T07:36:29.000Z'
 categories: []
 keywords: []
+tags: ["unfair", "film"]
 slug: "303128ef-05d2-4b9e-a15f-363412fc2672"
 ---
 アンフェアを見てきた。まさか、また続編ができるとは思わなかったよ。というわけで、テレビ局に乗れられるままに。

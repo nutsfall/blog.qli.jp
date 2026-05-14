@@ -4,6 +4,7 @@ description: ''
 date: '2006-08-11T11:23:50.000Z'
 categories: []
 keywords: []
+tags: ["salyu", "ap-bank"]
 slug: "e6575aca-a449-42f9-9042-542d2628847f"
 ---
 どっかで聞いたことがあるようきがしてならないんですが、シブヤ大学って。  

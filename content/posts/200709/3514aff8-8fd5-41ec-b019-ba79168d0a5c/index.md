@@ -4,6 +4,7 @@ description: ''
 date: '2007-09-23T22:34:00.000Z'
 categories: []
 keywords: []
+tags: ["ipod-touch", "apple"]
 slug: "3514aff8-8fd5-41ec-b019-ba79168d0a5c"
 ---
 iPod Touchが無事届きました。いつもは午前中配達でも12時過ぎにくることが多いのですが、今日は9時過ぎに配達にきてました。触りまくったわけではないですが、まぁ、かんたんに使った感想でも。

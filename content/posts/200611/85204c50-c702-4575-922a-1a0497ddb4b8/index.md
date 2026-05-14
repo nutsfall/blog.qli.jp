@@ -4,6 +4,7 @@ description: ''
 date: '2006-11-05T16:35:06.000Z'
 categories: []
 keywords: []
+tags: ["blogging"]
 slug: "85204c50-c702-4575-922a-1a0497ddb4b8"
 ---
 とある場所でブログを売り込むきっかけがあった。  

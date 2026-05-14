@@ -4,6 +4,7 @@ description: Lightning端子が出てくる機会が減りました
 date: '2024-02-03T03:01:42.904Z'
 categories: []
 keywords: []
+tags: ["belkin", "magsafe", "airpods-pro"]
 slug: "c50df210-d8ac-4130-b4a8-78c779c928c2"
 ---
 今年もあっという間に１ヶ月が過ぎました。今日は節分、明日は春分。寒さももう少し、という感じですね。その前にひと山ありそうです。

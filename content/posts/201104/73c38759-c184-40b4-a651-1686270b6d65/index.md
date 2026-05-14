@@ -4,6 +4,7 @@ description: ''
 date: '2011-04-18T23:05:47.000Z'
 categories: []
 keywords: []
+tags: ["android", "is03"]
 slug: "73c38759-c184-40b4-a651-1686270b6d65"
 ---
 4月14日にIS03のAndroid 2.2 (Froyo)へのアップデートが開始されました。

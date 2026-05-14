@@ -4,6 +4,7 @@ description: ''
 date: '2012-07-03T21:06:43.000Z'
 categories: []
 keywords: []
+tags: ["line", "naver"]
 slug: "ecc090fd-1052-40fe-a48e-557c3c1775e6"
 ---
 NAVERも3周年過ぎたし、LINEも次のステージへと高らかに宣言したみたいなので、ここらでLINEについて少し書き殴っておきます。

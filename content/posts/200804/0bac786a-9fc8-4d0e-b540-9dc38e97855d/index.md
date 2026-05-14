@@ -4,6 +4,7 @@ description: ''
 date: '2008-04-12T10:08:03.000Z'
 categories: []
 keywords: []
+tags: ["apple", "time-capsule", "backup"]
 slug: "0bac786a-9fc8-4d0e-b540-9dc38e97855d"
 ---
 突然ですがTimeCapsule 500GBを買いました。

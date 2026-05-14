@@ -4,6 +4,7 @@ description: ''
 date: '2010-09-26T21:40:33.000Z'
 categories: []
 keywords: []
+tags: ["moleskine", "productivity", "evernote"]
 slug: "c5043156-bb07-41c7-a47f-fb6e0c8567b1"
 ---
 普段から OmniFocusやEvernoteといったデジタルツールを使っていて、このブログでもWEBサービスを中心に紹介していたりもするので、手で文字を書いたりしないのかと思われたりするかもしれませんが、結構手書きも好きだったりします。いつも持ち歩いているのは、最近話題のモレスキン。

@@ -4,6 +4,7 @@ description: ''
 date: '2010-08-22T22:00:50.000Z'
 categories: []
 keywords: []
+tags: ["hmv", "gaku-mc", "music"]
 slug: "a80e8eba-e8de-446b-a273-fee8acfc46c1"
 ---
 今日は８月２２日。寂しい出来事が２つありました。

@@ -4,6 +4,7 @@ description: ''
 date: '2012-02-17T19:40:33.000Z'
 categories: []
 keywords: []
+tags: ["nuclear-power", "politics"]
 slug: "908656e8-0e67-4250-9f02-1666d0969e2b"
 ---
 このブログでは、あまり触れていなかったけど、Twitterでも言及してるし、ちょうどいいタイミングかなと思ったので触れておきます。それは原子力という話。

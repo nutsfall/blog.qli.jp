@@ -4,6 +4,7 @@ description: ''
 date: '2006-07-31T15:41:59.000Z'
 categories: []
 keywords: []
+tags: ["blogging", "online-privacy"]
 slug: "44085d68-8658-4ac4-aa9a-a95be9b41aa9"
 ---
 米国ではこういうことでサービス提供元が訴えられたりするんだろうなぁとか思ってしまった例。（この記事を発見した情報元は”あそこ”です。)

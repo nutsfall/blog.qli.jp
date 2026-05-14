@@ -4,6 +4,7 @@ description: ''
 date: '2008-02-27T07:56:18.000Z'
 categories: []
 keywords: []
+tags: ["apple", "macbook-pro", "ipod-shuffle"]
 slug: "f980b6b3-176f-4361-9d8b-32840ae960e7"
 ---
 AppleからMacBook, MacBook Proのアップデートが発表されました。

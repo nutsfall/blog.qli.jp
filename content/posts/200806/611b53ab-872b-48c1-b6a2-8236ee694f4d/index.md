@@ -4,6 +4,7 @@ description: ''
 date: '2008-06-04T09:41:23.000Z'
 categories: []
 keywords: []
+tags: ["firefox"]
 slug: "611b53ab-872b-48c1-b6a2-8236ee694f4d"
 ---
 もう遅いかと思ったのですが、さきほど確認したら、日本からは3万人弱しかいなかったので、あえてご紹介。

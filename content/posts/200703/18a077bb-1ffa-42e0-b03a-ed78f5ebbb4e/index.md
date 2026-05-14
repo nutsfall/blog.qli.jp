@@ -4,6 +4,7 @@ description: ''
 date: '2007-03-05T00:15:39.000Z'
 categories: []
 keywords: []
+tags: ["suga-shikao", "music-review"]
 slug: "18a077bb-1ffa-42e0-b03a-ed78f5ebbb4e"
 ---
 2枚目はスガシカオさんのベスト。  

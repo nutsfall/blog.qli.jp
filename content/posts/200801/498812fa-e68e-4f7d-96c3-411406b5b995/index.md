@@ -4,6 +4,7 @@ description: ''
 date: '2008-01-16T23:07:21.000Z'
 categories: []
 keywords: []
+tags: ["itunes", "drm", "apple"]
 slug: "498812fa-e68e-4f7d-96c3-411406b5b995"
 ---
 日本ではまだ提供されないことからあまりニュースになっていないiTunes Movie Rentalですが、これ結構画期的なことだと思います。

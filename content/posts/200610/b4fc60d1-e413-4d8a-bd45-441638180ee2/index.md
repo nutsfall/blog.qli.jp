@@ -4,6 +4,7 @@ description: ''
 date: '2006-10-18T11:51:10.000Z'
 categories: []
 keywords: []
+tags: ["blogging", "anonymity"]
 slug: "b4fc60d1-e413-4d8a-bd45-441638180ee2"
 ---
 購読させていただいているブログで気になるエントリーがあったので。

@@ -4,6 +4,7 @@ description: ''
 date: '2011-09-30T15:32:00.000Z'
 categories: []
 keywords: []
+tags: ["moteki", "film"]
 slug: "165cdb71-288a-47ba-a260-453d184530ba"
 ---
 モテキみてきたということで感想

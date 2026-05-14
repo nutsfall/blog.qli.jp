@@ -4,6 +4,7 @@ description: ""
 date: "2006-09-19T18:51:00.000Z"
 categories: []
 keywords: []
+tags: ["firefox", "mozilla-japan"]
 slug: "09b74420-e259-47c0-9d6f-e2f05fbe8322"
 ---
 

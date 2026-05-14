@@ -4,6 +4,7 @@ description: ''
 date: '2009-06-18T21:09:53.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "video", "social-media"]
 slug: "25f03193-7eab-41b5-9c09-448ac94e1900"
 ---
 今日はiPhone OS 3.0がリリースされて、いよいよ明日（米国時間19日）はiPhone 3G Sの発売日だ。この週末はおそらくさまざまな情報が流れてくると思う。

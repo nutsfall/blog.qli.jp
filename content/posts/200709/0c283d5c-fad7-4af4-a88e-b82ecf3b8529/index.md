@@ -4,6 +4,7 @@ description: ''
 date: '2007-09-18T18:40:10.000Z'
 categories: []
 keywords: []
+tags: ["thunderbird", "mozilla"]
 slug: "0c283d5c-fad7-4af4-a88e-b82ecf3b8529"
 ---
 GeckoエンジンとFirefoxを開発しているmozillaは、メールとコミュニケーションに関する新しい組織を設立することにしたそうです。これによりMozillaはFirefoxに専念し、新組織がthunderbirdを担当することになります。  

@@ -4,6 +4,7 @@ description: ''
 date: '2007-03-07T09:18:03.000Z'
 categories: []
 keywords: []
+tags: ["google-desktop"]
 slug: "f28b5aff-fc14-424d-8c7d-ffbc787dcc3c"
 ---
 Google Desktop 5 beta 英語版が登場しました。

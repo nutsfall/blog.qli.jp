@@ -4,6 +4,7 @@ description: ''
 date: '2008-08-02T10:14:34.000Z'
 categories: []
 keywords: []
+tags: ["remioromen", "music-review"]
 slug: "40c2b9e7-a446-4475-a605-c09522b945bc"
 ---
 レミオロメンが放つフジテレビ系オリンピックテーマ曲。

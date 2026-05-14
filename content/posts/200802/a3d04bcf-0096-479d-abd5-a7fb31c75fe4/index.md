@@ -4,6 +4,7 @@ description: ""
 date: "2008-02-07T23:35:16.000Z"
 categories: []
 keywords: []
+tags: ["ipod-shuffle", "apple"]
 slug: "a3d04bcf-0096-479d-abd5-a7fb31c75fe4"
 ---
 

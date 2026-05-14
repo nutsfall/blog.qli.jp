@@ -4,6 +4,7 @@ description: ''
 date: '2006-08-28T22:00:37.000Z'
 categories: []
 keywords: []
+tags: ["rss", "blogging", "spam"]
 slug: "96ac1aef-5973-4032-9781-6b578f87c1d2"
 ---
 かなり気になるものがあったので。今日はエントリー多いですが、つきあってください。

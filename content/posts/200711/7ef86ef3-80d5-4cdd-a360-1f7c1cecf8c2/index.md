@@ -4,6 +4,7 @@ description: ''
 date: '2007-11-02T22:27:50.000Z'
 categories: []
 keywords: []
+tags: ["google", "opensocial", "sns"]
 slug: "7ef86ef3-80d5-4cdd-a360-1f7c1cecf8c2"
 ---
 GoogleがSNS用共通APIであるOpenSocialを発表しました。しかも、mixiも早速参加を表明しています。これまで複数SNSにアカウントがある場合はそれぞれログインする必要がありましたが、これで複数SNSの上に乗っかった新しいSNSが作れるかもしれません。ともあれ、特にこういった基盤が整っていなさそうな日本語SNSの雄mixiの動きに注目してみたいと思います。

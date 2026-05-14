@@ -1,6 +1,7 @@
 ---
 title: "iPhone AirとAirPods Pro 3の22日間"
 date: "2025-10-11T03:02:13"
+tags: ["iphone-air", "airpods-pro", "apple"]
 slug: "0cd8744b-eb9a-479e-8a79-8a7722cfcc66"
 source: "medium"
 original_url: "https://medium.com/@hiro/iphone-air%E3%81%A8airpods-pro-3%E3%81%AE22%E6%97%A5%E9%96%93-9eb14b3d8962?source=rss-21bfda6f823e------2"

@@ -4,6 +4,7 @@ description: ''
 date: '2007-01-04T00:50:00.000Z'
 categories: []
 keywords: []
+tags: ["blogging", "vox"]
 slug: "4718d7f0-cec1-4bff-b5de-04e97effba98"
 ---
 明けましておめでとうございます。  

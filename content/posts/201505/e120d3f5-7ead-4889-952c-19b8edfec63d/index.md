@@ -4,6 +4,7 @@ description: ''
 date: '2015-05-01T03:18:49.000Z'
 categories: []
 keywords: []
+tags: ["apple-watch", "gtd"]
 slug: "e120d3f5-7ead-4889-952c-19b8edfec63d"
 ---
 AppleがApple Watchを発表し、発売に向けて全容が分かってくるにつれてわかってきたのは、”AppleはApple Watchを「通知デバイス」として売ることはしない”ということだった。

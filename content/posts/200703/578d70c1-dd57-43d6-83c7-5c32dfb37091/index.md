@@ -4,6 +4,7 @@ description: ''
 date: '2007-03-04T17:50:22.000Z'
 categories: []
 keywords: []
+tags: ["mac-power", "kobayashi-takeshi", "ap-bank"]
 slug: "578d70c1-dd57-43d6-83c7-5c32dfb37091"
 ---
 Mac Powerという雑誌に、小林武史さんのインタビューが載っていました。デジタルとアナログ、そしてapbankとAP BANG!について語っています。あまりコンピュータ誌っぽくないMac誌ですが、思わず手に取ってしまいました。

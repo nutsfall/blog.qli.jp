@@ -4,6 +4,7 @@ description: 3連休ではライブ行ったり、サッカー見たり、読書
 date: '2024-07-20T11:40:32.563Z'
 categories: []
 keywords: []
+tags: ["reading", "information-literacy"]
 slug: "c51bb68c-e80d-4361-bd11-52756451cc76"
 ---
 3連休ではライブ行ったり、サッカー見たり、読書したりしてました。

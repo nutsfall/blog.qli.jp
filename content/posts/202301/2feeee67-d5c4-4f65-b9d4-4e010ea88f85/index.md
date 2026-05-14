@@ -4,6 +4,7 @@ description: ''
 date: '2023-01-28T02:02:45.402Z'
 categories: []
 keywords: []
+tags: ["homepod", "apple"]
 slug: "2feeee67-d5c4-4f65-b9d4-4e010ea88f85"
 ---
 iOS/iPadOSから一日遅れて、tvOSとHomePodソフトウェアのアップデートがやってきました。そしてHomePod（第1世代）の音が変わったという話があるので、そのことについて触れたいと思います。

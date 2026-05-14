@@ -4,6 +4,7 @@ description: ''
 date: '2013-08-25T14:13:19.000Z'
 categories: []
 keywords: []
+tags: ["blogging", "blogger-summit"]
 slug: "684e501b-3815-4f79-8135-6a738b47d58b"
 ---
 8月24日ベルサール渋谷ファーストで行われた、ブロガーサミットに参加しました。

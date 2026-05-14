@@ -4,6 +4,7 @@ description: ''
 date: '2009-03-20T17:57:05.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "ios"]
 slug: "8f10050e-c2ee-4de9-a86d-ac696f5380a0"
 ---
 > ここで機能の発表についてアンケートをしてみることしました。よろしくお願いします。

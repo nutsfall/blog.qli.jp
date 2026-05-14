@@ -4,6 +4,7 @@ description: ""
 date: "2006-08-24T10:25:00.000Z"
 categories: []
 keywords: []
+tags: ["gmail", "google-calendar", "mac"]
 slug: "0d11c6c7-189f-4608-a8d5-f85857928a87"
 ---
 

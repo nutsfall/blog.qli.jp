@@ -4,6 +4,7 @@ description: ""
 date: "2008-03-02T14:55:57.000Z"
 categories: []
 keywords: []
+tags: ["sony-mylo", "gadget-review"]
 slug: "8e7ec6a7-f3c0-44d3-ae89-78d97d6c4a47"
 ---
 

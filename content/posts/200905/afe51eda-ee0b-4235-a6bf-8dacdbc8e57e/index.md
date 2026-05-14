@@ -4,6 +4,7 @@ description: ''
 date: '2009-05-23T22:28:37.000Z'
 categories: []
 keywords: []
+tags: ["headphone-amplifier", "sennheiser", "ipod"]
 slug: "afe51eda-ee0b-4235-a6bf-8dacdbc8e57e"
 ---
 先日、HD555というゼンハイザーのヘッドフォンを買いまして。それから、ヘッドフォンアンプというものがあることを知りました。で、買ったのがこれ、icon mobileという製品。

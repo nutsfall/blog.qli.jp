@@ -4,6 +4,7 @@ description: ""
 date: "2006-07-10T00:00:49.000Z"
 categories: []
 keywords: []
+tags: ["palm", "mobile", "macbook"]
 slug: "4896c364-a999-404f-8fb0-a90fa1386690"
 ---
 

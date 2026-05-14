@@ -4,6 +4,7 @@ description: OmniFocusの制作元である OmniGroupが、昨年のまとめと
 date: '2017-01-28T03:05:59.894Z'
 categories: []
 keywords: []
+tags: ["omnifocus", "productivity"]
 slug: "297a8c90-915e-42db-a48c-507da0ac9c50"
 ---
 OmniFocusの制作元である OmniGroupが、昨年のまとめと今年の展望を発表している。

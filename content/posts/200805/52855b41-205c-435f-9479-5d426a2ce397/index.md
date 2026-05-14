@@ -4,6 +4,7 @@ description: ''
 date: '2008-05-18T20:33:17.000Z'
 categories: []
 keywords: []
+tags: ["task-management", "gtd", "omnifocus"]
 slug: "52855b41-205c-435f-9479-5d426a2ce397"
 ---
 タスク管理はOmniFocus(以下OF)を使っていたのですが、checkpadに戻ってきました。RTMに戻らないのか？というところですが、戻らない理由もありました。いろいろと必要な要素が見えてきたのでここでまとめたいと思います。

@@ -4,6 +4,7 @@ description: ""
 date: "2006-08-19T22:20:12.000Z"
 categories: []
 keywords: []
+tags: ["last-fm", "streaming", "music"]
 slug: "ae495380-9c43-4d67-bef5-0a54c003b62b"
 ---
 

@@ -4,6 +4,7 @@ description: ""
 date: "2006-09-05T19:32:00.000Z"
 categories: []
 keywords: []
+tags: ["salyu", "music"]
 slug: "0fa78392-3217-4f89-9823-a2f610929e65"
 ---
 

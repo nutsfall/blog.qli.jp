@@ -4,6 +4,7 @@ description: ''
 date: '2010-05-20T08:38:24.000Z'
 categories: []
 keywords: []
+tags: ["twitter", "iphone"]
 slug: "8e5f5ad2-ff9f-444b-b034-1f4700c2f4ef"
 ---
 これがTwitterにとってひとつのマイルストーンになると思います。TwitterのiPhone版公式アプリ Twitter for iPhone がリリースされました。

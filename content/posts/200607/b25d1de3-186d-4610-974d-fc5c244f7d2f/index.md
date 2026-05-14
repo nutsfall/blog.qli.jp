@@ -4,6 +4,7 @@ description: ''
 date: '2006-07-27T16:18:39.000Z'
 categories: []
 keywords: []
+tags: ["gtd", "productivity"]
 slug: "b25d1de3-186d-4610-974d-fc5c244f7d2f"
 ---
 百式管理人田口さんのブログにこんな企画がのっていました。  

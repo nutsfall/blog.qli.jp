@@ -4,6 +4,7 @@ description: ''
 date: '2006-10-21T20:55:25.000Z'
 categories: []
 keywords: []
+tags: ["ie7", "activex"]
 slug: "f6bf2daf-41ec-4cf4-81e6-5fb2ccd8d597"
 ---
 Inernet Explorer 7における互換性の問題はこれだと思う。

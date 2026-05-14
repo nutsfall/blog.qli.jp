@@ -4,6 +4,7 @@ description: ''
 date: '2009-07-12T22:26:04.000Z'
 categories: []
 keywords: []
+tags: ["iphone-3gs", "nike-plus", "running"]
 slug: "a341d6e7-db82-4b4c-83bc-7937fc1513c9"
 ---
 さて、突然ですが、走ってきました。iPhone 3GSについているのがnike+なんですが、これを使って”ワークアウト”してきました。

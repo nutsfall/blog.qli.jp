@@ -4,6 +4,7 @@ description: ''
 date: '2025-02-01T03:02:03.504Z'
 categories: []
 keywords: []
+tags: ["airpods", "apple"]
 slug: "6a143bcd-0b98-4c3f-87a3-731facc3ba40"
 cover:
   image: "airpods4-review-cover.jpeg"

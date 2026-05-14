@@ -4,6 +4,7 @@ description: ''
 date: '2015-03-21T02:52:28.000Z'
 categories: []
 keywords: []
+tags: ["macbook", "apple"]
 slug: "03c7c18c-1038-403c-b050-834ea03f9618"
 ---
 [**MediumとGhost**  

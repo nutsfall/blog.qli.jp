@@ -4,6 +4,7 @@ description: ''
 date: '2007-01-29T11:16:44.000Z'
 categories: []
 keywords: []
+tags: ["windows-vista", "radarsync"]
 slug: "31c41911-4c29-40c3-8a9d-e76fa1cdec63"
 ---
 昨日、思い切ってWindowsのメインとして使っているPCにVista RC1を入れてみました。ドライバを含めて問題なく試用できるかの試験テスト。平日にバタバタしたくないですからね。

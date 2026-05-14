@@ -4,6 +4,7 @@ description: ''
 date: '2007-10-09T13:35:34.000Z'
 categories: []
 keywords: []
+tags: ["apple", "mac-mini"]
 slug: "90737c24-adf3-475e-bcb2-5cd5e120d281"
 ---
 最近、CNETが積極的にAppleのウワササイトからの引用記事を出していて、CNETから記事を買っている読売新聞WEBサイトにまでそのウワサが伝わっていくという、ちょっと考えた方がいいんじゃないの？という光景が見られたりしますが、  

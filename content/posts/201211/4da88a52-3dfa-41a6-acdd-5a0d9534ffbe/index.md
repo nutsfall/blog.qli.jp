@@ -4,6 +4,7 @@ description: ''
 date: '2012-11-16T22:18:28.000Z'
 categories: []
 keywords: []
+tags: ["eye-fi", "photography"]
 slug: "4da88a52-3dfa-41a6-acdd-5a0d9534ffbe"
 ---
 [**IMG\_1742**  

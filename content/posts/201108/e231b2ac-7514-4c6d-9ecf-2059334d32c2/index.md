@@ -4,6 +4,7 @@ description: ''
 date: '2011-08-25T20:36:23.000Z'
 categories: []
 keywords: []
+tags: ["steve-jobs", "apple"]
 slug: "e231b2ac-7514-4c6d-9ecf-2059334d32c2"
 ---
 今日は、どことなくAppleコミュニティが暗かった気がします。

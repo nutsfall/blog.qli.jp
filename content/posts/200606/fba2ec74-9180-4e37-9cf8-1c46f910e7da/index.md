@@ -4,6 +4,7 @@ description: ""
 date: "2006-06-26T22:37:25.000Z"
 categories: []
 keywords: []
+tags: ["books", "shibazaki-tomoka"]
 slug: "fba2ec74-9180-4e37-9cf8-1c46f910e7da"
 ---
 

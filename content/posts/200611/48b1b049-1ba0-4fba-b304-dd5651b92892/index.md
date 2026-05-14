@@ -4,6 +4,7 @@ description: ''
 date: '2006-11-15T13:57:36.000Z'
 categories: []
 keywords: []
+tags: ["google-desktop", "windows-vista"]
 slug: "48b1b049-1ba0-4fba-b304-dd5651b92892"
 ---
 Google Descktop Searchがリフレッシュされました。今回はメジャー級マイナーバージョンアップです。

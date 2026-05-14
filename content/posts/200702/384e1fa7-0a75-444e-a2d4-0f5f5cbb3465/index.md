@@ -4,6 +4,7 @@ description: ''
 date: '2007-02-04T02:39:12.000Z'
 categories: []
 keywords: []
+tags: ["podcast", "web-design"]
 slug: "384e1fa7-0a75-444e-a2d4-0f5f5cbb3465"
 ---
 なんだか間が開いちゃいましたね。ここ最近、昼間はほぼネットから隔離されている状態なので、ニュースとかもなかなかリアルタイムではチェックできなくなっています。  

@@ -4,6 +4,7 @@ description: ''
 date: '2011-05-21T23:55:16.000Z'
 categories: []
 keywords: []
+tags: ["xperia-acro", "android", "kddi"]
 slug: "d0aaa2be-d13c-45d8-a91a-567225f3dbb1"
 ---
 原宿にあるKDDIデザイニングスタジオで夏モデルとして発表された、Xperia acroを触ってみました。  

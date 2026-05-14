@@ -4,6 +4,7 @@ description: ''
 date: '2010-12-16T22:40:50.000Z'
 categories: []
 keywords: []
+tags: ["evernote", "gtd"]
 slug: "2ab7fd49-53a2-409e-84b0-1d0a4915fac3"
 ---
 これまでほっといたEvernoteを再び使い始めようかという気になりまして。ということで、evernoteでどういう使い方をしているのかというのを整理してみました。それが下のマインドマップ。mindmisterという有料サービスを使っています。どうやらいいフォントが入っていないみたいですね。

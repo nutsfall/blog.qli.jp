@@ -6,6 +6,7 @@ description:
 date: "2014-08-09T04:07:01.103Z"
 categories: []
 keywords: []
+tags: ["gtd", "omnifocus", "things"]
 slug: "db4993a1-7422-4f9a-a73f-b8bec1cd2acf"
 cover:
   image: 1__u1__DYp0__hn__kz__cewYVQAA.jpeg

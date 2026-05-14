@@ -4,6 +4,7 @@ description: ''
 date: '2006-08-29T23:55:44.000Z'
 categories: []
 keywords: []
+tags: ["pda", "w-zero3"]
 slug: "859ac964-d45b-40d8-ae5a-342f61c63652"
 ---
 早めに寝ようと思うとこういうのを発見してしまうんだな。

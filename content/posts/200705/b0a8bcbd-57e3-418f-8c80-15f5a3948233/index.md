@@ -4,6 +4,7 @@ description: ''
 date: '2007-05-12T10:12:31.000Z'
 categories: []
 keywords: []
+tags: ["remioromen", "music"]
 slug: "b0a8bcbd-57e3-418f-8c80-15f5a3948233"
 ---
 今週発売のCDはもう一つ購入してます。  

@@ -4,6 +4,7 @@ description: ''
 date: '2009-03-24T13:39:37.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "mobile-industry", "japan"]
 slug: "2c421822-9c96-46a0-8ebd-da74fe71f4ca"
 ---
 iPhone、そしてiPhone 3Gの存在意義ってなんだろう？と考えるのだけど、一番の存在意義は、Appleファンを含めたユーザを”モバイル”に振り向かせるためのスタートラインだったんじゃないかと思う。特に彼らの国内(米国)向けの意味としては。

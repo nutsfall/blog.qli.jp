@@ -4,6 +4,7 @@ description: ""
 date: "2006-09-23T13:10:59.000Z"
 categories: []
 keywords: []
+tags: ["macbook", "apple", "intel-mac"]
 slug: "65b497fa-ed01-4b58-a2b1-527d76508512"
 ---
 

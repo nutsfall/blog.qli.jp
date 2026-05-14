@@ -4,6 +4,7 @@ description: ''
 date: '2007-10-08T13:25:39.000Z'
 categories: []
 keywords: []
+tags: ["hitoto-yo", "music"]
 slug: "0506d942-3939-4a74-b439-f8f0dfea0406"
 ---
 2週間くらい前に買ってそれ以来あんまり聞いてなかったのだけど、この連休中くらいで急にはまってます、「つないで手」。

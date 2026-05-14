@@ -4,6 +4,7 @@ description: ''
 date: '2024-12-28T03:02:11.525Z'
 categories: []
 keywords: []
+tags: ["apple-tv-plus", "christmas"]
 slug: "06dafc2e-fbe1-41b7-9a17-d103ef14804e"
 ---
 気がつけば、クリスマス特別番組としてApple TV+でカープール・カラオケが公開されていた。 日本ではApple TV+を見ている人があまりいないのか、さほど知名度は高くないが、カープール・カラオケは2017年ごろにアメリカで人気があった番組だ。

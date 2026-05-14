@@ -4,6 +4,7 @@ description: ''
 date: '2006-10-31T10:05:48.000Z'
 categories: []
 keywords: []
+tags: ["social-media", "cgm", "web2.0"]
 slug: "aeb6d2ee-e1b3-492a-83dd-c0374d3e0299"
 ---
 最近、周りのおじさんたちの間でCGMって言葉が流行っている。個人的にはすでにWEB2.0って言葉を”意図的に”使わなくなってしばらく経つのだけど、このCGMって言葉、なんだかピンとこない。  

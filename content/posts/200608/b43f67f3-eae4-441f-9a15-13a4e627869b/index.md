@@ -4,6 +4,7 @@ description: ''
 date: '2006-08-23T08:39:34.000Z'
 categories: []
 keywords: []
+tags: ["remember-the-milk", "checkpad", "gtd"]
 slug: "b43f67f3-eae4-441f-9a15-13a4e627869b"
 ---
 日本で人気があるタスク管理ツールといえば、[Remember the milk](http://www.rememberthemilk.com/) と [check\*pad](http://www.checkpad.jp/) ですよね。  

@@ -4,6 +4,7 @@ description: ''
 date: '2010-01-05T18:26:08.000Z'
 categories: []
 keywords: []
+tags: ["audio-technica", "headphone-amp", "iphone"]
 slug: "6c80566b-6f90-47a6-9ecc-fa9eab00f780"
 ---
 オーディオテクニカが出したiPhone用モバイルアンプ。

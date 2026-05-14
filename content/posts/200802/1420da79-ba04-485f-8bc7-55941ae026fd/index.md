@@ -4,6 +4,7 @@ description: ''
 date: '2008-02-24T13:11:05.000Z'
 categories: []
 keywords: []
+tags: ["feedburner", "rss", "blogging"]
 slug: "1420da79-ba04-485f-8bc7-55941ae026fd"
 ---
 本当はきゅーり.jpの2周年記念用にとっておいたネタですが、まだ4ヶ月も先のことなので書いておきたいと思います。

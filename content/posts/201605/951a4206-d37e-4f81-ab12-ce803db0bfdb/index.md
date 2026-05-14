@@ -4,6 +4,7 @@ description: ""
 date: "2016-05-22T01:34:05.000Z"
 categories: []
 keywords: []
+tags: ["omnifocus", "gtd", "task-management"]
 slug: "951a4206-d37e-4f81-ab12-ce803db0bfdb"
 ---
 

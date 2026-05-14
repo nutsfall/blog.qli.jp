@@ -4,6 +4,7 @@ description: ''
 date: '2023-12-16T03:02:01.290Z'
 categories: []
 keywords: []
+tags: ["medium", "blogging"]
 slug: "b756c743-ec9f-4d24-9bc1-6a4ff984dcb3"
 ---
 この記事は[medium](https://medium.com)というプラットフォームを使って公開しています。

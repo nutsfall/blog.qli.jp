@@ -4,6 +4,7 @@ description: ''
 date: '2011-01-14T20:47:58.000Z'
 categories: []
 keywords: []
+tags: ["facebook", "mixi", "social-network"]
 slug: "4691d38f-0639-4f52-b108-f5561ff211aa"
 ---
 映画ソーシャルネットワーキングの公開日が近いというのがあるせいか、あちらこちらで、Facebookに関する記事が散見されます。

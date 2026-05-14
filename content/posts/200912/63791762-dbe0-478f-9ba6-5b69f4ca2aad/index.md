@@ -4,6 +4,7 @@ description: ''
 date: '2009-12-31T09:46:17.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "twitter", "augmented-reality"]
 slug: "63791762-dbe0-478f-9ba6-5b69f4ca2aad"
 ---
 次はIT系というかWEB系というか、デジタル系とまとめた方がいいのかも。ここ最近はすっかりWEB系ばっかりになってきていて、HTTP以外のプロトコルが忘れられているんじゃないかと思えてしょうがない･･･。

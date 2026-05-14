@@ -4,6 +4,7 @@ description: ''
 date: '2010-09-05T20:09:33.000Z'
 categories: []
 keywords: []
+tags: ["vox", "twitter", "blogging"]
 slug: "9b37a643-1654-4692-8639-26b9198ce62c"
 ---
 9月3日、シックスアパートが全世界でのVox終了を宣言した。

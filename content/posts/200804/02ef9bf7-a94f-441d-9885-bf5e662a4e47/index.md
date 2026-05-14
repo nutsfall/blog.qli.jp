@@ -4,6 +4,7 @@ description: ''
 date: '2008-04-14T00:25:24.000Z'
 categories: []
 keywords: []
+tags: ["organic-cotton", "sustainability"]
 slug: "02ef9bf7-a94f-441d-9885-bf5e662a4e47"
 ---
 昨日とあるテレビ番組でオーガニックコットンが紹介されていた。このブログでも何度か紹介したことのあるkurkkuで取り扱われている商品だそうです。

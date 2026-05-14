@@ -4,6 +4,7 @@ description: ''
 date: '2008-04-08T12:35:34.000Z'
 categories: []
 keywords: []
+tags: ["google-app-engine", "python"]
 slug: "348226b3-38b1-4fce-bf44-dcf7d3db0404"
 ---
 Google App Engineがリリースされました。

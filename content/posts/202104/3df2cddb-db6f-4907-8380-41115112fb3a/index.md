@@ -4,6 +4,7 @@ description: ''
 date: '2021-04-30T12:42:07.320Z'
 categories: []
 keywords: []
+tags: ["apple", "ios", "apple-music"]
 slug: "3df2cddb-db6f-4907-8380-41115112fb3a"
 ---
 iOS14.5 が出ましたね。Public Beta を2ヶ月ほど使っていました。

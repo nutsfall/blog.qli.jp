@@ -4,6 +4,7 @@ description: ''
 date: '2007-12-31T11:28:49.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "mobile", "predictions"]
 slug: "362584bc-e2bd-44ee-b08d-3930d8ed26b7"
 ---
 2008年の出来事を勝手に予想してみたいと思います。勝手な憶測と妄想なのでささっと読み進めてください（笑）

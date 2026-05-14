@@ -4,6 +4,7 @@ description: ''
 date: '2007-06-04T10:50:07.000Z'
 categories: []
 keywords: []
+tags: ["fedora", "linux"]
 slug: "1874d122-4489-46ed-b30b-45c7d5092099"
 ---
 遅いニュースになってしまいますが。

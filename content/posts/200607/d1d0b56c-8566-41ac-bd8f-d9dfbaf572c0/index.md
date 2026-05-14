@@ -4,6 +4,7 @@ description: ''
 date: '2006-07-11T11:13:08.000Z'
 categories: []
 keywords: []
+tags: ["remember-the-milk", "gtd"]
 slug: "d1d0b56c-8566-41ac-bd8f-d9dfbaf572c0"
 ---
 前述したとおり、最近Remember the milkを使い始めてみた。(GTDの説明は割愛)  

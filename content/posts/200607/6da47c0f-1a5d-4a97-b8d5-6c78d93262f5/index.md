@@ -4,6 +4,7 @@ description: ''
 date: '2006-07-10T14:57:04.000Z'
 categories: []
 keywords: []
+tags: ["typepad"]
 slug: "6da47c0f-1a5d-4a97-b8d5-6c78d93262f5"
 ---
 このブログは独自ドメインをマッピングしているので分かりづらいですが、Typepadです。(テンプレートとかで分かると思いますが)

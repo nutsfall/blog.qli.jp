@@ -4,6 +4,7 @@ description: ""
 date: "2006-08-06T21:24:00.000Z"
 categories: []
 keywords: []
+tags: ["apple", "mighty-mouse"]
 slug: "f4c8d7ac-910f-436e-8668-f3aa774accfc"
 ---
 

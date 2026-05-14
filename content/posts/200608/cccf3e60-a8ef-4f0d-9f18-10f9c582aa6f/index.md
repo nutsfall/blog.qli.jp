@@ -4,6 +4,7 @@ description: ""
 date: "2006-08-22T15:06:00.000Z"
 categories: []
 keywords: []
+tags: ["vox", "blogging"]
 slug: "cccf3e60-a8ef-4f0d-9f18-10f9c582aa6f"
 ---
 

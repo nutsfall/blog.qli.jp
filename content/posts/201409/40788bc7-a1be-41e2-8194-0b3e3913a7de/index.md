@@ -4,6 +4,7 @@ description: ''
 date: '2014-09-16T14:02:31.000Z'
 categories: []
 keywords: []
+tags: ["ux-strategy", "organizational-design"]
 slug: "40788bc7-a1be-41e2-8194-0b3e3913a7de"
 ---
 UX STARTというイベントを始めて知った。9月7日から9日までアメリカで行われたらしい。その記事をたまたま知ることができた。

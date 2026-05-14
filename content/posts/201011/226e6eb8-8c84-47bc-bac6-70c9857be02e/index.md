@@ -4,6 +4,7 @@ description: ''
 date: '2010-11-25T21:06:44.000Z'
 categories: []
 keywords: []
+tags: ["social-media", "twitter"]
 slug: "226e6eb8-8c84-47bc-bac6-70c9857be02e"
 ---
 Techwaveの２つの記事

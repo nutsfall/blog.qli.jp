@@ -4,6 +4,7 @@ description: ''
 date: '2014-03-25T22:50:20.000Z'
 categories: []
 keywords: []
+tags: ["agile", "scrum", "book-review"]
 slug: "172225ad-5dc7-410b-b3b0-cabdfb92e966"
 ---
 とある記事がとても反響があるのを見ていた。

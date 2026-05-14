@@ -4,6 +4,7 @@ description: ''
 date: '2012-01-28T09:27:28.000Z'
 categories: []
 keywords: []
+tags: ["shiawase-no-pan", "film"]
 slug: "f973fb26-afdd-41b5-9593-5fdece778c3b"
 ---
 しあわせのパンを見に行きました 北海道のある湖の近くにあるカフェの物語。いろんなパンがいろんな人の心を動かしていく物語。   

@@ -4,6 +4,7 @@ description: ''
 date: '2009-03-08T22:57:15.000Z'
 categories: []
 keywords: []
+tags: ["lego-big-morl", "music"]
 slug: "e89a7629-f526-4ab2-8545-a4ffcc937e84"
 ---
 最近はまっている音楽をポストしてみます。Last.fmなんかで購読いただいている方にはよく目についていたりするかもしれませんが。

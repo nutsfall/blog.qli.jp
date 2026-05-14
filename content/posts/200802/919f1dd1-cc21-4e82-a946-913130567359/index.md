@@ -4,6 +4,7 @@ description: ''
 date: '2008-02-01T22:23:32.000Z'
 categories: []
 keywords: []
+tags: ["netscape", "firefox", "browser-migration"]
 slug: "919f1dd1-cc21-4e82-a946-913130567359"
 ---
 Mozilla Japanがすでに開発が終了し、3月1日でサポートが終了するNetscapeユーザのための移行ガイドを公開しています。

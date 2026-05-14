@@ -4,6 +4,7 @@ description: ''
 date: '2006-12-27T01:07:30.000Z'
 categories: []
 keywords: []
+tags: ["apple-store"]
 slug: "20b39dfc-c09c-4ab2-b1f1-71ad93196618"
 ---
 福袋の販売って終わったんだっけと思いつつ、Apple Store(online)に言ってみたら、見覚えのある”We’ll be back soon”という文字が。なぜかメンテナンス中。  

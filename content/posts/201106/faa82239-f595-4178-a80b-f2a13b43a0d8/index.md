@@ -4,6 +4,7 @@ description: ''
 date: '2011-06-18T14:18:02.000Z'
 categories: []
 keywords: []
+tags: ["film", "tokyo-park"]
 slug: "faa82239-f595-4178-a80b-f2a13b43a0d8"
 ---
 東京公園見てきた。

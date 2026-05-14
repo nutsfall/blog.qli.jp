@@ -4,6 +4,7 @@ description: ''
 date: '2014-10-20T13:09:08.000Z'
 categories: []
 keywords: []
+tags: ["tdd", "software-testing"]
 slug: "c62ec8cb-ac10-4cc7-b677-b779a13c1d47"
 ---
 「TDD is dead」以降、TDDの議論が再燃していて、その中で Rspec の使用を見直す動きが一部であるらしい。  

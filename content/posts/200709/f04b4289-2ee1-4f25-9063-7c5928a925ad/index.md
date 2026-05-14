@@ -4,6 +4,7 @@ description: ''
 date: '2007-09-22T11:03:30.000Z'
 categories: []
 keywords: []
+tags: ["macbook", "apple", "mac-os-x-leopard"]
 slug: "f04b4289-2ee1-4f25-9063-7c5928a925ad"
 ---
 iPod Touchのオンラインからの出荷が開始され、いよいよ日本でマルチタッチインターフェースが花開く時期がやってきました。自分のはもう出荷済みなので、明日には届くのではと思っています。

@@ -4,6 +4,7 @@ description: ""
 date: "2014-03-10T10:08:53.000Z"
 categories: []
 keywords: []
+tags: ["jr-east", "mobile-app", "ux"]
 slug: "49735a57-c9c4-4f53-b9de-943859b2613d"
 ---
 

@@ -4,6 +4,7 @@ description: ''
 date: '2010-04-04T03:18:27.000Z'
 categories: []
 keywords: []
+tags: ["solanin", "japanese-film"]
 slug: "ac53979c-5883-49f7-98f1-67af8c06c9f5"
 ---
 “ソラニン”を見た。   

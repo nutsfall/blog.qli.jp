@@ -4,6 +4,7 @@ description: ''
 date: '2013-09-13T23:11:36.000Z'
 categories: []
 keywords: []
+tags: ["ios", "wwdc", "apple"]
 slug: "881f2e0b-3921-42d3-b8d6-73a7e739b076"
 ---
 新しいiOSがリリースされるというのは大きなできごとです。ここではそれをまとめてみました。

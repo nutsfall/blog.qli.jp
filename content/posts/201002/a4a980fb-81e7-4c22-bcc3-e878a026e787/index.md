@@ -4,6 +4,7 @@ description: ''
 date: '2010-02-13T22:14:17.000Z'
 categories: []
 keywords: []
+tags: ["google-buzz", "facebook", "social-media"]
 slug: "a4a980fb-81e7-4c22-bcc3-e878a026e787"
 ---
 今週、２つの大きな出来事がありました。

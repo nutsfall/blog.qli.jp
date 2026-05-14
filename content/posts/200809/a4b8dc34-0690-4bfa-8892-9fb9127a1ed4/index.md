@@ -4,6 +4,7 @@ description: ''
 date: '2008-09-17T15:21:46.000Z'
 categories: []
 keywords: []
+tags: ["google-chrome", "browser", "web-analytics"]
 slug: "a4b8dc34-0690-4bfa-8892-9fb9127a1ed4"
 ---
 リリース前後には「ついにGoogleがブラウザをリリースした」ということで、WEB業界内はかなり騒然とした感じがあります。このブログでも、多分に漏れずGoogle Analyticsを利用しており、アクセス状況を把握していたりしていますが、Google Chromeリリース直後には6%のアクセス数があったのを確認しました。

@@ -4,6 +4,7 @@ description: ''
 date: '2007-05-07T20:50:34.000Z'
 categories: []
 keywords: []
+tags: ["blog"]
 slug: "a8fe55ec-8754-4ca3-b280-83156fd867c7"
 ---
 ブログ名を きゅーり.jp から blog.qli.jp に変更しました。

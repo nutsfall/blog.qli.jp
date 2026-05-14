@@ -4,6 +4,7 @@ description: ''
 date: '2008-05-21T09:42:29.000Z'
 categories: []
 keywords: []
+tags: ["facebook", "mixi", "social-media"]
 slug: "20302682-e7e5-44b3-a55e-5c6d18421c06"
 ---
 ニュースからのブームも一段落ついたみたいなのでこのタイミングで。

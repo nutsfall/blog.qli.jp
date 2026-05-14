@@ -4,6 +4,7 @@ description: ''
 date: '2010-05-13T22:43:38.000Z'
 categories: []
 keywords: []
+tags: ["time-capsule", "apple"]
 slug: "08733e59-7047-44f4-91d4-941491160460"
 ---
 このたび、Time Capsuleを500GBから2TBにリプレイスしました。リプレイスした理由は簡単で、500GBのものは初代のTime Capsuleなのですが、突然電源が落ちて2度と入らなくなってしまったからです。

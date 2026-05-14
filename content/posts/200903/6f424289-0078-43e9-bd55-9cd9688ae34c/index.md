@@ -4,6 +4,7 @@ description: ''
 date: '2009-03-15T16:54:53.000Z'
 categories: []
 keywords: []
+tags: ["twitter", "microblogging", "mac-app"]
 slug: "6f424289-0078-43e9-bd55-9cd9688ae34c"
 ---
 > 入力時にインクリメンタルサーチとかそういう機能がクライアント側につくと便利かもしれませんね。

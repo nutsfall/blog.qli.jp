@@ -108,9 +108,29 @@ cover:
   caption: "キャプションテキスト"
 ```
 
+## Tags
+
+All posts have a `tags:` field in frontmatter. Tags follow these rules:
+
+- **English, lowercase** — use hyphens for multi-word: `j-league`, `apple-music`
+- **1–3 tags per post** (1 is fine for short posts)
+- **Specific over generic** — avoid `diary`, `misc`, `thoughts`, `life`
+- **Proper nouns welcome** — products, artists, teams, works: `apple`, `netflix`, `avispa-fukuoka`
+
+When adding tags to a new post, follow the same convention. To bulk-tag posts:
+
+```bash
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --dry-run --limit 10  # preview
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb                        # run
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --from-checkpoint      # resume if interrupted
+```
+
+Uses `claude -p` (no API key needed). Requires Claude Code CLI to be authenticated.
+
 ## Maintenance Scripts (Ruby)
 
 Located in `scripts/`:
+- `auto_tagger.rb` — bulk-tags posts using Claude CLI (`claude -p`)
 - `duplicate_post_cleaner.rb` — removes duplicate posts (85% similarity threshold)
 - `convert_to_page_bundles.rb` — migrates flat `.md` files to page bundle structure
 - `title_slug_updater.rb` — updates frontmatter titles/slugs

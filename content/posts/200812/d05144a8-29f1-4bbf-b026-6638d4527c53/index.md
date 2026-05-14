@@ -4,6 +4,7 @@ description: ''
 date: '2008-12-29T00:38:25.000Z'
 categories: []
 keywords: []
+tags: ["last-fm", "little-man-tate", "year-in-review"]
 slug: "d05144a8-29f1-4bbf-b026-6638d4527c53"
 ---
 今度はこのブログを中心に振り返ってみたいと思います。

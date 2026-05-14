@@ -4,6 +4,7 @@ description: ''
 date: '2012-01-04T22:57:52.000Z'
 categories: []
 keywords: []
+tags: ["live-music", "new-years-eve", "salyu"]
 slug: "b57dcf35-5542-4446-b90a-bfa3bca24b47"
 ---
 12月31日、カウントダウンパーティのために代々木ヴィレッジに行きました。代々木ヴィレッジは何回かいったことあるのですが、この日は特別な時間が流れていました。

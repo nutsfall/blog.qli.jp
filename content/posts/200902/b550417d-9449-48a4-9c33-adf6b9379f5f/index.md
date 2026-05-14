@@ -4,6 +4,7 @@ description: ""
 date: "2009-02-05T00:36:03.000Z"
 categories: []
 keywords: []
+tags: ["google-latitude", "location-sharing"]
 slug: "b550417d-9449-48a4-9c33-adf6b9379f5f"
 ---
 

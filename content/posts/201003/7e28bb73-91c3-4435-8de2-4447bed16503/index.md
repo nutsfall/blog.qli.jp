@@ -4,6 +4,7 @@ description: ''
 date: '2010-03-08T23:06:48.000Z'
 categories: []
 keywords: []
+tags: ["book-review", "programming", "career"]
 slug: "7e28bb73-91c3-4435-8de2-4447bed16503"
 ---
 どこで紹介された本だったかは忘れましたが、まとまった本を読む時間が取れそうだったのと、ちょうどそのタイミングで気になる本だったので読んでみました。

@@ -4,6 +4,7 @@ description: ''
 date: '2011-12-31T14:55:09.000Z'
 categories: []
 keywords: []
+tags: ["countdown-japan", "straightener", "j-league"]
 slug: "d1e36ce5-f7d1-4a2c-a644-19db04cb4ea7"
 ---
 昨日、ストレイテナーのライブを見ていた。その時ふと頭をよぎったこと。

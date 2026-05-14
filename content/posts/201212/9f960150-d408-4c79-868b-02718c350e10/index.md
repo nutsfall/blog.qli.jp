@@ -4,6 +4,7 @@ description: ''
 date: '2012-12-20T22:49:54.000Z'
 categories: []
 keywords: []
+tags: ["iphone", "wi-fi"]
 slug: "9f960150-d408-4c79-868b-02718c350e10"
 ---
 なにやらここ最近 iPhone ユーザーから、自動接続のキャリア提供Wi-FiをつながらないようにWi-Fiそのものをオフにしているって話をTwitterで聞くので、ちょっと書いておくことにする。

@@ -4,6 +4,7 @@ description: ""
 date: "2006-09-16T20:55:35.000Z"
 categories: []
 keywords: []
+tags: ["macbook", "ipod-nano"]
 slug: "d2357cb3-61e6-474f-a86c-a4a002932a64"
 ---
 

@@ -4,6 +4,7 @@ description: ''
 date: '2006-08-29T11:21:10.000Z'
 categories: []
 keywords: []
+tags: ["vox", "social-networking"]
 slug: "32d8b168-7aff-4c0a-8b3b-0982f3a1ffd7"
 ---
 VOXというサービスを絶対的に特徴付けるのが「つながる」機能。いままで説明が難しかったのですが、VOX日本語版オフィシャル(?)ブログである”チームVOXのブログ”にて素晴らしい説明用記事があったのでご紹介。

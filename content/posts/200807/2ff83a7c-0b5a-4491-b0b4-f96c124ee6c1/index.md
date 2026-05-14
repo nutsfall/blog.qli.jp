@@ -4,6 +4,7 @@ description: ''
 date: '2008-07-28T23:07:02.000Z'
 categories: []
 keywords: []
+tags: ["mac", "apps"]
 slug: "2ff83a7c-0b5a-4491-b0b4-f96c124ee6c1"
 ---
 Twitterやらでお世話になっているveadarさんが面白い記事を書いていました。

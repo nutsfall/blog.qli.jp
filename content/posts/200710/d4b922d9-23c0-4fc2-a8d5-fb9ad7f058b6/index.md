@@ -4,6 +4,7 @@ description: ''
 date: '2007-10-24T22:47:56.000Z'
 categories: []
 keywords: []
+tags: ["chatmonchy", "music"]
 slug: "d4b922d9-23c0-4fc2-a8d5-fb9ad7f058b6"
 ---
 いろいろと初物にチャレンジしてたりしてるのですが、かねてから気になっていたチャットモンチーの新しいアルバムを買いました。

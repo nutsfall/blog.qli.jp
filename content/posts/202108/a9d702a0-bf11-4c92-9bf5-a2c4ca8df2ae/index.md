@@ -4,6 +4,7 @@ description: ついTwitterで知りまして、つい…
 date: '2021-08-07T15:26:46.973Z'
 categories: []
 keywords: []
+tags: ["marshall", "true-wireless-earphones", "audio"]
 slug: "a9d702a0-bf11-4c92-9bf5-a2c4ca8df2ae"
 ---
 ついTwitterで知りまして、つい…

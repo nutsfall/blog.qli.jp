@@ -4,6 +4,7 @@ description: ''
 date: '2006-10-26T20:38:07.000Z'
 categories: []
 keywords: []
+tags: ["vox", "sixapart"]
 slug: "8ca851f6-6dd3-4783-a1f4-f9576b402fd6"
 ---
 SixApartの新サービス[VOX](http://www.vox.com/)が正式オープンしました。  

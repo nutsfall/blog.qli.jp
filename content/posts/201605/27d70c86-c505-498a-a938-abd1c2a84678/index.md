@@ -4,6 +4,7 @@ description: ''
 date: '2016-05-06T02:52:30.000Z'
 categories: []
 keywords: []
+tags: ["ghost", "blogging"]
 slug: "27d70c86-c505-498a-a938-abd1c2a84678"
 ---
 このブログはGhost Proというサービスを使っている。そのGhostのデスクトップアプリが、  

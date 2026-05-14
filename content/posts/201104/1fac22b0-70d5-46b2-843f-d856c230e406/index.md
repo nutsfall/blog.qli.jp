@@ -4,6 +4,7 @@ description: ''
 date: '2011-04-14T22:38:06.000Z'
 categories: []
 keywords: []
+tags: ["agile", "nuclear-energy", "web-industry"]
 slug: "1fac22b0-70d5-46b2-843f-d856c230e406"
 ---
 ここのところ、”思考停止”という言葉が、マイブームになりつつある。普段は書かないテーマだけど、少し書いてみようかと思う。

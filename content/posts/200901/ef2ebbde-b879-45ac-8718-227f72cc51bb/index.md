@@ -4,6 +4,7 @@ description: ''
 date: '2009-01-07T23:38:14.000Z'
 categories: []
 keywords: []
+tags: ["things", "gtd"]
 slug: "ef2ebbde-b879-45ac-8718-227f72cc51bb"
 ---
 ずっとこのブログで追い続けているシンプルなGTDタスク管理ツール”[Things](http://culturedcode.com/things/)”がMacWorldにて正式リリースされました。あわせて、Things for iPhoneも1.3にアップデートしています。

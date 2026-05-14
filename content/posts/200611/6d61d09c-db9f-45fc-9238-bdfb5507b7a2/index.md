@@ -4,6 +4,7 @@ description: ''
 date: '2006-11-15T23:04:49.000Z'
 categories: []
 keywords: []
+tags: ["apple", "mac", "get-a-mac"]
 slug: "6d61d09c-db9f-45fc-9238-bdfb5507b7a2"
 ---
 Get a Macキャンペーンの日本語広告なのですが、ポツポツ日本でも流れてきましたね。日本でMacのCMってあんまり見ることないので、違和感を感じてしまうのですが、これを機にMacを気にしてくれる人が増えてくれればMacユーザーとしてはうれしい限りです。  

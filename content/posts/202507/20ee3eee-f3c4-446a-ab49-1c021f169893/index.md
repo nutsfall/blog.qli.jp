@@ -4,6 +4,7 @@ description: ''
 date: '2025-07-12T03:01:47.628Z'
 categories: []
 keywords: []
+tags: ["mcp", "claude", "things"]
 slug: "20ee3eee-f3c4-446a-ab49-1c021f169893"
 ---
 今日の内容には少し技術的な話も含まれるため、いつも読んでくれている方の中には、やや難しく感じる人もいるかもしれない。今回はAIエージェントとMCPの話をしたい。

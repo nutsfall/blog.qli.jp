@@ -4,6 +4,7 @@ description: ''
 date: '2015-06-22T12:23:38.000Z'
 categories: []
 keywords: []
+tags: ["twitter", "security"]
 slug: "a5b7a436-9cfa-4d34-9d64-59012383268e"
 ---
 「Twitterログインリクエスト」というメールが届くようになっており、「なにこれ？」「不審なメールなの？」と感じている人も多いようなので、まとめておきます。

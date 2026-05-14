@@ -4,6 +4,7 @@ description: ""
 date: "2007-01-22T20:11:22.000Z"
 categories: []
 keywords: []
+tags: ["movable-type"]
 slug: "b983f2ef-d1d6-4875-a443-b4ca9e3442a0"
 ---
 

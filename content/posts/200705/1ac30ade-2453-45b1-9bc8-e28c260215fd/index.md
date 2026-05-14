@@ -4,6 +4,7 @@ description: ''
 date: '2007-05-18T00:03:43.000Z'
 categories: []
 keywords: []
+tags: ["jaiku", "twitter", "api"]
 slug: "1ac30ade-2453-45b1-9bc8-e28c260215fd"
 ---
 Twitterが軽くなって楽しさを満喫しているところですが、重い間jaikuにちと浮気してました。Twitterにはまとめ記事が散見されるんですが、Jaikuはないのでまとめを。

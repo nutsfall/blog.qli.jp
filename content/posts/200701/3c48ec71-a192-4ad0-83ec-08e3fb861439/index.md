@@ -4,6 +4,7 @@ description: ''
 date: '2007-01-25T09:03:36.000Z'
 categories: []
 keywords: []
+tags: ["audio-technica", "headphones", "noise-canceling"]
 slug: "3c48ec71-a192-4ad0-83ec-08e3fb861439"
 ---
 ついに発売日が発表されたオーディオテクニカのNCヘッドフォンですが、試用レビューがのっていました。

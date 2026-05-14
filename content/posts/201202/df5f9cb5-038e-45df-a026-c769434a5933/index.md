@@ -4,6 +4,7 @@ description: ''
 date: '2012-02-02T23:36:57.000Z'
 categories: []
 keywords: []
+tags: ["salyu", "live-music"]
 slug: "df5f9cb5-038e-45df-a026-c769434a5933"
 ---
 Salyuさんのライブに2夜連続行きました。2月1日 salyu x salyu + Salyu＠代官山UNIT、そして2月2日 Salyuインストアライブ＠タワーレコード渋谷。

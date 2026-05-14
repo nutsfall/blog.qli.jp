@@ -4,6 +4,7 @@ description: WOWOWで放送中のモキュメンタリー「PORTAL-X」につい
 date: '2024-01-27T03:01:45.566Z'
 categories: []
 keywords: []
+tags: ["wowow", "portal-x"]
 slug: "537fb8f2-8994-4180-8dd1-69ef6453693f"
 ---
 いよいよ2024年1月最後の週末。時の流れについて来れてますか？

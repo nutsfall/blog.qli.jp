@@ -4,6 +4,7 @@ description: ''
 date: '2012-03-30T07:28:10.000Z'
 categories: []
 keywords: []
+tags: ["au", "iphone", "mms"]
 slug: "d2ad6710-a166-4211-a9c6-d44849c9955a"
 ---
 “3月中”を予定されていた、au iPhoneのMMS対応は、4月中旬へ開始時期を遅らせることが正式に発表されました（[リンク](http://www.au.kddi.com/news/information/au_info_20120329a.html)）。

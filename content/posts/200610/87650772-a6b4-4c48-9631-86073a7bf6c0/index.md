@@ -4,6 +4,7 @@ description: ''
 date: '2006-10-25T08:21:55.000Z'
 categories: []
 keywords: []
+tags: ["productivity", "information-management", "wiki"]
 slug: "87650772-a6b4-4c48-9631-86073a7bf6c0"
 ---
 妙に納得してしまったのでシェア。

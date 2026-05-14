@@ -4,6 +4,7 @@ description: ''
 date: '2006-10-19T11:23:35.000Z'
 categories: []
 keywords: []
+tags: ["google", "transit-search", "mobile"]
 slug: "a033afef-ba66-4207-8d0b-3c9c9e9a3f99"
 ---
 息抜き投稿その１。２はたぶんありません。

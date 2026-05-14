@@ -4,6 +4,7 @@ description: ''
 date: '2006-12-11T00:54:27.000Z'
 categories: []
 keywords: []
+tags: ["plugoo", "instant-messaging", "web-tools"]
 slug: "b2d1e688-61c0-4017-8816-e37e7c26d7a3"
 ---
 BlueDotもしてたので知っているかたもいるかと思いますが、メッセンジャーにサイト訪問者からのメッセージを伝えるサービス、Plugooのプラグインをサイドバーにつけてみました。Mac版ではfirefoxとSafariで文字化けなく使用できるようです。windowsのブラウザは検証してません。

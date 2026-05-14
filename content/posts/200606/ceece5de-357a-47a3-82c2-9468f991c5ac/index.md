@@ -4,6 +4,7 @@ description: ""
 date: "2006-06-23T11:05:00.000Z"
 categories: []
 keywords: []
+tags: ["world-cup", "soccer"]
 slug: "ceece5de-357a-47a3-82c2-9468f991c5ac"
 ---
 

@@ -4,6 +4,7 @@ description: ''
 date: '2015-09-13T00:28:54.000Z'
 categories: []
 keywords: []
+tags: ["iphone-6s"]
 slug: "1f00c070-5c27-4457-925f-a0224e6d1c28"
 ---
 ![](1__Xot8yl25JfpMqT__hkyx9ww.png)

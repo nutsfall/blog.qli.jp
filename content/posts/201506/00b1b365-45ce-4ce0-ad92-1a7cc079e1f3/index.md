@@ -4,6 +4,7 @@ description: ''
 date: '2015-06-18T06:50:34.000Z'
 categories: []
 keywords: []
+tags: ["film", "our-little-sister", "the-journalist"]
 slug: "00b1b365-45ce-4ce0-ad92-1a7cc079e1f3"
 ---
 映画予告犯と海街Diaryを見てきたので感想でも。

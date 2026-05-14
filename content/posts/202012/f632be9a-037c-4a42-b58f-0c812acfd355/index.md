@@ -4,6 +4,7 @@ description: 東京カランコロンの解散ライブ「ラストのワンマ 
 date: '2020-12-24T13:57:49.182Z'
 categories: []
 keywords: []
+tags: ["airpods-max", "headphones"]
 slug: "f632be9a-037c-4a42-b58f-0c812acfd355"
 ---
 東京カランコロンの解散ライブ「ラストのワンマ ん」 を先ほどまで見ていました。オンラインライブのアーカイブです。

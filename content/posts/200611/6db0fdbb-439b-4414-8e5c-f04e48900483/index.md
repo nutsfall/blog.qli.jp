@@ -4,6 +4,7 @@ description: ""
 date: "2006-11-05T21:51:57.000Z"
 categories: []
 keywords: []
+tags: ["gmail", "mobile"]
 slug: "6db0fdbb-439b-4414-8e5c-f04e48900483"
 ---
 
