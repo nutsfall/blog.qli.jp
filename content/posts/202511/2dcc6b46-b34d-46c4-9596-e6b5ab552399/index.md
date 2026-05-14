@@ -4,7 +4,7 @@ date: "2025-11-29T03:02:10"
 slug: "2dcc6b46-b34d-46c4-9596-e6b5ab552399"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E5%BC%B7%E7%BE%85%E3%82%92%E8%A1%8C%E3%81%8F-bee9d9d1e48d?source=rss-21bfda6f823e------2"
-tags: ["trip", "箱根"]
+tags: ["trip"]
 draft: false
 ---
 

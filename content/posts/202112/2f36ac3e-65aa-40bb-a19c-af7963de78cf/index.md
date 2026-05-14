@@ -6,7 +6,7 @@ description:
 date: "2021-12-19T05:02:07.428Z"
 categories: []
 keywords: []
-tags: [Apple, MacBook]
+tags: ["apple", "macbook"]
 slug: "2f36ac3e-65aa-40bb-a19c-af7963de78cf"
 ---
 

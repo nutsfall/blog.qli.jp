@@ -5,7 +5,7 @@ date: "2024-12-14T03:01:29.746Z"
 categories: []
 keywords: []
 slug: "e66b34d8-7849-4718-b15b-b2c4c606fc5e"
-tags: ["movies"]
+tags: ["movies", "year-in-review"]
 ---
 
 12 月に入って、今年も残りの日数が数えられるようになった。というわけで、そろそろ区切りを迎える前に、今年のふりかえりをしたい。まずは映画編。

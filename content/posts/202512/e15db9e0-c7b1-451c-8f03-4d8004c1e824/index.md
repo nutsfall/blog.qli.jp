@@ -4,7 +4,7 @@ date: "2025-12-13T03:02:22"
 slug: "e15db9e0-c7b1-451c-8f03-4d8004c1e824"
 source: "medium"
 original_url: "https://medium.com/@hiro/2025%E5%B9%B4%E3%81%AE%E3%82%A2%E3%83%92%E3%82%99%E3%82%B9%E3%83%8F%E3%82%9A%E7%A6%8F%E5%B2%A1%E3%81%AE%E8%A9%B1-03e411cf8d70?source=rss-21bfda6f823e------2"
-tags: ["2025-recap", "avispa"]
+tags: ["year-in-review", "avispa"]
 draft: false
 cover:
   image: "cover.jpeg"

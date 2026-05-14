@@ -5,7 +5,7 @@ date: "2024-12-21T03:02:07.968Z"
 categories: []
 keywords: []
 slug: "7fcd7fd0-c373-4ef5-b9a9-160307a946a6"
-tags: ["music"]
+tags: ["music", "year-in-review"]
 cover:
   image: 1__AQM6Me6q1CNSqIN7G87rNg.jpeg
   # can also paste direct link from external site

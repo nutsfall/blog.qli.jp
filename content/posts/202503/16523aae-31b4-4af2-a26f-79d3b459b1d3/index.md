@@ -5,7 +5,7 @@ date: "2025-03-01T03:02:22.169Z"
 categories: []
 keywords: []
 slug: "16523aae-31b4-4af2-a26f-79d3b459b1d3"
-tags: [Things, Productivity]
+tags: ["things", "productivity"]
 cover:
   image: "things-tags-cover.jpeg"
 ---

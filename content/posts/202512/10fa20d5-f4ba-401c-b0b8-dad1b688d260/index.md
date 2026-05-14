@@ -4,7 +4,7 @@ date: "2025-12-20T03:02:18"
 slug: "10fa20d5-f4ba-401c-b0b8-dad1b688d260"
 source: "medium"
 original_url: "https://medium.com/@hiro/2025%E5%B9%B4%E3%81%AE%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A-%E6%98%A0%E7%94%BB%E7%B7%A8-41061b03f271?source=rss-21bfda6f823e------2"
-tags: ["2025-recap", "movies"]
+tags: ["year-in-review", "movies"]
 draft: false
 ---
 
