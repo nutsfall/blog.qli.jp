@@ -5,8 +5,9 @@ date: '2024-10-05T11:33:02.136Z'
 categories: []
 keywords: []
 slug: "f713adea-f9dc-4117-b4d0-c80e5ab71803"
+cover:
+  image: "cover.jpg"
 ---
-![](0__LwtMuMgWuQ4cOlKP.jpg)
 
 嫌な暑さも落ち着いてきて、ヘッドフォンでお出かけすることが増えてきました。お供なのは、Marshall MAJOR V。これで聴く音楽が楽しいこと、そして、軽くて楽なこと、それが決め手です。欠点として、ノイズキャンセリングが入っていないので、地下鉄に乗る予定がある時などは、セカンドチョイスとしてAirPods Proを選ぶことが多くあります。
 

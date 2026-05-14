@@ -5,8 +5,9 @@ date: '2024-08-10T11:29:57.398Z'
 categories: []
 keywords: []
 slug: "747f70d4-3cdc-4d90-9a33-b14e67ef7adf"
+cover:
+  image: "cover.jpg"
 ---
-![](0__KaO3SdrNEe6GV2iI.jpg)
 
 夏フェスに行ってきました。いく予定もなかったのですが、いろんな条件が重なって、1日だけ参加することにしたのです。
 

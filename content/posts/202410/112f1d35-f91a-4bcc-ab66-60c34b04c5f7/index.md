@@ -5,8 +5,9 @@ date: '2024-10-12T11:33:22.128Z'
 categories: []
 keywords: []
 slug: "112f1d35-f91a-4bcc-ab66-60c34b04c5f7"
+cover:
+  image: "cover.jpg"
 ---
-![](0__WJDcB9WBhUuemZdY.jpg)
 
 10月に入り、さまざまな場所で変化が起きるタイミングですね。自分に変化がなくても、テレビやラジオの番組が変わったりしていて、それと連動して生活習慣が変わったりします。
 

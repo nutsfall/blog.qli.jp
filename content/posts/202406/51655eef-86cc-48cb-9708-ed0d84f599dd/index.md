@@ -5,8 +5,9 @@ date: '2024-06-01T11:48:57.817Z'
 categories: []
 keywords: []
 slug: "51655eef-86cc-48cb-9708-ed0d84f599dd"
+cover:
+  image: "cover.jpg"
 ---
-![](0__S9nNme__OKBTkI__QQ.jpg)
 
 2024年5月28日、赤い公園 ラストライブから3年が経ちました。その日はラストライブの映像を見返していました。
 

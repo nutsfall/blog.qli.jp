@@ -5,8 +5,9 @@ date: '2024-09-14T11:32:02.572Z'
 categories: []
 keywords: []
 slug: "be8d44cb-b54f-49fd-8fbc-48c8b4f9ca71"
+cover:
+  image: "cover.jpg"
 ---
-![](0__nSbMprZgIsifsHzU.jpg)
 
 こんにちは。今回もお読みいただいてありがとうございます。
 
