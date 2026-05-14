@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## 変更前の同期
+
+ファイルの変更やコンテンツ追加など、何らかの編集を行う前に必ず `git pull` を実行してリモートと同期すること（GitHub Actions による自動コミットが入っている可能性があるため）。
+
 ## New Post
 
 ```bash
