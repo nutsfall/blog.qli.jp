@@ -27,10 +27,12 @@ SYSTEM_PROMPT = <<~PROMPT.strip
 PROMPT
 
 class AutoTagger
-  def initialize(dry_run:, limit:, from_checkpoint:)
+  def initialize(dry_run:, limit:, from_checkpoint:, overwrite:, targets:)
     @dry_run         = dry_run
     @limit           = limit
     @from_checkpoint = from_checkpoint
+    @overwrite       = overwrite
+    @targets         = targets
     @processed       = []
     @failed          = []
     @skipped         = 0
@@ -67,7 +69,11 @@ class AutoTagger
   private
 
   def collect_posts
-    POSTS_DIR.glob('**/index.md').sort
+    if @targets.any?
+      @targets.map { |t| Pathname.new(t).expand_path }
+    else
+      POSTS_DIR.glob('**/index.md').sort
+    end
   end
 
   def process_batch(paths, batch_i, total)
@@ -115,6 +121,14 @@ class AutoTagger
     if fm['draft']
       @skipped += 1
       return nil
+    end
+
+    unless @overwrite
+      existing = Array(fm['tags']).reject(&:empty?)
+      if existing.any?
+        @skipped += 1
+        return nil
+      end
     end
 
     title   = fm['title'].to_s.strip
@@ -184,12 +198,16 @@ end
 
 # --- CLI ---
 
-options = { dry_run: false, limit: nil, from_checkpoint: false }
+options = { dry_run: false, limit: nil, from_checkpoint: false, overwrite: false, targets: [] }
 
 OptionParser.new do |opts|
+  opts.banner = "Usage: auto_tagger.rb [options] [file1 file2 ...]"
   opts.on('--dry-run',         'Write no files, only preview tags') { options[:dry_run] = true }
   opts.on('--limit N', Integer,'Process at most N posts')           { |n| options[:limit] = n }
   opts.on('--from-checkpoint', 'Resume from checkpoint.json')       { options[:from_checkpoint] = true }
+  opts.on('--overwrite',       'Overwrite existing tags')           { options[:overwrite] = true }
 end.parse!
+
+options[:targets] = ARGV
 
 AutoTagger.new(**options).run

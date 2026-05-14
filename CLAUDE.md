@@ -121,7 +121,8 @@ When adding tags to a new post, follow the same convention. To bulk-tag posts:
 
 ```bash
 /opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --dry-run --limit 10  # preview
-/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb                        # run
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb                        # tag untagged posts only
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --overwrite            # overwrite existing tags too
 /opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --from-checkpoint      # resume if interrupted
 ```
 
