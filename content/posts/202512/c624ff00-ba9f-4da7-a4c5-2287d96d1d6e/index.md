@@ -4,7 +4,7 @@ date: "2025-12-06T03:02:15"
 slug: "c624ff00-ba9f-4da7-a4c5-2287d96d1d6e"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%E3%81%AE%E8%A9%B1-5c920c430083?source=rss-21bfda6f823e------2"
-tags: ["radiko", "nogizaka46", "nogizaka46ann", "ann"]
+tags: ["nogizaka46", "nogizaka46ann", "radiko"]
 draft: false
 ---
 
