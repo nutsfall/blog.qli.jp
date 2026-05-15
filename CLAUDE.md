@@ -117,7 +117,7 @@ All posts have a `tags:` field in frontmatter. Tags follow these rules:
 - **Specific over generic** — avoid `diary`, `misc`, `thoughts`, `life`
 - **Proper nouns welcome** — products, artists, teams, works: `apple`, `netflix`, `avispa-fukuoka`
 
-When adding tags to a new post, follow the same convention. To bulk-tag posts:
+When adding or fixing tags on any post — including reducing excess tags — always use `auto_tagger.rb` instead of editing frontmatter manually. To tag posts:
 
 ```bash
 /opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --dry-run --limit 10  # preview

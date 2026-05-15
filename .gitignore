@@ -14,3 +14,6 @@ hugo.linux
 
 # macOS
 .DS_Store
+
+# auto_tagger logs
+scripts/logs/
