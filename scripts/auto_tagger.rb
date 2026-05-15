@@ -6,13 +6,8 @@ require 'yaml'
 require 'json'
 require 'optparse'
 require 'open3'
-require 'shellwords'
 
 POSTS_DIR = Pathname.new(__dir__).parent / 'content' / 'posts'
-LOGS_DIR  = Pathname.new(__dir__) / 'logs'
-CHECKPOINT_FILE = LOGS_DIR / 'checkpoint.json'
-
-BATCH_SIZE = 10
 
 SYSTEM_PROMPT = <<~PROMPT.strip
   You are an assistant that tags Japanese blog posts.
@@ -27,37 +22,22 @@ SYSTEM_PROMPT = <<~PROMPT.strip
 PROMPT
 
 class AutoTagger
-  def initialize(dry_run:, limit:, from_checkpoint:, overwrite:, targets:)
-    @dry_run         = dry_run
-    @limit           = limit
-    @from_checkpoint = from_checkpoint
-    @overwrite       = overwrite
-    @targets         = targets
-    @processed       = []
-    @failed          = []
-    @skipped         = 0
+  def initialize(dry_run:, targets:)
+    @dry_run   = dry_run
+    @targets   = targets
+    @processed = []
+    @failed    = []
+    @skipped   = 0
   end
 
   def run
-    LOGS_DIR.mkpath
-
-    posts = collect_posts
-    checkpoint_set = load_checkpoint
-
-    if @from_checkpoint && !checkpoint_set.empty?
-      before = posts.size
-      @processed = checkpoint_set.to_a  # 既処理分を引き継ぐ
-      posts = posts.reject { |p| checkpoint_set.include?(p.to_s) }
-      puts "チェックポイントから再開: #{before - posts.size}件スキップ"
-    end
-
-    posts = posts.first(@limit) if @limit
+    posts = @targets.map { |t| Pathname.new(t).expand_path }
 
     puts "対象: #{posts.size}件 #{'(DRY RUN)' if @dry_run}"
     puts "---"
     $stdout.flush
 
-    posts.each_slice(BATCH_SIZE).with_index do |batch_paths, batch_i|
+    posts.each_slice(10).with_index do |batch_paths, batch_i|
       sleep 3 if batch_i > 0
       process_batch(batch_paths, batch_i, posts.size)
     end
@@ -67,14 +47,6 @@ class AutoTagger
   end
 
   private
-
-  def collect_posts
-    if @targets.any?
-      @targets.map { |t| Pathname.new(t).expand_path }
-    else
-      POSTS_DIR.glob('**/index.md').sort
-    end
-  end
 
   def process_batch(paths, batch_i, total)
     batch_data = paths.filter_map { |path| read_post(path) }
@@ -89,7 +61,7 @@ class AutoTagger
 
     batch_data.each do |data|
       path   = data[:path]
-      offset = batch_i * BATCH_SIZE + data[:id] + 1
+      offset = batch_i * 10 + data[:id] + 1
       tags   = tag_map[data[:id]]
 
       if tags.nil?
@@ -101,7 +73,6 @@ class AutoTagger
       unless @dry_run
         write_tags(path, data[:fm_open], data[:fm_body], data[:fm_close], data[:body_text], tags)
         @processed << path.to_s
-        save_checkpoint(@processed)
       end
 
       puts "[#{offset}/#{total}] #{path.relative_path_from(POSTS_DIR)} → #{tags.join(', ')}"
@@ -121,14 +92,6 @@ class AutoTagger
     if fm['draft']
       @skipped += 1
       return nil
-    end
-
-    unless @overwrite
-      existing = Array(fm['tags']).reject(&:empty?)
-      if existing.any?
-        @skipped += 1
-        return nil
-      end
     end
 
     title   = fm['title'].to_s.strip
@@ -183,31 +146,21 @@ class AutoTagger
 
     File.write(path, "#{fm_open}#{new_fm_body}#{fm_close}#{body_text}", encoding: 'utf-8')
   end
-
-  def load_checkpoint
-    return Set.new unless CHECKPOINT_FILE.exist?
-    Set.new(JSON.parse(CHECKPOINT_FILE.read)['processed'] || [])
-  rescue JSON::ParserError
-    Set.new
-  end
-
-  def save_checkpoint(processed)
-    CHECKPOINT_FILE.write(JSON.pretty_generate({ 'processed' => processed }))
-  end
 end
 
 # --- CLI ---
 
-options = { dry_run: false, limit: nil, from_checkpoint: false, overwrite: false, targets: [] }
+options = { dry_run: false }
 
 OptionParser.new do |opts|
-  opts.banner = "Usage: auto_tagger.rb [options] [file1 file2 ...]"
-  opts.on('--dry-run',         'Write no files, only preview tags') { options[:dry_run] = true }
-  opts.on('--limit N', Integer,'Process at most N posts')           { |n| options[:limit] = n }
-  opts.on('--from-checkpoint', 'Resume from checkpoint.json')       { options[:from_checkpoint] = true }
-  opts.on('--overwrite',       'Overwrite existing tags')           { options[:overwrite] = true }
+  opts.banner = "Usage: auto_tagger.rb [--dry-run] file1 [file2 ...]"
+  opts.on('--dry-run', 'Preview tags without writing files') { options[:dry_run] = true }
 end.parse!
 
-options[:targets] = ARGV
+if ARGV.empty?
+  $stderr.puts "Error: specify at least one file"
+  $stderr.puts "Usage: auto_tagger.rb [--dry-run] file1 [file2 ...]"
+  exit 1
+end
 
-AutoTagger.new(**options).run
+AutoTagger.new(dry_run: options[:dry_run], targets: ARGV).run

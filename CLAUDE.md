@@ -117,13 +117,17 @@ All posts have a `tags:` field in frontmatter. Tags follow these rules:
 - **Specific over generic** — avoid `diary`, `misc`, `thoughts`, `life`
 - **Proper nouns welcome** — products, artists, teams, works: `apple`, `netflix`, `avispa-fukuoka`
 
-When adding or fixing tags on any post — including reducing excess tags — always use `auto_tagger.rb` instead of editing frontmatter manually. To tag posts:
+When adding or fixing tags on any post — including reducing excess tags — always use `auto_tagger.rb` instead of editing frontmatter manually.
 
 ```bash
-/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --dry-run --limit 10  # preview
-/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb                        # tag untagged posts only
-/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --overwrite            # overwrite existing tags too
-/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --from-checkpoint      # resume if interrupted
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb <file>           # tag a specific post
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --dry-run <file> # preview without writing
+```
+
+To check tag counts across all posts:
+
+```bash
+/opt/homebrew/opt/ruby/bin/ruby scripts/tag_checker.rb
 ```
 
 Uses `claude -p` (no API key needed). Requires Claude Code CLI to be authenticated.
