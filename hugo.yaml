@@ -64,10 +64,10 @@ menu:
     #      name: カテゴリー
     #      url: /categories/
     #      weight: 20
-    #    - identifier: tags
-    #      name: タグ
-    #      url: /tags/
-    #      weight: 30
+    - identifier: tags
+      name: タグ
+      url: /tags/
+      weight: 30
     - identifier: search
       name: サイト内検索
       url: /search/
