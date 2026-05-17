@@ -4,13 +4,12 @@ date: "2026-05-16T03:01:03"
 slug: "ff66b389-5207-4785-9fa5-92618b5f6287"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%82%82%E3%81%A3%E3%81%A8%E3%82%82%E3%81%A3%E3%81%A8%E3%83%9F%E3%82%AF%E3%83%AD%E3%81%AA%E3%82%82%E3%81%AE-299a6dba3224?source=rss-21bfda6f823e------2"
-tags: []
+tags: ["vlog", "journaling", "youtube"]
+cover:
+  image: "cover.png"
+  caption: "The big picture, The nitty-gritty"
 draft: false
 ---
-
-![](https://cdn-images-1.medium.com/max/1024/1*iVPwBOlWNqvW2PAezJJ8zg.png)
-
-The big picture, The nitty-gritty
 
 よく聞いているラジオのテーマが日記でした。出演者は物書きをしている方が多く、その番組の話題も、いわゆる紙ノートにペンで記す日記の話に終始していました。話の中では、デジタルを冷笑しながら否定するような場面もありました。そういう話を聞きながら、ふと頭に浮かんだのはvlogでした。
 
