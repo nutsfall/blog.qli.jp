@@ -1,18 +1,17 @@
 ---
-title: "AIと週次レビュー"
+title: "AIと週次レビュー"
 date: "2026-05-23T03:01:00"
 slug: "2833b210-7287-46cb-9ccd-84d5ee684e2b"
 source: "medium"
 original_url: "https://medium.com/@hiro/ai%E3%81%A8%E9%80%B1%E6%AC%A1%E3%83%AC%E3%83%92%E3%82%99%E3%83%A5%E3%83%BC-deb66728949a?source=rss-21bfda6f823e------2"
-tags: []
+tags: ["weekly-review", "claude", "productivity"]
 draft: false
+cover:
+  image: "cover.png"
+  caption: "A Quiet Dialogue with AI"
 ---
 
 ### AIと週次レビュー
-
-![](https://cdn-images-1.medium.com/max/1024/1*uc7UzyaHzqIyWS21nE8OsA.png)
-
-A Quiet Dialogue with AI
 
 自分のブログをいつも読んでいるという方はどれくらい「週次レビュー」をやっているものなのでしょうか。1週間溜まったモヤモヤを一旦棚卸して、外部化して、整理し直すという週次レビューは新しい発見に満ち溢れた30分です。
 
