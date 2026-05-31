@@ -11,8 +11,6 @@ cover:
   caption: "Green Fields, Black Headphones, and a Morning Thirty Days In"
 ---
 
-Green Fields, Black Headphones, and a Morning Thirty Days In
-
 今月はなんとなく「やっと30日だなあ」って感じがする。なんか深さと長さを感じる1ヶ月間だった。それと同時に、駆け足感もある。
 
 5月の連休は飛び石でフェスがあった。JAPAN JAMが開催された蘇我、Viva la Rockが開催された浦和美園、Metrock Tokyoが開催された海の森公園、とにかく早朝からの移動距離が長かった。
