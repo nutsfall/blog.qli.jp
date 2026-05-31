@@ -86,15 +86,15 @@ class PostProcessor
       ext = '.png' if ext.empty? || ext.length > 5
       filename = "cover#{ext}"
 
-      # キャプション検出: 画像行の直後の短い行、次が空行
+      # キャプション検出: 画像行の直後（空行1つ挟んでも可）の短い行、次が空行
       caption = nil
       caption_line = nil
       after_img = body[img_match.end(0)..]
-      if after_img =~ /\A([^\n]{1,200})\n\n/m
-        line = $1.strip.gsub(" ", ' ')
+      if after_img =~ /\A(\n?)([^\n]{1,200})\n\n/m
+        line = $2.strip.gsub(" ", ' ')
         unless line.empty? || line.start_with?('#', '!', '[')
           caption      = line
-          caption_line = "#{$1}\n"
+          caption_line = "#{$1}#{$2}\n"
         end
       end
 
@@ -137,11 +137,23 @@ class PostProcessor
 
   def download(url, dest)
     uri = URI.parse(url)
-    Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == 'https',
-                    open_timeout: 10, read_timeout: 30) do |http|
-      res = http.get(uri.request_uri, 'User-Agent' => 'Mozilla/5.0')
-      File.binwrite(dest, res.body)
+    10.times do
+      Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == 'https',
+                      open_timeout: 10, read_timeout: 30) do |http|
+        res = http.get(uri.request_uri, 'User-Agent' => 'Mozilla/5.0')
+        case res
+        when Net::HTTPSuccess
+          raise "Empty response: #{url}" if res.body.empty?
+          File.binwrite(dest, res.body)
+          return
+        when Net::HTTPRedirection
+          uri = URI.parse(res['location'])
+        else
+          raise "HTTP #{res.code}: #{url}"
+        end
+      end
     end
+    raise "Too many redirects: #{url}"
   end
 end
 
