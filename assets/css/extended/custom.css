@@ -4,6 +4,7 @@
 /* フォントファミリーの設定 */
 :root {
     --font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --link-text: #0066CC;
 }
 
 body {
@@ -13,6 +14,10 @@ body {
 
 .post-content {
     line-height: 1.8;
+}
+
+.post-content a {
+    color: var(--link-text);
 }
 
 .post-content p {
@@ -81,8 +86,10 @@ body {
 .post-entry:has(.entry-cover) .entry-footer,
 .first-entry:has(.entry-cover) .entry-footer { grid-area: footer; }
 
-.dark {
-    --theme: #1a2332;      /* アビスパネイビー - メイン背景のみ */
+.dark,
+:root[data-theme="dark"] {
+    --theme: #1a2332;
+    --link-text: #93c5fd;      /* アビスパネイビー - メイン背景のみ */
     
     /* 他のパラメータ（参考用・コメントアウト）
     --entry: #2a3344;      カード・エントリ背景
