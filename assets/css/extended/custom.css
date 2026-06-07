@@ -19,6 +19,16 @@ body {
     margin-bottom: 1.2em;
 }
 
+.post-content ul,
+.post-content ol {
+    padding-inline-start: 1.5em;
+}
+
+.post-content h2,
+.post-content h3 {
+    margin-top: 0.5em;
+}
+
 /* アビスパ福岡カラー - ダークモード背景のみ */
 
 /* ライトモード（参考用・コメントアウト）
