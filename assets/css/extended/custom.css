@@ -21,17 +21,17 @@ body {
 }
 
 .post-content p {
-    margin-bottom: 1.2em;
+    margin-bottom: 1.35rem;
 }
 
 .post-content ul,
 .post-content ol {
-    padding-inline-start: 1.5em;
+    padding-inline-start: 1.6875rem;
 }
 
 .post-content h2,
 .post-content h3 {
-    margin-top: 0.5em;
+    margin-top: 0.5625rem;
 }
 
 /* アビスパ福岡カラー - ダークモード背景のみ */
@@ -86,6 +86,11 @@ body {
 .post-entry:has(.entry-cover) .entry-footer,
 .first-entry:has(.entry-cover) .entry-footer { grid-area: footer; }
 
+.post-description {
+    color: rgb(108, 108, 108);
+    font-size: 0.9rem;
+}
+
 .dark,
 :root[data-theme="dark"] {
     --theme: #1a2332;
@@ -95,4 +100,10 @@ body {
     --tertiary: #2a3d54;   /* タグ一覧ページのタグ背景 */
     --border: #3a4d62;     /* ボーダー */
     --secondary: #8aa5c0;  /* メタ情報・タグテキスト */
+    --post-description-color: #8c9aa6;  /* post-description: ニュートラルグレー */
+}
+
+.dark .post-description,
+:root[data-theme="dark"] .post-description {
+    color: var(--post-description-color);
 }
