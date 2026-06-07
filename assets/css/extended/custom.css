@@ -89,16 +89,10 @@ body {
 .dark,
 :root[data-theme="dark"] {
     --theme: #1a2332;
-    --link-text: #93c5fd;      /* アビスパネイビー - メイン背景のみ */
-    
-    /* 他のパラメータ（参考用・コメントアウト）
-    --entry: #2a3344;      カード・エントリ背景
-    --primary: #4fa8d8;    プライマリテキスト色
-    --secondary: #b8c0c8;  セカンダリテキスト色  
-    --tertiary: #0066CC;   アクセント色・リンク色
-    --content: #ffffff;    コンテンツテキスト色
-    --hljs-bg: #2d3748;    コードブロック背景
-    --code-bg: #2d3748;    インラインコード背景
-    --border: #4a5568;     ボーダー色
-    */
+    --link-text: #93c5fd;
+    --entry: #243347;      /* カード・TOC背景 */
+    --code-bg: #1e2d3e;    /* TOC・記事タグ背景 */
+    --tertiary: #2a3d54;   /* タグ一覧ページのタグ背景 */
+    --border: #3a4d62;     /* ボーダー */
+    --secondary: #8aa5c0;  /* メタ情報・タグテキスト */
 }
