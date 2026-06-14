@@ -6,7 +6,7 @@
 #   2. Adds cover: frontmatter (with caption if found)
 #   3. Removes inline image line + caption from body
 #   4. Removes duplicate H3 title at top of body
-#   5. Runs auto_tagger.rb for posts with empty tags
+#   5. Runs auto_tagger.rb for all Medium posts (Medium tags are not curated)
 #
 # Usage: ruby scripts/process_new_posts.rb [--dry-run]
 # Run after: git pull
@@ -61,7 +61,7 @@ class PostProcessor
     POSTS_DIR.glob('**/*.md').select do |path|
       content = File.read(path, encoding: 'utf-8') rescue next
       content.match?(/^source:\s*["']?medium/) &&
-        (content.match?(MEDIUM_IMG_RE) || content.match?(/^tags:\s*\[\]\s*$/))
+        content.match?(MEDIUM_IMG_RE)
     end.sort
   end
 
@@ -123,8 +123,8 @@ class PostProcessor
       end
     end
 
-    # 3. タグが空なら後でauto_taggerにかける
-    @needs_tag << path if fm_body.match?(/^tags:\s*\[\]\s*$/)
+    # 3. Medium記事は常にauto_taggerにかける（Mediumのタグはルール未準拠）
+    @needs_tag << path
 
     if changes.any?
       File.write(path, "#{fm_open}#{new_fm}#{fm_close}#{new_body}", encoding: 'utf-8') unless @dry_run
