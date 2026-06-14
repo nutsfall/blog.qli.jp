@@ -4,7 +4,7 @@ date: "2026-06-13T03:01:01"
 slug: "efd05835-6653-42bc-ae1e-f447bd4a6400"
 source: "medium"
 original_url: "https://medium.com/@hiro/wwdc26%E3%82%92%E3%81%86%E3%81%91%E3%81%A6-ai%E3%81%AE%E3%81%93%E3%81%A8%E3%82%92%E8%80%83%E3%81%88%E3%81%9F-9bb8c09ca893?source=rss-21bfda6f823e------2"
-tags: ["wwdc"]
+tags: ["wwdc", "apple-intelligence", "ai-development"]
 draft: false
 ---
 

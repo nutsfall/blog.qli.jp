@@ -4,7 +4,7 @@ date: "2026-06-06T03:01:01"
 slug: "4da00db0-5bd8-4b09-b7c6-c9f299726846"
 source: "medium"
 original_url: "https://medium.com/@hiro/siri%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%80%9D%E3%81%86%E3%81%93%E3%81%A8-5ef1ede31191?source=rss-21bfda6f823e------2"
-tags: ["siri", "apple-intelligence"]
+tags: ["siri", "apple", "wwdc"]
 draft: false
 ---
 

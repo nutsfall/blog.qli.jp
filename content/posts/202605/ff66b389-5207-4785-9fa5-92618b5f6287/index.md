@@ -4,7 +4,7 @@ date: "2026-05-16T03:01:03"
 slug: "ff66b389-5207-4785-9fa5-92618b5f6287"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%82%82%E3%81%A3%E3%81%A8%E3%82%82%E3%81%A3%E3%81%A8%E3%83%9F%E3%82%AF%E3%83%AD%E3%81%AA%E3%82%82%E3%81%AE-299a6dba3224?source=rss-21bfda6f823e------2"
-tags: ["vlog", "journaling", "youtube"]
+tags: ["vlog", "journaling"]
 cover:
   image: "cover.png"
   caption: "The big picture, The nitty-gritty"
