@@ -4,19 +4,15 @@ date: "2026-06-20T03:01:03"
 slug: "c4cbb2ae-ecbe-4944-9dfc-074b03f6709a"
 source: "medium"
 original_url: "https://medium.com/@hiro/milton%E3%81%A8%E3%81%AE%E6%9C%80%E5%88%9D%E3%81%AE3%E9%80%B1%E9%96%93-948170b853c2?source=rss-21bfda6f823e------2"
-tags: ["marshall", "music", "milton"]
+tags: ["marshall", "headphones", "anc"]
 draft: false
 ---
-
-### MILTONとの最初の3週間
 
 街でMarshallヘッドフォンを見かけることがあるでしょうか。東京や大阪など都市圏では駅などで目にする機会が多いように感じます。Marshallヘッドフォンはさまざまなスタイルのものがあるのですが、一番よく見かけるのはオンイヤーモデルのMAJORですね。
 
 先日、そんなオンイヤーモデルの新しいヘッドフォン Marshall MILTON A.N.C.が発売されました。グローバルでの発売と日本国内での発売は別のタイミングであることが多いのですが、今回はグローバルとほぼ同時に日本でも発売が開始されました。早速使ってみて3週間ほど経ったので、今回はその感想を書いておきます。
 
-![](https://cdn-images-1.medium.com/max/1024/1*YrmPWGO1CJeRflAIA0m2nw.jpeg)
-
-Marshall MAJOR (left) and Marshall MITON A.N.C. (right)
+{{< figure src="major-milton.jpeg" caption="Marshall MAJOR (left) and Marshall MITON A.N.C. (right)" >}}
 
 MILTONの比較対象になるのは同じオンイヤーのMAJOR V。オンイヤーというのは耳の上から乗っけるタイプということですね。比べてみると、イヤーパッドのサイズはほぼ同じくらいでした。MAJORは角ばったスタイルですが、MILTONは丸っこいスタイルにまとめられていて、とても愛着が湧きます。
 
