@@ -4,15 +4,11 @@ date: "2026-06-27T03:01:02"
 slug: "9bcb6790-9375-4f6f-bade-6910d772eaaf"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E5%82%98%E3%81%AF%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E3%81%8B%E3%82%99%E4%BE%BF%E5%88%A9-c583b12c7065?source=rss-21bfda6f823e------2"
-tags: []
+tags: ["umbrella", "everyday-carry", "lifestyle"]
 draft: false
+cover:
+  image: "cover.png"
 ---
-
-### 傘は折りたたみが便利
-
-![](https://cdn-images-1.medium.com/max/1024/1*BTP4gKe7xUJ_nNM2IVjjdQ.png)
-
-雨の季節ですね。今年は久しぶりに雨の季節という感覚が強くあります。紫陽花が長く咲いている気もします。
 
 雨の季節といえば傘。街に広がる傘は透明のものが増えてきたように感じます。コンビニで買う使い捨て感覚で使う時代になったんだな。自分は折りたたみ傘をメインで使っています。
 
