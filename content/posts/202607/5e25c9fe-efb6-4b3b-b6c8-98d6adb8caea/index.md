@@ -4,11 +4,11 @@ date: "2026-07-04T03:01:02"
 slug: "5e25c9fe-efb6-4b3b-b6c8-98d6adb8caea"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E9%9F%B3%E6%A5%BD%E3%81%AE%E6%97%85-2026%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F-1f43f1c6e20e?source=rss-21bfda6f823e------2"
-tags: ["music"]
+tags: ["music", "apple-music"]
 draft: false
+cover:
+  image: "cover.png"
 ---
-
-![](https://cdn-images-1.medium.com/max/1024/1*e7NXFQpXQyOMdxX2xjL5Ow.png)
 
 早いもので、今年の上半期も終わった。Apple Music Replayを1月から6月まで並べてみた。合計すると20,657分、約344時間になる。起きている時間のだいたい1割を音楽に使っていた計算になる。月ごとに見ていくと、その時々で何を聴いていたかがはっきり残っている。これが面白かったので、順番に書いていきたい。
 
