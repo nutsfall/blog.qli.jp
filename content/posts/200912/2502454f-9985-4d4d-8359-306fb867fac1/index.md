@@ -20,22 +20,14 @@ slug: "2502454f-9985-4d4d-8359-306fb867fac1"
 
 *   [世界が明日も続くなら](http://www.amazon.co.jp/gp/product/B002M34BJ4?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B002M34BJ4)
 
-![](0__QCgG6wau4__FBiXKF..gif.gif)
-
 *   :: GAKU-MC
 *   [Post Electric Blues](http://www.amazon.co.jp/gp/product/B002ICGC82?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B002ICGC82)
-
-![](0__TXm1C3Z9FL5Ynoh4..gif.gif)
 
 *   :: the idlewild
 *   [NO SMOKE, NO MIRRORS](http://www.amazon.co.jp/gp/product/B001UGM0XS?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B001UGM0XS)
 
-![](0__pu7CYo2V__5nU0JGS..xml.xml)
-
 *   :: The Holloways
 *   [Quartette Parade](http://www.amazon.co.jp/gp/product/B001LPF15W?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B001LPF15W)
-
-![](0____FwZqd4fd5Iup__Cz..xml.xml)
 
 *   :: lego big morl
 *   [ウルトラC](http://www.towerrecords.co.jp/sitemap/CSfCardMain.jsp?GOODS_NO=1919498&GOODS_SORT_CD=104) :: ナオト・インティライミ
@@ -43,8 +35,6 @@ slug: "2502454f-9985-4d4d-8359-306fb867fac1"
 でしょうか。これ以外にも、マイラバがavexへの移転2作目でとっても素晴らしいアルバムを出してくれて安心したとか、PhilHarmoUniQueがやっとアルバム出したとか、いろいろありますが、とりあえずこの5枚ですね。
 
 でも今年一番聞いたアルバムは、昨年リリースされた”[SUPERMARKET FANTASY](http://www.amazon.co.jp/gp/product/B001H0GBZ0?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B001H0GBZ0)
-
-![](0__z9n5jePAHZdiO2Tb..gif.gif)
 
 “(Mr.Children)だったりします。今年のライブ納めは、ミスチルの東京ドームだったわけですが、これが今までいったライブの中で一番楽しくて楽しくて･･･。ミスチルが社会風刺を一切捨ててライブやったのが久しぶりってのもある気がしますが、彼らのパフォーマンスにはさらに期待したいと思います。
 

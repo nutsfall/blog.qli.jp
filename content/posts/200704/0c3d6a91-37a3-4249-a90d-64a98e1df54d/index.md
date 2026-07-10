@@ -11,8 +11,6 @@ slug: "0c3d6a91-37a3-4249-a90d-64a98e1df54d"
 
 > People have been asking me since I started at Google what I’ve been working on, and until today, I’ve been unable to say. Now is the time to change all that and introduce the newest product from the Google MacEng team: Google Desktop for Mac (beta).
 
-![]()
-
 やることは Windows 版と一緒ですが、サイドバーはありません。Mac には Dashboard がありますからね。また、Google Desktop for mac をインストールすると、Google Update も提供されます。今後は Windows 版も統合されるのかも。
 
 なお、インストールするとシステム環境設定から設定ができます。検索のポップアップ呼び出しは Windows 版は Control キーを２回ですが、Mac 版は Command キーを２回に変更されています。また、Google Desktop の特長である、ブラウザ内の Google 検索とも統合されています。ただし、今は英語版のみの提供となっているようです。

@@ -11,8 +11,6 @@ slug: "1631e1ed-b7a6-4aa6-ad2e-ce807ab5cac4"
 
 **サムネイル画像:**
 
-![]()
-
 **コメント:**   
 WEB デザイナー向け雑誌 WEB Designing の企画サイト。
 

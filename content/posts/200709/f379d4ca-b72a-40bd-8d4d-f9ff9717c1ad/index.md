@@ -5,7 +5,6 @@ tags: ["ipod", "apple", "iphone"]
 slug: "f379d4ca-b72a-40bd-8d4d-f9ff9717c1ad"
 ---
 ![](0__vK9BWfkZawBjwquO.jpg)
-![]()
 
 リーク情報がいっぱいありすぎて、もう何が何だか分からない状態でしたが、今日ようやく jobs 自ら正解が発表されました。
 
