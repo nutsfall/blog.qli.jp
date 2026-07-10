@@ -1,6 +1,5 @@
 ---
 title: Nature Remoの使い方まとめ
-description: ブログにはあまり書いてこなかったけど、Nature Remoの使い方をまとめて書いておきます。
 date: "2019-04-14T05:10:13.406Z"
 tags: ["nature-remo", "smart-home"]
 slug: "214de52d-73d3-406a-b64e-1c77fb14d1e5"

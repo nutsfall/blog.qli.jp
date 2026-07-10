@@ -1,7 +1,5 @@
 ---
 title: Actionにつけるタグのルール
-description: 多くのProductivityツールで、Action にタグをつけられるケースがよくあります。Actionにタグをつけて管理する手法の発端がどこかはわかりませんが、個人的に初めて知ったのは
-  Getting Things Done で紹介されたコンテキストです。
 date: "2020-06-06T05:04:49.204Z"
 tags: ["gtd", "task-management", "productivity"]
 slug: "b1c2f94b-4564-4ac0-a86b-dd06d0787eef"

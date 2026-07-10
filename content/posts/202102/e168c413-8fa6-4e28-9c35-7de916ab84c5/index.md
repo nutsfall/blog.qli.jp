@@ -1,6 +1,5 @@
 ---
 title: "“アップロード済み” を “マッチ” にする方法 / Apple Music"
-description: Mr.Children の最新作 SOUNDTRACKS が、2月14日に Apple Musicをはじめとするサブスクリプションサービスで配信開始となりました。12月2日の発売から74日。半年くらい待たされるかなと思っていたので、正直驚きの速さでした。
 date: "2021-02-13T15:07:22.971Z"
 tags: ["apple-music", "mr-children"]
 slug: "e168c413-8fa6-4e28-9c35-7de916ab84c5"

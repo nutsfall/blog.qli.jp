@@ -1,6 +1,5 @@
 ---
 title: OmniFocus で通りやすい分岐点
-description: OmniFocusはその柔軟さ上に人によって解釈が分かれるところがある。それをまとめてみた。
 date: "2019-01-06T00:41:22.250Z"
 tags: ["omnifocus"]
 slug: "80656aca-c9e8-4fb2-8a15-e5f6a5b9f402"

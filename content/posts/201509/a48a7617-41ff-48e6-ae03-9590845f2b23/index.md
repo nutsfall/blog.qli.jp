@@ -1,6 +1,5 @@
 ---
 title: 難しいことを誰が考えるか
-description: ここに雑文を書くのもアレなんだけど、書いておこうと思って。
 date: "2015-09-02T03:18:45.911Z"
 tags: ["japanese-politics", "social-commentary"]
 slug: "a48a7617-41ff-48e6-ae03-9590845f2b23"

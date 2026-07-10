@@ -1,7 +1,5 @@
 ---
 title: ap bank fes 2017
-description: 東北で復活して2年目。今年のap bank fes(Reborn-Art Festival 2017　× ap bank fes)は、宮城県国立みちのく杜の湖畔公園で行われた。実は、2012年、ap
-  bank…
 date: "2017-07-31T06:34:08.793Z"
 tags: ["ap-bank-fes", "music-festival"]
 slug: "1365423e-da5d-4d4d-9376-d1a0017d33e3"

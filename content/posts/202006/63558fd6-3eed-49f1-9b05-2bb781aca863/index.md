@@ -1,6 +1,5 @@
 ---
 title: ZV-1で動画をつくってみた
-description: いよいよ発売になったZV-1。iPhoneで動画を作ろうと思ったことはないのですが、ZV-1で動画を作ってみました。
 date: "2020-06-20T14:01:04.206Z"
 tags: ["sony-zv-1", "video-creation", "igtv"]
 slug: "63558fd6-3eed-49f1-9b05-2bb781aca863"

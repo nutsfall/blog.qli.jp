@@ -1,8 +1,5 @@
 ---
 title: GTDをやめました
-description:
-  表題通り。GTDをやめることにしました。若干釣りっぽいタイトルではありますが、その辺を詳しく書いていきます。表面上のことから書いていけば、使っていたタスク管理ツールをOmniFocusからThingsに移行しました。それと同時に
-  *GTDをやめました* 。
 date: "2014-08-09T04:07:01.103Z"
 tags: ["gtd", "omnifocus", "things"]
 slug: "db4993a1-7422-4f9a-a73f-b8bec1cd2acf"

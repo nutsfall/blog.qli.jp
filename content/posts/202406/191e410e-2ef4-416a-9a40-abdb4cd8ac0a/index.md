@@ -1,6 +1,5 @@
 ---
 title: ホーム
-description: 先日、渋谷クラブクアトロに行きました。ここに来るのは531日ぶり。Shibuya AXがなくなって以降、本当にたくさんきたライブハウスでもあります。
 date: "2024-06-15T11:46:11.213Z"
 tags: ["kurenazumu", "live-music"]
 slug: "191e410e-2ef4-416a-9a40-abdb4cd8ac0a"

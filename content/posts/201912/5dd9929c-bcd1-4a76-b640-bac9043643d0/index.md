@@ -1,6 +1,5 @@
 ---
 title: 16インチ MacBook Pro を導入しました
-description: 動画を編集するとか、重い作業をするとかそういうことでもないのですが、16インチのMacBook Proを導入しました。
 date: "2019-12-21T13:46:34.859Z"
 tags: ["macbook-pro", "apple"]
 slug: "5dd9929c-bcd1-4a76-b640-bac9043643d0"

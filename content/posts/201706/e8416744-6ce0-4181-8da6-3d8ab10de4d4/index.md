@@ -1,6 +1,5 @@
 ---
 title: High Sierra プレビュー で気になること
-description: WWDC2017 Keynoteで発表された、macOS High Sierra。早速Appleのサイトにプロモページが立ち上がりました。
 date: "2017-06-07T13:58:10.555Z"
 tags: ["macos", "high-sierra"]
 slug: "e8416744-6ce0-4181-8da6-3d8ab10de4d4"

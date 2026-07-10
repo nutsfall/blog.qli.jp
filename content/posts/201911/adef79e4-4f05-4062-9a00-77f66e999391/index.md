@@ -1,6 +1,5 @@
 ---
 title: Beats Solo Pro と AirPods Proのレビュー
-description: Beats Solo Pro と AirPods Pro を3日ほど使ったので感想を。
 date: "2019-11-04T05:43:45.583Z"
 tags: ["beats-solo-pro", "airpods-pro"]
 slug: "adef79e4-4f05-4062-9a00-77f66e999391"

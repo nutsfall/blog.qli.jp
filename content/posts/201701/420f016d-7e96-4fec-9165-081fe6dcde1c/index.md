@@ -1,6 +1,5 @@
 ---
 title: mediumに移行しました
-description: "（この投稿はGhostとmediumの両方に投稿されています)"
 date: "2017-01-05T02:44:47.000Z"
 tags: ["medium", "ghost", "blogging"]
 slug: "420f016d-7e96-4fec-9165-081fe6dcde1c"

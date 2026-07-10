@@ -1,6 +1,5 @@
 ---
 title: HomePod ファーストインプレッション
-description: 2017年WWDC で発表されて2年。やっとファーストインプレッションができる環境が整いました。
 date: "2019-08-28T13:10:40.120Z"
 tags: ["homepod", "apple-tv"]
 slug: "789d0244-961a-4223-9c97-29fe4e2dc998"

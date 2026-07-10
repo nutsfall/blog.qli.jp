@@ -1,6 +1,5 @@
 ---
 title: OmniFocus の設定 (Apr. 2020)
-description: OmniFocusの設定変えたら、手に馴染む感じだったので淡々と書き残しておく。
 date: "2020-04-21T14:39:01.616Z"
 tags: ["omnifocus", "productivity"]
 slug: "a2644138-a6f0-4b89-a656-a1a08ce4d457"

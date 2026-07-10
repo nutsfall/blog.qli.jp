@@ -1,7 +1,5 @@
 ---
 title: ねぇ、Google
-description: Google Home miniを入手しました。Amazon Echo Dotと入れ替える形で設置しました。au回線をずっと契約して行くと最近au
-  wallet ポイントが勝手に溜まるのですが、それで支払ったので、実質費用はかかっていません。
 date: "2017-12-16T11:42:25.990Z"
 tags: ["google-home", "smart-speaker", "nature-remo"]
 slug: "fa4d027a-bab5-43a3-a6fc-76e199f176b6"

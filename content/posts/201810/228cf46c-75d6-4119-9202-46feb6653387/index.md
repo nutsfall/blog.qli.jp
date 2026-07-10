@@ -1,7 +1,5 @@
 ---
 title: OmniFocusは「ウソ」を付かなくていいツール
-description: OmniFocusの記事が意外にも多くの方に読んでいただけるようなので、OmniFocusを取り上げます。なお、ここでの “OmniFocus”
-  は OmniFocus3 を前提にしています。
 date: "2018-10-19T13:06:43.909Z"
 tags: ["omnifocus", "task-management"]
 slug: "228cf46c-75d6-4119-9202-46feb6653387"

@@ -1,6 +1,5 @@
 ---
 title: Comply for AirPods Pro を導入した
-description: ComplyのAirPods Pro モデルを導入したので、簡単に使ってみた感想を。
 date: "2020-11-22T06:26:52.418Z"
 tags: ["comply", "airpods-pro", "earphones"]
 slug: "b15705b9-6841-4094-b86e-534471656b2d"

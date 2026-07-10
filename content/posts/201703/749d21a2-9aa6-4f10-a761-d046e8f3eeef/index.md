@@ -1,6 +1,5 @@
 ---
 title: Six years from THE DAY, and Twelve years from THE DAY soon
-description: 6年目。6年目になっても、3.11といえばあの日のことだし、原発は廃炉までの道筋は遠いし、現地では復興はまだまだだと言っていて、一方東京は、オリンピックをなんとか安くできないかと思案している。
 date: "2017-03-11T04:17:45.392Z"
 tags: ["3-11", "avispa-fukuoka", "j-league"]
 slug: "749d21a2-9aa6-4f10-a761-d046e8f3eeef"

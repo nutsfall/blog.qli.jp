@@ -1,6 +1,5 @@
 ---
 title: End of the year, 2016
-description: 大晦日ということで今年を振り返ってみる。
 date: "2016-12-31T00:37:08.879Z"
 tags: ["year-in-review", "j-league", "dazn"]
 slug: "6f8abb41-8560-4d63-8caf-07d63522c175"

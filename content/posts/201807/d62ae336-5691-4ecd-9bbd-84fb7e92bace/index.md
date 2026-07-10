@@ -1,6 +1,5 @@
 ---
 title: ワールドカップとサッカー
-description: こんなにワールドカップの試合をきちんとみているのは、初めてではないかと思えるくらいみている。
 date: "2018-07-03T06:39:35.552Z"
 tags: ["world-cup", "soccer", "j-league"]
 slug: "d62ae336-5691-4ecd-9bbd-84fb7e92bace"

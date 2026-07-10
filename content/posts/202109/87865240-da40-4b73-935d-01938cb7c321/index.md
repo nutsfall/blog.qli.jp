@@ -1,6 +1,5 @@
 ---
 title: iOS15の空間オーディオは音楽のスタンダードを変えてしまう？
-description: iPhone 13の発売も近くなり、iOS15もリリースされました。iOS15 Public Betaを使ってきた経験を踏まえて、空間オーディオについて触れたいと思います。
 date: "2021-09-20T21:07:47.939Z"
 tags: ["spatial-audio", "apple-music", "ios15"]
 slug: "87865240-da40-4b73-935d-01938cb7c321"

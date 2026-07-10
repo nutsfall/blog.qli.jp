@@ -1,6 +1,5 @@
 ---
 title: 空と雨と天気予報
-description: 今週は、天気のことばかり気にしていたような気がします。東京では、午後になり急に雨が降るという天候を数日繰り返していました。
 date: "2024-06-08T11:47:42.931Z"
 tags: ["weather", "weathernews", "photography"]
 slug: "383f61d7-9a7e-4b9c-81a9-d6019e0084dd"

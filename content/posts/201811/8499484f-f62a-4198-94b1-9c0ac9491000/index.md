@@ -1,6 +1,5 @@
 ---
 title: iPad Pro 11 インチを選んだ理由
-description: iPad Pro 11インチを買いました。
 date: "2018-11-08T12:46:03.031Z"
 tags: ["ipad-pro", "apple"]
 slug: "8499484f-f62a-4198-94b1-9c0ac9491000"

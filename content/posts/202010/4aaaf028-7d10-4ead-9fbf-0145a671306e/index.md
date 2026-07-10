@@ -1,6 +1,5 @@
 ---
 title: 新しいApple Music レビュー (Oct. 2020)
-description: Apple Music For Android がアップデートし、「今すぐ聴く」が一番左に移動しました。同じようなアップデートが今年のiOS14のアップデートに含まれています。
 date: "2020-10-28T12:59:44.447Z"
 tags: ["apple-music", "fujiwara-sakura"]
 slug: "4aaaf028-7d10-4ead-9fbf-0145a671306e"

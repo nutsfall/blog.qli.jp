@@ -1,6 +1,5 @@
 ---
 title: Joy, inc.を読んだ
-description: 久しぶりに本屋に本を買いに行きました。周りでオススメされていた Joy, Incを読みました。最近Kindle版も出ていたのでリンクを貼っておきます。個人的にはiBooksの方が好みですが、こちらにはまだ出ていなかった。
 date: "2017-01-23T13:01:42.395Z"
 tags: ["book-review", "agile", "management"]
 slug: "e9b13763-f718-4013-8d51-c4bdc995780b"

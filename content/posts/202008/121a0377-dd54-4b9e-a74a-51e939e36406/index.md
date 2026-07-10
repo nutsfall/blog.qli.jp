@@ -1,6 +1,5 @@
 ---
 title: 気軽に使える Pixel 4a & Pixel Buds
-description: 新しいスマホと新しいヘッドフォンを手に入れました。まずはファーストインプレッションです。
 date: "2020-08-24T10:15:13.268Z"
 tags: ["pixel-4a", "pixel-buds", "android"]
 slug: "121a0377-dd54-4b9e-a74a-51e939e36406"

@@ -1,6 +1,5 @@
 ---
 title: CHATMONCHY Tribute
-description: チャットモンチーが活動を停止するタイミングが近づいてしまう。彼女らの活動停止についての心境はこの表現がしっくりくる。
 date: "2018-03-31T05:05:23.501Z"
 tags: ["chatmonchy", "tribute-album"]
 slug: "415a9a34-cfcf-440a-b22b-2f0728ae0f1e"

@@ -1,6 +1,5 @@
 ---
 title: アビスパホーム開幕戦
-description: J2リーグが開幕した。今年からJリーグ Div 2ではなく、J2リーグだ。
 date: "2015-03-09T01:11:22.946Z"
 tags: ["avispa-fukuoka", "j2-league"]
 slug: "f6d8ceb2-23e1-4e62-b913-3ebc798cfdde"

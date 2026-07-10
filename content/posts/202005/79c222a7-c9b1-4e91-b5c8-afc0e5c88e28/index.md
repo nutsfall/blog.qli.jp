@@ -1,6 +1,5 @@
 ---
 title: OmniFocusのクイックオープンとSpolight検索
-description: OmniFocus 3.8 がリリースされました。今回の主なトピックは Omni Automation。 JavaScript で項目を自動生成したりすることができる機能で、OmniGroupの他のアプリには導入されているものです。
 date: "2020-05-29T12:17:03.202Z"
 tags: ["omnifocus", "productivity"]
 slug: "79c222a7-c9b1-4e91-b5c8-afc0e5c88e28"

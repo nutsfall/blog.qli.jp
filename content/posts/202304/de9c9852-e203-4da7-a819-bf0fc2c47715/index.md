@@ -1,6 +1,5 @@
 ---
 title: 日帰り新潟旅は快適だった。結果以外は。
-description: ひょんなことから、新潟に行った。実は新潟には全く縁がなく、これが初上陸だった。
 date: "2023-04-22T03:02:14.120Z"
 tags: ["albirex-niigata", "j-league"]
 slug: "de9c9852-e203-4da7-a819-bf0fc2c47715"

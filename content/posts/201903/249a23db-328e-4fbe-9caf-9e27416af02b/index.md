@@ -1,6 +1,5 @@
 ---
 title: 春のりんごウィーク１週目
-description: 今週賑やかだったので総括します。その前に別の話題を。
 date: "2019-03-23T03:07:01.048Z"
 tags: ["apple", "ricoh-gr", "airpods"]
 slug: "249a23db-328e-4fbe-9caf-9e27416af02b"

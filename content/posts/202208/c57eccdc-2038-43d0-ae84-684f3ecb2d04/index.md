@@ -1,6 +1,5 @@
 ---
 title: 旅のお供にしたいヘッドフォン WH-1000XM5
-description: ソニーのノイズキャンセリングヘッドフォン WH-1000XM5を手に入れました。
 date: "2022-08-03T09:38:23.744Z"
 tags: ["sony", "wh-1000xm5", "headphones"]
 slug: "c57eccdc-2038-43d0-ae84-684f3ecb2d04"

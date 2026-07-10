@@ -1,6 +1,5 @@
 ---
 title: 1014 Apple イベント “High, Speed”
-description: "Apple 秋の収穫祭 2020 #2 “High, Speed” が開催されました。"
 date: "2020-10-16T12:17:28.233Z"
 tags: ["apple-event", "iphone-12", "homepod-mini"]
 slug: "d80c9030-88fc-4e3d-9d4c-e38c916683ed"

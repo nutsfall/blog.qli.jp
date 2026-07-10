@@ -1,6 +1,5 @@
 ---
 title: 月3000円の購読型サービス
-description: Amazon unlimitedが始まったとのことで、改めて購読型サービスの料金を調べて見ることにした。というか、このツイートの裏どりがしたかっただけなのだけど。
 date: "2016-08-13T03:54:19.341Z"
 tags: ["streaming", "subscription-services"]
 slug: "c36afd18-e503-4976-abdf-87e5e3641253"

@@ -1,6 +1,5 @@
 ---
 title: Reborn-Art festival x ap bank fes 2016
-description: 参加してきた３日間を時間を追って書いておく。来年のために。
 date: "2016-08-02T12:01:36.587Z"
 tags: ["ap-bank-fes", "reborn-art-festival", "music-festival"]
 slug: "0ba8e84e-fb35-41f4-8e89-2387c722036f"

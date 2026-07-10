@@ -1,6 +1,5 @@
 ---
 title: これからやるタスクをどうリストにするか
-description: 時間があると YouTube…
 date: "2018-07-29T06:32:36.858Z"
 tags: ["task-management", "productivity"]
 slug: "dfc95cc7-1ed0-4350-9d80-251d040536a6"

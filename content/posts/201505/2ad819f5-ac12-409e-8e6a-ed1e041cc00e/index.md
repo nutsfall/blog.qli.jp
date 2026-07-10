@@ -1,6 +1,5 @@
 ---
 title: 呆れるくらいの未来志向で
-description: どのくらい前になるだろうか。User Story Mappingという本の著者であるJeff…
 date: "2015-05-31T00:34:37.635Z"
 tags: ["agile", "scrum", "user-story-mapping"]
 slug: "2ad819f5-ac12-409e-8e6a-ed1e041cc00e"

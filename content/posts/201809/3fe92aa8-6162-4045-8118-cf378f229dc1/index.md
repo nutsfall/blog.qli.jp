@@ -1,6 +1,5 @@
 ---
 title: iPhone XS と Watch 4
-description: iPhone XS と Watch 4 を買いました。受け取りは、最寄りのApple Storeである、Apple 新宿です。どうやら今年もメディア対応は表参道で実施したようですね。
 date: "2018-09-21T08:26:24.159Z"
 tags: ["iphone-xs", "apple-watch"]
 slug: "3fe92aa8-6162-4045-8118-cf378f229dc1"

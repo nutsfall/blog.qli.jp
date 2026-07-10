@@ -1,6 +1,5 @@
 ---
 title: 旅先でのWork From Hotelで役に立ったガジェットたち
-description: 先日少し時間をとってワーケーションをやってきました。その時に役に立ったものをガジェット目線でまとめます。
 date: "2021-11-17T12:15:47.285Z"
 tags: ["workcation", "anker", "ipad-pro"]
 slug: "fa338fa4-17bc-43e9-8f9f-d8f46113dbeb"

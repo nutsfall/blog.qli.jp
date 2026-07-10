@@ -1,6 +1,5 @@
 ---
 title: Apple TV 4Kを買った話
-description: 年が明けてApple TV 4Kを買ったのでその話
 date: "2018-02-09T01:08:24.623Z"
 tags: ["apple-tv", "dazn", "j-league"]
 slug: "67e5aa8e-de25-4b41-9895-124152bd9e2d"

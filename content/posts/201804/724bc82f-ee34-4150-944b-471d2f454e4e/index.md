@@ -1,7 +1,5 @@
 ---
 title: Things 3.5 リリース
-description: Thingsの記事を書くと（このブログとしては）意外と読んでくれる方が多いのと、そもそも日本語のThingsの記事少ないよね、ということで、Things3.5
-  についても紹介します。
 date: "2018-04-18T15:03:49.011Z"
 tags: ["things", "productivity"]
 slug: "724bc82f-ee34-4150-944b-471d2f454e4e"

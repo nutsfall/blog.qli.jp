@@ -1,7 +1,5 @@
 ---
 title: Essential Phone を買って、Android Pie を試す
-description: Android の今年のビッグリリース、Android 9 Pie が出ましたね。それと呼応する形で、Android 9 Pie をインストールできるEssential
-  Phone…
 date: "2018-08-26T02:10:58.764Z"
 tags: ["essential-phone", "android", "android-pie"]
 slug: "0f02d5c4-20fc-4e78-a418-4756820b96e7"

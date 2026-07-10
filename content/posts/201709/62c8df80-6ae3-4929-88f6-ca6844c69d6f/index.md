@@ -1,6 +1,5 @@
 ---
 title: リークにも負けない45分のOne More Thing (Apple Special Event; Sep. 2017)
-description: Appleの発表会といえば、昔は様々な噂（リーク）はあっても、それなりに魅せてくれたりしていたので、モチベーションも高かったのだけど、ここ数年は答え合わせ感が出ていてかつ、今回はevilとみられるリークもあって、なんだか始まる前から興ざめでしたね。
 date: "2017-09-13T01:47:23.429Z"
 tags: ["apple", "iphone-x", "apple-watch"]
 slug: "62c8df80-6ae3-4929-88f6-ca6844c69d6f"

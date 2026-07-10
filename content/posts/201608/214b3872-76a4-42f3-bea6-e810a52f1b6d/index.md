@@ -1,6 +1,5 @@
 ---
 title: 古いと新しい
-description: 土曜日、crossroad という番組で、小室哲哉を特集してた。密着の中でいろんなエピソードを織り交ぜながら紹介していく番組で、その中で、彼が名古屋のクラブでDJをするシーンがあった。
 date: "2016-08-14T05:02:03.416Z"
 tags: ["tetsuya-komuro", "orange-range", "music"]
 slug: "214b3872-76a4-42f3-bea6-e810a52f1b6d"

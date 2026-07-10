@@ -1,6 +1,5 @@
 ---
 title: Things 3 の「今日」があふれてませんか？
-description: Cultured Code が出している Things 3 で気になる会話があったので、雑談的な感じでまとめも兼ねて書いてみる。
 date: "2021-01-23T10:19:42.312Z"
 tags: ["things", "task-management"]
 slug: "1f133dbe-4fbf-4a51-88d5-b4e28d1df4c8"

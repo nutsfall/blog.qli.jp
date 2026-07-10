@@ -1,6 +1,5 @@
 ---
 title: Apple Special Event ブルックリンで開催される
-description: AppleからApple Special Eventの予告がありました。10月30日朝10時(EDT)に開始されます。場所はなんとニューヨーク、ブルックリンです。
 date: "2018-10-19T10:55:44.136Z"
 tags: ["apple", "ipad", "macbook"]
 slug: "861ab129-ed6e-4f0b-b6c6-f13bfafdc0d7"

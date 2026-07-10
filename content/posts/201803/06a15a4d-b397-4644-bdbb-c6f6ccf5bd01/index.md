@@ -1,6 +1,5 @@
 ---
 title: Cheero Wireless Earphones が届きました
-description: Twitter見てたらふらっと流れてきたので、ポチッとしたら今日届きました。
 date: "2018-03-10T02:55:08.804Z"
 tags: ["cheero", "wireless-earphones", "airpods"]
 slug: "06a15a4d-b397-4644-bdbb-c6f6ccf5bd01"
