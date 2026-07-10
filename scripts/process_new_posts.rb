@@ -22,8 +22,9 @@ POSTS_DIR   = Pathname.new(__dir__).parent / 'content' / 'posts'
 RUBY_BIN    = '/opt/homebrew/opt/ruby/bin/ruby'
 AUTO_TAGGER = Pathname.new(__dir__) / 'auto_tagger.rb'
 
-MEDIUM_IMG_RE = /https?:\/\/cdn-images-1\.medium\.com\/[^\s\)"]+/
-NBSP          = " "
+MEDIUM_IMG_RE   = /https?:\/\/cdn-images-1\.medium\.com\/[^\s\)"]+/
+MEDIUM_PIXEL_RE = /\n*!\[\]\(https?:\/\/medium\.com\/_\/stat\?[^\s\)]*\)\n?/
+NBSP            = " "
 
 class PostProcessor
   def initialize(dry_run:)
@@ -62,7 +63,7 @@ class PostProcessor
     POSTS_DIR.glob('**/*.md').select do |path|
       content = File.read(path, encoding: 'utf-8') rescue next
       content.match?(/^source:\s*["']?medium/) &&
-        content.match?(MEDIUM_IMG_RE)
+        (content.match?(MEDIUM_IMG_RE) || content.match?(MEDIUM_PIXEL_RE))
     end.sort
   end
 
@@ -77,6 +78,12 @@ class PostProcessor
     new_fm   = fm_body.dup
     new_body = body.dup
     changes  = []
+
+    # 0. Mediumの計測ピクセル画像を除去
+    if new_body.match?(MEDIUM_PIXEL_RE)
+      new_body.gsub!(MEDIUM_PIXEL_RE, "\n")
+      changes << "計測ピクセル除去"
+    end
 
     # 1. 冒頭の重複H3タイトル削除（画像判定より先に行う）
     if title && !title.empty?

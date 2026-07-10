@@ -21,5 +21,3 @@ draft: false
 東京に引っ越してきてもうずいぶん経つ。そろそろ東京で過ごしている時間の方が長いくらいだ。しかし、幼少期に培われたバイオリズムはなかなか変わらないみたいだ。僕は寒くなると、この変な感覚に毎年苛まれている。
 
 今年も寒くなってきた。そろそろ帰らないと。
-
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=41d90627bd10)
