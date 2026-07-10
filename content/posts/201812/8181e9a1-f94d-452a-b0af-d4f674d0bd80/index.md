@@ -3,9 +3,9 @@ title: 2018年の映画を振り返ってみる
 date: "2018-12-28T00:56:35.997Z"
 tags: ["movies"]
 slug: "8181e9a1-f94d-452a-b0af-d4f674d0bd80"
+cover:
+  image: "1__ID0rCTbMs4rqyTsBActfrA__2x.jpeg"
 ---
-![](1__ID0rCTbMs4rqyTsBActfrA__2x.jpeg)
-
 音楽と映画を振り返る記事を書いていて、今回は映画編。音楽は1週間前くらいに早々と書いてしまった。
 
 さて、とりあえず今年みた映画を書き出してみる。映画館だけではなく、BS/CS/ストリーミングでみたものも含まれている。

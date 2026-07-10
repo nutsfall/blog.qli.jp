@@ -3,9 +3,9 @@ title: E-M10 Black 届く
 date: "2014-03-30T21:14:30.000Z"
 tags: ["olympus", "e-m10", "camera"]
 slug: "5915766f-94c7-4e5d-9193-b18c014b39b7"
+cover:
+  image: "1__mFpuRLSwlfNb0pNMOb64Ng.png"
 ---
-![](1__mFpuRLSwlfNb0pNMOb64Ng.png)
-
 オリンパスの新しいカメラ E-M10 が届きました。
 
 予約していて、E-M10 シルバーは2月末に発売になっていましたが、ブラックは3月末まで待たされました。消費税8%化で、配送であるクロネコヤマトさんの物流量が飽和しているという話もあり、ひやひやしましたが、なんとか受け取ることができました。[OM-D E-M10予約キャンペーン](http://olympus-imaging.jp/event_campaign/campaign/c140129a/index.html) は3月31日がユーザー登録締切だったのですが、物流量飽和のためなのか、4月11日まで延長されていました。

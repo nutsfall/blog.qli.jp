@@ -4,9 +4,9 @@ description: Finally!
 date: "2017-05-18T15:05:16.216Z"
 tags: ["things3"]
 slug: "cf0990fc-987c-4378-bbf9-9d8bf85395fa"
+cover:
+  image: "1__PI4cdEvuyD7u3JA6RPnyVg.png"
 ---
-![](1__PI4cdEvuyD7u3JA6RPnyVg.png)
-
 [Meet the All-New Things - Things Blog - Cultured Code](https://culturedcode.com/things/blog/2017/05/meet-the-all-new-things/)
 
 [Things 3 を Mac App Store で](https://itunes.apple.com/jp/app/things-3/id904280696?mt=12)

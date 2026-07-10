@@ -5,9 +5,9 @@ description: 2019年は音楽視聴環境のアップデートの年だった。
 date: "2019-12-21T05:45:34.847Z"
 tags: ["music", "apple"]
 slug: "200cec0d-1a19-4869-bf81-981ddf999b0b"
+cover:
+  image: "1__u6ebLQDK94TxA__qn02rtdA.jpeg"
 ---
-![](1__u6ebLQDK94TxA__qn02rtdA.jpeg)
-
 2019年は音楽視聴環境のアップデートの年だった。待ち望んでいたHomePod、そして、Beats Solo Pro、AirPods Pro が日本で発売された。
 
 そんな2019年に出会った音楽の中からお気に入りの音楽を紹介する。

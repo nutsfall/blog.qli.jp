@@ -3,11 +3,10 @@ title: 乱発されるアカウント
 date: "2014-01-07T12:26:35.645Z"
 tags: ["digital-identity", "account-security"]
 slug: "a313bf35-2ddf-4c1c-925d-f9aeabcff9bd"
+cover:
+  image: "1__zTTFv84ZbX__Hd28Y1SPYDw.jpeg"
+  caption: "Some rights reserved by lapideo http://www.flickr.com/photos/lapideo/198046070/"
 ---
-![](1__zTTFv84ZbX__Hd28Y1SPYDw.jpeg)
-
-Some rights reserved by lapideo http://www.flickr.com/photos/lapideo/198046070/
-
 Windows8には、Microsoftアカウントがある。別に作らなくてもいいのだけど、OSを使いはじめる前の案内にそって進むと、Microsoftアカウントを作成し、本人認証を行い、そしてやっとWindows8のホーム画面が現れる。
 
 Androidには、日本の場合キャリアが指定するアカウント(docomo ID / au ID)と、Googleアカウントがある。こちらは作らなくても、OSを使い始められるようになっているのだが、アプリのダウンロードや、アップデートをするためにはどうしても必要を迫られる事が多い。そして、Androidに関しては「初期設定代行」という名目で、他人がパスワードを設定するという現象も起きている。

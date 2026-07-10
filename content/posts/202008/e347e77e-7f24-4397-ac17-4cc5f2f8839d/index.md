@@ -4,9 +4,9 @@ description: Blogだけじゃなく、vlogが登場するなど、 “logging”
 date: "2020-08-22T02:42:39.350Z"
 tags: ["blogging", "vlog", "stand-fm"]
 slug: "e347e77e-7f24-4397-ac17-4cc5f2f8839d"
+cover:
+  image: "1__DHaJRUvwIQtqfNKFlLLCCw__2x.jpeg"
 ---
-![](1__DHaJRUvwIQtqfNKFlLLCCw__2x.jpeg)
-
 Blogだけじゃなく、vlogが登場するなど、 “logging”の方法もさまざまな方法が出てきたので、それについて少し考えてみました。
 
 このブログを始めてずいぶん経ちます。このブログ自身は、何かについて深く探究するというよりは、自分がイマ考えていることを書き残す場として運営しているので、Personal Bloggingであることを意識して続けています。

@@ -4,9 +4,9 @@ description: ４月に入って、LEGO BIG MORL “KEITH” と スガシカオ 
 date: "2019-04-23T14:40:32.843Z"
 tags: ["earphones", "powerbeats-pro"]
 slug: "9bac6c30-851a-4f6b-b4c9-d97beed94ecd"
+cover:
+  image: "1__2__TE2Y7flUzMlp9QihT9OA.jpeg"
 ---
-![](1__2__TE2Y7flUzMlp9QihT9OA.jpeg)
-
 ４月に入って、LEGO BIG MORL “KEITH” と スガシカオ “労働なんかしないで光合成だけで生きたい” を聴きまくっています。
 
 Powerbeats Proのメディア向け説明会が開催されたそうで、日本の発売が後ろにずれたそうで。

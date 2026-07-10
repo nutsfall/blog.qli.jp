@@ -4,9 +4,9 @@ description: たまには振り返ってみる
 date: "2020-05-18T13:13:44.775Z"
 tags: ["music", "mr-children", "trf"]
 slug: "0c679177-2129-4934-8d9b-454568da4fcf"
+cover:
+  image: "1__u6ebLQDK94TxA__qn02rtdA.jpeg"
 ---
-![](1__u6ebLQDK94TxA__qn02rtdA.jpeg)
-
 過去を振り返って、音楽をより好きになるきっかけになった曲を5曲選びました。すべて懐メロですが、気になった方はどうぞ。
 
 ## BOY MEETS GIRLS by TRF (1994)

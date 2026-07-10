@@ -5,9 +5,9 @@ description: 東北で復活して2年目。今年のap bank fes(Reborn-Art Fest
 date: "2017-07-31T06:34:08.793Z"
 tags: ["ap-bank-fes", "music-festival"]
 slug: "1365423e-da5d-4d4d-9376-d1a0017d33e3"
+cover:
+  image: "1__4__71AaDRmzbfdK1B7uQr3Q__2x.jpeg"
 ---
-![](1__4__71AaDRmzbfdK1B7uQr3Q__2x.jpeg)
-
 東北で復活して2年目。今年のap bank fes(Reborn-Art Festival 2017　× ap bank fes)は、宮城県国立みちのく杜の湖畔公園で行われた。実は、2012年、ap bank fesが本拠地つま恋だけではなく、宮城と淡路島という記憶に新しいヒサイチをつないで開催した時に使われたのもこの場所だった。もちろん、昨年に比べて場所が大きくなったこともありキャパもそれなりに増やしたんだろう(と思う)。
 
 フードは昨年石巻で開催された時にも出ていたお店を中心に揃っていて、東北の味を堪能した。また、フィッシャーマンズなど、石巻で活動している団体も雑貨を販売していたりしていた。

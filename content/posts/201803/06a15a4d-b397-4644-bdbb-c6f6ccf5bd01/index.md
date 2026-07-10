@@ -4,9 +4,9 @@ description: Twitter見てたらふらっと流れてきたので、ポチッと
 date: "2018-03-10T02:55:08.804Z"
 tags: ["cheero", "wireless-earphones", "airpods"]
 slug: "06a15a4d-b397-4644-bdbb-c6f6ccf5bd01"
+cover:
+  image: "1__Dft9KHhijw__bUXPReE__cKw.jpeg"
 ---
-![](1__Dft9KHhijw__bUXPReE__cKw.jpeg)
-
 Twitter見てたらふらっと流れてきたので、ポチッとしたら今日届きました。
 
 [cheero Wireless Earphones](http://www.cheero.net/products/wireless_earphones/)

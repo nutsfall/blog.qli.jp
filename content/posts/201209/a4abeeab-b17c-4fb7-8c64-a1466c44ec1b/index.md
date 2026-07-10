@@ -3,9 +3,9 @@ title: Wordcamp Tokyoに参加して
 date: "2012-09-16T08:16:25.000Z"
 tags: ["wordcamp", "wordpress", "php"]
 slug: "a4abeeab-b17c-4fb7-8c64-a1466c44ec1b"
+cover:
+  image: "0__AE5UkN5ZZvOK65ev.jpg"
 ---
-![](0__AE5UkN5ZZvOK65ev.jpg)
-
 WordCamp Tokyoに参加してみました。WordCampは今回が初めて。ついでに書くと、蒲田で降りるのも初めてでした。
 
 会場は、大田区産業プラザ。会場では、半分をWordCamp Tokyoを、もう半分で PHPカンファレンス をやっていました。２つの間に明確なしきりなどなく、ブースを回ってると気がつくとPHPカンファレンスのブースも回ってるという感じになっていました。  

@@ -4,9 +4,9 @@ description: 先日、TwitterでOmniFocusは古いという話を見かけまし
 date: "2021-12-09T14:37:33.068Z"
 tags: ["omnifocus", "gtd", "productivity"]
 slug: "4aead447-5b21-4e7a-a571-068085092070"
+cover:
+  image: "0__ZX0ivPZ0lkWPqqwQ.jpg"
 ---
-![](0__ZX0ivPZ0lkWPqqwQ.jpg)
-
 先日、TwitterでOmniFocusは古いという話を見かけました。それを受けて、こんなツイートを書きました。
 
 自分なりのOmniFocusとは何かという話を歴史を紐解きながら書いていきたいと思います。

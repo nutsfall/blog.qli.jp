@@ -4,9 +4,9 @@ description: 突然発表されたMagic Keyboard for iPad Pro がやっと手に
 date: "2020-05-16T11:52:58.940Z"
 tags: ["magic-keyboard", "ipad-pro"]
 slug: "1e168f58-b694-447a-9cff-410a9a5ae6b2"
+cover:
+  image: "1__aGX9pJFuOAhWZoOUcY5Ouw.jpeg"
 ---
-![](1__aGX9pJFuOAhWZoOUcY5Ouw.jpeg)
-
 まずは簡単にiPad Proの使い方を。自宅ではMacBook Pro 16 inchを使っていて、iPad Proは持ち出し用のコンピュータという立ち位置で使っています。少ない荷物で歩き回りたい派なので、日帰りくらいのお出かけで持ち出すことはほとんどありません。宿泊を伴うようなお出かけの時に持ち出すことが多いです。
 
 例えば、飛行機内でYouTubeなどの映像を見たり、iBooksやKindleで読書したり。YouTube Premiumに加入したので、YouTubeをオフラインで見ることができるようになりました。

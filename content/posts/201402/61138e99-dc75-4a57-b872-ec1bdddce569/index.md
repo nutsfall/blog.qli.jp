@@ -3,9 +3,9 @@ title: "#devsumi 2014 に行ってきました"
 date: "2014-02-14T20:49:18.000Z"
 tags: ["developers-summit", "conference"]
 slug: "61138e99-dc75-4a57-b872-ec1bdddce569"
+cover:
+  image: "0__nh0M__wGsTeRizAxn.JPG"
 ---
-![](0__nh0M__wGsTeRizAxn.JPG)
-
 今年も Developers Summit に行ってきました。場所はいつもの目黒雅叙園。Amazonさんのオフィスの隣の建物です。今年はこっそりとコーヒースポンサーとして参加しました。
 
 ## コーヒースポンサーのススメ

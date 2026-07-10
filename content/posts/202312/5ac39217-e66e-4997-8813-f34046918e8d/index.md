@@ -3,9 +3,9 @@ title: Apple Musicの「お気に入り」はトグルボタン
 date: "2023-12-02T03:01:55.585Z"
 tags: ["apple-music", "spotify"]
 slug: "5ac39217-e66e-4997-8813-f34046918e8d"
+cover:
+  image: "0__IaiN1UbKqiNz2brw.jpg"
 ---
-![](0__IaiN1UbKqiNz2brw.jpg)
-
 Apple Musicが「お気に入り」の機能を強化し始めた。これまでは、「ライブラリに追加」する必要があったが、今は「お気に入り」にするだけで、楽曲がライブラリに追加されるようになっている。
 
 [iPhone、iPad、Android の Apple Music でお気に入りを追加して見つける方法](https://support.apple.com/ja-jp/HT213350)

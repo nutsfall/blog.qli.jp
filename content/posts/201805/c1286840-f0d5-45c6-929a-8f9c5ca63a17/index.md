@@ -4,9 +4,9 @@ description: Ya Ya Ya とかいいません
 date: "2018-05-10T11:08:39.993Z"
 tags: ["mr-children", "apple-music", "music-streaming"]
 slug: "c1286840-f0d5-45c6-929a-8f9c5ca63a17"
+cover:
+  image: "1__1s3GYs__1LuD__IVor3__eS7A.jpeg"
 ---
-![](1__1s3GYs__1LuD__IVor3__eS7A.jpeg)
-
 本日　2018年5月10日 、1992年5月10日に発売されたアルバムを含む、大量の楽曲が Apple Music / iTunes Store をはじめとする 音楽配信ビジネス にやって来ました。
 
 そうです。Mr.Children 26歳の誕生日に、自らの方針を変更しました。

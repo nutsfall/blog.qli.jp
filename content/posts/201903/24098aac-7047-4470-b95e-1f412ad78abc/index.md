@@ -4,9 +4,9 @@ description: Apple Musicを選ぶ理由
 date: "2019-03-15T10:39:59.306Z"
 tags: ["apple-music", "spotify", "subscription"]
 slug: "24098aac-7047-4470-b95e-1f412ad78abc"
+cover:
+  image: "1__VikJeT4lR3wORm3fS2ZKow.jpeg"
 ---
-![](1__VikJeT4lR3wORm3fS2ZKow.jpeg)
-
 某ミュージシャンの騒動で急にサブスクリプション型サービスにフォーカスがあたり始めた。TBSラジオ LIFE でテーマになったばかりだったりするし、今月末にはAppleが新しいサービスを発表するという噂もある。なんというタイミングなのだろう。
 
 [【音声配信】「文化系大忘年会2018」Part1▽鈴木謙介、速水健朗、文月悠光、永田夏来、海猫沢めろん、ひらりさ、倉本さおり、塚越健司、宮崎智之、伊波真人、斎藤哲也（TBSラジオ「文化系トークラジオL…](https://www.tbsradio.jp/life/2018/12/2018part1tbslife20181223.html)
