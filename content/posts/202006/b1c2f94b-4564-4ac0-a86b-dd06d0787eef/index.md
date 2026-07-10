@@ -8,7 +8,7 @@ slug: "b1c2f94b-4564-4ac0-a86b-dd06d0787eef"
 ---
 多くのProductivityツールで、Action にタグをつけられるケースがよくあります。Actionにタグをつけて管理する手法の発端がどこかはわかりませんが、個人的に初めて知ったのは Getting Things Done で紹介されたコンテキストです。
 
-[https://www.amazon.co.jp/dp/4576151878/](https://www.amazon.co.jp/dp/4576151878/)
+[https://www.amazon.co.jp/dp/4576151878/](https://www.amazon.co.jp/dp/4576151878)
 
 タグに何をつけるかはそれこそ自由なのですが、自分の場合はGTDのコンテキストの流れを汲んだ方法を使っているので、タグについて簡単に紹介していきます。
 

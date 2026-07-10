@@ -12,10 +12,4 @@ slug: "042d43e6-3c88-4be1-be97-6e3a25e6e81f"
 
 morning paperほどではないけど、今回はメロディアスでキャッチーでって楽曲は少ない。でも安心して、何回でも何回でもきいていられる、そんな楽曲たち。素敵です。9月の京都音楽博覧会、ぜひ行きたいです。
 
-[魂のゆくえ](http://www.amazon.co.jp/exec/obidos/ASIN/B001XBP5YG/qli-22/ref=nosim "魂のゆくえ")
-
-*   アーチスト: くるり
-*   レーベル: ビクターエンタテインメント
-*   発売日: 2009/06/10
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/06/13
+[魂のゆくえ](https://www.amazon.co.jp/dp/B001XBP5YG)

@@ -16,4 +16,4 @@ Mr.Childrenが3年半ぶりにリリースしたシングル「祈り -涙の軌
 という希望で終わる曲はMr.Childrenの中では珍しく、またアウトロも長くなく、これで静かに終わっていって、あったかい感じで終わるのも珍しいなと。大きな衝撃のあとでもあり、もしかしたらそこに何かを託したかったのかもしれません。  
 そんなことを考えたりしていました。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=mrchildrenonl-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=B0070Q96QQ](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=mrchildrenonl-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0070Q96QQ "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=mrchildrenonl-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0070Q96QQ")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=mrchildrenonl-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=B0070Q96QQ](https://www.amazon.co.jp/dp/B0070Q96QQ)

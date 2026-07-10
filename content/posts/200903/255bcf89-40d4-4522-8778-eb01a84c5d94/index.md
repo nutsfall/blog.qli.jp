@@ -12,10 +12,4 @@ slug: "255bcf89-40d4-4522-8778-eb01a84c5d94"
 
 今年もapbank fes ‘09は開催が決定していて発表されています。去年までは「オーガニックコットン」を中心とした衣がひとつの大きな柱だったのですが、今年は「米」を中心とした食がテーマだとか。なんでもapbank fes用の米を石垣島で栽培中らしいです。
 
-[Live & Documentary DVD「ap bank fes ’08」](http://www.amazon.co.jp/exec/obidos/ASIN/B001O3JU3A/qli-22/ref=nosim "Live & Documentary DVD「ap bank fes ’08」")
-
-*   レーベル: トイズファクトリー
-*   発売日: 2009/02/25
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/03/03
+[Live & Documentary DVD「ap bank fes ’08」](https://www.amazon.co.jp/dp/B001O3JU3A)

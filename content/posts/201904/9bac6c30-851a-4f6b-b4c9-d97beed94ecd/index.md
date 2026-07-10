@@ -39,4 +39,4 @@ Powerbeats Proのメディア向け説明会が開催されたそうで、日本
 
 Powerbeats Proは、脱着しずらいので買わないと思います。AirPodsもこれが理由であまり外では使っていません。Beatsでは、BeatsXとかはこれらの条件にマッチしていますね。
 
-[Beats by Dr.Dre BeatsXイヤフォン - ブラック](https://www.amazon.co.jp/dp/B07JVHZSMS/)
+[Beats by Dr.Dre BeatsXイヤフォン - ブラック](https://www.amazon.co.jp/dp/B07JVHZSMS)

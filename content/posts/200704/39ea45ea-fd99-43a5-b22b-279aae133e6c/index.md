@@ -11,13 +11,4 @@ slug: "39ea45ea-fd99-43a5-b22b-279aae133e6c"
 
 総録音時間40分という短さはびっくりしましたが。
 
-[Best Damn Thing](http://www.amazon.co.jp/exec/obidos/ASIN/B000NA1OXY/mrchildrenonl-22/ref=nosim "Best Damn Thing")
-
-*   アーチスト: Avril Lavigne
-*   メーカー: Arista
-*   価格: ￥ 1,631 (31% OFF)
-*   発売日: 2007/04/17
-*   売上ランキング： 14
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/04/18
+[Best Damn Thing](https://www.amazon.co.jp/dp/B000NA1OXY)

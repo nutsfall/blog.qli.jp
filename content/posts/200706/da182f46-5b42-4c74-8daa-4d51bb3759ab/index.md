@@ -14,12 +14,4 @@ slug: "da182f46-5b42-4c74-8daa-4d51bb3759ab"
 
 Amazonから取ってきたレーベル違います。正しくはSpeedstarですね。レミオロメンと同じ。
 
-[ワルツを踊れ Tanz Walzer](http://www.amazon.co.jp/exec/obidos/ASIN/B000PWQPOI/mrchildrenonl-22/ref=nosim "ワルツを踊れ Tanz Walzer")
-
-*   アーチスト: くるり
-*   レーベル: Viictor Entertainment,Inc.(V)(M)
-*   価格: ￥ 3,045
-*   発売日: 2007/06/27
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/06/29
+[ワルツを踊れ Tanz Walzer](https://www.amazon.co.jp/dp/B000PWQPOI)

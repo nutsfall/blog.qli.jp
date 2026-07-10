@@ -14,4 +14,4 @@ s(o)un(d)beamsのコンセプトは声の響き。まだリリースされてい
 
 Salyuさんの事務所、烏龍舎といえば、Mr.Children “SENSE”のアルバムのときも、深夜帯にティーザーを流して、謎のサイトを立ち上げたり、と、いろいろ新しいことにチャレンジしているところ。今回もなかなか新しいことをやってくれています。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&asins=B004JZDXDS](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&asins=B004JZDXDS "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&asins=B004JZDXDS")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&asins=B004JZDXDS](https://www.amazon.co.jp/dp/B004JZDXDS)

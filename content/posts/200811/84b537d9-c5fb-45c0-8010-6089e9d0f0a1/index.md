@@ -6,13 +6,7 @@ slug: "84b537d9-c5fb-45c0-8010-6089e9d0f0a1"
 ---
 YUIさんのアルバム。カップリング集でほとんどすべての曲はすでに発表済み、かつ新曲”I’ll be”もかなりハードプレイされているようなので感想的なものは割愛。カップリング集ってのはiTunesで音楽を管理していると意外と重宝する。いっそのこと、アコースティック集もつけて欲しかった。そしたらシングルとか一蹴できちゃうから。
 
-[MY SHORT STORIES](http://www.amazon.co.jp/exec/obidos/ASIN/B001GI1XJM/qli-22/ref=nosim "MY SHORT STORIES")
-
-*   アーチスト: YUI
-*   レーベル: SMR(SME)(M)
-*   発売日: 2008/11/12
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/11/12
+[MY SHORT STORIES](https://www.amazon.co.jp/dp/B001GI1XJM)
 
 YUIさんは、このアルバムをきっかけに、しばらく公の活動を休止することを発表している。公の活動ってのは、テレビ・ラジオなどのメディアへの露出、そして新曲の発表のことをさしているわけで、曲作りをやめるということではない。
 

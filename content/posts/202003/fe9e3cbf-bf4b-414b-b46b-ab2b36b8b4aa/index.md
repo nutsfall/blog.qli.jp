@@ -11,7 +11,7 @@ slug: "fe9e3cbf-bf4b-414b-b46b-ab2b36b8b4aa"
 
 JIRAやTrello、Backlogなどを使ったカンバン化を進めてみるのもアリかもしれません。カンバンの本も出ているので、この機会に読んでみるのも良いかもしれません。
 
-[https://www.amazon.co.jp/dp/487311764X/](https://www.amazon.co.jp/dp/487311764X/)
+[https://www.amazon.co.jp/dp/487311764X/](https://www.amazon.co.jp/dp/487311764X)
 
 個人的な Productivity Toolを使い始めて、10年以上になります。GTDに出会ったことがきっかけでしたが、今では Things を使っています。
 

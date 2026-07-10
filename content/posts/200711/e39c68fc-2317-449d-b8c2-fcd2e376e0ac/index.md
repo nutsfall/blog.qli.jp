@@ -12,25 +12,8 @@ slug: "e39c68fc-2317-449d-b8c2-fcd2e376e0ac"
 
 というわけで、今のところAmazonにあるものをご紹介しておきます。
 
-[Enemy(初回生産限定盤)(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B000WW1HC6/mrchildrenonl-22/ref=nosim "Enemy(初回生産限定盤)(DVD付)")
+[Enemy(初回生産限定盤)(DVD付)](https://www.amazon.co.jp/dp/B000WW1HC6)
 
-*   アーチスト: the brilliant green
-*   レーベル: DefSTAR RECORDS
-*   発売日: 2007/12/12
-*   おすすめ度
+[iris~しあわせの箱~(期間限定生産)](https://www.amazon.co.jp/dp/B000VPTN3Y)
 
-posted with [Socialtunes](http://socialtunes.net) at 2007/11/07
-
-[iris~しあわせの箱~(期間限定生産)](http://www.amazon.co.jp/exec/obidos/ASIN/B000VPTN3Y/mrchildrenonl-22/ref=nosim "iris~しあわせの箱~(期間限定生産)")
-
-*   レーベル: トイズファクトリー
-*   発売日: 2007/11/28
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/11/07
-
-[Salyu Clips 2004–2007](http://www.amazon.co.jp/exec/obidos/ASIN/B000VTHZJY/mrchildrenonl-22/ref=nosim "Salyu Clips 2004-2007")
-
-*   レーベル: トイズファクトリー
-*   発売日: 2007/11/28
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/11/07
+[Salyu Clips 2004–2007](https://www.amazon.co.jp/dp/B000VTHZJY)

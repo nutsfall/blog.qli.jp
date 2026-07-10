@@ -17,7 +17,7 @@ Getting Things Done (GTD) で定義されているレビューは週次レビュ
 
 - 参考: [Push-Triggered Sync in OmniFocus : the omni blog](https://www.omnigroup.com/blog/push-triggered-sync-in-omnifocus)
 
-あと上記の記事を書いたあと、今年の３月になって、GTD の原典である”Getting Things Done”がリニューアルされている([Amazon: Getting Things Done](http://www.amazon.co.jp/dp/B00KWG9M2E/))。自分の記事の中でも触れているが、iPhone の登場など大きく仕事環境が変化していく中で、記事を加筆修正したものとのこと。詳細は [lifehacking.jp](http://lifehacking.jp/2015/06/updating-gtd/) に詳しい。
+あと上記の記事を書いたあと、今年の３月になって、GTD の原典である”Getting Things Done”がリニューアルされている([Amazon: Getting Things Done](https://www.amazon.co.jp/dp/B00KWG9M2E))。自分の記事の中でも触れているが、iPhone の登場など大きく仕事環境が変化していく中で、記事を加筆修正したものとのこと。詳細は [lifehacking.jp](http://lifehacking.jp/2015/06/updating-gtd/) に詳しい。
 
 ちなみに上の記事の中で取り上げた「GTD はマトリックス型管理システムだ」というのはこちらを参照のこと。
 

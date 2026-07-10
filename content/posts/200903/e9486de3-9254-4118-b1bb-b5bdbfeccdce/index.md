@@ -42,4 +42,4 @@ p.s.
 
 ![](0__Fwqs8DzwlhEEcEt__.jpg)
 
-[PLANTRONICS Bluetooth イヤーピース Plantronics Discovery 925 77900–16 BLACK :: PLANTRONICS](http://www.amazon.co.jp/PLANTRONICS-Bluetooth-Plantronics-77900-16-BLACK/dp/B001BTNB8C%3FSubscriptionId%3D0PZ7TM66EXQCXFVTMTR2%26tag%3Dqli-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001BTNB8C)
+[PLANTRONICS Bluetooth イヤーピース Plantronics Discovery 925 77900–16 BLACK :: PLANTRONICS](https://www.amazon.co.jp/dp/B001BTNB8C)

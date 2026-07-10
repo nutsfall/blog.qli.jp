@@ -21,4 +21,4 @@ slug: "c51bb68c-e80d-4361-bd11-52756451cc76"
 
 この3連休で、やっと「 なぜ働いていると本が読めなくなるのか 」を読み終えることができました。
 
-[Amazon.co.jp: なぜ働いていると本が読めなくなるのか (集英社新書) eBook : 三宅香帆: Kindleストア](https://www.amazon.co.jp/dp/B0CWYZ7PFB/)
+[Amazon.co.jp: なぜ働いていると本が読めなくなるのか (集英社新書) eBook : 三宅香帆: Kindleストア](https://www.amazon.co.jp/dp/B0CWYZ7PFB)

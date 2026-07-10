@@ -8,11 +8,7 @@ slug: "7eff13b2-7243-4300-abfd-2af68c0a5284"
 
 書いてある内容は、いますぐにでも始められそうなテクニックが多く、あらゆる仕事術を試してみたけどダメだったという方にはお薦めの本ですね。
 
-[情報ダイエット仕事術](http://www.amazon.co.jp/exec/obidos/ASIN/4479771328/qli-22/ref=nosim "情報ダイエット仕事術")
-
-*   発売元: 大和書房
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/01/03
+[情報ダイエット仕事術](https://www.amazon.co.jp/dp/4479771328)
 
 これを読んで、最初に思い出したのは、これまでＧＴＤなどを通じて学んだ次の２つのことでした：
 

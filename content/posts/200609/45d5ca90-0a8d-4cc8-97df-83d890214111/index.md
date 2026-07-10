@@ -5,7 +5,7 @@ tags: ["kokua", "music"]
 slug: "45d5ca90-0a8d-4cc8-97df-83d890214111"
 ---
 
-**楽曲 / アルバムタイトル:** [Progress](http://www.amazon.co.jp/exec/obidos/ASIN/B000GEIQN8/mrchildrenonl-22/ref=nosim/)
+**楽曲 / アルバムタイトル:** [Progress](https://www.amazon.co.jp/dp/B000GEIQN8)
 
 **アーティスト:** kokua, スガシカオ, 武部聡志, 小倉博和
 

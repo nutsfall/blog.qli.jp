@@ -14,10 +14,4 @@ slug: "ec10b058-46dd-40a8-a368-e26e40acd059"
 
 Mr.Children、Salyu、レミオロメンはひとつのファミリーだと思っているのですが、これで、ライブも含めて彼らの08/09シーズンが開幕ですね。
 
-[風のクロマ (初回限定盤)(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B001FCNZLI/qli-22/ref=nosim "風のクロマ (初回限定盤)(DVD付)")
-
-*   アーチスト: レミオロメン
-*   レーベル: ビクターエンタテインメント
-*   発売日: 2008/10/29
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/10/31
+[風のクロマ (初回限定盤)(DVD付)](https://www.amazon.co.jp/dp/B001FCNZLI)

@@ -6,7 +6,7 @@ slug: "0c28de5e-66f7-484e-8982-b767f3f94c30"
 ---
 GTDを初めてどのくらい経ったかなぁと思ってみたら、自分をGTDに誘ってくれた「ストレスフリーの仕事術」という本の出版が2006年5月で、5年くらい経っていました。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=4576060732](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4576060732 "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4576060732")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=4576060732](https://www.amazon.co.jp/dp/4576060732)
 
 当時はiPhoneすら存在せず、Remember the milkをデータストアにして、PCとガラケーで頑張っていた思い出があります。メールとかも駆使してたんじゃないですかね。
 

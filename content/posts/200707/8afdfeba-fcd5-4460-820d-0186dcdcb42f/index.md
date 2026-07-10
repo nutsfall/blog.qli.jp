@@ -12,11 +12,4 @@ iTunesで放浪していてたまたま見つけたアルバムをご紹介。[i
 
 最近はやりのmikaとか気に入った人は気に入るのかも。
 
-[Fables](http://www.amazon.co.jp/exec/obidos/ASIN/B000PC1KMU/mrchildrenonl-22/ref=nosim "Fables")
-
-*   アーチスト: Immaculate Machine
-*   レーベル: Mint
-*   価格: ￥ 2,411
-*   発売日: 2007/06/12
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/07/02
+[Fables](https://www.amazon.co.jp/dp/B000PC1KMU)

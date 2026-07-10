@@ -5,7 +5,7 @@ tags: ["aiko", "music", "cd"]
 slug: "a5ca469c-14cb-4411-bc32-52fbc781ee1f"
 ---
 
-**楽曲/アルバムタイトル:** [彼女](http://www.amazon.co.jp/exec/obidos/ASIN/B000GRUR78/mrchildrenonl-22/ref=nosim/)
+**楽曲/アルバムタイトル:** [彼女](https://www.amazon.co.jp/dp/B000GRUR78)
 
 **アーティスト:** aiko
 

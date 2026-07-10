@@ -38,8 +38,26 @@ check "三点リーダ代用 ･･･"          '･･･'
 
 echo "=== 本文: 定型ブロック ==="
 check "posted with (Socialtunes等)" 'posted with'
-check "商品紹介リスト (アーチスト等)" '^\*   (アーチスト|著者|作者|出版社|レーベル|価格|発売日)'
-check "Amazonリンク"                'amazon\.co\.jp'
+check "商品紹介リスト (アーチスト等)" '^\*   (アーチスト|著者|作者|出版社|レーベル|価格|発売日): '
+
+# 未正規化のAmazonリンク: `https://www.amazon.co.jp/dp/ASIN` 形式以外の amazon.co.jp URL を持つファイルを数える
+# (リンクの href 部分 `](...)` のみを対象にする。リンクテキストに amazon.co.jp の文字列が
+#  残っていても href が正規化済みなら対象外とする — テキストは意図的に変更していないため)
+unnorm_count=0
+unnorm_files=()
+for f in content/posts/**/index.md(N); do
+  total=$(grep -oE '\]\([^ )]*amazon\.co\.jp[^ )]*' "$f" 2>/dev/null | wc -l | tr -d ' ')
+  (( total == 0 )) && continue
+  normalized=$(grep -oE '\]\(https://www\.amazon\.co\.jp/dp/[A-Za-z0-9]{10}\)' "$f" 2>/dev/null | wc -l | tr -d ' ')
+  if (( total != normalized )); then
+    ((unnorm_count++))
+    unnorm_files+=("$f")
+  fi
+done
+printf '%-45s %5d\n' "未正規化のAmazonリンク" "$unnorm_count"
+if (( verbose && unnorm_count > 0 )); then
+  for f in "${unnorm_files[@]}"; do echo "    $f"; done
+fi
 
 echo "=== 画像ファイル整合性 ==="
 broken=0; orphan=0

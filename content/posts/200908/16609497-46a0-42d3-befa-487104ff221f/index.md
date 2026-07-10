@@ -10,10 +10,4 @@ slug: "16609497-46a0-42d3-befa-487104ff221f"
 
 もうこのシングルで、もっともっと名前が売れてもいいと思っているくらいです。
 
-[溢れる(初回限定盤)(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B0027ZY0J8/qli-22/ref=nosim "溢れる(初回限定盤)(DVD付)")
-
-*   アーチスト: lego big morl
-*   レーベル: OORONG RECORDS
-*   発売日: 2009/07/22
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/08/08
+[溢れる(初回限定盤)(DVD付)](https://www.amazon.co.jp/dp/B0027ZY0J8)

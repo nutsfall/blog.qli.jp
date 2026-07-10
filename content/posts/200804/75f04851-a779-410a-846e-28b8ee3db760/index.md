@@ -10,12 +10,4 @@ slug: "75f04851-a779-410a-846e-28b8ee3db760"
 
 あと、mixはミスチルのmixもやられている方が行っていたりします。というのが個人的にはつながりを感じました。
 
-[Key(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B00127ISVS/qli-22/ref=nosim "Key(DVD付)")
-
-*   アーチスト: 一青窈
-*   レーベル: Columbia Music Entertainment,inc.( C)(M)
-*   価格: ￥ 2,678
-*   発売日: 2008/03/05
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/04/09
+[Key(DVD付)](https://www.amazon.co.jp/dp/B00127ISVS)

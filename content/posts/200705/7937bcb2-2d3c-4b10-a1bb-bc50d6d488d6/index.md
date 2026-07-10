@@ -6,15 +6,7 @@ slug: "7937bcb2-2d3c-4b10-a1bb-bc50d6d488d6"
 ---
 CDショップ行って見つけてきたので買ってきました。こういう発見があるのがおもしろいですね。（って自分がチェックしてなさすぎなだけですが）
 
-[Wake up!Wake up!Wake up!(初回限定盤)(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B000O5B12C/mrchildrenonl-22/ref=nosim "Wake up!Wake up!Wake up!(初回限定盤)(DVD付)")
-
-*   アーチスト: the pillows
-*   レーベル: エイベックス・マーケティング・コミュニケーションズ
-*   価格: ￥ 2,805
-*   発売日: 2007/05/02
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/05/04
+[Wake up!Wake up!Wake up!(初回限定盤)(DVD付)](https://www.amazon.co.jp/dp/B000O5B12C)
 
 the pillowsのことは正直語れるほど知りません。ミスチルと仲がいいバンドくらいの感覚（正確には先輩後輩くらいの仲なんだと思いますが）しか持っていないのですが、一枚だけ買ったアルバムがとっても心地よかったのでこれも買ってみました。
 

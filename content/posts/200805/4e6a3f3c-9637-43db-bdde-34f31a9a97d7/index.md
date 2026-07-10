@@ -14,12 +14,4 @@ My Little Loverの13周年に発売された移籍後2枚目のアルバム。
 
 ともあれ、ここからスタートということを考えると、これでいいのかもしれないですね。兄弟バンドとして表現されることも多いMr.Childrenも同じような道をたどって純粋なポップに立ち帰ったことを考えるとありなのかもしれない。一度リセットしてここから歩き始める。そういうことなのかもしれません。そうであって欲しいです。
 
-[アイデンティティー(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B0015RAYG2/qli-22/ref=nosim "アイデンティティー(DVD付)")
-
-*   アーチスト: My Little Lover
-*   レーベル: エイベックス・エンタテインメント
-*   価格: ￥ 3,392
-*   発売日: 2008/05/01
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/05/02
+[アイデンティティー(DVD付)](https://www.amazon.co.jp/dp/B0015RAYG2)

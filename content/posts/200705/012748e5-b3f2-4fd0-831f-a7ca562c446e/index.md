@@ -10,12 +10,4 @@ Mr.Childrenはツアー中で、JENさんが怪我してしまって今週末の
 
 ともかく、デビュー15周年ということで、”**Happy Birthday to Mr.Children**”
 
-[B-SIDE](http://www.amazon.co.jp/exec/obidos/ASIN/B000O76P6C/mrchildrenonl-22/ref=nosim "B-SIDE")
-
-*   アーチスト: Mr.Children
-*   レーベル: トイズファクトリー
-*   価格: ￥ 2,800
-*   発売日: 2007/05/10
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/05/09
+[B-SIDE](https://www.amazon.co.jp/dp/B000O76P6C)

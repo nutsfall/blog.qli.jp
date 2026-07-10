@@ -10,12 +10,4 @@ slug: "a47892d2-d444-405e-b69e-d374379af1fa"
 
 そういえば発売日の10/31は、鬼束さんの27回目の誕生日だそうで。おめでとうございます。
 
-[LAS VEGAS(初回盤)(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B000V3PS4Y/mrchildrenonl-22/ref=nosim "LAS VEGAS(初回盤)(DVD付)")
-
-*   発売元: UNIVERSAL SIGMA(P)(M)
-*   レーベル: UNIVERSAL SIGMA(P)(M)
-*   価格: ￥ 2,805
-*   発売日: 2007/10/31
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/11/01
+[LAS VEGAS(初回盤)(DVD付)](https://www.amazon.co.jp/dp/B000V3PS4Y)

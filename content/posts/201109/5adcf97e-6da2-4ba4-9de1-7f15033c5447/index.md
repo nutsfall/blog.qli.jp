@@ -4,7 +4,7 @@ date: "2011-09-20T10:44:26.000Z"
 tags: ["shisochizu-beta", "book-review", "3-11"]
 slug: "5adcf97e-6da2-4ba4-9de1-7f15033c5447"
 ---
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=4990524314](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4990524314 "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4990524314")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=4990524314](https://www.amazon.co.jp/dp/4990524314)
 
 Twitterでも評判の高い、思想地図β2を読みました。内容が濃くて、読み終わるまでに時間がかかってしまったのですが、たぶん、まだ咀嚼できていない部分も多いと感じています。
 

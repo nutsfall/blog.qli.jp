@@ -10,12 +10,4 @@ slug: "02abbba4-13f3-4a8c-8c48-2df6ad116a8e"
 
 一回目はあんまり引っかかるものがなかったのだけど、2回目はぐっと引き込まれるものがあった。ヤバイ。この出会いはとってもおもしろいことになるかも。4月に新作があるようなのでちょっと惹かれてます。（まずは怒濤の3月をどう過ごすか、かも)
 
-[Fool on the planet](http://www.amazon.co.jp/exec/obidos/ASIN/B00005HSUZ/mrchildrenonl-22/ref=nosim "Fool on the planet")
-
-*   アーチスト: the pillows
-*   発売元: キングレコード
-*   価格: ￥ 2,753 (10% OFF)
-*   発売日: 2001/02/07
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/03/05
+[Fool on the planet](https://www.amazon.co.jp/dp/B00005HSUZ)

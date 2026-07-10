@@ -5,7 +5,7 @@ tags: ["bank-band", "salyu", "j-pop"]
 slug: "d26d0230-e65d-4c7e-b198-3bfb83942142"
 ---
 
-**楽曲/アルバムタイトル:** [to U](http://www.amazon.co.jp/exec/obidos/ASIN/B000FUU140/mrchildrenonl-22/ref=nosim/)
+**楽曲/アルバムタイトル:** [to U](https://www.amazon.co.jp/dp/B000FUU140)
 
 **アーティスト:** Bank Band, Salyu, 桜井和寿, 小田和正
 

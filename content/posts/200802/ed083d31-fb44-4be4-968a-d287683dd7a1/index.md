@@ -19,10 +19,4 @@ slug: "ed083d31-fb44-4be4-968a-d287683dd7a1"
 
 しばらく使ってみて気になることがあればまた報告しようかと思っています。
 
-[audio-technica アクティブキャンセリングヘッドホン ATH-ANC3 BK](http://www.amazon.co.jp/exec/obidos/ASIN/B001397820/qli-22/ref=nosim "audio-technica アクティブキャンセリングヘッドホン ATH-ANC3 BK")
-
-- メーカー: オーディオテクニカ
-- 価格: ￥ 11,520
-- 発売日: 2008/02/22
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/02/23
+[audio-technica アクティブキャンセリングヘッドホン ATH-ANC3 BK](https://www.amazon.co.jp/dp/B001397820)

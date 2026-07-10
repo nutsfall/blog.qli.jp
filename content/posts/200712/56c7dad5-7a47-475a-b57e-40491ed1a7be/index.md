@@ -10,11 +10,4 @@ slug: "56c7dad5-7a47-475a-b57e-40491ed1a7be"
 
 初めて聞いたときから虜になってしまい、聞くたびに味が出てくる、こうアルバムにはそうそうありつけないような気がします。いや、ほんと。正直、彼らのことがそれほど好きだってことでもないですが、このアルバムだけは素直にすばらしいと言えます。バンプってバンドをそんなに知らないとか、食わず嫌いしている人にこそ聞いて欲しいと思います。
 
-[orbital period](http://www.amazon.co.jp/exec/obidos/ASIN/B000ZGSQQE/mrchildrenonl-22/ref=nosim "orbital period")
-
-*   アーチスト: BUMP OF CHICKEN
-*   レーベル: TOY’S FACTORY Inc.(VAP)(M)
-*   発売日: 2007/12/19
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/12/22
+[orbital period](https://www.amazon.co.jp/dp/B000ZGSQQE)

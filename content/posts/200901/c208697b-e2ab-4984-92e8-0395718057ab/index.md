@@ -14,11 +14,4 @@ slug: "c208697b-e2ab-4984-92e8-0395718057ab"
 
 レミオロメンは移籍前の音楽からベスト盤を出すそうです。一区切りというやつでしょうか。これからもこれまで以上にいいサウンドを奏でて欲しいです。
 
-[夢の蕾](http://www.amazon.co.jp/exec/obidos/ASIN/B001LPF15M/qli-22/ref=nosim "夢の蕾")
-
-*   アーチスト: レミオロメン
-*   レーベル: OORONG RECORDS
-*   発売日: 2009/01/07
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/01/21
+[夢の蕾](https://www.amazon.co.jp/dp/B001LPF15M)

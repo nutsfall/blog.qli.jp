@@ -12,9 +12,4 @@ slug: "be7b8723-e5a8-4af6-9f98-ea2cc67b3e5f"
 
 Tomorrowの歌詞に”二十代を駆け抜けてきた”とあるなど、等身大をストレートに歌い上げている歌詞も注目したいです。
 
-[花鳥風月](http://www.amazon.co.jp/exec/obidos/ASIN/B0031QYEG6/qli-22/ref=nosim "花鳥風月")
-
-*   アーチスト: レミオロメン
-*   レーベル: ORS
-
-posted with [Socialtunes](http://socialtunes.net) at 2010/03/11
+[花鳥風月](https://www.amazon.co.jp/dp/B0031QYEG6)

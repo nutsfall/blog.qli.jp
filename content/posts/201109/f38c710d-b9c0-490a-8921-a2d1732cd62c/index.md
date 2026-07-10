@@ -18,6 +18,6 @@ slug: "f38c710d-b9c0-490a-8921-a2d1732cd62c"
 
 叫ぶ声、うなるギター、高音を響かせるキーボード、そして、それらを確実に支えてくれるドラムとベース、そして会場の声が、現地の天気が、あの空間を一体にして、劇場を作り出す。そんな感じさえする。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=B005PIX6KI](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B005PIX6KI "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B005PIX6KI")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=B005PIX6KI](https://www.amazon.co.jp/dp/B005PIX6KI)
 
 “SENSE”というアルバムは自分の中で”深海”と同じくらいの印象を残してくれたアルバムになった。

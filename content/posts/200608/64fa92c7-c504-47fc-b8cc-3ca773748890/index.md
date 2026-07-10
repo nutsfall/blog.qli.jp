@@ -5,7 +5,7 @@ tags: ["bonnie-pink", "music"]
 slug: "64fa92c7-c504-47fc-b8cc-3ca773748890"
 ---
 
-**楽曲/アルバムタイトル:** [Every Single Day -Complete BONNIE PINK (1995–2006)-](http://www.amazon.co.jp/exec/obidos/ASIN/B000FPX14W/mrchildrenonl-22/ref=nosim/)
+**楽曲/アルバムタイトル:** [Every Single Day -Complete BONNIE PINK (1995–2006)-](https://www.amazon.co.jp/dp/B000FPX14W)
 
 **アーティスト:** BONNIE PINK
 

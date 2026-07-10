@@ -18,20 +18,6 @@ slug: "e76235a5-3288-46e0-9fdd-52f40a2221fa"
 
 オーディオテクニカの音はいくら高音が強いといわれても好き。だけど、たまに高音がシャリシャリなってしまうものがあったりするので、使ったことない型に関しては一度自分の耳で聞いてみることにしたい。
 
-[audio-technica 密閉型インナーイヤーヘッドホン ATH-CK9 BK](http://www.amazon.co.jp/exec/obidos/ASIN/B000JYVWNG/qli-22/ref=nosim "audio-technica 密閉型インナーイヤーヘッドホン ATH-CK9 BK")
+[audio-technica 密閉型インナーイヤーヘッドホン ATH-CK9 BK](https://www.amazon.co.jp/dp/B000JYVWNG)
 
-*   メーカー: オーディオテクニカ
-*   価格: ￥ 11,830
-*   発売日: 2006/11/24
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/05/12
-
-[audio-technica バランスド・アーマチュア型インナーイヤーヘッドホン ATH-CK10](http://www.amazon.co.jp/exec/obidos/ASIN/B000ZHU0H6/qli-22/ref=nosim "audio-technica バランスド・アーマチュア型インナーイヤーヘッドホン ATH-CK10")
-
-*   メーカー: オーディオテクニカ
-*   価格: ￥ 23,200
-*   発売日: 2007/12/07
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/05/12
+[audio-technica バランスド・アーマチュア型インナーイヤーヘッドホン ATH-CK10](https://www.amazon.co.jp/dp/B000ZHU0H6)

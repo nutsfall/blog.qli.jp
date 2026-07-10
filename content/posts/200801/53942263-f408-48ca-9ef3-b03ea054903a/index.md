@@ -10,20 +10,6 @@ slug: "53942263-f408-48ca-9ef3-b03ea054903a"
 
 去年の3月に発売になったこの「街を見下ろす丘」はとても聴きやすい曲ばかりが集まったアルバムでした。それでエレカシらしさが失われたかと言われれば決してそうではなく、孤高な男のイメージはやっぱりそこにあります。新しいアルバムも楽しみになってきました。
 
-[町を見下ろす丘](http://www.amazon.co.jp/exec/obidos/ASIN/B000E6G6SU/qli-22/ref=nosim "町を見下ろす丘")
+[町を見下ろす丘](https://www.amazon.co.jp/dp/B000E6G6SU)
 
-*   アーチスト: エレファントカシマシ
-*   レーベル: EMIミュージック・ジャパン
-*   発売日: 2006/03/29
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/01/20
-
-[Starting Over](http://www.amazon.co.jp/exec/obidos/ASIN/B000YQ8D18/qli-22/ref=nosim "Starting Over")
-
-*   アーチスト: エレファントカシマシ
-*   レーベル: UNIVERSAL SIGMA(P)(M)
-*   発売日: 2008/01/30
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/01/20
+[Starting Over](https://www.amazon.co.jp/dp/B000YQ8D18)

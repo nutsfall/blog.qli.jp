@@ -10,16 +10,7 @@ slug: "8137fb13-0d31-4285-a3e4-433f6664240d"
 
 なんだか最近こういうノリのいい音楽に出会う機会が多いなとか思いますが。
 
-[GOLDEN GRAPEFURUIT(初回限定盤)(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B000PWQPX4/mrchildrenonl-22/ref=nosim "GOLDEN GRAPEFURUIT(初回限定盤)(DVD付)")
-
-*   アーチスト: LOVE PSYCHEDELICO
-*   レーベル: ビクターエンタテインメント
-*   価格: ￥ 2,830
-*   発売日: 2007/06/27
-*   売上ランキング： 3
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/07/07
+[GOLDEN GRAPEFURUIT(初回限定盤)(DVD付)](https://www.amazon.co.jp/dp/B000PWQPX4)
 
 p.s.:
 

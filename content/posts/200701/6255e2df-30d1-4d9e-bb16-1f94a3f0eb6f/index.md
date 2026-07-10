@@ -10,17 +10,6 @@ slug: "6255e2df-30d1-4d9e-bb16-1f94a3f0eb6f"
 
 これって、これですか？
 
-[Apple AirMac Express ベースステーション \[M9470J/A\]](http://www.amazon.co.jp/exec/obidos/ASIN/B0002GSAO0/mrchildrenonl-22/ref=nosim "Apple AirMac Express ベースステーション [M9470J/A]")
-
-*   発売元: アップルコンピュータ
-*   レーベル: アップルコンピュータ
-*   スタジオ: アップルコンピュータ
-*   メーカー: アップルコンピュータ
-*   価格: ￥ 13,607
-*   発売日: 2004/07/28
-*   売上ランキング： 112
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/01/10
+[Apple AirMac Express ベースステーション \[M9470J/A\]](https://www.amazon.co.jp/dp/B0002GSAO0)
 
 小ネタ、かつSonyさんには嫌がられそうな投稿ですけど。

@@ -44,10 +44,12 @@
 - [x] 未参照の孤児ファイル21件を削除（全件、同一バンドル内の参照済み画像とMD5完全一致の重複と確認済み。ユーザー承認の上で削除）
 - 冒頭インライン画像の cover 化は Phase 7 に移動
 
-### Phase 5: 定型ブロック（方針決定済み 2026-07-10）
+### Phase 5: 定型ブロック（完了）
 
-- [ ] Amazonアフィリエイトリンク（165件）→ ASINを抽出して `https://www.amazon.co.jp/dp/ASIN` の通常リンクに正規化
-- [ ] Socialtunes 等の商品紹介ブロック（`posted with` 77件、`* アーチスト:` 等71件）→ 商品名リンクだけ残し、定型リスト（アーチスト/価格/発売日等）と `posted with` 行を削除
+- [x] Amazonアフィリエイトリンク197箇所を `https://www.amazon.co.jp/dp/ASIN` に正規化（スキップ1件: 201508/a87ddf56… の `/pv` はASINなしの一般リンクのため残置）
+- [x] Socialtunes の商品紹介ブロック88件を商品名リンクのみ残して削除
+- スクリプト: `scripts/product_block_cleaner.rb`
+- content_lint.zsh の「Amazonリンク」チェックを「未正規化のAmazonリンク」に変更
 
 ### Phase 6: 細かい残骸
 
@@ -76,3 +78,4 @@
 - Phase 2 で発見: 値ありの `description`（299件）の大半が本文冒頭の文とほぼ完全一致している（Mediumのsubtitle由来）。重複を削除するか、要約として活かすか要検討
 - Phase 3 で発見: `[](http://click.linksynergy.com/...)` という空のアフィリエイト計測リンクが2ファイルに残存（`content/posts/200707/bae965d8…`, `content/posts/200709/b5e25879…`）
 - Phase 3 で発見: 一部の旧記事タイトルに文字化け（`�`）が残っている（旧エンコーディング問題。件数未調査）
+- Phase 5 で発見: `**発売日:**` のような太字形式の別系統の商品紹介テンプレートが5ファイルに存在（`content/posts/200609/0fa78392…` 等。Amazonリンク自体は正規化済み）

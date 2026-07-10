@@ -5,7 +5,7 @@ tags: ["salyu", "music"]
 slug: "0fa78392-3217-4f89-9823-a2f610929e65"
 ---
 
-**楽曲 / アルバムタイトル:** [name(初回限定盤)(DVD 付)](http://www.amazon.co.jp/exec/obidos/ASIN/B000H5TXV0/mrchildrenonl-22/ref=nosim/)
+**楽曲 / アルバムタイトル:** [name(初回限定盤)(DVD 付)](https://www.amazon.co.jp/dp/B000H5TXV0)
 
 **アーティスト:** Salyu
 

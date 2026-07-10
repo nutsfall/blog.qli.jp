@@ -12,10 +12,4 @@ More Joel on Softwareをやっと読み終えることができました。
 
 というわけで、気になる部分だけ読んでみるのも面白いと思いますし、知らない世界をのぞいてみるのもいいと思います。おすすめの一冊。
 
-[More Joel on Software](http://www.amazon.co.jp/exec/obidos/ASIN/4798118923/qli-22/ref=nosim "More Joel on Software")
-
-*   発売元: 翔泳社
-*   価格: ￥ 2,940
-*   発売日: 2009/04/09
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/04/18
+[More Joel on Software](https://www.amazon.co.jp/dp/4798118923)

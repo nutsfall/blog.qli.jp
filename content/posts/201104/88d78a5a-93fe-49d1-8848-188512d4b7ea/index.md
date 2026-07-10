@@ -14,4 +14,4 @@ s(o)un(d)beams をきいて、Salyuさんの声がフルに活かされた素晴
 
 渋谷WWWで行われた、リリースパーティにも行きました。Ustreamでも放送されていたと思います。s(o)un(d)beams が繰り広げられるステージから伝わってくるものは圧倒のひとことでした。あれほど素晴らしいステージをみたのは久しぶりかもしれません。ツアーもいくつか聞きに行く予定です。今から楽しみです。会場に行ける方、ぜひ生であのサウンドを体感してみてください。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=B004JZDXDS](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B004JZDXDS "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B004JZDXDS")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=B004JZDXDS](https://www.amazon.co.jp/dp/B004JZDXDS)

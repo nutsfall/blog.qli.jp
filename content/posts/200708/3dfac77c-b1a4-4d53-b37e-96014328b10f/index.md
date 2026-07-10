@@ -6,15 +6,7 @@ slug: "3dfac77c-b1a4-4d53-b37e-96014328b10f"
 ---
 いろいろ新しい音楽が最近入荷していて、あわただしい（毎日音楽聞いていたい！）感じなのですが、そんな中でも思わずはまってしまった1枚をご紹介。
 
-[HarmoNium](http://www.amazon.co.jp/exec/obidos/ASIN/B000RO537E/mrchildrenonl-22/ref=nosim "HarmoNium")
-
-*   アーチスト: PhilHarmoUniQue
-*   レーベル: ORS (OORONG RECORDS)
-*   価格: ￥ 1,500
-*   発売日: 2007/08/01
-*   売上ランキング： 11311
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/08/04
+[HarmoNium](https://www.amazon.co.jp/dp/B000RO537E)
 
 このブログでもご紹介したことのあるORSこと、Oorong Recordsのレーベルとしてのデビューでもあるミニアルバムです。PhilHarmoUniQueはこのアルバムを出す前は”自由人”として活動していたそうで、今回小林武史プロデュースでORSからデビューするにあたって改名しました。
 
