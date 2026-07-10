@@ -17,3 +17,5 @@ hugo.linux
 
 # auto_tagger logs
 scripts/logs/
+# Claude Code local settings
+.claude/
