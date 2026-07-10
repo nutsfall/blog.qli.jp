@@ -1,9 +1,6 @@
 ---
 title: コミュニケーションの仕方
-description: ''
-date: '2011-11-01T20:01:04.000Z'
-categories: []
-keywords: []
+date: "2011-11-01T20:01:04.000Z"
 tags: ["social-media", "twitter"]
 slug: "9020cd78-c3a9-4376-be6d-f402fdd88b16"
 ---

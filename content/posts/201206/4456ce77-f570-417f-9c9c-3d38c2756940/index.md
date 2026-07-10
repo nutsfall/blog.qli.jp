@@ -1,9 +1,6 @@
 ---
 title: 6月21日夏至
-description: ''
-date: '2012-06-22T21:06:51.000Z'
-categories: []
-keywords: []
+date: "2012-06-22T21:06:51.000Z"
 tags: ["gaku-mc", "candle-night"]
 slug: "4456ce77-f570-417f-9c9c-3d38c2756940"
 ---

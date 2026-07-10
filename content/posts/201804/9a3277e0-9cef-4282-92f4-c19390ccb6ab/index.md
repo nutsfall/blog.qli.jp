@@ -1,9 +1,6 @@
 ---
 title: the Beatles を聞く
-description: the Beatles のオリジナルアルバムを今週はじめからずっと聞いていた。
-date: '2018-04-13T15:12:17.778Z'
-categories: []
-keywords: []
+date: "2018-04-13T15:12:17.778Z"
 tags: ["beatles", "apple-music"]
 slug: "9a3277e0-9cef-4282-92f4-c19390ccb6ab"
 ---

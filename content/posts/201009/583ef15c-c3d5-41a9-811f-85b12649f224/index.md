@@ -1,9 +1,6 @@
 ---
 title: このブログについて
-description: ''
-date: '2010-09-30T22:23:30.000Z'
-categories: []
-keywords: []
+date: "2010-09-30T22:23:30.000Z"
 tags: ["mac", "music"]
 slug: "583ef15c-c3d5-41a9-811f-85b12649f224"
 ---

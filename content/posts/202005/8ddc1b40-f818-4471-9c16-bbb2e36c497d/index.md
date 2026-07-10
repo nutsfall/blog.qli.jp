@@ -1,9 +1,7 @@
 ---
 title: Jリーグを好きになった理由
 description: Jリーグ27周年に添えて
-date: '2020-05-15T10:21:01.201Z'
-categories: []
-keywords: []
+date: "2020-05-15T10:21:01.201Z"
 tags: ["j-league", "avispa-fukuoka"]
 slug: "8ddc1b40-f818-4471-9c16-bbb2e36c497d"
 ---

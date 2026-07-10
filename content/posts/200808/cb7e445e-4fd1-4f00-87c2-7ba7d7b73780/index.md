@@ -1,9 +1,6 @@
 ---
 title: pbwikiを1.0から2.0へ
-description: ''
-date: '2008-08-06T23:03:33.000Z'
-categories: []
-keywords: []
+date: "2008-08-06T23:03:33.000Z"
 tags: ["pbwiki", "wiki"]
 slug: "cb7e445e-4fd1-4f00-87c2-7ba7d7b73780"
 ---
@@ -13,7 +10,7 @@ slug: "cb7e445e-4fd1-4f00-87c2-7ba7d7b73780"
 
 > PBwiki、あまり日本では知られていませんが、海外では定番ですよね。日本語も通るし、日本語での検索にも対応しているので便利ですよ。
 
-> \[From [海外では定番Wikiの『PBwiki』を使い始めた件 | IDEA\*IDEA](http://www.ideaxidea.com/archives/2008/08/wikipbwiki.html)\]
+> [From [海外では定番Wikiの『PBwiki』を使い始めた件 | IDEA*IDEA](http://www.ideaxidea.com/archives/2008/08/wikipbwiki.html)]
 
 もう新しくサインアップしたwikiって2.0になってたんですねー。いや、自分が持っていたのは以前のpbwiki 1.0のアカウントで、ベータテスター用にpbwiki2.0用のwikiアカウントをもらっていたのですが、使う気になれなかったのです。新しいwiki立てたくなかったし。
 

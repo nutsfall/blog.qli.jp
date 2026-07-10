@@ -1,15 +1,12 @@
 ---
 title: ギークが望む職場環境とは？
-description: ''
-date: '2007-03-20T19:03:28.000Z'
-categories: []
-keywords: []
+date: "2007-03-20T19:03:28.000Z"
 tags: ["workplace", "geek-culture"]
 slug: "1be594d2-07a9-4ddb-ab17-c6df9f705f5b"
 ---
 なかなかおもしろかったので取り上げてみる。
 
-リンク: [ギークに気持ちよく働いてもらうための8か条 | P O P \* P O P](http://www.popxpop.com/archives/2007/03/post_171.html "ギークに気持ちよく働いてもらうための8か条 | P O P * P O P").
+[ギークに気持ちよく働いてもらうための8か条 | P O P * P O P](http://www.popxpop.com/archives/2007/03/post_171.html)
 
 > スピード感ある開発が求められる昨今、ギークの方々には気持ちよく働いてもらわないといけません。そこでこちらの記事をご紹介。「ギークに気持ちよく働いてもらうための8か条」です。経営者の方や技術陣をたばねる方に参考になるのでは
 

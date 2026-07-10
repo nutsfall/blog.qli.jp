@@ -1,9 +1,6 @@
 ---
 title: Burning
-description: 音楽ライブに聴いていると、イントロが始まるやいなや、歓声があがることがある。アニメ主題歌などになって、おそらくここにいるリスナーの多くとバンドが出会った曲なのだと思う。自分はそういう歓声が苦手だ。
-date: '2024-08-17T11:30:32.606Z'
-categories: []
-keywords: []
+date: "2024-08-17T11:30:32.606Z"
 tags: ["hitsuji-bungaku", "j-rock", "oshi-no-ko"]
 slug: "4e5b8a66-0208-44e0-97be-cb62b59a09dc"
 ---

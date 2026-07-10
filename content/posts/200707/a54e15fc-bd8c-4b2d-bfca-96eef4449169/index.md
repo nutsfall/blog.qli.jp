@@ -1,9 +1,6 @@
 ---
 title: blogger オフ会 at 東京
-description: ''
-date: '2007-07-22T21:25:11.000Z'
-categories: []
-keywords: []
+date: "2007-07-22T21:25:11.000Z"
 tags: ["blogger", "meetup", "sixapart"]
 slug: "a54e15fc-bd8c-4b2d-bfca-96eef4449169"
 ---

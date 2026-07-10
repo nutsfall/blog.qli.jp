@@ -1,9 +1,6 @@
 ---
 title: デジカメ買いました
-description: ''
-date: '2009-08-01T16:54:43.000Z'
-categories: []
-keywords: []
+date: "2009-08-01T16:54:43.000Z"
 tags: ["olympus-pen", "photography"]
 slug: "63399537-e24a-4527-b3c0-e143226fa355"
 ---

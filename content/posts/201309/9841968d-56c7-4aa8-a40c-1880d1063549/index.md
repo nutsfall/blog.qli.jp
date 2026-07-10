@@ -1,9 +1,6 @@
 ---
 title: 新Nexus7 ファーストインプレッション
-description: ''
-date: '2013-09-01T21:30:09.000Z'
-categories: []
-keywords: []
+date: "2013-09-01T21:30:09.000Z"
 tags: ["nexus-7", "android"]
 slug: "9841968d-56c7-4aa8-a40c-1880d1063549"
 ---

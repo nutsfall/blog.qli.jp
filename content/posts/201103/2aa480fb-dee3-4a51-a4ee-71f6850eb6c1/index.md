@@ -1,9 +1,6 @@
 ---
 title: iPad 2 と iOS 4.3
-description: ''
-date: '2011-03-03T23:27:16.000Z'
-categories: []
-keywords: []
+date: "2011-03-03T23:27:16.000Z"
 tags: ["ipad", "apple", "ios"]
 slug: "2aa480fb-dee3-4a51-a4ee-71f6850eb6c1"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ソニータブレットを触ってきた
-description: ''
-date: '2011-09-11T22:12:54.000Z'
-categories: []
-keywords: []
+date: "2011-09-11T22:12:54.000Z"
 tags: ["sony-tablet", "android"]
 slug: "9c4b5f25-c2e4-4f34-a007-0edab199df4c"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 持ち歩かなくなった Nexus7
-description: ''
-date: '2012-10-15T19:47:56.000Z'
-categories: []
-keywords: []
+date: "2012-10-15T19:47:56.000Z"
 tags: ["nexus-7", "ipad-mini"]
 slug: "109a6bbf-9210-42a7-afa0-f990ef077b30"
 ---

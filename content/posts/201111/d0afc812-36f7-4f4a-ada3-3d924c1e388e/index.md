@@ -1,9 +1,6 @@
 ---
 title: Tokyo Designers Week 2011
-description: ''
-date: '2011-11-05T23:23:52.000Z'
-categories: []
-keywords: []
+date: "2011-11-05T23:23:52.000Z"
 tags: ["tokyo-designers-week", "lego-big-morl"]
 slug: "d0afc812-36f7-4f4a-ada3-3d924c1e388e"
 ---

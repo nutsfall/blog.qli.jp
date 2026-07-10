@@ -1,20 +1,16 @@
 ---
 title: Salyu blogが開始されました
-description: ""
 date: "2006-09-19T16:30:17.000Z"
-categories: []
-keywords: []
 tags: ["salyu"]
 slug: "4d390c1a-6f4b-413c-ba61-b2b07987ee78"
 ---
-![]()
 
 もうどこの店のランキングを見ても、TOP 10 に入っていて、”Name”にてもうブレイクした感のあるさりゅうさんが、ブログを始めました。
 
 デビュー前からデビュー直後にかけて、なんとなく「あまりマスコミに出たりとかしないで地道に活動してくのかな」と勝手に思っていたんですが、どーやらそうでもないようですね。  
 実は、テレビでショートバージョンを歌っているのも気になっているのですが、バンドメンバーはいつも通りなのに、キーボード（つまり小林さん）だけテレビにいなくて、バンマスのいないバンド状態になっているのも気になっていたりします。
 
-リンク: [Salyu ブログ Salyu blog Excite Music エキサイトミュージック  : 参上](http://blog.excite.co.jp/salyublog/4583297 "Salyuブログ Salyu blog Excite Music エキサイトミュージック : 参上").
+[Salyu ブログ Salyu blog Excite Music エキサイトミュージック  : 参上](http://blog.excite.co.jp/salyublog/4583297)
 
 > どうもサリュウです。
 

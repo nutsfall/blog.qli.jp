@@ -1,9 +1,6 @@
 ---
 title: Jaiku APIツールまとめ
-description: ''
-date: '2007-05-18T00:03:43.000Z'
-categories: []
-keywords: []
+date: "2007-05-18T00:03:43.000Z"
 tags: ["jaiku", "twitter", "api"]
 slug: "1ac30ade-2453-45b1-9bc8-e28c260215fd"
 ---

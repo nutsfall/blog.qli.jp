@@ -1,9 +1,6 @@
 ---
 title: iPod nano (7th gen) を購入
-description: ''
-date: '2012-10-11T21:24:35.000Z'
-categories: []
-keywords: []
+date: "2012-10-11T21:24:35.000Z"
 tags: ["ipod-nano", "product-red", "apple"]
 slug: "cba15f66-fd8b-4632-a93b-6ea4e4dbdc05"
 ---

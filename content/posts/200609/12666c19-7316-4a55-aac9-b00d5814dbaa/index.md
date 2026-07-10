@@ -1,9 +1,6 @@
 ---
 title: ベストエフォート
-description: ''
-date: '2006-09-21T22:34:19.000Z'
-categories: []
-keywords: []
+date: "2006-09-21T22:34:19.000Z"
 tags: ["internet", "web2.0"]
 slug: "12666c19-7316-4a55-aac9-b00d5814dbaa"
 ---

@@ -5,7 +5,6 @@ slug: "c4cbb2ae-ecbe-4944-9dfc-074b03f6709a"
 source: "medium"
 original_url: "https://medium.com/@hiro/milton%E3%81%A8%E3%81%AE%E6%9C%80%E5%88%9D%E3%81%AE3%E9%80%B1%E9%96%93-948170b853c2?source=rss-21bfda6f823e------2"
 tags: ["marshall", "headphones", "anc"]
-draft: false
 ---
 
 街でMarshallヘッドフォンを見かけることがあるでしょうか。東京や大阪など都市圏では駅などで目にする機会が多いように感じます。Marshallヘッドフォンはさまざまなスタイルのものがあるのですが、一番よく見かけるのはオンイヤーモデルのMAJORですね。

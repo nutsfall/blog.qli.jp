@@ -1,9 +1,6 @@
 ---
 title: Apple、iOS4.3.1 をリリース
-description: ''
-date: '2011-03-27T20:49:32.000Z'
-categories: []
-keywords: []
+date: "2011-03-27T20:49:32.000Z"
 tags: ["ios", "apple"]
 slug: "fe4b0382-6e45-494d-a47d-fb7599793eb0"
 ---

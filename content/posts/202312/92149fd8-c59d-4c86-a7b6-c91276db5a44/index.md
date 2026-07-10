@@ -1,9 +1,6 @@
 ---
 title: OmniFocus4がリリースされた
-description: ""
 date: "2023-12-18T13:30:47.075Z"
-categories: []
-keywords: []
 tags: ["omnifocus", "productivity"]
 slug: "92149fd8-c59d-4c86-a7b6-c91276db5a44"
 ---
@@ -24,7 +21,7 @@ OmniFocus3 では、macOS と iOS を別々に購入していたのですが、O
 
 ちなみに、自分の OmniFocus の使い方、および作業のこなし方は以前紹介したこの記事からほとんど変わっていません。
 
-[OmniFocus で定番の 3 つのパースペクティブ\*\*]({{< ref "posts/202303/f2fc43b4-4ee7-432b-935d-9a5da03b110f" >}})
+[OmniFocus で定番の 3 つのパースペクティブ**]({{< ref "posts/202303/f2fc43b4-4ee7-432b-935d-9a5da03b110f" >}})
 
 それでは。
 

@@ -1,14 +1,11 @@
 ---
 title: アビスパ福岡 2021 J1 前半戦を振り返る
-description: 6月19日神戸戦が終わり、アビスパ福岡の前半戦が終わりました。第19節の川崎フロンターレ戦はACLスケジュールの関係ですでに終わっています。
-date: '2021-06-21T11:20:47.448Z'
-categories: []
-keywords: []
+date: "2021-06-21T11:20:47.448Z"
 tags: ["avispa-fukuoka", "j-league"]
 slug: "16f5126c-6a07-4254-a1b6-b681271e6566"
+cover:
+  image: "1__GxBQF0NSVZfWBwwGYpnXlQ.jpeg"
 ---
-![](1__GxBQF0NSVZfWBwwGYpnXlQ.jpeg)
-
 6月19日神戸戦が終わり、アビスパ福岡の前半戦が終わりました。第19節の川崎フロンターレ戦はACLスケジュールの関係ですでに終わっています。
 
 シーズン前、選手たちが大幅に入れ替わり、キャンプでの練習試合も多くはできず、海外籍の選手たちが何名か入国待ちとなる中で、不安視されたシーズンの入りでしたが、J1のチームと練習試合ができなかった代償を最初に払ったものの、順当な立ち上がりを見せ、6連勝も達成しました。
@@ -19,8 +16,7 @@ slug: "16f5126c-6a07-4254-a1b6-b681271e6566"
 
 xGは、データスタジアム社が運営するFootball Labというサイトで公開されています。
 
-[**データによってサッカーはもっと輝く | Football LAB［フットボールラボ］**  
-_フットボールラボ(Football…_www.football-lab.jp](https://www.football-lab.jp "https://www.football-lab.jp")[](https://www.football-lab.jp)
+[データによってサッカーはもっと輝く | Football LAB［フットボールラボ］](https://www.football-lab.jp)
 
 19試合戦ったアビスパの成績は次の通り；
 

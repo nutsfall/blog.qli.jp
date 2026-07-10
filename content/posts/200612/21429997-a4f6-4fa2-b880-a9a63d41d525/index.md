@@ -1,15 +1,12 @@
 ---
 title: Skype Night Live！開催
-description: ''
-date: '2006-12-05T21:37:14.000Z'
-categories: []
-keywords: []
+date: "2006-12-05T21:37:14.000Z"
 tags: ["skype", "apple-store"]
 slug: "21429997-a4f6-4fa2-b880-a9a63d41d525"
 ---
 SkypeがApple Storeでイベントをするそうです。時間がある方はぜひ。行けたら行きます。
 
-リンク: [12月11日(月) Skype Night Live！@ アップルストア渋谷店 — Skype 日本語ブログ](http://share.skype.com/sites/ja/2006/12/05/skype_night_live_vol1.html "12月11日(月) Skype Night Live！@ アップルストア渋谷店 - Skype 日本語ブログ").
+[12月11日(月) Skype Night Live！@ アップルストア渋谷店 — Skype 日本語ブログ](http://share.skype.com/sites/ja/2006/12/05/skype_night_live_vol1.html)
 
 > 当日は:
 

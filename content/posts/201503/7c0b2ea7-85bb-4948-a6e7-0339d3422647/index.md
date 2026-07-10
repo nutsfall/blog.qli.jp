@@ -1,15 +1,12 @@
 ---
 title: Appleの春待つ息吹
-description: Appleの発表会が行われた。今回の発表会で大きいものは、なんといっても、Apple WatchとMacBookだ。
-date: '2015-03-10T11:47:17.770Z'
-categories: []
-keywords: []
+date: "2015-03-10T11:47:17.770Z"
 tags: ["apple", "apple-watch", "macbook"]
 slug: "7c0b2ea7-85bb-4948-a6e7-0339d3422647"
 ---
 Appleの発表会が行われた。今回の発表会で大きいものは、なんといっても、Apple WatchとMacBookだ。
 
-### 新しいMacBook
+## 新しいMacBook
 
 新しいMacBookは、12インチRetinaディスプレイで、USB Type-Cを備えている。
 
@@ -31,7 +28,7 @@ Apple Watchをつけて、キリマンジャロハーフマラソンを完走し
 
 実際に使っている人、しかもAppleの人間ではない人の体験記や、Apple Watchを実際に触る場を広く展開したり、Appleはこれまでになく新しい”ウェアラブルデバイス”を売るために、広く「体験」を提供しているように見える。Appleが時計を売るために考えた結果なのだろう。
 
-### 春待つ息吹
+## 春待つ息吹
 
 今回のイベント名は”Spring Forward”だった。New MacBookといい、Apple Watchといい、春までお預けになってしまった。しかし、Appleの春の息吹を感じ、春が楽しみになったことは間違いない。
 

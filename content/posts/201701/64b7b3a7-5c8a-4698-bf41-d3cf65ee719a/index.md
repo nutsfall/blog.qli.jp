@@ -1,14 +1,11 @@
 ---
 title: 使っているツール・サービス(2017年1月)
-description: ''
-date: '2017-01-08T03:26:03.901Z'
-categories: []
-keywords: []
+date: "2017-01-08T03:26:03.901Z"
 tags: ["productivity", "omnifocus", "tools"]
 slug: "64b7b3a7-5c8a-4698-bf41-d3cf65ee719a"
+cover:
+  image: "1____8__WviQnSRXadQTulOBdHw.jpeg"
 ---
-![](1____8__WviQnSRXadQTulOBdHw.jpeg)
-
 年越して区切りをつけるにはちょうどいいので、この辺りで使っているツールとサービスをスナップショットがわりに書いてみる。
 
 自分が何をやるべきか、何に着手できるのかは、**OmniFocus** に全部入れて整理している。OmniFocusのパースペクティブで「仕事」「おうち」「お出かけ中」などを設定し、簡単に”この瞬間着手可能なこと”だけ確認できるのがお気に入り。

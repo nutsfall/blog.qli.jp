@@ -1,9 +1,6 @@
 ---
 title: 頭金とかオプション契約とか
-description: ''
-date: '2010-06-17T08:40:41.000Z'
-categories: []
-keywords: []
+date: "2010-06-17T08:40:41.000Z"
 tags: ["iphone", "softbank", "mobile-carriers"]
 slug: "136e3cbe-3ab4-480d-b951-5dd6ea151b18"
 ---

@@ -1,9 +1,6 @@
 ---
 title: POP or ROCK ?
-description: ''
-date: '2014-03-03T20:31:41.000Z'
-categories: []
-keywords: []
+date: "2014-03-03T20:31:41.000Z"
 tags: ["music", "ux"]
 slug: "0719dc11-d4d3-47cd-b6cf-3f54de24dcff"
 ---

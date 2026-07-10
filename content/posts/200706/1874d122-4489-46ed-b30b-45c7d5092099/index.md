@@ -1,9 +1,6 @@
 ---
 title: Fedora7リリースされるも。
-description: ''
-date: '2007-06-04T10:50:07.000Z'
-categories: []
-keywords: []
+date: "2007-06-04T10:50:07.000Z"
 tags: ["fedora", "linux"]
 slug: "1874d122-4489-46ed-b30b-45c7d5092099"
 ---
@@ -11,7 +8,7 @@ slug: "1874d122-4489-46ed-b30b-45c7d5092099"
 
 Fedora7がリリースされたそうです。
 
-リンク: [レッドハット、「Fedora 7」リリース — 「Core」と「Extras」は統合 — ZDNet Japan](http://japan.zdnet.com/oss/story/0,3800075264,20350094,00.htm "レッドハット、「Fedora 7」リリース--「Core」と「Extras」は統合 - ZDNet Japan").
+[レッドハット、「Fedora 7」リリース — 「Core」と「Extras」は統合 — ZDNet Japan](http://japan.zdnet.com/oss/story/0,3800075264,20350094,00.htm)
 
 > Red Hatは米国時間5月31日、愛好家向けLinuxの新エディション、「Fedora 7」をリリースした。同バージョンは、社内外のプログラマーの作業をまとめたものとなっている。
 

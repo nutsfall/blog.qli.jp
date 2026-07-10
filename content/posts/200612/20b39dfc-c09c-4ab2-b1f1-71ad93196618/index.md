@@ -1,9 +1,6 @@
 ---
 title: Apple Store(online)が？
-description: ''
-date: '2006-12-27T01:07:30.000Z'
-categories: []
-keywords: []
+date: "2006-12-27T01:07:30.000Z"
 tags: ["apple-store"]
 slug: "20b39dfc-c09c-4ab2-b1f1-71ad93196618"
 ---

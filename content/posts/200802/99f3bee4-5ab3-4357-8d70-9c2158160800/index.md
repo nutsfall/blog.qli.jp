@@ -1,9 +1,6 @@
 ---
 title: Firefox 3 beta 3がリリースされました。
-description: ""
 date: "2008-02-13T21:20:50.000Z"
-categories: []
-keywords: []
 tags: ["firefox", "gecko"]
 slug: "99f3bee4-5ab3-4357-8d70-9c2158160800"
 ---

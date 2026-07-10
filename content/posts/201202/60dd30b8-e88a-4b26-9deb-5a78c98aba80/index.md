@@ -1,9 +1,6 @@
 ---
 title: Apple、OS X 10.8 Mountain Lionを発表
-description: ''
-date: '2012-02-16T23:15:03.000Z'
-categories: []
-keywords: []
+date: "2012-02-16T23:15:03.000Z"
 tags: ["apple", "macos"]
 slug: "60dd30b8-e88a-4b26-9deb-5a78c98aba80"
 ---

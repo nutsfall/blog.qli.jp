@@ -1,9 +1,6 @@
 ---
 title: "[お知らせ]フィードのアドレスが増えました"
-description: ''
-date: '2008-01-21T22:46:49.000Z'
-categories: []
-keywords: []
+date: "2008-01-21T22:46:49.000Z"
 tags: ["feedburner", "rss"]
 slug: "bb3da42e-af77-4e36-8a65-2fe639444704"
 ---

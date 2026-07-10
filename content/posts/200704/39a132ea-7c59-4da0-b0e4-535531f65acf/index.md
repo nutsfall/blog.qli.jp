@@ -1,9 +1,6 @@
 ---
-title: 'CAN’T BUY MY LOVE : YUI'
-description: ''
-date: '2007-04-05T22:08:29.000Z'
-categories: []
-keywords: []
+title: "CAN’T BUY MY LOVE : YUI"
+date: "2007-04-05T22:08:29.000Z"
 tags: ["yui", "music"]
 slug: "39a132ea-7c59-4da0-b0e4-535531f65acf"
 ---
@@ -17,14 +14,6 @@ RUIDOという短い楽曲もあったり、音楽的にも歌詞にもバラエ
 
 そういえば、最近になって知ったんですが、YUIさんのファン層は彼女に近い年齢層がメインだとか。つまり20歳前後であり、いわゆる中高生層ですね。自分とは10年くらい違うわけですが、中高生ってiPodよりもケータイで音楽聞いている人が多いので、このアルバムもCD売り上げよりも着うたフル売り上げの方を注目した方がいいかもですね。
 
-[CAN’T BUY MY LOVE （初回限定盤）(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B000MZHT7K/mrchildrenonl-22/ref=nosim "CAN'T BUY MY LOVE （初回限定盤）(DVD付)")
-
-*   アーチスト: YUI
-*   レーベル: ソニーミュージックエンタテインメント
-*   発売日: 2007/04/04
-*   売上ランキング： 61
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net)
+[CAN’T BUY MY LOVE （初回限定盤）(DVD付)](https://www.amazon.co.jp/dp/B000MZHT7K)
 
 今週はあと2枚買う予定だったのですが、どちらもあまりメジャーではなく近所のCDショップでは取り扱ってないようだったので、週末探してみます。

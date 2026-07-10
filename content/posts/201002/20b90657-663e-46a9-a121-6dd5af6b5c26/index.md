@@ -1,9 +1,6 @@
 ---
 title: Arrivals for Things / Things Touch
-description: ''
-date: '2010-02-22T00:08:35.000Z'
-categories: []
-keywords: []
+date: "2010-02-22T00:08:35.000Z"
 tags: ["things", "cultured-code", "productivity"]
 slug: "20b90657-663e-46a9-a121-6dd5af6b5c26"
 ---

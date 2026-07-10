@@ -1,9 +1,6 @@
 ---
 title: 新しいリンゴたち(2009年末版）
-description: ''
-date: '2009-10-21T08:07:01.000Z'
-categories: []
-keywords: []
+date: "2009-10-21T08:07:01.000Z"
 tags: ["apple", "imac", "magic-mouse"]
 slug: "d0f6e2ab-f2d7-49a6-9d2b-f6af2d729df4"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Apple 超コンパクト USB 電源アダプタ交換プログラム
-description: ''
-date: '2008-09-23T21:56:28.000Z'
-categories: []
-keywords: []
+date: "2008-09-23T21:56:28.000Z"
 tags: ["apple", "iphone"]
 slug: "66dae2eb-8d24-4692-a026-b8ccee275add"
 ---
@@ -11,7 +8,7 @@ slug: "66dae2eb-8d24-4692-a026-b8ccee275add"
 
 > アップルでは、特定の状況下において Apple 超コンパクト USB 電源アダプタのプラグ部分（金属製の差し込み部分）が外れて電源コンセント内に残り、それによって感電の原因となる可能性があることを確認いたしました。
 
-> \[From [Apple 超コンパクト USB 電源アダプタ交換プログラム](http://www.apple.com/jp/support/usbadapter/exchangeprogram/)\]
+> [From [Apple 超コンパクト USB 電源アダプタ交換プログラム](http://www.apple.com/jp/support/usbadapter/exchangeprogram/)]
 
 書いてあるとおりなのですが、もし電源コンセント内に残っても落ち着いて対処しましょう。慌てないで。
 

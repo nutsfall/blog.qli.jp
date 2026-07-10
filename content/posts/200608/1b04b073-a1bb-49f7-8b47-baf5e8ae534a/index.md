@@ -1,14 +1,11 @@
 ---
 title: ブログスフィア
-description: ""
 date: "2006-08-01T21:53:00.000Z"
-categories: []
-keywords: []
 tags: ["book-review", "blogging", "business"]
 slug: "1b04b073-a1bb-49f7-8b47-baf5e8ae534a"
 ---
 
-**本タイトル:** [ブログスフィア アメリカ企業を変えた 100 人のブロガーたち](http://www.amazon.co.jp/exec/obidos/ASIN/4822245292/mrchildrenonl-22/ref=nosim/)
+**本タイトル:** [ブログスフィア アメリカ企業を変えた 100 人のブロガーたち](https://www.amazon.co.jp/dp/4822245292)
 
 **コメント:**   
 アメリカで実名でブログを書いた人たち、特に社名まで公表した形で開設されたビジネスブログに関して、事例を紹介しながら、メリット・デメリットを明らかにしていく。特にブログと文化に関する考察は興味深い。

@@ -5,7 +5,6 @@ slug: "b27fda43-3e88-439e-9515-069277751fca"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%82%92%E9%9B%BB%E5%AD%90%E6%9C%AC%E3%81%A6%E3%82%99%E8%AA%AD%E3%82%80-9f931e5cfe8a?source=rss-21bfda6f823e------2"
 tags: ["reading-books", "notes"]
-draft: false
 ---
 
 「まっすぐ生きてきましたが」（山崎怜奈著）を読み終えた。著者のラジオを毎日聴いていて、そのラジオ番組のイベントにまで参加しているという縁で、今回は初めてサイン本を購入することにした。しかし、それは保存用として、普段読む用に電子本を購入して読んだ。

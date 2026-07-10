@@ -1,9 +1,6 @@
 ---
 title: Watch6を使ってみた
-description: 突然リリースされたOSなど、新しい環境への移行を躊躇っている方も多いと思うので、だいたい1週間くらい使ってみた雑感などつらつらと書いていきます。
-date: '2020-09-26T01:06:14.988Z'
-categories: []
-keywords: []
+date: "2020-09-26T01:06:14.988Z"
 tags: ["apple-watch", "watchos", "sleep-tracking"]
 slug: "8bc40d59-808f-4e09-899e-79fa67c324e9"
 ---

@@ -1,9 +1,6 @@
 ---
-title: 'LIBERTY :: Salyu'
-description: ''
-date: '2007-10-18T19:05:26.000Z'
-categories: []
-keywords: []
+title: "LIBERTY :: Salyu"
+date: "2007-10-18T19:05:26.000Z"
 tags: ["salyu", "music"]
 slug: "69d36f7d-c5d1-4fa8-aa61-d319b01e4e01"
 ---
@@ -15,11 +12,4 @@ Salyuさんの迫力のあるボーカルはいつもの通り。でも、なん
 
 すごくまとまっている感じなのですが、まとまりすぎてる感じがしなくもないですね。Salyuさんのボーカルに関しても、いままでよりもはまりすぎている感じもします。でも、やっぱり嫌いになれないのはSalyuさんのボーカルによるところが大きいのかもしれません。しばらくライブでSalyuさんの生声を聞いていないので久しぶりに聞きに行きたくなりました。
 
-[LIBERTY](http://www.amazon.co.jp/exec/obidos/ASIN/B000VPOV2C/mrchildrenonl-22/ref=nosim "LIBERTY")
-
-*   レーベル: トイズファクトリー
-*   価格: ￥ 1,050
-*   発売日: 2007/10/17
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/10/18
+[LIBERTY](https://www.amazon.co.jp/dp/B000VPOV2C)

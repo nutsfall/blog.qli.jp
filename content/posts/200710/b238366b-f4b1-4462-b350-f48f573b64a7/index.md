@@ -1,9 +1,6 @@
 ---
 title: ご報告：音楽に関する話題が増えると思います
-description: ''
-date: '2007-10-11T12:18:44.000Z'
-categories: []
-keywords: []
+date: "2007-10-11T12:18:44.000Z"
 tags: ["mr-children", "music"]
 slug: "b238366b-f4b1-4462-b350-f48f573b64a7"
 ---

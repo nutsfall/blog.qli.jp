@@ -1,9 +1,6 @@
 ---
-title: '2009年を振り返る #1'
-description: ''
-date: '2009-12-30T10:36:05.000Z'
-categories: []
-keywords: []
+title: "2009年を振り返る #1"
+date: "2009-12-30T10:36:05.000Z"
 tags: ["music", "salyu", "mr-children"]
 slug: "2502454f-9985-4d4d-8359-306fb867fac1"
 ---
@@ -21,33 +18,23 @@ slug: "2502454f-9985-4d4d-8359-306fb867fac1"
 
 といった感じでしょうか。 今年のアルバムを5枚だけ選ぶとすれば、
 
-*   [世界が明日も続くなら](http://www.amazon.co.jp/gp/product/B002M34BJ4?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B002M34BJ4)
-
-![](0__QCgG6wau4__FBiXKF..gif.gif)
+*   [世界が明日も続くなら](https://www.amazon.co.jp/dp/B002M34BJ4)
 
 *   :: GAKU-MC
-*   [Post Electric Blues](http://www.amazon.co.jp/gp/product/B002ICGC82?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B002ICGC82)
-
-![](0__TXm1C3Z9FL5Ynoh4..gif.gif)
+*   [Post Electric Blues](https://www.amazon.co.jp/dp/B002ICGC82)
 
 *   :: the idlewild
-*   [NO SMOKE, NO MIRRORS](http://www.amazon.co.jp/gp/product/B001UGM0XS?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B001UGM0XS)
-
-![](0__pu7CYo2V__5nU0JGS..xml.xml)
+*   [NO SMOKE, NO MIRRORS](https://www.amazon.co.jp/dp/B001UGM0XS)
 
 *   :: The Holloways
-*   [Quartette Parade](http://www.amazon.co.jp/gp/product/B001LPF15W?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B001LPF15W)
-
-![](0____FwZqd4fd5Iup__Cz..xml.xml)
+*   [Quartette Parade](https://www.amazon.co.jp/dp/B001LPF15W)
 
 *   :: lego big morl
 *   [ウルトラC](http://www.towerrecords.co.jp/sitemap/CSfCardMain.jsp?GOODS_NO=1919498&GOODS_SORT_CD=104) :: ナオト・インティライミ
 
 でしょうか。これ以外にも、マイラバがavexへの移転2作目でとっても素晴らしいアルバムを出してくれて安心したとか、PhilHarmoUniQueがやっとアルバム出したとか、いろいろありますが、とりあえずこの5枚ですね。
 
-でも今年一番聞いたアルバムは、昨年リリースされた”[SUPERMARKET FANTASY](http://www.amazon.co.jp/gp/product/B001H0GBZ0?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B001H0GBZ0)
-
-![](0__z9n5jePAHZdiO2Tb..gif.gif)
+でも今年一番聞いたアルバムは、昨年リリースされた”[SUPERMARKET FANTASY](https://www.amazon.co.jp/dp/B001H0GBZ0)
 
 “(Mr.Children)だったりします。今年のライブ納めは、ミスチルの東京ドームだったわけですが、これが今までいったライブの中で一番楽しくて楽しくて･･･。ミスチルが社会風刺を一切捨ててライブやったのが久しぶりってのもある気がしますが、彼らのパフォーマンスにはさらに期待したいと思います。
 

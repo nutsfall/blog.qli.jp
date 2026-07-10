@@ -1,9 +1,6 @@
 ---
 title: WEBディレクションの教科書というタグがついた本たち
-description: ''
-date: '2012-04-01T23:14:26.000Z'
-categories: []
-keywords: []
+date: "2012-04-01T23:14:26.000Z"
 tags: ["web-direction", "agile"]
 slug: "07a96488-a3bd-477c-9941-9e8407bf6149"
 ---

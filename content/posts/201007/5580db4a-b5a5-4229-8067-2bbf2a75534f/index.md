@@ -1,9 +1,6 @@
 ---
 title: ありがとう、太陽 (ap bank fes ’10 2nd day)
-description: ''
-date: '2010-07-20T13:02:22.000Z'
-categories: []
-keywords: []
+date: "2010-07-20T13:02:22.000Z"
 tags: ["ap-bank-fes", "mr-children", "music-festival"]
 slug: "5580db4a-b5a5-4229-8067-2bbf2a75534f"
 ---

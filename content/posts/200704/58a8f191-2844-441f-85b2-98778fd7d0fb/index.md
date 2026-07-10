@@ -1,15 +1,12 @@
 ---
 title: operaに対する思い入れ
-description: ''
-date: '2007-04-28T23:38:23.000Z'
-categories: []
-keywords: []
+date: "2007-04-28T23:38:23.000Z"
 tags: ["opera", "browser"]
 slug: "58a8f191-2844-441f-85b2-98778fd7d0fb"
 ---
 Twitter経由でこういうエントリーがあったので反応してみる。
 
-リンク: [Operaのよいところってどこですか? | caramel\*vanilla](http://caramel-tea.com/2007/04/opera/ "Operaのよいところってどこですか? | caramel*vanilla").
+[Operaのよいところってどこですか? | caramel*vanilla](http://caramel-tea.com/2007/04/opera/)
 
 > コメント・トラックバック・ソーシャルブックマークのコメント・Twitter…なんでもいいのでOperaに対するご意見を聞けたらなって考えています。
 

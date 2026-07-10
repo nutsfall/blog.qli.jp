@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: フェイク : Mr.Children'
-description: ''
-date: '2007-01-25T22:11:22.000Z'
-categories: []
-keywords: []
+title: "On Vox: フェイク : Mr.Children"
+date: "2007-01-25T22:11:22.000Z"
 tags: ["mr-children", "music"]
 slug: "5a11728d-dad8-4933-a8b5-94f97b7b3679"
 ---

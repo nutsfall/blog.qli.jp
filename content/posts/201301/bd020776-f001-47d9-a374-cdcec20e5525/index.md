@@ -1,9 +1,6 @@
 ---
 title: ANAのPassbookを使ってみた
-description: ''
-date: '2013-01-06T23:37:02.000Z'
-categories: []
-keywords: []
+date: "2013-01-06T23:37:02.000Z"
 tags: ["ana", "passbook"]
 slug: "bd020776-f001-47d9-a374-cdcec20e5525"
 ---

@@ -1,9 +1,6 @@
 ---
 title: パイオニアがAirPlay対応アンプを発表
-description: ''
-date: '2011-10-03T21:09:25.000Z'
-categories: []
-keywords: []
+date: "2011-10-03T21:09:25.000Z"
 tags: ["airplay", "apple", "audio"]
 slug: "56acc34e-2840-4c6f-b285-d9e894a2c636"
 ---

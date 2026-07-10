@@ -1,9 +1,6 @@
 ---
 title: ecto for mac 2.4.2 realeased
-description: ''
-date: '2007-01-12T00:00:28.000Z'
-categories: []
-keywords: []
+date: "2007-01-12T00:00:28.000Z"
 tags: ["ecto", "blogger"]
 slug: "f721ea16-700d-43a7-b419-15054e22805e"
 ---

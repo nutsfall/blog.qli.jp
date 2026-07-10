@@ -1,9 +1,6 @@
 ---
 title: auがLISMO Music Storeを停止
-description: ''
-date: '2011-10-01T10:46:28.000Z'
-categories: []
-keywords: []
+date: "2011-10-01T10:46:28.000Z"
 tags: ["au", "lismo", "music-streaming"]
 slug: "2545b4a1-3a71-48df-8416-4777461ca834"
 ---

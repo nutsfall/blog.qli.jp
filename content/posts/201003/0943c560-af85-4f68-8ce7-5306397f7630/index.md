@@ -1,9 +1,6 @@
 ---
 title: クラウドによるマイクロブログプラットフォーム StatusNet
-description: ''
-date: '2010-03-20T12:15:44.000Z'
-categories: []
-keywords: []
+date: "2010-03-20T12:15:44.000Z"
 tags: ["statusnet", "microblogging", "twitter"]
 slug: "0943c560-af85-4f68-8ce7-5306397f7630"
 ---

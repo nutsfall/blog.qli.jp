@@ -1,9 +1,6 @@
 ---
 title: Windows XPのインストール
-description: ''
-date: '2006-09-22T21:02:07.000Z'
-categories: []
-keywords: []
+date: "2006-09-22T21:02:07.000Z"
 tags: ["windows-xp", "pc-building"]
 slug: "fcfa4359-bf97-4026-8e76-7b3d358789db"
 ---

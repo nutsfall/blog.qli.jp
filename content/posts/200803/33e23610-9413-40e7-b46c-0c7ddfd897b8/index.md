@@ -1,9 +1,6 @@
 ---
 title: InternetExplorer6を使うのは即刻停止してください
-description: ''
-date: '2008-03-26T12:01:16.000Z'
-categories: []
-keywords: []
+date: "2008-03-26T12:01:16.000Z"
 tags: ["internet-explorer", "web-browsers"]
 slug: "33e23610-9413-40e7-b46c-0c7ddfd897b8"
 ---
@@ -11,7 +8,7 @@ slug: "33e23610-9413-40e7-b46c-0c7ddfd897b8"
 
 > 今、ウェブには社会悪がある。その名はInternet Explorer 6。Microsoft製ブラウザーの最新バージョンIE7が出てから2年以上が経過しているにもかかわらず、IE6は未だに全ブラウザーの31%を占めている（IE7はわずか22%、Firefoxが36.5%）。
 
-> \[From [TechCrunch Japanese アーカイブ » 開発者たちを救え！IE6の使用を中止せよ](http://jp.techcrunch.com/archives/save-the-developers-stop-using-internet-explorer-6/)\]
+> [From [TechCrunch Japanese アーカイブ » 開発者たちを救え！IE6の使用を中止せよ](http://jp.techcrunch.com/archives/save-the-developers-stop-using-internet-explorer-6/)]
 
 実際には[http://www.savethedevelopers.org/](http://www.savethedevelopers.org/ "http://www.savethedevelopers.org/") で行われていますが、IE6という特殊性の強いブラウザのシェアが高いおかげで、WEBサイト作成に割の合わない多くの労力とコストがかかっているのは確かです。
 

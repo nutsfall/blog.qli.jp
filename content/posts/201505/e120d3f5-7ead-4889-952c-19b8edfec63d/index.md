@@ -1,9 +1,6 @@
 ---
 title: "“時間を知る”ということ"
-description: ''
-date: '2015-05-01T03:18:49.000Z'
-categories: []
-keywords: []
+date: "2015-05-01T03:18:49.000Z"
 tags: ["apple-watch", "gtd"]
 slug: "e120d3f5-7ead-4889-952c-19b8edfec63d"
 ---

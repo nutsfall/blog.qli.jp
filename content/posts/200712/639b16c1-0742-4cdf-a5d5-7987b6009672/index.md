@@ -1,9 +1,6 @@
 ---
 title: OmniFocusからその先は？
-description: ''
-date: '2007-12-25T23:14:32.000Z'
-categories: []
-keywords: []
+date: "2007-12-25T23:14:32.000Z"
 tags: ["omnifocus", "task-management", "ipod-touch"]
 slug: "639b16c1-0742-4cdf-a5d5-7987b6009672"
 ---

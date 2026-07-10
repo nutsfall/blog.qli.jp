@@ -1,9 +1,6 @@
 ---
 title: GTD用wiki mGSD
-description: ''
-date: '2011-06-14T21:28:34.000Z'
-categories: []
-keywords: []
+date: "2011-06-14T21:28:34.000Z"
 tags: ["gtd", "tiddlywiki"]
 slug: "f015bcf9-ef5f-4dba-b19b-e4d3190e35ef"
 ---

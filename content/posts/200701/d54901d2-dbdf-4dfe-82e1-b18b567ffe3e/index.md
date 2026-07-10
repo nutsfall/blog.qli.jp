@@ -1,15 +1,12 @@
 ---
 title: Tb2 beta2を意図せず常用してみた
-description: ''
-date: '2007-01-26T14:58:07.000Z'
-categories: []
-keywords: []
+date: "2007-01-26T14:58:07.000Z"
 tags: ["thunderbird"]
 slug: "d54901d2-dbdf-4dfe-82e1-b18b567ffe3e"
 ---
 Tb2 beta2のリリースの投稿を以前しました。
 
-リンク: [きゅーり.jp: Tb2 beta2がリリース（日本語版含む)](http://blog.qli.jp/2007/01/tb2_beta2_96f6.html "きゅーり.jp: Tb2 beta2がリリース（日本語版含む)").
+[きゅーり.jp: Tb2 beta2がリリース（日本語版含む)](http://blog.qli.jp/2007/01/tb2_beta2_96f6.html)
 
 > Tb 2 b2がリリースされました。あくまでもベータ版であり、テスト目的にリリースされているものですので、自己責任にて導入をお願いします。
 
@@ -21,7 +18,7 @@ Tb2 beta2のリリースの投稿を以前しました。
 
 今までThe Inbox Makeoverという方法を実践していました。
 
-リンク: [きゅーり.jp: The Inbox Makeoverっていろいろいい感じ](http://blog.qli.jp/2006/07/the_inbox_makeo_25e8.html "きゅーり.jp: The Inbox Makeoverっていろいろいい感じ").
+[きゅーり.jp: The Inbox Makeoverっていろいろいい感じ](http://blog.qli.jp/2006/07/the_inbox_makeo_25e8.html)
 
 > 今まで使っていなかったのだけど、TIMを実践してとりあえず保存するメールの格納先に”@Archives”というフォルダを作って、”y”を押すとこのフォルダに自動的に移動するようにしてみた。これがすごくスッキリする。
 

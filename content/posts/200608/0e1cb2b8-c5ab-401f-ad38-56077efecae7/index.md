@@ -1,9 +1,6 @@
 ---
 title: ">Googleの写真サービスがMacに対応"
-description: ""
 date: "2006-08-03T15:39:00.000Z"
-categories: []
-keywords: []
 tags: ["picasa", "iphoto", "flickr"]
 slug: "0e1cb2b8-c5ab-401f-ad38-56077efecae7"
 ---

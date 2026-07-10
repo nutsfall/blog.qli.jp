@@ -1,9 +1,6 @@
 ---
 title: SocialThing!の招待メールが届いた
-description: ''
-date: '2008-04-05T00:37:38.000Z'
-categories: []
-keywords: []
+date: "2008-04-05T00:37:38.000Z"
 tags: ["socialthing", "friendfeed"]
 slug: "c245d0ce-6746-4bb0-a94a-f96be6524648"
 ---
@@ -11,7 +8,7 @@ slug: "c245d0ce-6746-4bb0-a94a-f96be6524648"
 
 > しかしFriendFeedに強力なライバルが現れた。TechStarsからのスタートアップ「Socialthing!」だ。こちらのほうが、友達がウェブ上で今何をしているかを知るのに、FriendFeedよりさらに使いやすい
 
-> \[From [TechCrunch Japanese アーカイブ » FriendFeed、ご注意！ ―Socialthing!はもっと使いやすい](http://jp.techcrunch.com/archives/watch-out-friendfeed-socialthing-is-even-easier-to-use/)\]
+> [From [TechCrunch Japanese アーカイブ » FriendFeed、ご注意！ ―Socialthing!はもっと使いやすい](http://jp.techcrunch.com/archives/watch-out-friendfeed-socialthing-is-even-easier-to-use/)]
 
 書いてあってFriendFeedが面白い！と思っている自分としては試してみないわけにはいかないだろうと思ったからです。 というわけで、Socialthing!もFriendFeedと同種のサービス、ということは他のサービスのデータを持ってきて再構成する系のサービスだってことは理解してもらえると思います。
 

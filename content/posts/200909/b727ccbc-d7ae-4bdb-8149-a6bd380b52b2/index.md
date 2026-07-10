@@ -1,9 +1,6 @@
 ---
 title: posterousが取っつきにくい
-description: ''
-date: '2009-09-02T09:00:11.000Z'
-categories: []
-keywords: []
+date: "2009-09-02T09:00:11.000Z"
 tags: ["posterous", "blogging"]
 slug: "b727ccbc-d7ae-4bdb-8149-a6bd380b52b2"
 ---

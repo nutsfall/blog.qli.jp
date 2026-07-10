@@ -1,9 +1,6 @@
 ---
 title: どっちのプロフィールサービスが人気なの？
-description: ''
-date: '2008-08-18T23:54:14.000Z'
-categories: []
-keywords: []
+date: "2008-08-18T23:54:14.000Z"
 tags: ["iddy", "profile-services"]
 slug: "cd2280e5-4cdb-478e-a325-21d73aaa12fe"
 ---
@@ -13,4 +10,4 @@ slug: "cd2280e5-4cdb-478e-a325-21d73aaa12fe"
 
 Googleなのでアンケートは直接このページから出来ます。結果はスプレッドシートを直接開くと確認できるようになっています([結果のシートはこちらです](http://spreadsheets.google.com/pub?key=pGW20RUPDq0lmTNQpmGZ7EA))。一応、期限は８月１９日いっぱいということにしておきます。
 
-\[googleapps domain=”spreadsheets” dir=”embeddedform” query=”key=pGW20RUPDq0lmTNQpmGZ7EA” width=”310" height=”902" /\]
+[googleapps domain=”spreadsheets” dir=”embeddedform” query=”key=pGW20RUPDq0lmTNQpmGZ7EA” width=”310" height=”902" /]

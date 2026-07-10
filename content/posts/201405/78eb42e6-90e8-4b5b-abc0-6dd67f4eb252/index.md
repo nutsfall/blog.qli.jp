@@ -1,28 +1,24 @@
 ---
-title: '日本語訳: Getting Started with Things'
-description: ''
-date: '2014-05-18T22:38:02.000Z'
-categories: []
-keywords: []
+title: "日本語訳: Getting Started with Things"
+date: "2014-05-18T22:38:02.000Z"
 tags: ["things", "gtd"]
 slug: "78eb42e6-90e8-4b5b-abc0-6dd67f4eb252"
 ---
 Thingsの開発元である cultured codeが “Getting Started with Things" というページを公開しています。
 
-[**Getting Started with Things | Cultured Code**  
-_Like to-dos, there are almost always too many potential projects for you to work on at any given time. If you're not…_culturedcode.com](http://culturedcode.com/things/guide/ "http://culturedcode.com/things/guide/")[](http://culturedcode.com/things/guide/)
+[Getting Started with Things | Cultured Code](http://culturedcode.com/things/guide/)
 
 **Updated 9th Feb. 2015:**  
 超訳というつもりで日本語訳したのですが、Cultured Codeに「この記事すごくいいんだけど日本語化しないの？」って聞いたら、あるよ、ってこのページを示されたので、手直ししました。
 
 これによって Things がどういう使い方を想定してつくっているのかを理解できるので、今使っている人も、これから使ってみたいと思っている人も参考になる内容です。ほぼGTDですが、必ずしもGTDに忠実なわけではありません。うすうす気づいている人もいると思いますが、Thingsは日次レビューが必須と考えているようです。
 
-The following article is “Getting Started with Things\]” in Japanese. Thanks for writing, cultured code.  
+The following article is “Getting Started with Things]” in Japanese. Thanks for writing, cultured code.  
 If you have questions about this article, please contact me.
 
-### Getting Started with Things
+## Getting Started with Things
 
-#### すべてをひとつに集めよう
+### すべてをひとつに集めよう
 
 成し遂げたいことを一カ所に集める必要がある。その場所が **Inbox**（受信）だ。
 
@@ -33,7 +29,7 @@ If you have questions about this article, please contact me.
 **Inbox** に並ぶ ToDoを毎日見直すことで、最高の気分になる習慣を身につけたことになる。  
 そしてそれぞれのタスクを始めるタイミングを決める。
 
-#### いつ着手するかを決める
+### いつ着手するかを決める
 
 あまりに多くのことを一日のうちに完了しているだろう。しかし、それはストレスの理由にはならない。  
 今起きていることとあなたの持っているToDoを整理していれば、いまやっていることに簡単に集中できるようになるだろう。
@@ -43,7 +39,7 @@ If you have questions about this article, please contact me.
 *   **Scheduled**（予定済） は後日始めたいToDo、まだ始められなかったり、特定の日にリマインドさせて欲しかったり、といったToDoのためのものだ。
 *   **Someday**（未定） はやりたいがいつはじめるか分からないToDoのためのものです。定期的にレビューしよう。
 
-#### Project (プロジェクト) を使って大きなことを成し遂げる
+### Project (プロジェクト) を使って大きなことを成し遂げる
 
 **Inbox** に入れたいくつかのToDoは、完了するのにいくつかのステップを必要とする。そうなったら、 **Project**（プロジェクト） を使おう。
 
@@ -51,7 +47,7 @@ ToDo のように、限られた時間の中で行うにはあまりにも多く
 
 最後に、今のプロジェクトの枠を超えて、次のアクションについて全体を見渡したいときは、**Next** をみればいい。
 
-#### エリア であなた自身を定義する
+### エリア であなた自身を定義する
 
 プロジェクトやToDoは、**Area of Responsibility** (エリア)に入ることで、進行中の目標の達成を支援する。エリアはあなたがつけるすべての帽子のための場所だ。  
 （訳注: 役割を演じ分けることを帽子の被り替えという例えで表現することが多い）
@@ -64,7 +60,7 @@ ToDo のように、限られた時間の中で行うにはあまりにも多く
 
 エリアに多くのものが常に入っている状態は、生活を重要な側面から成長させてくれる方法でもある。いつもそれらを注意深く見よう。ときどき少しの新しいToDoを追加することが、長期的目標へ情熱を傾け続けることに繋がる。
 
-#### あなたの毎日の流れ
+### あなたの毎日の流れ
 
 毎日、一日の始まりにToDoをみることは、重要なものが一番上にいるよう維持するために一番いい方法だ。  
 コーヒーを相棒にして、**Today** を見ながら数分を過ごそう。長すぎてはいけない。
@@ -79,7 +75,7 @@ ToDo のように、限られた時間の中で行うにはあまりにも多く
 **Today** リストを整理する少しの時間がかかるようだったら、その日は単にあなたは何も起きないだろう。  
 割り込みによって混乱しない。常に状況をコントロールしている。それは気持ちいいだろう。
 
-#### 始める前にちょっとしたTipsをご紹介
+### 始める前にちょっとしたTipsをご紹介
 
 **Inbox** にToDoを追加するときは手早くやって、手早く仕事に戻ろう。  
 Macでは `Ctrl + Space` を押すことによって、別のアプリを動かしていても、新しいToDoを追加することができる。  
@@ -99,7 +95,7 @@ ToDoにすばらしい名前をつけることは大きな違いを生む。
 
 固定された締切を持ったToDoにのみ、**due dates** (期日) を使う。それによって、毎日本当に注目すべきものを一目で見れる。あとで **Today** に表示させたいのであれば、 **Scheduled** に移動して日付を指定すればいい。
 
-#### ゴールを達成する準備をしよう
+### ゴールを達成する準備をしよう
 
 Thingsであなたの生活を整理しよう。  
 これらの基本的なtipsを実践してみることできっと驚くだろう。  

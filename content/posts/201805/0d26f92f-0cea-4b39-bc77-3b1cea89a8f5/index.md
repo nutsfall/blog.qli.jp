@@ -1,9 +1,6 @@
 ---
 title: OmniFocus3 で実現できる新しいワークフロー
-description: OmniFocus 3 for iOSには、細かいですが、簡単に特定のタグを脱着できる機能がつきました。
-date: '2018-05-30T02:51:02.457Z'
-categories: []
-keywords: []
+date: "2018-05-30T02:51:02.457Z"
 tags: ["omnifocus", "productivity", "gtd"]
 slug: "0d26f92f-0cea-4b39-bc77-3b1cea89a8f5"
 ---
@@ -25,8 +22,7 @@ OmniFocus3の発表があった時、Omni GroupのCEO Ken Caseはこんな発言
 
 > If you also want to put it on … tag it for today, then you can have a “Today” list that you could see it in as well.
 
-[**Ken Case on Omni's 2018 Roadmap**  
-_Ken Case, CEO and one of the founders of The Omni Group, talks about what we accomplished in 2017 and what we plan to…_theomnishow.omnigroup.com](https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap "https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap")[](https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap)
+[Ken Case on Omni's 2018 Roadmap](https://theomnishow.omnigroup.com/episode/ken-case-on-omnis-2018-roadmap)
 
 こうすることで、「Today」は今やるべきタスクのリスト。「予測」は時間に余裕があるときに、少し先を見通すための場所と区別して使うことができます。どうしても「予測」と「Today」が混合してしまいがちになのです。
 

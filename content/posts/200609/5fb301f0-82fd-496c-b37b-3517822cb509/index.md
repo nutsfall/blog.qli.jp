@@ -1,15 +1,12 @@
 ---
 title: iPodファミリー一新
-description: ''
-date: '2006-09-13T06:15:52.000Z'
-categories: []
-keywords: []
+date: "2006-09-13T06:15:52.000Z"
 tags: ["ipod", "apple"]
 slug: "5fb301f0-82fd-496c-b37b-3517822cb509"
 ---
 新しいiPod nano, IPod 80G, そして予想だにしなかった新しいiPod shuffleが登場しました。
 
-リンク: [ITmedia News：Apple、5色のnano、15グラムのshuffle、80GバイトiPodを発表](http://www.itmedia.co.jp/news/articles/0609/13/news012.html "ITmedia News：Apple、5色のnano、15グラムのshuffle、80GバイトiPodを発表").
+[ITmedia News：Apple、5色のnano、15グラムのshuffle、80GバイトiPodを発表](http://www.itmedia.co.jp/news/articles/0609/13/news012.html)
 
 > 米Apple Computerは9月12日、「iPod」「iPod nano」「iPod shuffle」のiPod新製品群を一挙に公開した。
 

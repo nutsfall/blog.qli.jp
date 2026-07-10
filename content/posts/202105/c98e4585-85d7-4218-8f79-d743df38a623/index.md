@@ -1,9 +1,6 @@
 ---
 title: 次世代のOmniFocusが発表された
-description: ''
-date: '2021-05-11T12:40:06.078Z'
-categories: []
-keywords: []
+date: "2021-05-11T12:40:06.078Z"
 tags: ["omnifocus", "productivity"]
 slug: "c98e4585-85d7-4218-8f79-d743df38a623"
 ---
@@ -21,5 +18,4 @@ OmniFocus 4 for iPhone and iPad で気になるところは次の通り；
 
 Lean OmniFocus というサイトで動画付きで紹介されていますので、ぜひ新しいバージョンを感じてみてください。
 
-[**First Look: OmniFocus 4 for iPhone and iPad - Learn OmniFocus**  
-_Earlier today the Omni Group shared a first look at OmniFocus 4 for iPhone and iPad. This major update is currently in…_learnomnifocus.com](https://learnomnifocus.com/first-look-omnifocus-4-for-iphone-and-ipad/ "https://learnomnifocus.com/first-look-omnifocus-4-for-iphone-and-ipad/")[](https://learnomnifocus.com/first-look-omnifocus-4-for-iphone-and-ipad/)
+[First Look: OmniFocus 4 for iPhone and iPad - Learn OmniFocus](https://learnomnifocus.com/first-look-omnifocus-4-for-iphone-and-ipad/)

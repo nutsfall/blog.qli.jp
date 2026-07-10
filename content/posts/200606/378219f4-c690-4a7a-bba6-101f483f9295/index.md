@@ -1,9 +1,6 @@
 ---
 title: MacBook KUROが起動しなくなった！
-description: ""
 date: "2006-06-25T19:49:13.000Z"
-categories: []
-keywords: []
 tags: ["macbook", "apple-store"]
 slug: "378219f4-c690-4a7a-bba6-101f483f9295"
 ---

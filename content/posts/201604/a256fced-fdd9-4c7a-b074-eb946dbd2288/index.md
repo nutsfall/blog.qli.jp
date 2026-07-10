@@ -1,9 +1,6 @@
 ---
-title: '悩ましい位置情報通知 #Todoist #OmniFocus'
-description: ''
-date: '2016-04-25T10:31:00.000Z'
-categories: []
-keywords: []
+title: "悩ましい位置情報通知 #Todoist #OmniFocus"
+date: "2016-04-25T10:31:00.000Z"
 tags: ["todoist", "omnifocus", "task-management"]
 slug: "a256fced-fdd9-4c7a-b074-eb946dbd2288"
 ---

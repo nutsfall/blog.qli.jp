@@ -1,9 +1,6 @@
 ---
 title: エコバッグ × マイ箸 = 0 ?
-description: ''
-date: '2008-11-23T14:44:43.000Z'
-categories: []
-keywords: []
+date: "2008-11-23T14:44:43.000Z"
 tags: ["environment", "eco"]
 slug: "a321dc63-5f47-4de3-80c3-9884d2670bfc"
 ---

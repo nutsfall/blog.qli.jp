@@ -5,7 +5,6 @@ slug: "600bd410-074a-46e0-8947-c623c70b880e"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%83%88%E3%82%99%E3%83%A9%E3%82%AF%E3%82%A8%E3%81%AE%E8%A9%B1-8a2b4998178c?source=rss-21bfda6f823e------2"
 tags: ["dragon-quest", "games"]
-draft: false
 ---
 
 時間を見つけてドラクエを進めている。今やっているのは、10 月 30 日に発売されたドラクエ 1・2 のうちの、ドラクエ 2 だ。ドラクエ 3 リメイク、ドラクエ 1 リメイクはすでに攻略した。

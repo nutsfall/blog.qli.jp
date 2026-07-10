@@ -1,15 +1,12 @@
 ---
 title: MonkeyGTD(tiddlywikiベースのGTDツール)
-description: ''
-date: '2007-02-13T12:20:57.000Z'
-categories: []
-keywords: []
+date: "2007-02-13T12:20:57.000Z"
 tags: ["gtd", "tiddlywiki"]
 slug: "0ecd0f01-d320-4749-8665-08d0a2828023"
 ---
 GTDが続きますが、こちらはツールのご紹介。[Tiddlywiki](http://www.tiddlywiki.com/)といえば、[GTDtiddlywiki](http://shared.snapgrid.com/)とかが有名ですが、こちらはそれとはまた別のTiddlywikiベースのGTDツール。
 
-リンク: [MonkeyGTD — gtd inspired task manager powered by tiddlywiki](http://monkeygtd.tiddlyspot.com/ "MonkeyGTD - gtd inspired task manager powered by tiddlywiki").
+[MonkeyGTD — gtd inspired task manager powered by tiddlywiki](http://monkeygtd.tiddlyspot.com/)
 
 > Welcome to MonkeyGTD, a TiddlyWiki powered GTD system. For more info see About and Getting Started with MonkeyGTD.
 

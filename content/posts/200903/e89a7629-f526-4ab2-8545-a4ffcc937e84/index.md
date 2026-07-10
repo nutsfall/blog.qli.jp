@@ -1,9 +1,6 @@
 ---
-title: 'Quartette Parade :: lego big morl'
-description: ''
-date: '2009-03-08T22:57:15.000Z'
-categories: []
-keywords: []
+title: "Quartette Parade :: lego big morl"
+date: "2009-03-08T22:57:15.000Z"
 tags: ["lego-big-morl", "music"]
 slug: "e89a7629-f526-4ab2-8545-a4ffcc937e84"
 ---
@@ -15,10 +12,4 @@ OORONG RECORDS発の新人ということで、勝手に注目していたバン
 
 ってことで、このアルバムもハードリピート。嫌いな曲ないし、むしろ好きな曲だらけだし。iTunes Storeでも販売しているので、よかったら試聴してみてください。僕の好きなドツボのサウンドはこれです！って胸張って言えます。
 
-[Quartette Parade](http://www.amazon.co.jp/exec/obidos/ASIN/B001LPF15W/qli-22/ref=nosim "Quartette Parade")
-
-*   アーチスト: lego big morl
-*   レーベル: OORONG RECORDS
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/03/08
+[Quartette Parade](https://www.amazon.co.jp/dp/B001LPF15W)

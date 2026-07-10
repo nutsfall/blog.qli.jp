@@ -1,9 +1,6 @@
 ---
 title: au 迷惑メールおまかせ規制
-description: ''
-date: '2012-08-05T11:03:10.000Z'
-categories: []
-keywords: []
+date: "2012-08-05T11:03:10.000Z"
 tags: ["au", "spam-filter"]
 slug: "90c6811a-a07d-490e-a1bf-09eec5f59e5e"
 ---

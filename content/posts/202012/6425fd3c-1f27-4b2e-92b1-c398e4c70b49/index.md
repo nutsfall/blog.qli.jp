@@ -1,9 +1,7 @@
 ---
 title: ギターを綺麗に聴かせてくれるヘッドフォン Major IV
 description: 新しく発売されたMarshall Major IVで Mr.Children 20枚目アルバム SOUNDTRACKSを聴きました
-date: '2020-12-05T07:24:25.942Z'
-categories: []
-keywords: []
+date: "2020-12-05T07:24:25.942Z"
 tags: ["marshall", "headphones"]
 slug: "6425fd3c-1f27-4b2e-92b1-c398e4c70b49"
 ---
@@ -13,14 +11,13 @@ slug: "6425fd3c-1f27-4b2e-92b1-c398e4c70b49"
 
 ![](1__4KZjbmgtEqKUeMWNQdL5rg.jpeg)
 
-[**Marshallの最新Major IVヘッドフォンは80時間駆動や無線充電などの機能搭載、有線接続も可能 | TechCrunch Japan**  
-_Marshall（マーシャル）の新しい Major IV…_jp.techcrunch.com](https://jp.techcrunch.com/2020/10/18/2020-10-16-marshall-major-iv-wireless-headphones-offer-great-sound-plus-80-hours-of-battery-life-and-wireless-charging/ "https://jp.techcrunch.com/2020/10/18/2020-10-16-marshall-major-iv-wireless-headphones-offer-great-sound-plus-80-hours-of-battery-life-and-wireless-charging/")[](https://jp.techcrunch.com/2020/10/18/2020-10-16-marshall-major-iv-wireless-headphones-offer-great-sound-plus-80-hours-of-battery-life-and-wireless-charging/)
+[Marshallの最新Major IVヘッドフォンは80時間駆動や無線充電などの機能搭載、有線接続も可能 | TechCrunch Japan](https://jp.techcrunch.com/2020/10/18/2020-10-16-marshall-major-iv-wireless-headphones-offer-great-sound-plus-80-hours-of-battery-life-and-wireless-charging/)
 
 Major I でデビューを果たし、Major II では全体的アップデートをはかり、Major III では Bluetooth を装備してきました。Major IVは Bluetooth ヘッドフォンとして全体的なアップデートが図られています。その最たる例は連続再生時間80時間。USB-Cで充電できるようになったのも、地味に嬉しいアップデートです。
 
 このヘッドフォン、デザインの主張も好きなのですが、やっぱり特徴的なのは音の作り。ギターの音を綺麗に出してくれるヘッドフォンだと思います。
 
-#### SOUNDTRACKS with Major IV
+## SOUNDTRACKS with Major IV
 
 というわけで、早速Major IVを試聴してみました。聴いたのは Mr.Children SOUNDTRACKS。すでにシングルとしてリリースされた、turn over? / 君と重ねたモノローグ / Birthday を含む、10曲入のアルバムです。
 
@@ -32,7 +29,7 @@ Major I でデビューを果たし、Major II では全体的アップデート
 
 ポケットミュージック。以前 My Little Loverがデビュー当時に使ったフレーズで、意味したいところは異なりますが、そういうフレーズを当てはめてみたくなります。
 
-#### 最後に
+## 最後に
 
 Marshallのヘッドフォンを使っている人を街で見かけることはあまりありません。AirPods Proが売れてから、余計ヘッドフォンをしている人を見かけることすら減ってしまった印象があります。（自転車ドライバーがイヤホンしているのはよく見かけます）
 

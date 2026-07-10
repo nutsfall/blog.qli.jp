@@ -1,14 +1,11 @@
 ---
 title: End of the year, 2016
-description: 大晦日ということで今年を振り返ってみる。
-date: '2016-12-31T00:37:08.879Z'
-categories: []
-keywords: []
+date: "2016-12-31T00:37:08.879Z"
 tags: ["year-in-review", "j-league", "dazn"]
 slug: "6f8abb41-8560-4d63-8caf-07d63522c175"
+cover:
+  image: "1__dM4d72EHFcmCzNc24ykEsg.jpeg"
 ---
-![](1__dM4d72EHFcmCzNc24ykEsg.jpeg)
-
 大晦日ということで今年を振り返ってみる。
 
 今年は、映画「ピンクとグレー」で始まった1年だった。見に行ったのは1月10日。まだ年が明けた実感すら薄いタイミングである。そのほか、映画「リップヴァンクルの花嫁」や映画「SCOOP!」はとても印象強く残った。「君の名は。」や「シン・ゴジラ」は見ていないけれども、記憶に残るいい演技と演出を見れた。

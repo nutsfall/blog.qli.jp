@@ -1,9 +1,6 @@
 ---
 title: デジカメ DSC-T100
-description: ''
-date: '2007-07-02T00:23:36.000Z'
-categories: []
-keywords: []
+date: "2007-07-02T00:23:36.000Z"
 tags: ["sony", "digital-camera"]
 slug: "59de9127-50cf-4171-85cc-5fb277ecd547"
 ---
@@ -13,14 +10,6 @@ slug: "59de9127-50cf-4171-85cc-5fb277ecd547"
 
 まだ今日買ったばっかで何にも使ってないですが、メモステすら買ってないですが、予定が無くて気持ちよく晴れた日とか被写体探しに行くのも面白いかもしれませんね。これでFlickrも使いこなせるようになりそうです（笑）
 
-[SONY デジタルカメラ サイバーショット T100 レッド](http://www.amazon.co.jp/exec/obidos/ASIN/B000NTQLW4/mrchildrenonl-22/ref=nosim "SONY デジタルカメラ サイバーショット T100 レッド")
-
-*   メーカー: ソニー
-*   価格: ￥ 38,800
-*   発売日: 2007/03/09
-*   売上ランキング： 1989
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/07/02
+[SONY デジタルカメラ サイバーショット T100 レッド](https://www.amazon.co.jp/dp/B000NTQLW4)
 
 しかし、ソニーファンはとっくにやめたはずですが、まだまだソニー家電に囲まれてます。そうそう、iPhotoとの連携も問題なさそうでした。

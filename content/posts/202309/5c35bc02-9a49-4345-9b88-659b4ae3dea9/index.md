@@ -1,9 +1,6 @@
 ---
 title: 23/24シーズンはブルーと一緒に
-description: ''
-date: '2023-09-30T03:01:34.594Z'
-categories: []
-keywords: []
+date: "2023-09-30T03:01:34.594Z"
 tags: ["iphone-15-pro", "esim", "apple"]
 slug: "5c35bc02-9a49-4345-9b88-659b4ae3dea9"
 ---

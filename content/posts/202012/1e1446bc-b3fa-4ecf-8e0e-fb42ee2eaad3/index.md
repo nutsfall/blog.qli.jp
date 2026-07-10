@@ -1,9 +1,7 @@
 ---
 title: プロダクトゴールとデザイン
 description: nobitaro のYouTube見てたら文章書きたくなりました。自分の中のコアコンピタンスが出てきちゃうのは止められないなぁと思いました。
-date: '2020-12-30T02:35:51.155Z'
-categories: []
-keywords: []
+date: "2020-12-30T02:35:51.155Z"
 tags: ["apple", "product-design"]
 slug: "1e1446bc-b3fa-4ecf-8e0e-fb42ee2eaad3"
 ---

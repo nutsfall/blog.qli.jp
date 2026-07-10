@@ -1,9 +1,6 @@
 ---
 title: unstoppable
-description: ''
-date: '2011-01-08T13:41:36.000Z'
-categories: []
-keywords: []
+date: "2011-01-08T13:41:36.000Z"
 tags: ["unstoppable", "film-review"]
 slug: "83570899-c8e5-40ec-8b83-bfc9b74de009"
 ---

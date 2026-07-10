@@ -1,9 +1,6 @@
 ---
 title: 技術的負債とバグトリアージ
-description: ''
-date: '2015-03-19T12:03:02.000Z'
-categories: []
-keywords: []
+date: "2015-03-19T12:03:02.000Z"
 tags: ["technical-debt", "software-engineering"]
 slug: "1cf6a5f6-32b0-4cf2-a9ff-c5b1dc11f95a"
 ---

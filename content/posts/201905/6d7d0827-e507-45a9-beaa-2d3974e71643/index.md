@@ -1,9 +1,6 @@
 ---
-title: 'Avispa Fukuoka: シーズンを3分の１終えて'
-description: サッカーの、アビスパ福岡の話題です。アビスパ福岡がホーム「博多の陸上競技場」でなかなか勝てない間にシーズンは 1/3 を消化した。次のホームは「レベルファイブスタジアム」。
-date: '2019-05-20T11:51:08.268Z'
-categories: []
-keywords: []
+title: "Avispa Fukuoka: シーズンを3分の１終えて"
+date: "2019-05-20T11:51:08.268Z"
 tags: ["avispa-fukuoka", "j-league"]
 slug: "6d7d0827-e507-45a9-beaa-2d3974e71643"
 ---
@@ -11,14 +8,13 @@ slug: "6d7d0827-e507-45a9-beaa-2d3974e71643"
 
 ここまでアビスパのサッカーをDAZNやら現地で見てきて感じたことをざっと書き残しておく。雁ノ巣に行って練習を見たりとかできないので、あくまでも自分が見聞きしたものを前提に書いているので、フィードバックもらえると嬉しいかも。
 
-#### アビスパのスタイル
+## アビスパのスタイル
 
 これまでのアビスパのサッカーを見てると特徴的なのは高いボール保有率とセンターバック陣＋ボランチのパス本数の多さ。この状況はプレミアリーグで見たことがある。
 
 2018/19シーズン Manchester United vs New Castle United。ファビオの師匠でもあるベニテス監督率いるニューキャッスルは、5バックの守備を形成し、スペースを消されたユナイテッドは後ろで繋ぎながら攻撃の機会を伺った。この試合では、Man Utdがボールを73%支配しながら結果は3–2。90分のゴールで決着がつくほど接戦だった。
 
-[**Manchester United vs Newcastle United - English Premier League 06 October 2018 | Manchester United**  
-_Follow live match coverage and reaction as Manchester United play Newcastle United in the English Premier League on 06…_www.manutd.com](https://www.manutd.com/en/matches/matchcenter?matchId=987668 "https://www.manutd.com/en/matches/matchcenter?matchId=987668")[](https://www.manutd.com/en/matches/matchcenter?matchId=987668)
+[Manchester United vs Newcastle United - English Premier League 06 October 2018 | Manchester United](https://www.manutd.com/en/matches/matchcenter?matchId=987668)
 
 アビスパ福岡が志向しているのは、これと同じ。スペースを素早く使い、少ないパス本数でゴールに迫るサッカー。大外を使うことがあるだろうし、裏を使うこともあるかもしれない。スペースがなければ、後ろで繋ぎながら様子を伺い、スペースを窺う。つまり、緩急をつけた“縦に速いサッカー” 。
 
@@ -28,7 +24,7 @@ _Follow live match coverage and reaction as Manchester United play Newcastle Uni
 
 ただし、奪いきれない・スピードを落とせない状況が生まれると、ボランチのフィルターも効かないので、唯一のフィルターがゴールキーパーになってしまう。センターバックもプレイを遅らせること、シュートをブロックすることで精一杯になるだろう。
 
-#### アビスパのサッカーのキーポイント
+## アビスパのサッカーのキーポイント
 
 キーポイントは３つ。「CBからの球出し」「ワイドの位置どり」「ミドルゾーンの運動量」になると考える。
 
@@ -38,7 +34,7 @@ CBからの球出しは、ケネディが重宝されていることにあらわ
 
 ミドルゾーンの運動量はそのとおり。アビスパのサッカーは、中盤3枚の高い運動量に支えられると言ってもいい。常にスペースを探し、スペースを見つけたらそこに走り込む。パス&ゴーを繰り返す。ボールが奪われたらすぐにボールを奪い返す。基本の動きだけど、頭にも体にもハードな仕事が要求される。
 
-#### 最後に
+## 最後に
 
 フットボールとは面白いもので、アグレッシブに行くと大体のことがうまく行く。ゴールポストに阻まれたシュートも入るようになっていくし、相手が必死でクリアしたボールが、ゴール前で味方選手の前に転がり込むなんてこともある。
 

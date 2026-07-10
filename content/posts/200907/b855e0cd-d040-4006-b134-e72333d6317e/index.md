@@ -1,9 +1,6 @@
 ---
 title: デザインを変更しました
-description: ''
-date: '2009-07-11T21:37:59.000Z'
-categories: []
-keywords: []
+date: "2009-07-11T21:37:59.000Z"
 tags: ["blog-design"]
 slug: "b855e0cd-d040-4006-b134-e72333d6317e"
 ---

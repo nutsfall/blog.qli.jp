@@ -1,9 +1,6 @@
 ---
 title: Apple Store がバージョンアップ
-description: ''
-date: '2011-05-22T19:19:40.000Z'
-categories: []
-keywords: []
+date: "2011-05-22T19:19:40.000Z"
 tags: ["apple-store", "apple"]
 slug: "e4ea9e5c-2f69-427f-a411-03ec584116c0"
 ---

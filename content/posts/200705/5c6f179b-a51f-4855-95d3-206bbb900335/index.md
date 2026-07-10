@@ -1,9 +1,6 @@
 ---
 title: iStalkrを経由して実現するTime Activity
-description: ''
-date: '2007-05-03T18:39:36.000Z'
-categories: []
-keywords: []
+date: "2007-05-03T18:39:36.000Z"
 tags: ["istalkr", "twitter"]
 slug: "5c6f179b-a51f-4855-95d3-206bbb900335"
 ---

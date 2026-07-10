@@ -1,9 +1,6 @@
 ---
 title: iPhone x W61S(au) の2ヶ月間
-description: ''
-date: '2008-09-23T10:20:24.000Z'
-categories: []
-keywords: []
+date: "2008-09-23T10:20:24.000Z"
 tags: ["iphone", "au"]
 slug: "60063ddf-c416-47c9-babd-99842d8d1457"
 ---

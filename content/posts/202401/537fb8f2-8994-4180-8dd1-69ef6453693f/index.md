@@ -1,9 +1,7 @@
 ---
 title: 並行世界で考えること
 description: WOWOWで放送中のモキュメンタリー「PORTAL-X」について紹介しています
-date: '2024-01-27T03:01:45.566Z'
-categories: []
-keywords: []
+date: "2024-01-27T03:01:45.566Z"
 tags: ["wowow", "portal-x"]
 slug: "537fb8f2-8994-4180-8dd1-69ef6453693f"
 ---

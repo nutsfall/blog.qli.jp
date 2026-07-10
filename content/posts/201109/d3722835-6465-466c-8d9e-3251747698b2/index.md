@@ -1,9 +1,6 @@
 ---
 title: Android端末としてのwalkman
-description: ''
-date: '2011-09-13T20:54:34.000Z'
-categories: []
-keywords: []
+date: "2011-09-13T20:54:34.000Z"
 tags: ["sony-walkman", "android"]
 slug: "d3722835-6465-466c-8d9e-3251747698b2"
 ---

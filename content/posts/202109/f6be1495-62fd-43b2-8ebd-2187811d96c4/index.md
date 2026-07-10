@@ -1,16 +1,13 @@
 ---
 title: 音声コンテンツを持ち運ぶためのポータブルスピーカー SONOS Roam
 description: SONOS Roamを導入したのでファーストインプレッション
-date: '2021-09-11T02:15:28.551Z'
-categories: []
-keywords: []
+date: "2021-09-11T02:15:28.551Z"
 tags: ["sonos", "portable-speaker", "apple-music"]
 slug: "f6be1495-62fd-43b2-8ebd-2187811d96c4"
 ---
 SONOSというブランドはずっと導入したいなと思っていたのですが、さまざまな事情でなかなか実現しませんでした。もともとテレビ用のサウンドシステムが中心で、そろそろスマートスピーカーを買おうかなと思っていたタイミングでも検討リストには入っていたりしたものです。
 
-[**Sonos (ソノス) | 公式ホームページ**  
-_WiFiワイヤレスネットワークを利用した、究極のホームサウンドシステムSonos。家中のすべての部屋を臨場感あふれるクリアなサウンドで満たします。_www.sonos.com](https://www.sonos.com/ja-jp/home "https://www.sonos.com/ja-jp/home")[](https://www.sonos.com/ja-jp/home)
+[Sonos (ソノス) | 公式ホームページ](https://www.sonos.com/ja-jp/home)
 
 SONOS Roam は、ポータブルスピーカーで導入にも場所を取らないということで導入の障壁がありませんでした。
 

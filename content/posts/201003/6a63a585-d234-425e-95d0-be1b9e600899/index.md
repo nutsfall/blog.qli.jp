@@ -1,9 +1,6 @@
 ---
 title: SIMロックフリーに関する議論
-description: ''
-date: '2010-03-28T10:10:25.000Z'
-categories: []
-keywords: []
+date: "2010-03-28T10:10:25.000Z"
 tags: ["sim-unlock", "mobile", "japan-telecom"]
 slug: "6a63a585-d234-425e-95d0-be1b9e600899"
 ---

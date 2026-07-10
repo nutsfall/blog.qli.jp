@@ -1,9 +1,6 @@
 ---
 title: 音声デバイスの接続はとても大事（OPENCOMM2 UC）
-description: ""
 date: "2023-10-14T03:01:35.685Z"
-categories: []
-keywords: []
 tags: ["shokz", "opencomm2-uc"]
 slug: "77d61a35-e4b7-4b17-ae30-e0a4093845d3"
 ---

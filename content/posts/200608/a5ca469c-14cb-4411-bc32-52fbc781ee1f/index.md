@@ -1,16 +1,11 @@
 ---
 title: "彼女 :: aiko"
-description: ""
 date: "2006-08-26T23:44:00.000Z"
-categories: []
-keywords: []
 tags: ["aiko", "music", "cd"]
 slug: "a5ca469c-14cb-4411-bc32-52fbc781ee1f"
 ---
 
-**楽曲/アルバムタイトル:** [彼女](http://www.amazon.co.jp/exec/obidos/ASIN/B000GRUR78/mrchildrenonl-22/ref=nosim/)
-
-**アーティスト:** aiko
+**楽曲/アルバムタイトル:** [彼女](https://www.amazon.co.jp/dp/B000GRUR78)
 
 **コメント:**   
 買いました。先日の Bonnie Pink といい、今までの自分だったら絶対買わなかったようなアルバムを最近買ってます。
@@ -29,20 +24,4 @@ p.s.
 
 あっちってログインしないとコメントできないっぽいのでとりあえず延期。
 
-**評価:**
-
-**評価者:** へるべすと
-
-**評価日付:** 2006–08–27
-
-**画像(URL):**
-
 ![](0__UjPs__UutAKQcjagG.jpg)
-
-**メディア:** CD
-
-**発売日:** 2006–08–23
-
-**制作会社:** ポニーキャニオン
-
-**ASIN:** B000GRUR78

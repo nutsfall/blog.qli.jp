@@ -1,9 +1,6 @@
 ---
 title: Life-Xに登録してみた
-description: ''
-date: '2008-09-25T23:44:24.000Z'
-categories: []
-keywords: []
+date: "2008-09-25T23:44:24.000Z"
 tags: ["sony", "life-x"]
 slug: "0e2ae5a2-a177-4b54-821b-371ea8373658"
 ---

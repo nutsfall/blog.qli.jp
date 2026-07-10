@@ -1,9 +1,6 @@
 ---
 title: エスカレータの正しい乗り方
-description: ''
-date: '2008-08-19T21:50:49.000Z'
-categories: []
-keywords: []
+date: "2008-08-19T21:50:49.000Z"
 tags: ["escalator", "safety"]
 slug: "60cfd251-b356-4983-958a-d443d38e2876"
 ---

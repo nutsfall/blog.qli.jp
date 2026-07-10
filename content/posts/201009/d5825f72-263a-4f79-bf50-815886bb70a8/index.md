@@ -1,9 +1,6 @@
 ---
 title: 映画 beck
-description: ''
-date: '2010-09-10T03:16:00.000Z'
-categories: []
-keywords: []
+date: "2010-09-10T03:16:00.000Z"
 tags: ["beck", "japanese-film", "mr-children"]
 slug: "d5825f72-263a-4f79-bf50-815886bb70a8"
 ---

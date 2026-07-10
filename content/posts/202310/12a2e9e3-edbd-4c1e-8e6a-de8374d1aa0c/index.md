@@ -1,9 +1,6 @@
 ---
 title: エンターテイメントの収穫祭と、次の世界
-description: ''
-date: '2023-10-28T03:01:42.540Z'
-categories: []
-keywords: []
+date: "2023-10-28T03:01:42.540Z"
 tags: ["apple-music", "mr-children", "music"]
 slug: "12a2e9e3-edbd-4c1e-8e6a-de8374d1aa0c"
 ---

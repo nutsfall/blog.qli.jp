@@ -1,9 +1,6 @@
 ---
 title: inbox by Gmail を使ってみた
-description: ''
-date: '2014-10-28T23:51:15.000Z'
-categories: []
-keywords: []
+date: "2014-10-28T23:51:15.000Z"
 tags: ["inbox-by-gmail", "email"]
 slug: "7fe910a4-9213-441b-a1b8-2858a8dd9ea6"
 ---

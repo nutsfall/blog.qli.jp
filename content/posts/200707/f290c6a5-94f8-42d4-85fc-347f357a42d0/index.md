@@ -1,9 +1,6 @@
 ---
 title: ブログって？
-description: ''
-date: '2007-07-21T00:32:31.000Z'
-categories: []
-keywords: []
+date: "2007-07-21T00:32:31.000Z"
 tags: ["blogging", "spam"]
 slug: "f290c6a5-94f8-42d4-85fc-347f357a42d0"
 ---

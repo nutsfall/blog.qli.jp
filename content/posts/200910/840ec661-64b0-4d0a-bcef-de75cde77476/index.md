@@ -1,9 +1,6 @@
 ---
 title: きゅーり.jp を取得した
-description: ''
-date: '2009-10-03T12:07:13.000Z'
-categories: []
-keywords: []
+date: "2009-10-03T12:07:13.000Z"
 tags: ["domain", "blog"]
 slug: "840ec661-64b0-4d0a-bcef-de75cde77476"
 ---

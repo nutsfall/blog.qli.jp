@@ -1,9 +1,6 @@
 ---
 title: IS03を買いました
-description: ''
-date: '2010-12-23T22:31:44.000Z'
-categories: []
-keywords: []
+date: "2010-12-23T22:31:44.000Z"
 tags: ["is03", "android", "au"]
 slug: "aebb4ee7-4a18-4090-9dfb-650bd2dc3e9d"
 ---

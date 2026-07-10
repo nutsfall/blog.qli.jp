@@ -1,9 +1,6 @@
 ---
 title: G9 by iida を見てきた
-description: ''
-date: '2009-04-11T22:07:08.000Z'
-categories: []
-keywords: []
+date: "2009-04-11T22:07:08.000Z"
 tags: ["iida-g9", "au"]
 slug: "5c0b9550-bc8c-47d3-aaaa-0c966df96656"
 ---

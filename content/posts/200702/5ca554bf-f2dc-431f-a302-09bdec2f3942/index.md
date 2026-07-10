@@ -1,9 +1,6 @@
 ---
 title: 最近のスケジュール/タスク管理
-description: ''
-date: '2007-02-27T16:53:47.000Z'
-categories: []
-keywords: []
+date: "2007-02-27T16:53:47.000Z"
 tags: ["task-management", "google-calendar"]
 slug: "5ca554bf-f2dc-431f-a302-09bdec2f3942"
 ---

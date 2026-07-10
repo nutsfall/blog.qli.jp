@@ -1,9 +1,6 @@
 ---
 title: 自分の感情をジャーナルしていく
-description: ''
-date: '2024-03-09T03:02:15.510Z'
-categories: []
-keywords: []
+date: "2024-03-09T03:02:15.510Z"
 tags: ["day-one", "journaling"]
 slug: "c35cf873-03e7-4de8-941b-67d3cf2d89a3"
 ---

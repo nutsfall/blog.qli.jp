@@ -1,26 +1,12 @@
 ---
 title: BOSE ヘッドフォン triport on-ear
-description: ''
-date: '2006-12-26T13:03:01.000Z'
-categories: []
-keywords: []
+date: "2006-12-26T13:03:01.000Z"
 tags: ["bose", "headphones"]
 slug: "ec61e065-a279-40ab-888f-96b52ca7c237"
 ---
 BOSEのヘッドフォン買いました。
 
-[BOSE on-ear headphones BOSE-OE](http://www.amazon.co.jp/exec/obidos/ASIN/B000KTD81O/mrchildrenonl-22/ref=nosim "BOSE on-ear headphones BOSE-OE")
-
-*   発売元: BOSE
-*   レーベル: BOSE
-*   スタジオ: BOSE
-*   メーカー: BOSE
-*   価格: ￥ 23,700 (5% OFF)
-*   発売日: 2006/12/01
-*   売上ランキング： 361
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net)
+[BOSE on-ear headphones BOSE-OE](https://www.amazon.co.jp/dp/B000KTD81O)
 
 本当は、帰省の機内音楽観賞用にBOSE Quiet Comfort3と迷っていたのだけど、５万円近い値段にビックリしてこちらにしました。機内ではきっとエンジン音がうるさくて音楽聞いている場合ではなくなるのかもしれないけど、ま、いっか。前日寝ないようにして爆睡します(笑)
 

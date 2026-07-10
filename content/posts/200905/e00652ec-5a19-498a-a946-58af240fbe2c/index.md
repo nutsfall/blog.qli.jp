@@ -1,9 +1,6 @@
 ---
 title: 肩書きという属性情報
-description: ''
-date: '2009-05-23T12:29:57.000Z'
-categories: []
-keywords: []
+date: "2009-05-23T12:29:57.000Z"
 tags: ["twitter", "personal-branding"]
 slug: "e00652ec-5a19-498a-a946-58af240fbe2c"
 ---

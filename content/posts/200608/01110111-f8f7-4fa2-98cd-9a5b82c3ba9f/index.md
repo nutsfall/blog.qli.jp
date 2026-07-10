@@ -1,13 +1,10 @@
 ---
 title: W-ZERO3[es]入手後レポート
-description: ''
-date: '2006-08-13T22:52:06.000Z'
-categories: []
-keywords: []
+date: "2006-08-13T22:52:06.000Z"
 tags: ["w-zero3", "windows-mobile", "phs"]
 slug: "01110111-f8f7-4fa2-98cd-9a5b82c3ba9f"
 ---
-W-ZERO3\[es\]を手に入れて、2週間程度が立ちます。実際、メインの電話機ではないので、それほど使えていないですが、Gmailを含めたメールのチェックには大活躍です。先日、Missing Sync for Windows Mobile 2.5も購入して、iCalと（もっといえば間接的にGoogle Calenderと)同期をとるようにしました。
+W-ZERO3[es]を手に入れて、2週間程度が立ちます。実際、メインの電話機ではないので、それほど使えていないですが、Gmailを含めたメールのチェックには大活躍です。先日、Missing Sync for Windows Mobile 2.5も購入して、iCalと（もっといえば間接的にGoogle Calenderと)同期をとるようにしました。
 
 同期をとるに当たって、つまりPIMを本格的に使うに当たって、以前買ったPocket Informantではタップせずに操作するのは難しかったので諦め、いろいろ試した末に、標準アプリに落ち着きました。ま、確認用途にしか使わないので問題ないです。そんな感じです。  
   

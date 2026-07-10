@@ -5,7 +5,6 @@ slug: "7546e152-9757-40dd-be33-c9defe26dd18"
 source: "medium"
 original_url: "https://medium.com/@hiro/twitter%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E9%9B%91%E8%A8%98-ca7f69e010c7?source=rss-21bfda6f823e------2"
 tags: ["notes"]
-draft: false
 ---
 
 この記事が公開されるのが2月21日。その翌日2月22日は自分のTwitterアカウントを開設した日です。

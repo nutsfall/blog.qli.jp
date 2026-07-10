@@ -1,9 +1,6 @@
 ---
 title: iPod Touch発売日は？
-description: ''
-date: '2007-09-20T18:27:50.000Z'
-categories: []
-keywords: []
+date: "2007-09-20T18:27:50.000Z"
 tags: ["ipod-touch", "apple"]
 slug: "5543b7bf-aa7f-4fff-9b7e-62959992eca5"
 ---

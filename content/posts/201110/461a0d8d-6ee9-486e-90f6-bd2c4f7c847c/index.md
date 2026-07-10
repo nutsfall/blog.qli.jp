@@ -1,9 +1,6 @@
 ---
 title: au が iPhone 4S の “よくあるお問い合わせ”を公開
-description: ''
-date: '2011-10-12T19:37:13.000Z'
-categories: []
-keywords: []
+date: "2011-10-12T19:37:13.000Z"
 tags: ["au", "iphone-4s"]
 slug: "461a0d8d-6ee9-486e-90f6-bd2c4f7c847c"
 ---

@@ -1,9 +1,6 @@
 ---
 title: au iPhone にリアルタイムメール
-description: ''
-date: '2012-03-13T08:28:47.000Z'
-categories: []
-keywords: []
+date: "2012-03-13T08:28:47.000Z"
 tags: ["au", "iphone", "exchange"]
 slug: "dc9d80d2-aecf-4728-bb9c-79025cfb46fe"
 ---

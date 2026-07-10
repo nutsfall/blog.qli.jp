@@ -1,9 +1,6 @@
 ---
 title: AirPods4 今ごろ１ヶ月使ってわかったこと
-description: ''
-date: '2025-02-01T03:02:03.504Z'
-categories: []
-keywords: []
+date: "2025-02-01T03:02:03.504Z"
 tags: ["airpods", "apple"]
 slug: "6a143bcd-0b98-4c3f-87a3-731facc3ba40"
 cover:

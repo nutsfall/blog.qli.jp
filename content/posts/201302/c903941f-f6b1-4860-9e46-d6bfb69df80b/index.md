@@ -1,16 +1,12 @@
 ---
 title: CHEESE CAKE に出会う
-description: ''
-date: '2013-02-27T23:28:50.000Z'
-categories: []
-keywords: []
+date: "2013-02-27T23:28:50.000Z"
 tags: ["cheese-cake", "music"]
 slug: "c903941f-f6b1-4860-9e46-d6bfb69df80b"
 ---
-福岡県から４人組のバンドがデビューするというのでiTunes Storeで買ってみました。バンドの名前は CHEESE CAKE ([@cheesecake\_f](http://twitter.com/cheesecake_f) )。
+福岡県から４人組のバンドがデビューするというのでiTunes Storeで買ってみました。バンドの名前は CHEESE CAKE ([@cheesecake_f](http://twitter.com/cheesecake_f) )。
 
-[**哀しみのブランコ**  
-_哀しみのブランコ\] CHEESE CAKE - CD・レコードの購入はオンライン通販アマゾン公式サイトで。お急ぎ便ご利用で当日・翌日にお届け。_www.amazon.co.jp](https://www.amazon.co.jp/dp/B00AQ3ETIA "https://www.amazon.co.jp/dp/B00AQ3ETIA")[](https://www.amazon.co.jp/dp/B00AQ3ETIA)
+[哀しみのブランコ](https://www.amazon.co.jp/dp/B00AQ3ETIA)
 
 福岡県春日市出身の４人組バンド。女性ボーカルですね。
 

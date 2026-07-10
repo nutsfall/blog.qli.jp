@@ -1,9 +1,6 @@
 ---
 title: WEBに携わる以上新しい価値を生み出したい
-description: ''
-date: '2008-01-09T23:41:16.000Z'
-categories: []
-keywords: []
+date: "2008-01-09T23:41:16.000Z"
 tags: ["spam", "affiliate", "web"]
 slug: "9bf7daa4-8078-487c-85cb-c870d770c976"
 ---

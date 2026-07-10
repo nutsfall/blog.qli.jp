@@ -1,13 +1,10 @@
 ---
 title: ブログ = ?
-description: ''
-date: '2006-07-18T10:04:07.000Z'
-categories: []
-keywords: []
+date: "2006-07-18T10:04:07.000Z"
 tags: ["blogging"]
 slug: "7adff494-6333-4753-86ac-ae7f7c3e0f85"
 ---
-リンク: [ドコモ・ライブドア提携 「ｉモード」に検索機能 — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20172387,00.htm?ref=rss "ドコモ・ライブドア提携　「ｉモード」に検索機能 - CNET Japan").
+[ドコモ・ライブドア提携 「ｉモード」に検索機能 — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20172387,00.htm?ref=rss)
 
 > ライブドアは、国内最大規模のブログ（日記風ウェブサイト）サービスを中心に利用者参加型コンテンツ（情報の内容）の強化を経営方針に掲げている。
 

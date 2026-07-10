@@ -1,9 +1,6 @@
 ---
 title: OmniFocusとCommand & Control
-description: 子どものころ、習字教室に通っていました。実際は通わされていました。そのおかげで、困らないくらいの汚さの字をかけるようになったんだろうと思っていますが、硬筆がとても嫌いでした。
-date: '2020-01-20T11:54:24.699Z'
-categories: []
-keywords: []
+date: "2020-01-20T11:54:24.699Z"
 tags: ["omnifocus", "productivity"]
 slug: "d572c801-5cf5-4ddb-af61-351fd03fe497"
 ---

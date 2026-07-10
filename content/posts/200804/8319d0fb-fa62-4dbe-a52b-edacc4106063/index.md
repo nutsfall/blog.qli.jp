@@ -1,9 +1,6 @@
 ---
 title: Google App Engineがリリースされました
-description: ''
-date: '2008-04-08T21:12:05.000Z'
-categories: []
-keywords: []
+date: "2008-04-08T21:12:05.000Z"
 tags: ["google-app-engine", "python"]
 slug: "8319d0fb-fa62-4dbe-a52b-edacc4106063"
 ---

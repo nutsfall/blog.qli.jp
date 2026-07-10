@@ -1,9 +1,6 @@
 ---
 title: 幸福な食卓
-description: ''
-date: '2007-01-28T01:50:45.000Z'
-categories: []
-keywords: []
+date: "2007-01-28T01:50:45.000Z"
 tags: ["film", "mr-children"]
 slug: "33f436e7-aebc-46db-ab4e-20e5d999578f"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Google Calendar Notifier fixed.
-description: ""
 date: "2006-09-01T07:36:14.000Z"
-categories: []
-keywords: []
 tags: ["google-calendar", "google-notifier", "mac"]
 slug: "99cabf59-a5a3-4322-b8d8-232337d2a8c4"
 ---

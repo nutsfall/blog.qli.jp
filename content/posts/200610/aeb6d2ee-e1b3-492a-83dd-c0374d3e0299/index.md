@@ -1,9 +1,6 @@
 ---
 title: What is Social Media?
-description: ''
-date: '2006-10-31T10:05:48.000Z'
-categories: []
-keywords: []
+date: "2006-10-31T10:05:48.000Z"
 tags: ["social-media", "cgm", "web2.0"]
 slug: "aeb6d2ee-e1b3-492a-83dd-c0374d3e0299"
 ---

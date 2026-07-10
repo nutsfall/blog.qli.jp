@@ -1,15 +1,12 @@
 ---
 title: YouTubeは個人情報を提供している？
-description: ''
-date: '2006-10-23T11:28:01.000Z'
-categories: []
-keywords: []
+date: "2006-10-23T11:28:01.000Z"
 tags: ["youtube", "copyright"]
 slug: "0f5d4c23-edee-4eaa-bec2-f3ef709bab05"
 ---
 YouTubeの話題ですが。
 
-リンク: [あくまでも「法令遵守」を貫くユーチューブ — そして、この事実に気付かないユーザーたち — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20283447,00.htm?ref=rss "あくまでも「法令遵守」を貫くユーチューブ--そして、この事実に気付かないユーザーたち - CNET Japan").
+[あくまでも「法令遵守」を貫くユーチューブ — そして、この事実に気付かないユーザーたち — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20283447,00.htm?ref=rss)
 
 > ビデオ投稿サイトのYouTubeは、著作権者からの告発があった場合、映画やテレビ番組のビデオクリップを投稿したユーザーに関する情報を（そういった行為をするユーザーの間ではあまり知られていないことかもしれないが）著作権者に提供することがある。
 

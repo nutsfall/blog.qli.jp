@@ -1,9 +1,6 @@
 ---
 title: iPhone 5が発表されました
-description: ''
-date: '2012-09-13T05:18:18.000Z'
-categories: []
-keywords: []
+date: "2012-09-13T05:18:18.000Z"
 tags: ["iphone-5", "apple", "lte"]
 slug: "c6a86365-a7a1-4ea7-aebd-a9ed603d04a0"
 ---

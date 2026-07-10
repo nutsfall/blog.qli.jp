@@ -1,15 +1,12 @@
 ---
 title: ITmedia Biz.ID：GTDに役立つトリガーリスト
-description: ''
-date: '2006-07-14T15:04:28.000Z'
-categories: []
-keywords: []
+date: "2006-07-14T15:04:28.000Z"
 tags: ["gtd", "remember-the-milk"]
 slug: "bbd94961-dedc-4191-bdb2-9bea0909d93b"
 ---
 田口さんが書かれているGTD関連の記事にトリガーリストが追加されました。これは完全保存版ですよ！
 
-リンク: [ITmedia Biz.ID：GTDに役立つトリガーリスト](http://www.itmedia.co.jp/bizid/articles/0607/14/news064.html "ITmedia Biz.ID：GTDに役立つトリガーリスト").
+[ITmedia Biz.ID：GTDに役立つトリガーリスト](http://www.itmedia.co.jp/bizid/articles/0607/14/news064.html)
 
 > その最初の難関は「収集」のプロセスです。「頭の中の『気になること』を吐き出すために、最低二時間は使ってください」と言われても困ってしまうかもしれません。実際、「GTDに挑戦したけれど、最初の30分で何も書けなくなって途中で投げ出してしまいました」――という人も多いようです。
 

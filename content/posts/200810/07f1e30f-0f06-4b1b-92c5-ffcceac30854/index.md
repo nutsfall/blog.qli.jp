@@ -1,9 +1,6 @@
 ---
 title: 貧困
-description: ''
-date: '2008-10-15T05:16:45.000Z'
-categories: []
-keywords: []
+date: "2008-10-15T05:16:45.000Z"
 tags: ["poverty", "blog-action-day"]
 slug: "07f1e30f-0f06-4b1b-92c5-ffcceac30854"
 ---

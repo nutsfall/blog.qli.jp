@@ -1,9 +1,6 @@
 ---
-title: '0916 Time files で感じたこと'
-description: 9月16日早朝、秋のりんご収穫祭の始まりを知らせるイベントがありました。今回は iPadとWatchだけが発表されるという噂があり、本当にその通りになりました。1時間といういつもより短めのオンラインイベントです。噂ではあと2回あるようです。
-date: '2020-09-19T05:44:28.017Z'
-categories: []
-keywords: []
+title: "0916 Time files で感じたこと"
+date: "2020-09-19T05:44:28.017Z"
 tags: ["apple-event", "ipad-air", "apple-watch"]
 slug: "8238fb36-ce5a-4556-95d4-cfaeb16401b6"
 ---

@@ -1,14 +1,12 @@
 ---
 title: 久しぶりに楽しんだMr.Children Tour (Tour 2019 against all GRAVITY)
 description: Mr.Children Tour 2019 against all GAVITY 東京ドーム公演1日目（2019/5/19)にいってきました。この記事はツアー終了後（6月2日）公開されています。
-date: '2019-06-02T11:56:00.900Z'
-categories: []
-keywords: []
+date: "2019-06-02T11:56:00.900Z"
 tags: ["mr-children", "concert"]
 slug: "45bad1e5-7267-41c5-9d72-6c88a20066cb"
+cover:
+  image: "1__FjSOffA8dQmz6vvAzrPV9w.jpeg"
 ---
-![](1__FjSOffA8dQmz6vvAzrPV9w.jpeg)
-
 本編の全ての演奏が終わり、「海にて、心は裸になりたがる」が終わった時、「もうそんなに時が経ったのか」と思った。そう感じさせてくれるMr.Childrenのライブは本当に久しぶりだった。
 
 7年ぶりのMr.Childrenのライブ。別にスルーしてたわけじゃない。Mr.Childrenが電子チケットシステムを導入してからなぜか毎回当選しなかっただけだ。

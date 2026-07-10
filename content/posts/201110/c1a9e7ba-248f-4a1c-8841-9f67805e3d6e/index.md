@@ -1,9 +1,6 @@
 ---
 title: iPhoneの庭
-description: ''
-date: '2011-10-28T21:41:37.000Z'
-categories: []
-keywords: []
+date: "2011-10-28T21:41:37.000Z"
 tags: ["iphone", "imessage", "ios-5"]
 slug: "c1a9e7ba-248f-4a1c-8841-9f67805e3d6e"
 ---

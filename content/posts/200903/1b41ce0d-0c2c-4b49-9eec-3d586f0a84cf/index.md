@@ -1,9 +1,6 @@
 ---
 title: "“Tweet-Local”なるものを作ってみました"
-description: ''
-date: '2009-03-21T15:31:47.000Z'
-categories: []
-keywords: []
+date: "2009-03-21T15:31:47.000Z"
 tags: ["twitter", "web-app"]
 slug: "1b41ce0d-0c2c-4b49-9eec-3d586f0a84cf"
 ---

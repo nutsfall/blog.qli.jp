@@ -1,9 +1,6 @@
 ---
 title: 東急東横線渋谷駅ホーム地下化に添えて
-description: ''
-date: '2013-03-16T10:28:01.000Z'
-categories: []
-keywords: []
+date: "2013-03-16T10:28:01.000Z"
 tags: ["tokyu-toyoko-line", "shibuya"]
 slug: "76bb9e8f-6ed0-4c4f-8afb-f53a80756876"
 ---

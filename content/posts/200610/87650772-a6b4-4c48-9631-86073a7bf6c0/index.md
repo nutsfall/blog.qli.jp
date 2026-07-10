@@ -1,15 +1,12 @@
 ---
 title: テンプレート探しで半日終了とか
-description: ''
-date: '2006-10-25T08:21:55.000Z'
-categories: []
-keywords: []
+date: "2006-10-25T08:21:55.000Z"
 tags: ["productivity", "information-management", "wiki"]
 slug: "87650772-a6b4-4c48-9631-86073a7bf6c0"
 ---
 妙に納得してしまったのでシェア。
 
-リンク: [ITmedia Biz.ID：仕事で使う情報が多過ぎると感じる社員は3分の1――米調査](http://www.itmedia.co.jp/bizid/articles/0610/25/news016.html "ITmedia Biz.ID：仕事で使う情報が多過ぎると感じる社員は3分の1――米調査").
+[ITmedia Biz.ID：仕事で使う情報が多過ぎると感じる社員は3分の1――米調査](http://www.itmedia.co.jp/bizid/articles/0610/25/news016.html)
 
 > こうした非効率性は、情報源の多さによるものとNucleusでは指摘。情報のリポジトリが増加・複雑化する背景として、企業買収や合併のほか、情報整理が部署ごとに行われ、企業全体として統一されていないこと、共有フォルダの整理がうまく行われずに書類が重複してしまうことなどを挙げている。
 

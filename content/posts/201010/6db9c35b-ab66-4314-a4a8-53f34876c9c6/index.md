@@ -1,9 +1,6 @@
 ---
 title: おもしろいプレイリストを作って再生してくれる Groove
-description: ''
-date: '2010-10-01T20:26:31.000Z'
-categories: []
-keywords: []
+date: "2010-10-01T20:26:31.000Z"
 tags: ["music", "iphone-app", "last-fm"]
 slug: "6db9c35b-ab66-4314-a4a8-53f34876c9c6"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Lean UXとAgile UX
-description: ''
-date: '2014-08-23T02:23:35.000Z'
-categories: []
-keywords: []
+date: "2014-08-23T02:23:35.000Z"
 tags: ["lean-ux", "agile-ux"]
 slug: "89672524-81e7-4bb0-89dc-9d4446d4376f"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 年初に大イベントです
-description: ''
-date: '2007-01-08T09:15:04.000Z'
-categories: []
-keywords: []
+date: "2007-01-08T09:15:04.000Z"
 tags: ["apple", "windows-vista"]
 slug: "90026339-6e0c-47d7-9970-dcaaffd7ada7"
 ---

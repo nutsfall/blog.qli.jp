@@ -1,9 +1,6 @@
 ---
 title: iOS14.5 と iPad Pro
-description: ''
-date: '2021-04-30T12:42:07.320Z'
-categories: []
-keywords: []
+date: "2021-04-30T12:42:07.320Z"
 tags: ["apple", "ios", "apple-music"]
 slug: "3df2cddb-db6f-4907-8380-41115112fb3a"
 ---

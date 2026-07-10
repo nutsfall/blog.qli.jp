@@ -1,9 +1,6 @@
 ---
 title: iPhoneよりも日本の携帯電話の方が機能は多いが
-description: ''
-date: '2008-07-19T09:05:17.000Z'
-categories: []
-keywords: []
+date: "2008-07-19T09:05:17.000Z"
 tags: ["iphone", "au"]
 slug: "550961f0-d0bf-4a5c-8bc2-529b0af1df5d"
 ---

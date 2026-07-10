@@ -1,13 +1,10 @@
 ---
 title: Tbパワーアップ(Thunderbird 2.0 RC1)
-description: ''
-date: '2007-04-02T11:31:05.000Z'
-categories: []
-keywords: []
+date: "2007-04-02T11:31:05.000Z"
 tags: ["thunderbird", "email-client"]
 slug: "cb9e16d6-ac5e-4c89-b317-81dc1fad3b00"
 ---
-実は、Mozilla Thunderbird 2.0 RC1 \[バージョン 2.0.0.0 (20070326)\]がMozillaのFTPサイトにアップされています。ビジュアル的にも整えられた形となり、リリース準備万端といった感じです。
+実は、Mozilla Thunderbird 2.0 RC1 [バージョン 2.0.0.0 (20070326)]がMozillaのFTPサイトにアップされています。ビジュアル的にも整えられた形となり、リリース準備万端といった感じです。
 
 *   Mac,Linux 版:[http://ftp.mozilla.org/pub/mozilla.org/thunderbird/nightly/2.0.0.0-candidates/rc1/](http://ftp.mozilla.org/pub/mozilla.org/thunderbird/nightly/2.0.0.0-candidates/rc1/)
 *   Windows 版:[http://ftp.mozilla.org/pub/mozilla.org/thunderbird/nightly/2.0.0.0-candidates/rc1/unsigned/](http://ftp.mozilla.org/pub/mozilla.org/thunderbird/nightly/2.0.0.0-candidates/rc1/unsigned/)
@@ -18,7 +15,7 @@ slug: "cb9e16d6-ac5e-4c89-b317-81dc1fad3b00"
 今まで、ツリー式表示では、ツリーの先頭メッセージの日付で並び替えられていましたが、今回からツリーの最新メッセージの日付で並び変わるようになりました。これで、ホットトピックを探さなくて済みます。
 
 **2:スター、ラベルタグ機能の追加**  
-これでGmail的なメールの管理が有効になりました。今までラベル機能をつかって、GTD的なメール管理していましたが、この機能追加でメールタスク管理方法を変更しました。今ではパッと読んで、もっと読みたいものにスター(ctrl + s)をつけて、後から参照。タスクがあれば、タスク管理ツール(check\*pad)に入れるようにしました。これについては、Tb2.0正式版リリース後きちんと書くことになるのかも。
+これでGmail的なメールの管理が有効になりました。今までラベル機能をつかって、GTD的なメール管理していましたが、この機能追加でメールタスク管理方法を変更しました。今ではパッと読んで、もっと読みたいものにスター(ctrl + s)をつけて、後から参照。タスクがあれば、タスク管理ツール(check*pad)に入れるようにしました。これについては、Tb2.0正式版リリース後きちんと書くことになるのかも。
 
 **3: 自分がFromのメールへの返信はFromとToを入れ替えるようになった。**  
 これ、わりと細かいのですが、メーラとしては効果絶大な変更点。要望大きかったですもんね。

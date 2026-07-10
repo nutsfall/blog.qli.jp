@@ -1,9 +1,6 @@
 ---
 title: New iPod shuffle, New iTunes 8.1
-description: ''
-date: '2009-03-12T22:11:09.000Z'
-categories: []
-keywords: []
+date: "2009-03-12T22:11:09.000Z"
 tags: ["ipod", "itunes", "apple"]
 slug: "db5532aa-3ddc-4e98-9323-7e834f6e8546"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ON A NIGHT LIKE THIS for HAITI
-description: ''
-date: '2010-02-23T23:31:08.000Z'
-categories: []
-keywords: []
+date: "2010-02-23T23:31:08.000Z"
 tags: ["salyu", "live-music", "haiti"]
 slug: "c89c40bb-1c2e-4587-a59a-7cc1af0bf31d"
 ---

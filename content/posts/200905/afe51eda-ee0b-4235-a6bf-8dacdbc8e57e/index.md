@@ -1,9 +1,6 @@
 ---
 title: icon mobileを買ってみた
-description: ''
-date: '2009-05-23T22:28:37.000Z'
-categories: []
-keywords: []
+date: "2009-05-23T22:28:37.000Z"
 tags: ["headphone-amplifier", "sennheiser", "ipod"]
 slug: "afe51eda-ee0b-4235-a6bf-8dacdbc8e57e"
 ---

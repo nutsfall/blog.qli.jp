@@ -1,9 +1,6 @@
 ---
 title: iTunes Matchとプレイリスト
-description: ''
-date: '2014-07-24T22:28:09.000Z'
-categories: []
-keywords: []
+date: "2014-07-24T22:28:09.000Z"
 tags: ["itunes-match", "music"]
 slug: "e1d6c154-e142-4599-bf30-0506d0df49c4"
 ---

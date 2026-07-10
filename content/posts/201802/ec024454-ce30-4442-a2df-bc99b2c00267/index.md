@@ -1,9 +1,7 @@
 ---
 title: 裁量労働制についての雑論
 description: ツイッター見たらとても空中戦的な発言が多かったので少し書いてみる。このポストは、国会で審議中のいかなる法案についての賛否を示すものではない
-date: '2018-02-23T10:29:23.772Z'
-categories: []
-keywords: []
+date: "2018-02-23T10:29:23.772Z"
 tags: ["work-style-reform", "management"]
 slug: "ec024454-ce30-4442-a2df-bc99b2c00267"
 ---

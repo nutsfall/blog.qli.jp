@@ -1,15 +1,12 @@
 ---
 title: ユニバーサルサービスって何よ
-description: ''
-date: '2006-09-21T12:41:54.000Z'
-categories: []
-keywords: []
+date: "2006-09-21T12:41:54.000Z"
 tags: ["telecom", "ntt"]
 slug: "fbd772fa-2de4-4ea7-bb20-5196f093a744"
 ---
 もはや、そんな制度あったんだ、ってくらいの勢いなんですが。
 
-リンク: [ユニバーサルサービスの月額7円はユーザーから徴収 — KDDI小野寺氏 — CNET Japan](http://japan.cnet.com/news/com/story/0,2000056021,20238427,00.htm "ユニバーサルサービスの月額7円はユーザーから徴収--KDDI小野寺氏 - CNET Japan").
+[ユニバーサルサービスの月額7円はユーザーから徴収 — KDDI小野寺氏 — CNET Japan](http://japan.cnet.com/news/com/story/0,2000056021,20238427,00.htm)
 
 > KDDI代表取締役社長兼会長の小野寺正氏は9月20日に開催された定例会見で、ユニバーサルサービスにかかる費用について、ユーザー負担にする方針であることを発表した。
 

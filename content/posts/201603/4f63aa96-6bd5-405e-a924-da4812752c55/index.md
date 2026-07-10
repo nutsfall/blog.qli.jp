@@ -1,9 +1,6 @@
 ---
 title: iPad Pro 9.7インチ
-description: ''
-date: '2016-03-31T11:58:09.000Z'
-categories: []
-keywords: []
+date: "2016-03-31T11:58:09.000Z"
 tags: ["ipad", "apple"]
 slug: "4f63aa96-6bd5-405e-a924-da4812752c55"
 ---

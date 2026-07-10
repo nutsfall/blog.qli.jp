@@ -1,9 +1,6 @@
 ---
 title: Twitter for iPhone がリリースされた
-description: ''
-date: '2010-05-20T08:38:24.000Z'
-categories: []
-keywords: []
+date: "2010-05-20T08:38:24.000Z"
 tags: ["twitter", "iphone"]
 slug: "8e5f5ad2-ff9f-444b-b034-1f4700c2f4ef"
 ---

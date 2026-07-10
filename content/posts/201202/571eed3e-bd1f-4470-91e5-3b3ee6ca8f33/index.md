@@ -1,9 +1,6 @@
 ---
 title: iTunes Store Japan が大きなサイレントアップデート
-description: ''
-date: '2012-02-22T12:10:33.000Z'
-categories: []
-keywords: []
+date: "2012-02-22T12:10:33.000Z"
 tags: ["apple", "itunes"]
 slug: "571eed3e-bd1f-4470-91e5-3b3ee6ca8f33"
 ---

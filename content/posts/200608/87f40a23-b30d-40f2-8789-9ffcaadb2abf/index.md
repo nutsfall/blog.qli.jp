@@ -1,9 +1,6 @@
 ---
 title: check*pad — 安定運用編
-description: ''
-date: '2006-08-21T23:17:21.000Z'
-categories: []
-keywords: []
+date: "2006-08-21T23:17:21.000Z"
 tags: ["checkpad", "gtd"]
 slug: "87f40a23-b30d-40f2-8789-9ffcaadb2abf"
 ---

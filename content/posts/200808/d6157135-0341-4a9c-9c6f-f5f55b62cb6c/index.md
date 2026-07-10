@@ -1,9 +1,6 @@
 ---
 title: TimeMachineから完全復元
-description: ''
-date: '2008-08-09T11:39:57.000Z'
-categories: []
-keywords: []
+date: "2008-08-09T11:39:57.000Z"
 tags: ["time-machine", "macbook"]
 slug: "d6157135-0341-4a9c-9c6f-f5f55b62cb6c"
 ---

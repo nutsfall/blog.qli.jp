@@ -1,9 +1,6 @@
 ---
 title: 映画パレード
-description: ''
-date: '2010-02-20T03:14:15.000Z'
-categories: []
-keywords: []
+date: "2010-02-20T03:14:15.000Z"
 tags: ["film", "parade", "yukisada-isao"]
 slug: "cc2c82a1-9c50-416c-bfae-4e12c98e9c48"
 ---

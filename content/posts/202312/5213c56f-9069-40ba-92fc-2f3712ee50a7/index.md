@@ -1,9 +1,6 @@
 ---
 title: 2023年の個人的ふりかえり 音楽編
-description: ""
 date: "2023-12-23T03:01:42.059Z"
-categories: []
-keywords: []
 tags: ["music"]
 slug: "5213c56f-9069-40ba-92fc-2f3712ee50a7"
 cover:

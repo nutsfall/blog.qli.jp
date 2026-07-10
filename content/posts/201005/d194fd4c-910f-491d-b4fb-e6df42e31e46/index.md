@@ -1,9 +1,6 @@
 ---
 title: ミスチルファンサイト リニューアル
-description: ''
-date: '2010-05-22T08:41:45.000Z'
-categories: []
-keywords: []
+date: "2010-05-22T08:41:45.000Z"
 tags: ["mr-children", "fan-site"]
 slug: "d194fd4c-910f-491d-b4fb-e6df42e31e46"
 ---

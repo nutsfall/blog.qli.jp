@@ -1,9 +1,6 @@
 ---
 title: Mac OS X 10.5 Leopardが正式に発表されました！
-description: ''
-date: '2007-10-16T22:27:42.000Z'
-categories: []
-keywords: []
+date: "2007-10-16T22:27:42.000Z"
 tags: ["macos", "leopard"]
 slug: "c07a6203-099c-4939-ab1f-77eb4fe2fadb"
 ---

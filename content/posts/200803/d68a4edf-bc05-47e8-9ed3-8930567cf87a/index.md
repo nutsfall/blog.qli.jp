@@ -1,9 +1,6 @@
 ---
 title: Safari3.1でGmailが不調なことがあるらしい
-description: ''
-date: '2008-03-24T23:55:55.000Z'
-categories: []
-keywords: []
+date: "2008-03-24T23:55:55.000Z"
 tags: ["safari", "gmail"]
 slug: "d68a4edf-bc05-47e8-9ed3-8930567cf87a"
 ---

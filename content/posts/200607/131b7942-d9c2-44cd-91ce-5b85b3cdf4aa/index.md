@@ -1,9 +1,6 @@
 ---
 title: Gmailって２つ持つと面倒じゃない？
-description: ''
-date: '2006-07-29T00:05:57.000Z'
-categories: []
-keywords: []
+date: "2006-07-29T00:05:57.000Z"
 tags: ["gmail", "email-management"]
 slug: "131b7942-d9c2-44cd-91ce-5b85b3cdf4aa"
 ---
@@ -15,7 +12,7 @@ slug: "131b7942-d9c2-44cd-91ce-5b85b3cdf4aa"
 
 一番やっかいなのはきっと年額10000円もしちゃう.macだ。IMAPの利点はやっぱりすばらしい。でも、きっと.macメールを使わないようにして選択肢をなくしちゃう方がすっきりするような気もしている。ちなみにGmailと.macというキーワードで以下のようなエントリーがある。
 
-リンク: [.MacとGmailによる情報管理術。 — Speed Feed \[ITmedia オルタナティブ・ブログ\]](http://blogs.itmedia.co.jp/speedfeed/2005/09/macgmail_5fc5.html ".MacとGmailによる情報管理術。 - Speed Feed [ITmedia オルタナティブ・ブログ]").
+リンク: [.MacとGmailによる情報管理術。 — Speed Feed [ITmedia オルタナティブ・ブログ]](http://blogs.itmedia.co.jp/speedfeed/2005/09/macgmail_5fc5.html ".MacとGmailによる情報管理術。 - Speed Feed [ITmedia オルタナティブ・ブログ]").
 
 > こういう軽い情報の交換というのがこれまでは非常に難しかったのだが、Blog、そして(RSS/Atom) Feedが普及し始めたことによって、ようやくこの”なんとなく”伝えたい情報を手間もコストもかけずに伝達することが容易になった。まあ、個人情報に関わることは、まだBlogに直に書くには気が引けるが、それ以外のことであればBlogに書いておけば”なんとかなく”僕を知る人は読んでいてくれる。
 

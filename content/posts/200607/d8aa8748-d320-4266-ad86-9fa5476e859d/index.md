@@ -1,9 +1,6 @@
 ---
 title: メイリオを入れてみた
-description: ''
-date: '2006-07-28T13:44:17.000Z'
-categories: []
-keywords: []
+date: "2006-07-28T13:44:17.000Z"
 tags: ["meiryo", "cleartype"]
 slug: "d8aa8748-d320-4266-ad86-9fa5476e859d"
 ---

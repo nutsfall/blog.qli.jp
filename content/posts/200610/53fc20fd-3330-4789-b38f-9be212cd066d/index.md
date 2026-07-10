@@ -1,9 +1,6 @@
 ---
 title: ".Mac ウェブメールが新しくなりました"
-description: ''
-date: '2006-10-27T11:21:15.000Z'
-categories: []
-keywords: []
+date: "2006-10-27T11:21:15.000Z"
 tags: ["apple", "dotmac", "webmail"]
 slug: "53fc20fd-3330-4789-b38f-9be212cd066d"
 ---

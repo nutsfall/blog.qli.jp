@@ -1,9 +1,6 @@
 ---
 title: Eye-fiからgoogle+へ転送
-description: ''
-date: '2012-08-21T21:55:25.000Z'
-categories: []
-keywords: []
+date: "2012-08-21T21:55:25.000Z"
 tags: ["eye-fi", "google-plus", "iphone"]
 slug: "b27b39af-6cff-4f3c-84ca-ebaff0f93dce"
 ---

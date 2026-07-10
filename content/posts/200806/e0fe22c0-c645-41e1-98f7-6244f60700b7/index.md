@@ -1,9 +1,6 @@
 ---
 title: モバイルライフ × iPhone
-description: ''
-date: '2008-06-23T21:52:14.000Z'
-categories: []
-keywords: []
+date: "2008-06-23T21:52:14.000Z"
 tags: ["iphone", "mobile-carriers"]
 slug: "e0fe22c0-c645-41e1-98f7-6244f60700b7"
 ---

@@ -1,9 +1,6 @@
 ---
 title: LeopardによってAppleがどこまで攻めに転じるか
-description: ''
-date: '2007-10-18T23:39:13.000Z'
-categories: []
-keywords: []
+date: "2007-10-18T23:39:13.000Z"
 tags: ["apple", "mac-os-x", "iphone"]
 slug: "6f53059a-6d11-45fb-b206-c4ac8077c3cf"
 ---

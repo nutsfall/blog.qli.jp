@@ -1,9 +1,6 @@
 ---
 title: 映画 ポテチ
-description: ''
-date: '2012-05-20T00:21:07.000Z'
-categories: []
-keywords: []
+date: "2012-05-20T00:21:07.000Z"
 tags: ["potechi", "film"]
 slug: "aa58c4fe-6c68-441b-bdf9-124acb4d5ad9"
 ---

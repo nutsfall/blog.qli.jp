@@ -1,9 +1,6 @@
 ---
 title: 新しいMobileMe Mailの登場です
-description: ''
-date: '2010-05-14T08:23:19.000Z'
-categories: []
-keywords: []
+date: "2010-05-14T08:23:19.000Z"
 tags: ["mobileme", "apple"]
 slug: "73811c98-29d2-4e6a-9b52-cb48171a7cf6"
 ---

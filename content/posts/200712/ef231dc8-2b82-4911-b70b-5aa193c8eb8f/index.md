@@ -1,9 +1,6 @@
 ---
 title: 2007年の音楽を振り返る
-description: ''
-date: '2007-12-24T23:56:11.000Z'
-categories: []
-keywords: []
+date: "2007-12-24T23:56:11.000Z"
 tags: ["music", "itunes", "album-review"]
 slug: "ef231dc8-2b82-4911-b70b-5aa193c8eb8f"
 ---

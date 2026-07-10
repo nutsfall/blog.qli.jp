@@ -1,9 +1,6 @@
 ---
 title: Firefox3 がギネスに挑戦！
-description: ''
-date: '2008-06-04T09:41:23.000Z'
-categories: []
-keywords: []
+date: "2008-06-04T09:41:23.000Z"
 tags: ["firefox"]
 slug: "611b53ab-872b-48c1-b6a2-8236ee694f4d"
 ---

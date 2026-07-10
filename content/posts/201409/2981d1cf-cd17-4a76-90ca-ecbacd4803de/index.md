@@ -1,9 +1,6 @@
 ---
 title: Cookoo2 watchを使ってみた
-description: ''
-date: '2014-09-14T23:44:51.000Z'
-categories: []
-keywords: []
+date: "2014-09-14T23:44:51.000Z"
 tags: ["cookoo2", "smartwatch"]
 slug: "2981d1cf-cd17-4a76-90ca-ecbacd4803de"
 ---
@@ -11,7 +8,7 @@ iPhone 6/6 Plusの予約祭りだったり、Apple Watchが注目を浴びたり
 
 Cookoo2 Watchは、KickStarterによって作られたCookoo Watch(2012年)の次世代モデル。メーカー Connectedivece では、Cookoo → Cogito → Cookoo2 と3つめのモデルになります。
 
-#### Cookoo をブラッシュアップ
+## Cookoo をブラッシュアップ
 
 Cookoo Watchは、iPhoneとともに動作するように作られていたけれども、他のアプリの挙動をHookするという仕組みにせざるを得なかったせいか、あまり作りもよくなかったし、iPhoneのバッテリーに与える影響もとても大きなモノでした。
 
@@ -19,6 +16,6 @@ Cookoo2 Watchは通知をHookする仕組みになっているようで、iPhone
 
 また、ペアリングに関してもCookoo watchは、アプリを介してペアリングしていたのですが、Cookoo2 watchはiPhoneの通常のBluetoothペアリングをすると使えるというのは、とてもわかりやすいものになったと思えます。
 
-#### スポーツモデルとアーバンモデル
+## スポーツモデルとアーバンモデル
 
 Apple Watchが３つのモデルになったことは知られていますが、Cookoo2 watchは２つのモデルになりました。文字盤とバンドが替わるだけですが、自分の好みのスタイルを選ぶことができるのは ずっとファッションアイテムとしての時計にこだわってきたという姿勢がうかがえます。

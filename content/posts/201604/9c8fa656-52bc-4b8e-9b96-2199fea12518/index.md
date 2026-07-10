@@ -1,9 +1,6 @@
 ---
 title: iPadのSmart Coverは少し変化した
-description: ''
-date: '2016-04-09T02:09:30.000Z'
-categories: []
-keywords: []
+date: "2016-04-09T02:09:30.000Z"
 tags: ["ipad", "apple"]
 slug: "9c8fa656-52bc-4b8e-9b96-2199fea12518"
 ---

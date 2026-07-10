@@ -1,13 +1,10 @@
 ---
 title: salyuさんの2枚のシングルの発売が発表されました
-description: ''
-date: '2007-08-30T23:50:20.000Z'
-categories: []
-keywords: []
+date: "2007-08-30T23:50:20.000Z"
 tags: ["salyu", "music"]
 slug: "3c9dfefd-349e-4d79-bd0d-2e0541bff4c9"
 ---
-突然ですが、\[音楽\]oorong-sha関連ニュースを。
+突然ですが、[音楽]oorong-sha関連ニュースを。
 
 10月17日 LIBERTY、11月28日 iris -しあわせの箱- がリリースされるそうです。これにあわせて公式サイトである salyu.jp もリニューアルするそうです。プロデューサはこれまでの小林さんに代わり、渡辺善太郎さんが行われるとのこと。
 

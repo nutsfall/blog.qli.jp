@@ -1,23 +1,12 @@
 ---
 title: エンジニアのための時間管理術を読んだ
-description: ''
-date: '2007-03-10T23:40:12.000Z'
-categories: []
-keywords: []
+date: "2007-03-10T23:40:12.000Z"
 tags: ["book-review", "time-management", "gtd"]
 slug: "931b125f-1592-4fe5-96bd-49df594f517c"
 ---
 いろいろ書きたいことはあるのですが、まずはここから。
 
-[エンジニアのための時間管理術](http://www.amazon.co.jp/exec/obidos/ASIN/4873113075/mrchildrenonl-22/ref=nosim "エンジニアのための時間管理術")
-
-*   発売元: オライリー・ジャパン
-*   価格: ￥ 2,415
-*   発売日: 2006/10/19
-*   売上ランキング： 35503
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/03/10
+[エンジニアのための時間管理術](https://www.amazon.co.jp/dp/4873113075)
 
 IT系のエンジニアには有名なオーライリーの動物絵表紙の本。今回は仕事管理術を読んでみました。とはいえ、実際そのほかのオーライリーはあまり読んだことはありません。
 

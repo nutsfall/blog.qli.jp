@@ -1,9 +1,6 @@
 ---
 title: 11月の下北沢2ライブ
-description: ''
-date: '2011-11-27T00:08:18.000Z'
-categories: []
-keywords: []
+date: "2011-11-27T00:08:18.000Z"
 tags: ["live-music", "shimokitazawa"]
 slug: "a57bdcfe-e0b2-4dde-95c7-e9afcf93da17"
 ---

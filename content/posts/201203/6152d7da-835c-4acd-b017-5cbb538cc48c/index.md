@@ -1,9 +1,6 @@
 ---
 title: PosterousがTwitterに買収される
-description: ''
-date: '2012-03-14T23:43:41.000Z'
-categories: []
-keywords: []
+date: "2012-03-14T23:43:41.000Z"
 tags: ["posterous", "twitter"]
 slug: "6152d7da-835c-4acd-b017-5cbb538cc48c"
 ---

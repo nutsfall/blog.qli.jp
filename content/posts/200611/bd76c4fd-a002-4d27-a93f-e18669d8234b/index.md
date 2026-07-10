@@ -1,15 +1,12 @@
 ---
 title: myloで無線LANに接続する
-description: ''
-date: '2006-11-08T22:38:08.000Z'
-categories: []
-keywords: []
+date: "2006-11-08T22:38:08.000Z"
 tags: ["sony-mylo", "wi-fi"]
 slug: "bd76c4fd-a002-4d27-a93f-e18669d8234b"
 ---
 myloブログでWi-Fi機能について説明がありました。
 
-リンク: [So-net blog:平日更新 日刊“mylo”:ワイヤレスLAN接続についてあれこれ](http://blog.so-net.ne.jp/mylo/2006-11-08 "So-net blog:平日更新 日刊“mylo”:ワイヤレスLAN接続についてあれこれ").
+[So-net blog:平日更新 日刊“mylo”:ワイヤレスLAN接続についてあれこれ](http://blog.so-net.ne.jp/mylo/2006-11-08)
 
 > ということで、“mylo”のワイヤレスLAN機能について、ご覧いただきましょう。
 

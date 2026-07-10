@@ -1,14 +1,9 @@
 ---
 title: コメントを管理
-description: ""
 date: "2006-09-10T17:25:09.000Z"
-categories: []
-keywords: []
 tags: ["blogging", "cocomment"]
 slug: "14aeb202-1c4e-4b70-b346-b131258d8e08"
 ---
-
-![]()
 
 テクノラティで適当に検索したりして、いろんなブログに本当に記事単位でおじゃまさせていただくことがあるのですが、一番困るのが「どこにコメントしたかわかんなくなっちゃう」ってことですよね。今までは「[あとで読む](http://atode.cc/)」とか、[feedpath](http://feedpath.jp/)のアーカイブ機能を使って、クリッピングしてました。先日コメントいただいた[@aka さんのブログ](http://at-aka.blogspot.com/)にいったら[cocomment](http://www.cocomment.com/)というサービスを利用されていたので、利用してみました。
 

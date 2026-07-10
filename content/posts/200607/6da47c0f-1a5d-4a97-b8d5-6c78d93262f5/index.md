@@ -1,15 +1,12 @@
 ---
-title: 'Six Apart — TypePad news: サーバーメンテナンスのお知らせ（7月13日）'
-description: ''
-date: '2006-07-10T14:57:04.000Z'
-categories: []
-keywords: []
+title: "Six Apart — TypePad news: サーバーメンテナンスのお知らせ（7月13日）"
+date: "2006-07-10T14:57:04.000Z"
 tags: ["typepad"]
 slug: "6da47c0f-1a5d-4a97-b8d5-6c78d93262f5"
 ---
 このブログは独自ドメインをマッピングしているので分かりづらいですが、Typepadです。(テンプレートとかで分かると思いますが)
 
-リンク: [Six Apart — TypePad news: サーバーメンテナンスのお知らせ（7月13日）](http://www.sixapart.jp/typepad/news/2006/07/009079.html "Six Apart - TypePad news: サーバーメンテナンスのお知らせ（7月13日）").
+[Six Apart — TypePad news: サーバーメンテナンスのお知らせ（7月13日）](http://www.sixapart.jp/typepad/news/2006/07/009079.html)
 
 > 以下の日時にメンテナンスを行ないます。
 

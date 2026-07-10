@@ -1,9 +1,6 @@
 ---
 title: 100万人のキャンドルナイトが始まります
-description: ''
-date: '2008-06-21T06:38:48.000Z'
-categories: []
-keywords: []
+date: "2008-06-21T06:38:48.000Z"
 tags: ["candle-night", "environment"]
 slug: "fd37b9d0-96e5-42ed-a6dc-e82c250460e8"
 ---

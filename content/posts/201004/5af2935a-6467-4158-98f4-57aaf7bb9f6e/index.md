@@ -1,9 +1,6 @@
 ---
 title: なぜGTDを続けるか
-description: ''
-date: '2010-04-15T08:35:10.000Z'
-categories: []
-keywords: []
+date: "2010-04-15T08:35:10.000Z"
 tags: ["gtd", "productivity"]
 slug: "5af2935a-6467-4158-98f4-57aaf7bb9f6e"
 ---
@@ -21,4 +18,4 @@ slug: "5af2935a-6467-4158-98f4-57aaf7bb9f6e"
 
 という感じで、もしこういうスタイルが気に入ったのであれば、田口さんが監訳されたGTDの最初の本を読んでみるといいかもしれないですね。もちろん、Twitterとかで連絡もらえればできるかぎりのサポートはしますよ。
 
-[はじめてのGTD ストレスフリーの整理術](http://www.amazon.co.jp/gp/product/4576082116?tag=qli-22&linkCode=as1)
+[はじめてのGTD ストレスフリーの整理術](https://www.amazon.co.jp/dp/4576082116)

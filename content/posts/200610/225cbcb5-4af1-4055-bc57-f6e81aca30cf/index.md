@@ -1,16 +1,13 @@
 ---
 title: rmilkでの複数タスクメール登録法
-description: ''
-date: '2006-10-02T10:11:13.000Z'
-categories: []
-keywords: []
+date: "2006-10-02T10:11:13.000Z"
 tags: ["remember-the-milk", "gtd"]
 slug: "225cbcb5-4af1-4055-bc57-f6e81aca30cf"
 ---
 非常に高機能で使い勝手がいいRemember the milk。僕がcheck\*padに戻った理由の１つに、複数タスクを気軽にメールで入れられないという問題があった。  
 ところが、rmilkには実装されていたらしい。こういう奥が深いところ、rmilkっぽいです。
 
-リンク: [clmemo@aka: Remember the Milk — 複数タスクをメールで登録 — 帰省リストを例に](http://at-aka.blogspot.com/2006/08/remember-milk.html "clmemo@aka: Remember the Milk - 複数タスクをメールで登録 - 帰省リストを例に").
+[clmemo@aka: Remember the Milk — 複数タスクをメールで登録 — 帰省リストを例に](http://at-aka.blogspot.com/2006/08/remember-milk.html)
 
 > オンライン ToDo 管理サービス Remember the Milk は、メールからタスクを追加することができる。今回は、複数のタスクを一通のメールで一括登録する方法をば説明しませう。
 

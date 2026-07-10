@@ -1,9 +1,6 @@
 ---
 title: GTD勉強会 (5.5) に行ってきた
-description: ''
-date: '2008-08-03T01:30:16.000Z'
-categories: []
-keywords: []
+date: "2008-08-03T01:30:16.000Z"
 tags: ["gtd", "lifehacking"]
 slug: "ff04367f-fedd-4749-9434-08489c873a4e"
 ---

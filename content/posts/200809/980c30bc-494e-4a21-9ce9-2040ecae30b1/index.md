@@ -1,9 +1,6 @@
 ---
 title: iTunes8はme.comと連携できない?
-description: ''
-date: '2008-09-29T11:56:36.000Z'
-categories: []
-keywords: []
+date: "2008-09-29T11:56:36.000Z"
 tags: ["itunes", "mobileme", "iphone"]
 slug: "980c30bc-494e-4a21-9ce9-2040ecae30b1"
 ---

@@ -1,9 +1,6 @@
 ---
 title: きゅーり.jp ２周年を記念して
-description: ''
-date: '2008-06-22T13:46:25.000Z'
-categories: []
-keywords: []
+date: "2008-06-22T13:46:25.000Z"
 tags: ["blogging"]
 slug: "fc178be4-dd66-47fe-a740-1d945f0e1122"
 ---

@@ -1,9 +1,6 @@
 ---
 title: VOXからご招待をいただきました
-description: ''
-date: '2006-08-07T21:52:15.000Z'
-categories: []
-keywords: []
+date: "2006-08-07T21:52:15.000Z"
 tags: ["vox", "six-apart", "blogging"]
 slug: "2e41c681-3a9d-4479-8b23-28436246869b"
 ---

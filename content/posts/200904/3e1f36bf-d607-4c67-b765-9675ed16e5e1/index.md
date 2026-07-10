@@ -1,9 +1,6 @@
 ---
 title: Poken 買いました
-description: ''
-date: '2009-04-17T08:27:42.000Z'
-categories: []
-keywords: []
+date: "2009-04-17T08:27:42.000Z"
 tags: ["poken"]
 slug: "3e1f36bf-d607-4c67-b765-9675ed16e5e1"
 ---

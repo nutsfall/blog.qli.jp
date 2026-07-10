@@ -1,18 +1,15 @@
 ---
 title: きっかけ
 description: あなたが好きなものは何ですか？そして、それを好きになったきっかけは何でしょう？
-date: '2022-03-05T04:35:54.215Z'
-categories: []
-keywords: []
+date: "2022-03-05T04:35:54.215Z"
 tags: ["japan-soccer", "dazn", "world-cup"]
 slug: "27adf5ad-c9b3-4f25-b710-f83c4edc5eba"
+cover:
+  image: "1__8Swt4EUfNC6rJI8i3MFIgA.jpeg"
 ---
-![](1__8Swt4EUfNC6rJI8i3MFIgA.jpeg)
-
 3月24日に、アジア最終予選としてオーストラリアと日本の試合が行われる。かねてより、DAZNのみで中継されることが決まっていたのだが、改めてDAZN側から独占配信を宣言する事態となった。
 
-[**DAZNがW杯最終予選オーストラリア代表戦の独占配信を改めて発表 | サッカーキング**  
-_10月のオーストラリア戦で円陣を組む日本代表 \[写真\]=Getty Images…_www.soccer-king.jp](https://www.soccer-king.jp/news/japan/national/20220228/1625159.html "https://www.soccer-king.jp/news/japan/national/20220228/1625159.html")[](https://www.soccer-king.jp/news/japan/national/20220228/1625159.html)
+[DAZNがW杯最終予選オーストラリア代表戦の独占配信を改めて発表 | サッカーキング](https://www.soccer-king.jp/news/japan/national/20220228/1625159.html)
 
 これが出た背景には、日本サッカー協会(JFA)からサブライセンス提供を地上波にできないかという提案があったということらしい。なぜJFAが地上波にこだわるのか。
 

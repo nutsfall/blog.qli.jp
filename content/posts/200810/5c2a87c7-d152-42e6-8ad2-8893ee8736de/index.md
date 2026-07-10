@@ -1,9 +1,6 @@
 ---
 title: あなたの使いたいMacbookはどれですか？
-description: ''
-date: '2008-10-15T20:54:05.000Z'
-categories: []
-keywords: []
+date: "2008-10-15T20:54:05.000Z"
 tags: ["macbook", "macbook-air", "apple"]
 slug: "5c2a87c7-d152-42e6-8ad2-8893ee8736de"
 ---

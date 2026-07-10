@@ -1,9 +1,6 @@
 ---
 title: Typepadを使っているわけ
-description: ''
-date: '2009-01-05T23:52:28.000Z'
-categories: []
-keywords: []
+date: "2009-01-05T23:52:28.000Z"
 tags: ["typepad", "blogging"]
 slug: "41cd5c48-296d-4a01-927d-c9adc9ffd557"
 ---

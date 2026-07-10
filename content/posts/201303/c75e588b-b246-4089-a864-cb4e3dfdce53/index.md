@@ -1,9 +1,6 @@
 ---
 title: 新しい「アジャイル」の風
-description: ''
-date: '2013-03-29T00:58:02.000Z'
-categories: []
-keywords: []
+date: "2013-03-29T00:58:02.000Z"
 tags: ["agile", "scrum", "software-development"]
 slug: "c75e588b-b246-4089-a864-cb4e3dfdce53"
 ---

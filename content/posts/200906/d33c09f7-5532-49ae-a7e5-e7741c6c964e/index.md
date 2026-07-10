@@ -1,9 +1,6 @@
 ---
 title: WWDC09 Keynote
-description: ''
-date: '2009-06-09T07:40:12.000Z'
-categories: []
-keywords: []
+date: "2009-06-09T07:40:12.000Z"
 tags: ["wwdc", "apple", "snow-leopard"]
 slug: "d33c09f7-5532-49ae-a7e5-e7741c6c964e"
 ---

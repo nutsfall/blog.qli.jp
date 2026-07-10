@@ -1,9 +1,6 @@
 ---
 title: Freitag LEO F76
-description: ''
-date: '2010-02-05T20:56:25.000Z'
-categories: []
-keywords: []
+date: "2010-02-05T20:56:25.000Z"
 tags: ["freitag", "personal-import", "bag"]
 slug: "ce67629d-e65a-42aa-966b-608af5e4dc1a"
 ---

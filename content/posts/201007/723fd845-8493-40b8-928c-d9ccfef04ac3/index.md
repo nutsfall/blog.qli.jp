@@ -1,9 +1,6 @@
 ---
-title: 'WDE-ex #wdx Vol.11 “iPad のウェブデザイン：私たちがみつけたこと”'
-description: ''
-date: '2010-07-22T08:33:31.000Z'
-categories: []
-keywords: []
+title: "WDE-ex #wdx Vol.11 “iPad のウェブデザイン：私たちがみつけたこと”"
+date: "2010-07-22T08:33:31.000Z"
 tags: ["ipad", "web-design", "apple"]
 slug: "723fd845-8493-40b8-928c-d9ccfef04ac3"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 記事のカテゴリを再分類中
-description: ''
-date: '2006-12-14T00:48:55.000Z'
-categories: []
-keywords: []
+date: "2006-12-14T00:48:55.000Z"
 tags: ["blogging"]
 slug: "00047ddf-799a-4887-b30c-5a7b98806e99"
 ---

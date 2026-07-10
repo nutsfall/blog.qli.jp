@@ -1,9 +1,6 @@
 ---
 title: 日記アプリ、探求の旅
-description: ''
-date: '2009-07-05T23:04:14.000Z'
-categories: []
-keywords: []
+date: "2009-07-05T23:04:14.000Z"
 tags: ["gtd", "journaling-apps"]
 slug: "3322d146-506a-4a0b-bd53-a772298c78d0"
 ---

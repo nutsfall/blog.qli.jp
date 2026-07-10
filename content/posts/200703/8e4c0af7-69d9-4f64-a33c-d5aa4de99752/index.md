@@ -1,9 +1,6 @@
 ---
 title: 米国向けネットワークに障害？
-description: ''
-date: '2007-03-12T16:04:46.000Z'
-categories: []
-keywords: []
+date: "2007-03-12T16:04:46.000Z"
 tags: ["network-outage", "kddi"]
 slug: "8e4c0af7-69d9-4f64-a33c-d5aa4de99752"
 ---

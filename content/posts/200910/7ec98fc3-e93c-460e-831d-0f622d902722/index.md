@@ -1,9 +1,6 @@
 ---
 title: カスタマーサポートであるとうれしいこと
-description: ''
-date: '2009-10-06T08:33:57.000Z'
-categories: []
-keywords: []
+date: "2009-10-06T08:33:57.000Z"
 tags: ["customer-support"]
 slug: "7ec98fc3-e93c-460e-831d-0f622d902722"
 ---

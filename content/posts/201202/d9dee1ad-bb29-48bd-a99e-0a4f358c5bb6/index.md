@@ -1,9 +1,6 @@
 ---
 title: すこしずつ
-description: ''
-date: '2012-02-03T22:17:47.000Z'
-categories: []
-keywords: []
+date: "2012-02-03T22:17:47.000Z"
 tags: ["agile", "scrum"]
 slug: "d9dee1ad-bb29-48bd-a99e-0a4f358c5bb6"
 ---

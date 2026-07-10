@@ -1,9 +1,6 @@
 ---
 title: Apple恒例秋祭りがもうすぐ
-description: ''
-date: '2012-09-08T09:03:24.000Z'
-categories: []
-keywords: []
+date: "2012-09-08T09:03:24.000Z"
 tags: ["apple", "iphone", "ios"]
 slug: "89d05d54-9c49-4dbb-a640-70218845bc6a"
 ---

@@ -1,16 +1,12 @@
 ---
 title: 冬のための暑い準備
-description: 偏西風に乗らずに消えてしまった台風の後に、北に待機してた秋の空気が南下してきて、やっと夜が涼しくなりました。ウェザーニュースライブの動画をチラチラみてると、そんな気象のことに詳しくなったりもします。
-date: '2024-09-07T11:31:38.176Z'
-categories: []
-keywords: []
+date: "2024-09-07T11:31:38.176Z"
 tags: ["apple", "ios18", "omnifocus"]
 slug: "010a51c7-cc9b-442d-adbf-9e82cf01741c"
 ---
 偏西風に乗らずに消えてしまった台風の後に、北に待機してた秋の空気が南下してきて、やっと夜が涼しくなりました。ウェザーニュースライブの動画をチラチラみてると、そんな気象のことに詳しくなったりもします。
 
-[**ウェザーニュース**  
-_ウェザーニュースでは、みなさんの参加によって天気予報をつくっています。 天気の実況値は、どんな観測器よりも人間の感覚（センサー）が優れています。 その情報をウェザーリポートという形で送っていただき、随時、天気予報に反映させています。…_www.youtube.com](https://www.youtube.com/@weathernews/videos "https://www.youtube.com/@weathernews/videos")[](https://www.youtube.com/@weathernews/videos)
+[ウェザーニュース](https://www.youtube.com/@weathernews/videos)
 
 昼間に感じる空気感が、iPhoneを買うためにApple Storeに並んだときの感覚を思い出します。もうそんな季節ですね。
 

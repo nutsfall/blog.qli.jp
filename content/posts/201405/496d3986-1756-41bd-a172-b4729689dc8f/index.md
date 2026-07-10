@@ -1,9 +1,6 @@
 ---
 title: The anniversary of music
-description: ''
-date: '2014-05-10T17:10:33.000Z'
-categories: []
-keywords: []
+date: "2014-05-10T17:10:33.000Z"
 tags: ["mr-children", "music"]
 slug: "496d3986-1756-41bd-a172-b4729689dc8f"
 ---

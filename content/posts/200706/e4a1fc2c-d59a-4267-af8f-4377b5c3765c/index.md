@@ -1,9 +1,6 @@
 ---
 title: あとはiMacを残すのみ
-description: ''
-date: '2007-06-09T08:21:26.000Z'
-categories: []
-keywords: []
+date: "2007-06-09T08:21:26.000Z"
 tags: ["apple", "imac", "mac"]
 slug: "e4a1fc2c-d59a-4267-af8f-4377b5c3765c"
 ---

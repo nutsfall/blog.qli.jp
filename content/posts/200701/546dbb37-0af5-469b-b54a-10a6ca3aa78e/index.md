@@ -1,9 +1,6 @@
 ---
 title: Vistaの日
-description: ''
-date: '2007-01-30T12:25:21.000Z'
-categories: []
-keywords: []
+date: "2007-01-30T12:25:21.000Z"
 tags: ["windows-vista", "firefox"]
 slug: "546dbb37-0af5-469b-b54a-10a6ca3aa78e"
 ---

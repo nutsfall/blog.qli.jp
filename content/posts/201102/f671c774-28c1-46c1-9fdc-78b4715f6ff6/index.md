@@ -1,9 +1,6 @@
 ---
 title: Twitter 4周年を迎えました
-description: ''
-date: '2011-02-22T21:58:15.000Z'
-categories: []
-keywords: []
+date: "2011-02-22T21:58:15.000Z"
 tags: ["twitter"]
 slug: "f671c774-28c1-46c1-9fdc-78b4715f6ff6"
 ---

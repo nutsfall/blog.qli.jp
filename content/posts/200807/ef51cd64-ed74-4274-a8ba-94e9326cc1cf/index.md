@@ -1,9 +1,6 @@
 ---
 title: MobileMeは静かにスタートした
-description: ''
-date: '2008-07-16T09:49:11.000Z'
-categories: []
-keywords: []
+date: "2008-07-16T09:49:11.000Z"
 tags: ["mobileme", "apple", "iphone"]
 slug: "ef51cd64-ed74-4274-a8ba-94e9326cc1cf"
 ---

@@ -1,15 +1,12 @@
 ---
 title: 捨てられた情報たち
-description: ''
-date: '2006-09-25T09:52:43.000Z'
-categories: []
-keywords: []
+date: "2006-09-25T09:52:43.000Z"
 tags: ["audio", "digital-analog"]
 slug: "ac2bd088-1a0a-435c-becb-1e01320ed664"
 ---
 久々に面白い記事を見つけたので紹介。（こういうのが web logというのかな)
 
-リンク: [山田祥平のRe:config.sysc(脱ビットレート)](http://pc.watch.impress.co.jp/docs/2006/0922/config124.htm "山田祥平のRe:config.sys").
+[山田祥平のRe:config.sysc(脱ビットレート)](http://pc.watch.impress.co.jp/docs/2006/0922/config124.htm)
 
 > 可逆、非可逆以前の問題として、そもそも、サンプリングによるデジタル化という行為そのものが、オリジナルを冒涜しているのではないかという考え方もある。広い帯域を持つ音声を、たかだか44.1kHz程度のレートで切り刻んでいいものなのか。広いダイナミックレンジと複雑な空間周波数で成立している自然界の光を1,000万画素程度で表現できるはずがないということだ。
 

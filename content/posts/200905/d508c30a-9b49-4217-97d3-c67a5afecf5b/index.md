@@ -1,9 +1,6 @@
 ---
-title: 'ウルトラC :: ナオト・インティライミ'
-description: ''
-date: '2009-05-19T21:58:17.000Z'
-categories: []
-keywords: []
+title: "ウルトラC :: ナオト・インティライミ"
+date: "2009-05-19T21:58:17.000Z"
 tags: ["naoto-intiraymi", "music-review", "green-day"]
 slug: "d508c30a-9b49-4217-97d3-c67a5afecf5b"
 ---

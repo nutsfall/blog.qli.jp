@@ -1,9 +1,6 @@
 ---
 title: Things 1.3 がリリース
-description: ''
-date: '2010-03-14T11:04:50.000Z'
-categories: []
-keywords: []
+date: "2010-03-14T11:04:50.000Z"
 tags: ["things", "productivity", "gtd"]
 slug: "776e09c4-2046-4831-b7af-df3f433008db"
 ---

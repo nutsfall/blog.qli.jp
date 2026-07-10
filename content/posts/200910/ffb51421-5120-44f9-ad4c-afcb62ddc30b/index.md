@@ -1,9 +1,6 @@
 ---
 title: クラウドによるランニングコスト
-description: ''
-date: '2009-10-15T06:11:15.000Z'
-categories: []
-keywords: []
+date: "2009-10-15T06:11:15.000Z"
 tags: ["cloud-computing", "sustainability"]
 slug: "ffb51421-5120-44f9-ad4c-afcb62ddc30b"
 ---

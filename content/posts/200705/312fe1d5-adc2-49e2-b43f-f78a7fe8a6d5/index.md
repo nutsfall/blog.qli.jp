@@ -1,9 +1,6 @@
 ---
 title: Oorong Records!
-description: ''
-date: '2007-05-30T19:38:02.000Z'
-categories: []
-keywords: []
+date: "2007-05-30T19:38:02.000Z"
 tags: ["oorong-records", "music-industry"]
 slug: "312fe1d5-adc2-49e2-b43f-f78a7fe8a6d5"
 ---

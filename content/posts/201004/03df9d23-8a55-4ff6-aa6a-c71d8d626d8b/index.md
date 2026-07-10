@@ -1,9 +1,6 @@
 ---
 title: IS01を見てきた
-description: ''
-date: '2010-04-18T21:45:49.000Z'
-categories: []
-keywords: []
+date: "2010-04-18T21:45:49.000Z"
 tags: ["android", "au"]
 slug: "03df9d23-8a55-4ff6-aa6a-c71d8d626d8b"
 ---

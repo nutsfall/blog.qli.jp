@@ -1,9 +1,6 @@
 ---
 title: GTD-PHPを入れてみた…けど
-description: ''
-date: '2007-06-26T14:15:12.000Z'
-categories: []
-keywords: []
+date: "2007-06-26T14:15:12.000Z"
 tags: ["gtd", "task-management"]
 slug: "a3e48547-e374-4f3c-8286-b3f817e9568b"
 ---

@@ -1,15 +1,12 @@
 ---
 title: Skype Pro 発表
-description: ''
-date: '2007-02-20T23:34:55.000Z'
-categories: []
-keywords: []
+date: "2007-02-20T23:34:55.000Z"
 tags: ["skype"]
 slug: "80fe65db-d6f4-4a8b-8c9c-236cceeac807"
 ---
 かねてよりSkypeで検討されていたSkype 定額プランであるSkype Proがヨーロッパ向けのみですが発表されました。日本では、日本独自の状況などをみて追って発表されるのではないかと思います。(たぶん)
 
-リンク: [Skype Pro launches today — Skype Blogs](http://share.skype.com/sites/en/2007/02/skype_pro_launches_today.html "Skype Pro launches today - Skype Blogs").
+[Skype Pro launches today — Skype Blogs](http://share.skype.com/sites/en/2007/02/skype_pro_launches_today.html)
 
 > Good news for European Skype users — from today, you can choose to pay a low monthly subscription of €2 and make zero cents per minute calls to domestic landlines in 15 countries in Europe.
 

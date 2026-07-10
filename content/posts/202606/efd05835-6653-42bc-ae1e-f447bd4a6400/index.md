@@ -5,10 +5,9 @@ slug: "efd05835-6653-42bc-ae1e-f447bd4a6400"
 source: "medium"
 original_url: "https://medium.com/@hiro/wwdc26%E3%82%92%E3%81%86%E3%81%91%E3%81%A6-ai%E3%81%AE%E3%81%93%E3%81%A8%E3%82%92%E8%80%83%E3%81%88%E3%81%9F-9bb8c09ca893?source=rss-21bfda6f823e------2"
 tags: ["wwdc", "apple-intelligence", "ai-development"]
-draft: false
 ---
 
-#### 「生成AIはチャットで話しかけるもの」という空気が、開発の現場の外にはまだある気がする。その正体を言葉にしてみたくなった。
+## 「生成AIはチャットで話しかけるもの」という空気が、開発の現場の外にはまだある気がする。その正体を言葉にしてみたくなった。
 
 WWDC26が開催され、iOS 27、macOS 27、iPadOS 27など — — まとめて「AnyAppleOS27」と呼びたくなる次のOS群が発表された。例年通り秋にリリースされる予定だ。
 

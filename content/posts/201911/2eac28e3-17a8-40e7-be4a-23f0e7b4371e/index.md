@@ -1,9 +1,7 @@
 ---
 title: AirPods Pro １ヶ月レビュー
 description: AirPods Pro発売から１ヶ月。簡単なレビューをしました。
-date: '2019-11-29T23:01:01.312Z'
-categories: []
-keywords: []
+date: "2019-11-29T23:01:01.312Z"
 tags: ["airpods-pro", "review"]
 slug: "2eac28e3-17a8-40e7-be4a-23f0e7b4371e"
 ---

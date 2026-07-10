@@ -1,9 +1,6 @@
 ---
 title: 東京大停電
-description: ''
-date: '2006-08-14T22:52:50.000Z'
-categories: []
-keywords: []
+date: "2006-08-14T22:52:50.000Z"
 tags: ["tokyo", "infrastructure", "yurikamome"]
 slug: "ad0dc8e5-5c76-4213-bc84-5ba3a5f4ab3b"
 ---

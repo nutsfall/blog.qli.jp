@@ -1,16 +1,13 @@
 ---
 title: mac nanoって何？
-description: ''
-date: '2007-10-09T13:35:34.000Z'
-categories: []
-keywords: []
+date: "2007-10-09T13:35:34.000Z"
 tags: ["apple", "mac-mini"]
 slug: "90737c24-adf3-475e-bcb2-5cd5e120d281"
 ---
 最近、CNETが積極的にAppleのウワササイトからの引用記事を出していて、CNETから記事を買っている読売新聞WEBサイトにまでそのウワサが伝わっていくという、ちょっと考えた方がいいんじゃないの？という光景が見られたりしますが、  
 そのCNETが、最近急激に名前が売れ始めたMac OS Rumorsからの引用記事として、mac mini → mac nanoのリプレスを報じています。
 
-リンク: [アップル、新小型PC「Mac nano」を年内発表とのうわさ — 米報道:ニュース — CNET Japan](http://japan.cnet.com/news/tech/story/0,2000056025,20358222,00.htm "アップル、新小型PC「Mac nano」を年内発表とのうわさ--米報道:ニュース - CNET Japan").
+[アップル、新小型PC「Mac nano」を年内発表とのうわさ — 米報道:ニュース — CNET Japan](http://japan.cnet.com/news/tech/story/0,2000056025,20358222,00.htm)
 
 > 記事によると、「大きさは全体で25％ほど小さくなり、重さは20％ほど軽くなる。発表当時から変わらないMac miniのデザインは、大きく変わることになる」という。
 

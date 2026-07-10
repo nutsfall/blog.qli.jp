@@ -1,13 +1,10 @@
 ---
 title: ナオト・インティライミ モールツアー 最終日
-description: ''
-date: '2010-07-10T18:53:36.000Z'
-categories: []
-keywords: []
+date: "2010-07-10T18:53:36.000Z"
 tags: ["naoto-intiraymi", "live-music"]
 slug: "66a6f2c1-e2e9-4d9d-b885-cfa9fcb563b3"
 ---
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B003K3HBIS](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B003K3HBIS "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B003K3HBIS")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B003K3HBIS](https://www.amazon.co.jp/dp/B003K3HBIS)
 
 ナオト・インティライミといえば、2009年6月27日に赤坂BRITZのワンマンに参加して、彼のハートを鷲づかみにするトークと歌に魅了されてきていて、今回が2回目。モールツアーってことで、ナオトを知らずにただ買い物に来ただけの人もいたわけですが、彼が登場しステージが始まると、ラゾーナ川崎というショッピングモールが野外ホールに変わったような、ここ日比谷公園じゃないよね、って確認したくなるような、そういう光景が広がっていました。
 

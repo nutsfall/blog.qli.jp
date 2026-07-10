@@ -1,9 +1,6 @@
 ---
 title: Google Chromeはどうなった？
-description: ''
-date: '2008-09-17T15:21:46.000Z'
-categories: []
-keywords: []
+date: "2008-09-17T15:21:46.000Z"
 tags: ["google-chrome", "browser", "web-analytics"]
 slug: "a4b8dc34-0690-4bfa-8892-9fb9127a1ed4"
 ---

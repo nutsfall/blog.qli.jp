@@ -1,9 +1,6 @@
 ---
-title: 'BEST SOFTWARE WRITING :: Joel Spolsky'
-description: ''
-date: '2008-03-17T18:42:48.000Z'
-categories: []
-keywords: []
+title: "BEST SOFTWARE WRITING :: Joel Spolsky"
+date: "2008-03-17T18:42:48.000Z"
 tags: ["book-review", "joel-spolsky", "agile"]
 slug: "d655e6ab-7dfd-44e7-b3a2-f982d902bf28"
 ---
@@ -15,10 +12,4 @@ slug: "d655e6ab-7dfd-44e7-b3a2-f982d902bf28"
 
 もちろん、ソフトウェアの世界でも本当に名声の高い人は、２徹3徹でソフトウェアを作り上げたりもしますが。
 
-[BEST SOFTWARE WRITING](http://www.amazon.co.jp/exec/obidos/ASIN/4798115819/qli-22/ref=nosim "BEST SOFTWARE WRITING")
-
-*   発売元: 翔泳社
-*   価格: ￥ 3,129
-*   発売日: 2008/02/21
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/03/17
+[BEST SOFTWARE WRITING](https://www.amazon.co.jp/dp/4798115819)

@@ -1,9 +1,6 @@
 ---
 title: HomePod を2台体制にした話
-description: いろんな条件が重なりHomePodを2台体制にしました。
-date: '2020-04-03T12:31:38.208Z'
-categories: []
-keywords: []
+date: "2020-04-03T12:31:38.208Z"
 tags: ["homepod", "apple"]
 slug: "ae79ca2c-eca2-4836-a749-4c09bb9e916d"
 ---

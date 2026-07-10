@@ -1,9 +1,6 @@
 ---
 title: iPhone OS without Flash
-description: ''
-date: '2010-02-02T09:40:15.000Z'
-categories: []
-keywords: []
+date: "2010-02-02T09:40:15.000Z"
 tags: ["iphone-os", "flash", "apple"]
 slug: "952bfaa4-f426-473e-b41d-a19a6b83b026"
 ---
@@ -13,13 +10,13 @@ iPadの発表で、iPhone OSの次のアップデートであるiPhone OS 3.2 SD
 
 > なんつーか、これもう、Mac OS Xじゃん。レガシーなもの切り捨てた、スマートな理想のMac OS Xじゃん。
 
-> \[From [January 2010 | HMDT Journal](http://hmdt.jp/archives/2010_01.html#2010012804)\]
+> [From [January 2010 | HMDT Journal](http://hmdt.jp/archives/2010_01.html#2010012804)]
 
 なるほどなーと。で、これは翻訳されて出回ったのでかなり有名になっちゃったけど、Jobsさんのこういう発言もある。
 
 > Apple does not support Flash because it is so buggy, he says. Whenever a Mac crashes more often than not it’s because of Flash. No one will be using Flash, he says. The world is moving to HTML5.
 
-> \[From [Steve Jobs at Apple Town Hall Meeting on Google, Adobe, Next iPhone, 2010 Macs and More — Mac Rumors](http://www.macrumors.com/2010/01/31/steve-jobs-at-apple-town-hall-meeting-google-adobe-next-iphone-2010-macs-and-more/)\]
+> [From [Steve Jobs at Apple Town Hall Meeting on Google, Adobe, Next iPhone, 2010 Macs and More — Mac Rumors](http://www.macrumors.com/2010/01/31/steve-jobs-at-apple-town-hall-meeting-google-adobe-next-iphone-2010-macs-and-more/)]
 
 このあたり本音語っているんじゃないかなと思った。
 

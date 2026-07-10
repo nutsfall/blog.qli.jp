@@ -1,9 +1,6 @@
 ---
 title: iTune 10.1がリリース
-description: ''
-date: '2010-11-13T08:47:16.000Z'
-categories: []
-keywords: []
+date: "2010-11-13T08:47:16.000Z"
 tags: ["itunes", "airplay"]
 slug: "7ddd519c-90a1-4da6-8f6f-fcf8a92da50b"
 ---

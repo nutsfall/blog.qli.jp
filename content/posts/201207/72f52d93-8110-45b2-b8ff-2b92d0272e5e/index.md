@@ -1,9 +1,6 @@
 ---
 title: Mt. Lion を導入した
-description: ''
-date: '2012-07-28T08:17:21.000Z'
-categories: []
-keywords: []
+date: "2012-07-28T08:17:21.000Z"
 tags: ["os-x", "macbook-air", "apple-tv"]
 slug: "72f52d93-8110-45b2-b8ff-2b92d0272e5e"
 ---

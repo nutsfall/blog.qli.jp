@@ -1,15 +1,12 @@
 ---
 title: moo.com with skype やっと届きました
-description: ''
-date: '2006-11-13T21:26:59.000Z'
-categories: []
-keywords: []
+date: "2006-11-13T21:26:59.000Z"
 tags: ["moo", "skype"]
 slug: "edbf8fb4-a2e0-4466-9fd1-33b13fa8a866"
 ---
 以前このブログでもお知らせしたmoo.comのskypeキャンペーンで応募したカードがやっと届きました。
 
-リンク: [きゅーり.jp: moo.comがskypeとキャンペーン!](http://blog.qli.jp/2006/10/moocomskype_a679.html "きゅーり.jp: moo.comがskypeとキャンペーン!").
+[きゅーり.jp: moo.comがskypeとキャンペーン!](http://blog.qli.jp/2006/10/moocomskype_a679.html)
 
 > Flickrとキャンペーンしていたのでこういうブログをごらんになっている方ならどこかで情報を仕入れているかと思いますが、名刺を作れるmoo.comがskypeとのキャンペーンを始めたそうです。
 

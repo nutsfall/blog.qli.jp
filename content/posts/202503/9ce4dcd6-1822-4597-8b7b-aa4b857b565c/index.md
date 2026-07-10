@@ -1,9 +1,6 @@
 ---
 title: OmniFocusで “Later” を扱う
-description: ''
-date: '2025-03-15T03:02:32.489Z'
-categories: []
-keywords: []
+date: "2025-03-15T03:02:32.489Z"
 slug: "9ce4dcd6-1822-4597-8b7b-aa4b857b565c"
 tags: ["omnifocus", "productivity"]
 cover:
@@ -11,8 +8,7 @@ cover:
 ---
 先日、OmniFocusの使い方をまとめました。
 
-[**OmniFocusの使い方 (Jan. 25)**  
-_Edit description_hiro.medium.com](https://hiro.medium.com/omnifocus%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-jan-25-cbe7257dd1a3 "https://hiro.medium.com/omnifocus%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-jan-25-cbe7257dd1a3")[](https://hiro.medium.com/omnifocus%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-jan-25-cbe7257dd1a3)
+[OmniFocusの使い方 (Jan. 25)](https://hiro.medium.com/omnifocus%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-jan-25-cbe7257dd1a3)
 
 その中で、カスタムパースペクティブ「NEXT」について説明しました。それは「着手可能なアクション」が表示されるものなのですが、ひとつだけ言及していないことがありました。それは、すべての「着手可能なアクション」を表示しているわけではないということです。
 

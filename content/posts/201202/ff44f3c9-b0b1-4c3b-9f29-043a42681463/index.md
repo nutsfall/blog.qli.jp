@@ -1,9 +1,6 @@
 ---
 title: Things Cloud Sync がすぐに使えるように
-description: ''
-date: '2012-02-22T09:44:22.000Z'
-categories: []
-keywords: []
+date: "2012-02-22T09:44:22.000Z"
 tags: ["things", "productivity"]
 slug: "ff44f3c9-b0b1-4c3b-9f29-043a42681463"
 ---

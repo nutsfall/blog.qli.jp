@@ -1,9 +1,6 @@
 ---
-title: 'I LOVED YESTERDAY :: YUI'
-description: ''
-date: '2008-04-15T21:37:16.000Z'
-categories: []
-keywords: []
+title: "I LOVED YESTERDAY :: YUI"
+date: "2008-04-15T21:37:16.000Z"
 tags: ["yui", "music"]
 slug: "80687636-62d3-47b9-adc9-410a3d0cf281"
 ---
@@ -15,11 +12,4 @@ slug: "80687636-62d3-47b9-adc9-410a3d0cf281"
 
 欲を言えば、カップリングでもいいので、博多弁で一曲作ってくれないかなとか思ったり。
 
-[I LOVED YESTERDAY(初回生産限定盤)(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B0013LKZ7I/qli-22/ref=nosim "I LOVED YESTERDAY(初回生産限定盤)(DVD付)")
-
-*   アーチスト: YUI
-*   レーベル: SMR(SME)(M)
-*   発売日: 2008/04/09
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/04/15
+[I LOVED YESTERDAY(初回生産限定盤)(DVD付)](https://www.amazon.co.jp/dp/B0013LKZ7I)

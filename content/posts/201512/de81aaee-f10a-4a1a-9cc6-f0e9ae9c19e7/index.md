@@ -1,9 +1,6 @@
 ---
 title: 2015年の音楽
-description: ''
-date: '2015-12-23T09:27:00.000Z'
-categories: []
-keywords: []
+date: "2015-12-23T09:27:00.000Z"
 tags: ["music", "apple-music", "mr-children"]
 slug: "de81aaee-f10a-4a1a-9cc6-f0e9ae9c19e7"
 ---
@@ -28,7 +25,7 @@ Coldplay、突然Facebookアカウントで告知されてそのままiTunes Sto
 
 新譜はなかったけど、あいかわらずライブはLEGO BIG MORL推しです。なぜ彼らがまだ有名になれないのかは分かりません。
 
-#### ストリーミング型音楽試聴体験
+## ストリーミング型音楽試聴体験
 
 今年の音楽シーンと言えばなんと言っても、Apple Musicなどなどのストリーミング型サービスが始まったこと。
 

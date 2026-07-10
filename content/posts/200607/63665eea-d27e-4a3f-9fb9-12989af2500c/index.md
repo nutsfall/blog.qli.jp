@@ -1,9 +1,6 @@
 ---
 title: 地下鉄(メトロ)にのって
-description: ''
-date: '2006-07-29T09:50:10.000Z'
-categories: []
-keywords: []
+date: "2006-07-29T09:50:10.000Z"
 tags: ["salyu", "film"]
 slug: "63665eea-d27e-4a3f-9fb9-12989af2500c"
 ---

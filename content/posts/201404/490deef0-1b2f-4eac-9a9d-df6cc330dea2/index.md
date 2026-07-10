@@ -1,9 +1,6 @@
 ---
 title: 本 「行動観察」の基本 を読んで
-description: ''
-date: '2014-04-29T09:15:36.000Z'
-categories: []
-keywords: []
+date: "2014-04-29T09:15:36.000Z"
 tags: ["book-review", "user-research"]
 slug: "490deef0-1b2f-4eac-9a9d-df6cc330dea2"
 ---
@@ -21,5 +18,4 @@ slug: "490deef0-1b2f-4eac-9a9d-df6cc330dea2"
 
 自分はあとでリファレンス的に活用することも考慮して紙を選択しましたが、kindle版やiBook版もあるようです。
 
-[**「行動観察」の基本**  
-_Amazonで松波 晴人の「行動観察」の基本。アマゾンならポイント還元本が多数。松波 晴人作品ほか、お急ぎ便対象商品は当日お届けも可能。また「行動観察」の基本もアマゾン配送商品なら通常配送無料。_www.amazon.co.jp](https://www.amazon.co.jp/dp/4478020280 "https://www.amazon.co.jp/dp/4478020280")[](https://www.amazon.co.jp/dp/4478020280)
+[「行動観察」の基本](https://www.amazon.co.jp/dp/4478020280)

@@ -1,9 +1,6 @@
 ---
 title: OmniFocus 2 for iOS7
-description: ''
-date: '2013-09-19T07:19:46.000Z'
-categories: []
-keywords: []
+date: "2013-09-19T07:19:46.000Z"
 tags: ["omnifocus", "ios7", "task-management"]
 slug: "2234ff36-b68c-4107-9180-12def643d0c3"
 ---

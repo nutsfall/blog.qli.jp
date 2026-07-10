@@ -1,9 +1,6 @@
 ---
 title: 困ったら”?”に聞いてみよう
-description: ''
-date: '2007-12-18T12:56:17.000Z'
-categories: []
-keywords: []
+date: "2007-12-18T12:56:17.000Z"
 tags: ["gmail", "keyboard-shortcuts"]
 slug: "f89e5b0e-03ad-44d6-be0f-213bd2d099ee"
 ---
@@ -11,6 +8,6 @@ slug: "f89e5b0e-03ad-44d6-be0f-213bd2d099ee"
 
 なお、Gmailはデフォルトはキーボードショートカットがoffになっていたはずなので、onにしておくのをお忘れなく。Firefox2もしくはIE7のみとなっていますが、先ほどSafari3(win)でやってみたら問題なくできましたので、お知らせしておきます。
 
-リンク: [Official Gmail Blog: ‘?’ answers your shortcut questions](http://gmailblog.blogspot.com/2007/12/answers-your-shortcut-questions.html "Official Gmail Blog: '?' answers your shortcut questions").
+[Official Gmail Blog: ‘?’ answers your shortcut questions](http://gmailblog.blogspot.com/2007/12/answers-your-shortcut-questions.html)
 
 > For this reason, we added a shortcut reference menu you can call up by holding “shift” and hitting the “?” key while logged in. It’s easy to remember: just type “?” any time you have a question about a shortcut and need a reminder. Then click anywhere off the shortcut menu in Gmail to dismiss it. This feature works in the latest version of Gmail, currently available for English IE7 and Firefox 2 users.

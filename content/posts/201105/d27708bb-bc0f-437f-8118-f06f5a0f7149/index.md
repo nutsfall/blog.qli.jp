@@ -1,9 +1,6 @@
 ---
 title: iida INFOBAR Android に触ってみた
-description: ''
-date: '2011-05-25T22:33:44.000Z'
-categories: []
-keywords: []
+date: "2011-05-25T22:33:44.000Z"
 tags: ["infobar", "android", "kddi"]
 slug: "d27708bb-bc0f-437f-8118-f06f5a0f7149"
 ---

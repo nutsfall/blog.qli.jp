@@ -1,9 +1,6 @@
 ---
 title: ようこそ New MacBook
-description: MacBookを新調しました。2017年モデルのCabyLakeです。
-date: '2017-12-16T11:29:59.345Z'
-categories: []
-keywords: []
+date: "2017-12-16T11:29:59.345Z"
 tags: ["macbook", "apple"]
 slug: "fea72655-16b5-4590-bbce-184f49e84d03"
 ---

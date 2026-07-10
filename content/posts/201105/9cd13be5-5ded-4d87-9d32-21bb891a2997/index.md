@@ -1,9 +1,6 @@
 ---
 title: iPadとiPhoneの連係プレイ
-description: ''
-date: '2011-05-08T21:30:35.000Z'
-categories: []
-keywords: []
+date: "2011-05-08T21:30:35.000Z"
 tags: ["ipad", "iphone", "ia-writer"]
 slug: "9cd13be5-5ded-4d87-9d32-21bb891a2997"
 ---

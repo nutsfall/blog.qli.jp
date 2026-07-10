@@ -1,9 +1,6 @@
 ---
 title: 速報系のブログとメディア
-description: ''
-date: '2014-05-02T08:50:46.000Z'
-categories: []
-keywords: []
+date: "2014-05-02T08:50:46.000Z"
 tags: ["apple", "blogging"]
 slug: "8b662fbf-c4cd-4f90-83f9-d9d5ca2d1187"
 ---
@@ -25,5 +22,4 @@ Apple系のブログでも、著名なブログというのが存在する。た
 
 速報系メディアの最たる例がテレビ・ラジオ・新聞なので、彼らがネットでの情報流通に積極的になってくれば、ブログは他のニッチな部分に目を向けるしかないのかもしれませんね。
 
-[**リリイ・シュシュのすべてを iTunes で**  
-_岩井俊二監督作品「リリイ・シュシュのすべて」の予告編を視聴、カスタマーと批評家のレビューをチェック。_itunes.apple.com](https://itunes.apple.com/jp/movie/ririi-shushunosubete/id551938473?ign-mpt=uo%3D4 "https://itunes.apple.com/jp/movie/ririi-shushunosubete/id551938473?ign-mpt=uo%3D4")[](https://itunes.apple.com/jp/movie/ririi-shushunosubete/id551938473?ign-mpt=uo%3D4)
+[リリイ・シュシュのすべてを iTunes で](https://itunes.apple.com/jp/movie/ririi-shushunosubete/id551938473?ign-mpt=uo%3D4)

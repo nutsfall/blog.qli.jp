@@ -1,9 +1,6 @@
 ---
 title: 高い生産性でゴミを作る
-description: ''
-date: '2013-06-13T20:18:07.000Z'
-categories: []
-keywords: []
+date: "2013-06-13T20:18:07.000Z"
 tags: ["lean-startup", "productivity"]
 slug: "44e3af46-6f79-4262-bbff-81d5214f5a2d"
 ---

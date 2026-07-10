@@ -1,15 +1,12 @@
 ---
 title: Stickisを試してみた。
-description: ''
-date: '2006-12-02T11:49:44.000Z'
-categories: []
-keywords: []
+date: "2006-12-02T11:49:44.000Z"
 tags: ["stickis", "web-annotation"]
 slug: "e539a091-104c-496a-8462-2cf1e4450f28"
 ---
 TechCrunchで見つけたサービスを試してみました。
 
-リンク: [TechCrunch Japanese アーカイブ � Stickis、シンジケート化されたウェブ注釈機能をスタート](http://jp.techcrunch.com/archives/stickis-launches-syndicated-web-note-taker/ "TechCrunch Japanese アーカイブ � Stickis、シンジケート化されたウェブ注釈機能をスタート").
+[TechCrunch Japanese アーカイブ � Stickis、シンジケート化されたウェブ注釈機能をスタート](http://jp.techcrunch.com/archives/stickis-launches-syndicated-web-note-taker/)
 
 > 私たちが昨年10月にごく簡単に取り上げた「Stickis」が今日（米国時間11/28）午後、サービスをスタートする。Stickisは、一見、「Fleck」、 「Diigo」それに「Trailfire」といったFireFoxそれにInternet Explorerプラグインのように見える。Stickisはたしかにこれらサービスが提供するウェブページ用「付箋（ふせん）」注釈的な役割を果たす。しかし、Stickisは単にページをマークするためのものではない。これらの注釈や他のデータソースから「チャンネル」を制作、購読するためのものだ。
 

@@ -1,9 +1,6 @@
 ---
 title: Windows Mobile 6.5, Touch Diamond2, Skype 2.5 for WM
-description: ''
-date: '2009-02-17T09:30:11.000Z'
-categories: []
-keywords: []
+date: "2009-02-17T09:30:11.000Z"
 tags: ["windows-mobile", "mobile-world-congress"]
 slug: "a0945039-d559-4b87-adcd-2b8649d39e17"
 ---

@@ -1,9 +1,6 @@
 ---
 title: MobileMeアンケート結果発表
-description: ''
-date: '2008-06-17T21:22:54.000Z'
-categories: []
-keywords: []
+date: "2008-06-17T21:22:54.000Z"
 tags: ["mobileme", "apple"]
 slug: "3407bdd0-a2d5-41fe-9e12-5ccedb48d051"
 ---

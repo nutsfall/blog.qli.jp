@@ -1,9 +1,6 @@
 ---
 title: ロスレスとiPod nanoの相性？
-description: ''
-date: '2007-01-22T16:02:27.000Z'
-categories: []
-keywords: []
+date: "2007-01-22T16:02:27.000Z"
 tags: ["ipod-nano", "apple-lossless"]
 slug: "fa64efd7-c66e-4722-b1a8-2fbdf66c1a88"
 ---

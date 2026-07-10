@@ -1,15 +1,12 @@
 ---
 title: Thunderbird 2.0 b1がリリースされました
-description: ''
-date: '2006-12-14T12:26:33.000Z'
-categories: []
-keywords: []
+date: "2006-12-14T12:26:33.000Z"
 tags: ["thunderbird", "mozilla"]
 slug: "847c573e-676f-499a-89f5-50000517dba4"
 ---
 Tb2.0 b1がリリースされました。b1は英語版のみ、b2からはローカライズも含めたテストを行うことが決定していますので、今回は英語版しか出ません。また、毎回のことですがbetaなので常用することは推奨されていません(WEBサービスのbetaとは違います)。メールの紛失などに繋がるおそれもありますので、自己責任でお願いします。
 
-リンク: [窓の杜 — 【NEWS】フォルダペインやメール閲覧履歴機能などが強化された「Thunderbird」v2 β版](http://www.forest.impress.co.jp/article/2006/12/13/thunderbird2beta.html "窓の杜 - 【NEWS】フォルダペインやメール閲覧履歴機能などが強化された「Thunderbird」v2 β版").
+[窓の杜 — 【NEWS】フォルダペインやメール閲覧履歴機能などが強化された「Thunderbird」v2 β版](http://www.forest.impress.co.jp/article/2006/12/13/thunderbird2beta.html)
 
 > Mozilla Foundationは12日（現地時間）、迷惑メール対策機能などを搭載したメールソフト「Thunderbird」の次期版であるv2のBeta 1 英語版を公開した。Windows 98/Me/NT 4.0/2000/XPに対応するフリーソフトで、現在同団体のホームページ“Mozilla.org”からダウンロードできる。なお本ベータ版はテスト目的で公開されており、開発者やテスター以外の利用は推奨されていない。
 

@@ -1,9 +1,6 @@
 ---
 title: 映画 ストロベリーナイト
-description: ''
-date: '2013-01-26T23:53:56.000Z'
-categories: []
-keywords: []
+date: "2013-01-26T23:53:56.000Z"
 tags: ["strawberry-night", "film", "honda-tetsuya"]
 slug: "888b4700-95c3-4812-9953-fee3759fcb64"
 ---
@@ -15,8 +12,6 @@ slug: "888b4700-95c3-4812-9953-fee3759fcb64"
 
 テレビのドラマ化って印象はぬぐえないですが、映像の効果にも気を使ってあって、全体的には満足度の高い映画でした。
 
-[**インビジブルレイン (光文社文庫) | 誉田哲也 |本 | 通販 | Amazon**  
-_Amazonで誉田哲也のインビジブルレイン (光文社文庫)。アマゾンならポイント還元本が多数。誉田哲也作品ほか、お急ぎ便対象商品は当日お届けも可能。またインビジブルレイン (光文社文庫)もアマゾン配送商品なら通常配送無料。_www.amazon.co.jp](https://www.amazon.co.jp/dp/4334764339 "https://www.amazon.co.jp/dp/4334764339")[](https://www.amazon.co.jp/dp/4334764339)
+[インビジブルレイン (光文社文庫) | 誉田哲也 |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/4334764339)
 
-[**ストロベリーナイトを iTunes で**  
-_佐藤祐市監督作品「ストロベリーナイト」の予告編を視聴、カスタマーと批評家のレビューをチェック。¥2,500で。_itunes.apple.com](https://itunes.apple.com/jp/movie/sutoroberinaito/id667454048 "https://itunes.apple.com/jp/movie/sutoroberinaito/id667454048")[](https://itunes.apple.com/jp/movie/sutoroberinaito/id667454048)
+[ストロベリーナイトを iTunes で](https://itunes.apple.com/jp/movie/sutoroberinaito/id667454048)

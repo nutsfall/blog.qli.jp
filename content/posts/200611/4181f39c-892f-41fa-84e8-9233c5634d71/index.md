@@ -1,9 +1,6 @@
 ---
 title: Mac乗り換え広告第一弾！
-description: ''
-date: '2006-11-11T13:46:17.000Z'
-categories: []
-keywords: []
+date: "2006-11-11T13:46:17.000Z"
 tags: ["apple", "advertising"]
 slug: "4181f39c-892f-41fa-84e8-9233c5634d71"
 ---

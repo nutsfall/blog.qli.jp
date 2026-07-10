@@ -1,9 +1,6 @@
 ---
 title: google calenderが国際化？
-description: ""
 date: "2006-07-25T22:25:39.000Z"
-categories: []
-keywords: []
 tags: ["google-calendar", "internationalization"]
 slug: "9d4b8b90-8d39-461d-9418-06643e223f8a"
 ---

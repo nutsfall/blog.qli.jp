@@ -1,9 +1,6 @@
 ---
 title: State of the Web 2009 に行ってきた
-description: ''
-date: '2009-05-15T13:05:23.000Z'
-categories: []
-keywords: []
+date: "2009-05-15T13:05:23.000Z"
 tags: ["web-development", "apple-store-ginza"]
 slug: "ca717701-1829-435b-995b-b405c29f538d"
 ---

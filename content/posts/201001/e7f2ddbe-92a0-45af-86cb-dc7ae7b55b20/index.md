@@ -1,9 +1,6 @@
 ---
 title: iPadとは何か
-description: ''
-date: '2010-01-28T21:21:16.000Z'
-categories: []
-keywords: []
+date: "2010-01-28T21:21:16.000Z"
 tags: ["ipad", "apple"]
 slug: "e7f2ddbe-92a0-45af-86cb-dc7ae7b55b20"
 ---

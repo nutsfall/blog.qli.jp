@@ -1,9 +1,6 @@
 ---
 title: それを忘れてしまうべきか
-description: ''
-date: '2012-03-05T22:23:51.000Z'
-categories: []
-keywords: []
+date: "2012-03-05T22:23:51.000Z"
 tags: ["digital-memory", "disaster"]
 slug: "a637a6ac-824e-4587-bab2-01da514b20aa"
 ---

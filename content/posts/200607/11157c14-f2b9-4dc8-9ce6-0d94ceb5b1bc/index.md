@@ -1,14 +1,9 @@
 ---
 title: Last.fm 日本語版 with eXcite
-description: ""
 date: "2006-07-25T16:50:38.000Z"
-categories: []
-keywords: []
 tags: ["last-fm", "music-streaming"]
 slug: "11157c14-f2b9-4dc8-9ce6-0d94ceb5b1bc"
 ---
-
-![]()
 
 Last.fm の突然のリニューアルでびっくりしていたのですが、ついにエキサイトと連動した日本語版が開始されました。  
 どうやら日本語作業は Last.fm の方でやったみたいですね。直訳の変な日本語盛りだくさん(汗)エキサイトはどうやら営業面での活動がメインになっていくのでしょうか？つまり、Last.fm 側が日本への展開を考えたときに、知名度の低さやブランド力の低さを考慮して eXcite に声をかけた、と。

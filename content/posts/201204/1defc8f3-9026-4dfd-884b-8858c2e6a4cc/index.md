@@ -1,9 +1,6 @@
 ---
 title: 映画 SPEC 天
-description: ''
-date: '2012-04-15T18:40:17.000Z'
-categories: []
-keywords: []
+date: "2012-04-15T18:40:17.000Z"
 tags: ["spec-ten", "movie"]
 slug: "1defc8f3-9026-4dfd-884b-8858c2e6a4cc"
 ---

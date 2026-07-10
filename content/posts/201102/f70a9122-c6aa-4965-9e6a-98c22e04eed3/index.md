@@ -1,9 +1,6 @@
 ---
 title: Google Latitudeにチェックイン機能
-description: ''
-date: '2011-02-02T10:00:10.000Z'
-categories: []
-keywords: []
+date: "2011-02-02T10:00:10.000Z"
 tags: ["google-latitude", "check-in"]
 slug: "f70a9122-c6aa-4965-9e6a-98c22e04eed3"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ブログは何のためにあるのか?
-description: ''
-date: '2013-04-13T13:44:55.000Z'
-categories: []
-keywords: []
+date: "2013-04-13T13:44:55.000Z"
 tags: ["blogging"]
 slug: "ad239c3f-b2e4-40b7-aee4-8c51e30d569b"
 ---

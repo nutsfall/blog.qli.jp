@@ -1,9 +1,6 @@
 ---
 title: GTDをあちら側からこちら側に切り替える
-description: ''
-date: '2006-10-27T11:10:09.000Z'
-categories: []
-keywords: []
+date: "2006-10-27T11:10:09.000Z"
 tags: ["gtd", "google-calendar", "hobonichi"]
 slug: "907ff823-1c80-4bd4-959e-08681bf42616"
 ---

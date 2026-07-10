@@ -1,9 +1,6 @@
 ---
 title: サンタとなまはげ
-description: ''
-date: '2024-12-28T03:02:11.525Z'
-categories: []
-keywords: []
+date: "2024-12-28T03:02:11.525Z"
 tags: ["apple-tv-plus", "christmas"]
 slug: "06dafc2e-fbe1-41b7-9a17-d103ef14804e"
 ---

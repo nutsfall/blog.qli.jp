@@ -1,9 +1,6 @@
 ---
-title: '次はエンジニアの番 : MacWorld Expo 2009 Keynote'
-description: ''
-date: '2009-01-07T22:18:10.000Z'
-categories: []
-keywords: []
+title: "次はエンジニアの番 : MacWorld Expo 2009 Keynote"
+date: "2009-01-07T22:18:10.000Z"
 tags: ["macworld", "apple", "iwork"]
 slug: "1af6e8e9-7919-4d0e-8e67-9983f16ea38f"
 ---

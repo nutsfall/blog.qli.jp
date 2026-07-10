@@ -1,9 +1,6 @@
 ---
 title: 毎週記事を書くということ
-description: ''
-date: '2023-12-16T03:02:01.290Z'
-categories: []
-keywords: []
+date: "2023-12-16T03:02:01.290Z"
 tags: ["medium", "blogging"]
 slug: "b756c743-ec9f-4d24-9bc1-6a4ff984dcb3"
 ---
@@ -15,13 +12,11 @@ slug: "b756c743-ec9f-4d24-9bc1-6a4ff984dcb3"
 
 山崎怜奈さんの「言葉のおすそわけ」を読んで、その言葉の使い方に感銘を受けたり、
 
-[**山崎怜奈の「言葉のおすそわけ」 | Hanako Web**  
-_乃木坂46を卒業し、ラジオパーソナリティ、タレント、そして、ひとりの大人として新たな一歩を踏み出した山崎怜奈さんが、心にあたためていた小さな気づきや、覚えておきたいこと、ラジオでは伝えきれなかったエピソードなどを、自由に綴ります。（第3金曜…_hanako.tokyo](https://hanako.tokyo/tags/kotobanoosusowake/ "https://hanako.tokyo/tags/kotobanoosusowake/")[](https://hanako.tokyo/tags/kotobanoosusowake/)
+[山崎怜奈の「言葉のおすそわけ」 | Hanako Web](https://hanako.tokyo/tags/kotobanoosusowake/)
 
 くるりの「近況と雑感」で始まる記事を読んだり、
 
-[**くるり official｜note**  
-_【くるり official note】ロックバンド・くるりのnoteです。_note.com](https://note.com/quruli "https://note.com/quruli")[](https://note.com/quruli)
+[くるり official｜note](https://note.com/quruli)
 
 そんなことをしながら、もっと足元を見ながら言葉を繋いでいきたいと思って、今年は毎週土曜日正午更新（できれば）というのを始めてみました。3月から35本の記事を書きました。毎週テーマを出していくという試みは刺激的だったなと思います。
 

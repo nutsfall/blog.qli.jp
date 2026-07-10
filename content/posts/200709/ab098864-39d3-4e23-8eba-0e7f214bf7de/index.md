@@ -1,9 +1,6 @@
 ---
 title: ネットワーク越しにおいたiTunesの音楽データは消失する。
-description: ''
-date: '2007-09-07T19:42:02.000Z'
-categories: []
-keywords: []
+date: "2007-09-07T19:42:02.000Z"
 tags: ["itunes", "airmac-disk"]
 slug: "ab098864-39d3-4e23-8eba-0e7f214bf7de"
 ---

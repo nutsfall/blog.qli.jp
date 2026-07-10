@@ -1,9 +1,6 @@
 ---
 title: WWDC09 Keynoteを見た
-description: ''
-date: '2009-06-09T23:26:12.000Z'
-categories: []
-keywords: []
+date: "2009-06-09T23:26:12.000Z"
 tags: ["wwdc", "apple", "iphone"]
 slug: "af9e8d60-2b9f-4074-80c8-2e5e6ee9a05a"
 ---

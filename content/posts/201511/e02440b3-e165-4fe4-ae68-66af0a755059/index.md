@@ -1,9 +1,6 @@
 ---
 title: iPad pro に置き換わりそう
-description: ''
-date: '2015-11-21T02:03:00.000Z'
-categories: []
-keywords: []
+date: "2015-11-21T02:03:00.000Z"
 tags: ["ipad-pro"]
 slug: "e02440b3-e165-4fe4-ae68-66af0a755059"
 ---

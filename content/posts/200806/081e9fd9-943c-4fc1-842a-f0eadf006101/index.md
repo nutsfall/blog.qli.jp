@@ -1,9 +1,6 @@
 ---
 title: WWDC 2008 keynote
-description: ''
-date: '2008-06-10T03:45:35.000Z'
-categories: []
-keywords: []
+date: "2008-06-10T03:45:35.000Z"
 tags: ["wwdc", "iphone-3g", "mobileme"]
 slug: "081e9fd9-943c-4fc1-842a-f0eadf006101"
 ---

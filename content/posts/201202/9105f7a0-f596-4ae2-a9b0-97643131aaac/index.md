@@ -1,9 +1,6 @@
 ---
 title: photogenic by Salyu
-description: ''
-date: '2012-02-17T09:51:51.000Z'
-categories: []
-keywords: []
+date: "2012-02-17T09:51:51.000Z"
 tags: ["salyu", "music-review"]
 slug: "9105f7a0-f596-4ae2-a9b0-97643131aaac"
 ---
@@ -32,4 +29,4 @@ photogenicは、1曲目はシングル未発表曲であるものの、シング
 
 曲のタイトルもアレンジの感じも、”ポケットミュージック”を謳歌していたころのMy Little Loverを彷彿とさせるものがある。でも、それが”小林武史色”なんだとしたら、彼もまた何かによって原点回帰したのかもしれない。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=B006GH76TO](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B006GH76TO "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B006GH76TO")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B006GH76TO](https://www.amazon.co.jp/dp/B006GH76TO)

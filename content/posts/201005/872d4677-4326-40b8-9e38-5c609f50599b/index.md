@@ -1,9 +1,6 @@
 ---
 title: au 2010 夏モデル S004 を触ってきた
-description: ''
-date: '2010-05-17T22:07:36.000Z'
-categories: []
-keywords: []
+date: "2010-05-17T22:07:36.000Z"
 tags: ["au", "snapdragon"]
 slug: "872d4677-4326-40b8-9e38-5c609f50599b"
 ---
@@ -15,8 +12,7 @@ slug: "872d4677-4326-40b8-9e38-5c609f50599b"
 
 触ってみての感想は、やっとまともに戻った。そんな印象があります。KCPのころのレスポンスにやっと戻った、そんな感じがします。たぶんSnapdragonの早さをある程度ソフトウェアで殺してあるんだろうと思いますが。それくらい快適です。折りたたみが嫌だとかそういうのにこだわらなければ、これを選択するのもいいのではないかと。データフォルダのスピード見てもらえれば分かると思うのでビデオを撮ってみました。参考になれば。
 
-[**Skype Qik is moving - Skype Blogs**  
-_At Skype, we know and love that technology continues to evolve. Today, people carry smartphones around in their pockets…_qik.com](http://qik.com/swfs/qikPlayer5.swf "http://qik.com/swfs/qikPlayer5.swf")[](http://qik.com/swfs/qikPlayer5.swf)
+[Skype Qik is moving - Skype Blogs](http://qik.com/swfs/qikPlayer5.swf)
 
 個人的には折りたたみが好きじゃないというのは一貫しているので、これに変えることは特にはないでしょう。G9にsnapdragon搭載して軽くブラッシュアップしてくれればそれで問題がないのと、KCP3.0のUIを細かいところまでユーザーのことを考えて作り直してもらわないと、ハードだけよくてもどうしようもないですね。KCPにはそこまでのレベルを考えて欲しいです。明らかに、C404S DIVAのころのUIの方がユーザに優しいと思います。厳しいこと言うようですが、ここはソニエリ１社ではどうしようもないので、KDDIの企画部隊に頑張っていただかないと。
 

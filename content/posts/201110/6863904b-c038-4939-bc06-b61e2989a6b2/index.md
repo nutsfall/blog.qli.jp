@@ -1,9 +1,6 @@
 ---
 title: Apertureに乗り換え
-description: ''
-date: '2011-10-21T21:28:40.000Z'
-categories: []
-keywords: []
+date: "2011-10-21T21:28:40.000Z"
 tags: ["aperture", "iphoto", "icloud"]
 slug: "6863904b-c038-4939-bc06-b61e2989a6b2"
 ---

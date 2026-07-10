@@ -1,9 +1,6 @@
 ---
 title: feedpathへのご要望
-description: ''
-date: '2006-07-25T14:53:04.000Z'
-categories: []
-keywords: []
+date: "2006-07-25T14:53:04.000Z"
 tags: ["feedpath", "rss"]
 slug: "4549bb04-024d-4a1a-bd92-9e748fb7c13f"
 ---

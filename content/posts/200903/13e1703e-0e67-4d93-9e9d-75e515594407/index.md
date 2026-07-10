@@ -1,9 +1,6 @@
 ---
 title: brain dumpping!
-description: ''
-date: '2009-03-09T13:45:36.000Z'
-categories: []
-keywords: []
+date: "2009-03-09T13:45:36.000Z"
 tags: ["gtd", "productivity"]
 slug: "13e1703e-0e67-4d93-9e9d-75e515594407"
 ---

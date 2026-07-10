@@ -1,9 +1,6 @@
 ---
 title: "“タグ”、使っていますか？"
-description: ''
-date: '2009-06-30T12:19:44.000Z'
-categories: []
-keywords: []
+date: "2009-06-30T12:19:44.000Z"
 tags: ["google-reader", "gmail", "productivity"]
 slug: "0c9e8bee-a194-4daf-ade1-aeedb7b9aa28"
 ---

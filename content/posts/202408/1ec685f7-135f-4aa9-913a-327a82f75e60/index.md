@@ -1,9 +1,6 @@
 ---
 title: Evernoteで情報をまとめる(2024)
-description: 情報をまとめる場所として、Evernoteを使っています。手書きメモなら、Appleメモが使いやすいし、テキストベースのメモなら他にも使いやすいアプリがあると思います。Evernoteを使い続ける理由は「クリップ」がメインだからかもしれません。
-date: '2024-08-31T11:31:20.957Z'
-categories: []
-keywords: []
+date: "2024-08-31T11:31:20.957Z"
 tags: ["evernote", "notion"]
 slug: "1ec685f7-135f-4aa9-913a-327a82f75e60"
 ---

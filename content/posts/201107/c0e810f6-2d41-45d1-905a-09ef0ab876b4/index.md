@@ -1,9 +1,6 @@
 ---
 title: LiveViewを買って
-description: ''
-date: '2011-07-12T22:28:02.000Z'
-categories: []
-keywords: []
+date: "2011-07-12T22:28:02.000Z"
 tags: ["liveview", "sony-ericsson", "xperia"]
 slug: "c0e810f6-2d41-45d1-905a-09ef0ab876b4"
 ---

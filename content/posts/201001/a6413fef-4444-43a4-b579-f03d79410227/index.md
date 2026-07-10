@@ -1,9 +1,6 @@
 ---
 title: 映画バンデイジを見てきた
-description: ''
-date: '2010-01-16T03:22:55.000Z'
-categories: []
-keywords: []
+date: "2010-01-16T03:22:55.000Z"
 tags: ["bandage", "film"]
 slug: "a6413fef-4444-43a4-b579-f03d79410227"
 ---

@@ -1,9 +1,6 @@
 ---
 title: iPod nano(4th Gen)を買いました
-description: ''
-date: '2008-11-01T19:32:39.000Z'
-categories: []
-keywords: []
+date: "2008-11-01T19:32:39.000Z"
 tags: ["ipod-nano", "apple", "product-red"]
 slug: "faa40ad7-71bc-4ec3-bca3-69bdfd13b065"
 ---

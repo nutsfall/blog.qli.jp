@@ -1,9 +1,6 @@
 ---
 title: 何してるの？どんな音楽聞いているの？
-description: ''
-date: '2007-04-07T10:38:03.000Z'
-categories: []
-keywords: []
+date: "2007-04-07T10:38:03.000Z"
 tags: ["twitter", "istalkr"]
 slug: "23f80dc3-7ebe-44fa-9b0f-60e6c1098e37"
 ---

@@ -1,9 +1,6 @@
 ---
 title: au wifi SPOTがau iPhone向けにサービス開始
-description: ''
-date: '2011-12-20T20:28:16.000Z'
-categories: []
-keywords: []
+date: "2011-12-20T20:28:16.000Z"
 tags: ["au", "wifi", "iphone"]
 slug: "9b471f85-e3c8-4b71-876f-45c7d0ba3b48"
 ---

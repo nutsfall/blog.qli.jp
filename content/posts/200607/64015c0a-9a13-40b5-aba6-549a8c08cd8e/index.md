@@ -1,9 +1,6 @@
 ---
 title: MacBook KUROが帰ってきた！
-description: ""
 date: "2006-07-15T16:44:04.000Z"
-categories: []
-keywords: []
 tags: ["macbook", "applecare"]
 slug: "64015c0a-9a13-40b5-aba6-549a8c08cd8e"
 ---

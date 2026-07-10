@@ -1,9 +1,6 @@
 ---
 title: アジャイル開発研修はうまくいくか
-description: ''
-date: '2012-04-18T18:09:32.000Z'
-categories: []
-keywords: []
+date: "2012-04-18T18:09:32.000Z"
 tags: ["agile", "ntt-data"]
 slug: "8dabc4ac-2f92-4b1e-81df-1ab1c7420051"
 ---

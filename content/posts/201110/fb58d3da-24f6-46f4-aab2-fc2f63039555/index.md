@@ -1,9 +1,6 @@
 ---
 title: iCloud バックアップで気をつけておくべきこと
-description: ''
-date: '2011-10-12T07:32:46.000Z'
-categories: []
-keywords: []
+date: "2011-10-12T07:32:46.000Z"
 tags: ["icloud", "itunes", "apple"]
 slug: "fb58d3da-24f6-46f4-aab2-fc2f63039555"
 ---

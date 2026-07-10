@@ -1,9 +1,6 @@
 ---
 title: 岩井映画のロケ地に行ってきた
-description: ''
-date: '2013-08-16T22:20:05.000Z'
-categories: []
-keywords: []
+date: "2013-08-16T22:20:05.000Z"
 tags: ["iwai-shunji", "film-location", "travel"]
 slug: "a5ba1b24-dbb9-4e9a-9fc7-c7cabe19d6f7"
 ---
@@ -15,5 +12,4 @@ slug: "a5ba1b24-dbb9-4e9a-9fc7-c7cabe19d6f7"
 
 海と、田んぼと、風車と、心地よい風がある、いい場所でした。
 
-[**打ち上げ花火、下から見るか?横から見るか? \[DVD\]**  
-_REMEDIOS, 奥菜恵, 山崎裕太, 反田孝幸, 小橋賢児, 岩井俊二, 金谷宏二 邦画・洋画のDVD・Blu-rayをオンライン通販アマゾンで予約・購入。お急ぎ便ご利用で当日・翌日にお届け。_www.amazon.co.jp](https://www.amazon.co.jp/dp/B00005G1GE "https://www.amazon.co.jp/dp/B00005G1GE")[](https://www.amazon.co.jp/dp/B00005G1GE)
+[打ち上げ花火、下から見るか?横から見るか? [DVD]](https://www.amazon.co.jp/dp/B00005G1GE)

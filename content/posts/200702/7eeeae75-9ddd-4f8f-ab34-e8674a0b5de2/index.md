@@ -1,15 +1,12 @@
 ---
 title: Getting Things Done with Remeber the Milk
-description: ''
-date: '2007-02-13T11:58:34.000Z'
-categories: []
-keywords: []
+date: "2007-02-13T11:58:34.000Z"
 tags: ["gtd", "remember-the-milk"]
 slug: "7eeeae75-9ddd-4f8f-ab34-e8674a0b5de2"
 ---
 ちょっと古い記事なのだけど（1ヶ月経つと古いって言っていいですよね？）、Remember the milkでGTDをする(GTD with RTM)ときのTipsがまとめられていたのでご紹介。
 
-リンク: [The Republic of Geektronica � Blog Archive � GTD with RTM: Getting Things Done with Remember The Milk](http://www.geektronica.com/2007-01-15-gtd-with-rtm-getting-things-done-with-remember-the-milk "The Republic of Geektronica � Blog Archive � GTD with RTM: Getting Things Done with Remember The Milk").
+[The Republic of Geektronica � Blog Archive � GTD with RTM: Getting Things Done with Remember The Milk](http://www.geektronica.com/2007-01-15-gtd-with-rtm-getting-things-done-with-remember-the-milk)
 
 > As I stated previously, it’s a little hard to figure out how to leverage the available information- and task-management tools most effectively to actually help me get things done.
 

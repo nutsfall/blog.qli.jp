@@ -1,9 +1,6 @@
 ---
 title: 映画 ソラニン
-description: ''
-date: '2010-04-04T03:18:27.000Z'
-categories: []
-keywords: []
+date: "2010-04-04T03:18:27.000Z"
 tags: ["solanin", "japanese-film"]
 slug: "ac53979c-5883-49f7-98f1-67af8c06c9f5"
 ---

@@ -1,9 +1,6 @@
 ---
 title: WiMAXレビュー
-description: ''
-date: '2010-11-11T22:53:28.000Z'
-categories: []
-keywords: []
+date: "2010-11-11T22:53:28.000Z"
 tags: ["wimax", "mobile-internet"]
 slug: "3419349d-e1d3-4653-92d2-7dd37785723d"
 ---

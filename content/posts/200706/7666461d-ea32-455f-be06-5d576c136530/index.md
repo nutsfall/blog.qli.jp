@@ -1,9 +1,6 @@
 ---
 title: MacBookを据え付けPCにする方法
-description: ''
-date: '2007-06-17T08:45:25.000Z'
-categories: []
-keywords: []
+date: "2007-06-17T08:45:25.000Z"
 tags: ["macbook", "setup"]
 slug: "7666461d-ea32-455f-be06-5d576c136530"
 ---

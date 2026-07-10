@@ -1,9 +1,6 @@
 ---
 title: お気に入りの、残し方
-description: ''
-date: '2025-06-21T03:02:40.758Z'
-categories: []
-keywords: []
+date: "2025-06-21T03:02:40.758Z"
 tags: ["pocket", "instapaper", "raindrop"]
 slug: "ec700d49-5044-4883-b49a-d295340d6de1"
 ---
@@ -11,8 +8,7 @@ slug: "ec700d49-5044-4883-b49a-d295340d6de1"
 
 そんな季節のなか、Pocketからサービス終了のお知らせが届きました。いろいろと立て込んでいて、取り上げるのが遅くなってしまいました。
 
-[**Pocket がサービスを終了します: 大切なお知らせ**  
-_Pocket のサポート終了に関する詳細です。_support.mozilla.org](https://support.mozilla.org/ja/kb/Future-of-pocket "https://support.mozilla.org/ja/kb/Future-of-pocket")[](https://support.mozilla.org/ja/kb/Future-of-pocket)
+[Pocket がサービスを終了します: 大切なお知らせ](https://support.mozilla.org/ja/kb/Future-of-pocket)
 
 情報収集の軸としてFeedlyを使っています。そこでざっと斜め読みしていて、もっと深く読みたいというものをPocketに入れて使っていました。FeedlyはPocketにワンタップで入れられるので便利なのです。
 

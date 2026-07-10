@@ -1,9 +1,6 @@
 ---
 title: エマジェネティクスプロファイルを作った
-description: ''
-date: '2012-03-13T20:33:24.000Z'
-categories: []
-keywords: []
+date: "2012-03-13T20:33:24.000Z"
 tags: ["emergenetics", "self-analysis"]
 slug: "3d335599-9c9b-40e9-a217-cd04755ae9c2"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 福岡にマリヤンがいたこと
-description: ''
-date: '2014-11-27T11:59:36.000Z'
-categories: []
-keywords: []
+date: "2014-11-27T11:59:36.000Z"
 tags: ["avispa-fukuoka", "j-league"]
 slug: "059f556e-461e-4b3c-aeb4-7e38e698e181"
 ---

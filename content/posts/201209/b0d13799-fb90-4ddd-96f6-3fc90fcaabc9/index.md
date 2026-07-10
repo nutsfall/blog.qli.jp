@@ -1,9 +1,6 @@
 ---
 title: au iPhone 1週間使って感じた５つのこと
-description: ''
-date: '2012-09-28T21:59:52.000Z'
-categories: []
-keywords: []
+date: "2012-09-28T21:59:52.000Z"
 tags: ["iphone", "au", "lte"]
 slug: "b0d13799-fb90-4ddd-96f6-3fc90fcaabc9"
 ---

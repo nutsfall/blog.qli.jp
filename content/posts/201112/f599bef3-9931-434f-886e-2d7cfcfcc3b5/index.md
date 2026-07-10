@@ -1,9 +1,6 @@
 ---
 title: au iPhoneの各種対応スケジュール発表
-description: ''
-date: '2011-12-15T20:45:07.000Z'
-categories: []
-keywords: []
+date: "2011-12-15T20:45:07.000Z"
 tags: ["au", "iphone", "kddi"]
 slug: "f599bef3-9931-434f-886e-2d7cfcfcc3b5"
 ---

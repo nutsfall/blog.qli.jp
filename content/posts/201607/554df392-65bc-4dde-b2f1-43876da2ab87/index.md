@@ -1,9 +1,6 @@
 ---
 title: 吹田スタジアムに行ってきた
-description: やっと吹田の番が回ってきた。ということで、早速吹田スタジアムに行ってきた。
-date: '2016-07-19T14:29:20.535Z'
-categories: []
-keywords: []
+date: "2016-07-19T14:29:20.535Z"
 tags: ["j-league", "suita-stadium", "gamba-osaka"]
 slug: "554df392-65bc-4dde-b2f1-43876da2ab87"
 ---

@@ -1,9 +1,6 @@
 ---
 title: TOKYO!
-description: ''
-date: '2008-08-17T00:47:16.000Z'
-categories: []
-keywords: []
+date: "2008-08-17T00:47:16.000Z"
 tags: ["film", "tokyo"]
 slug: "abc736f2-14e3-4cfd-b9a5-c07adfcfd0b6"
 ---

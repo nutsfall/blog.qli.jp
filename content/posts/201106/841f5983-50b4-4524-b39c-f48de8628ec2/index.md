@@ -1,9 +1,6 @@
 ---
 title: iOS 5におけるタスク管理を考える
-description: ''
-date: '2011-06-07T21:16:13.000Z'
-categories: []
-keywords: []
+date: "2011-06-07T21:16:13.000Z"
 tags: ["gtd", "ios", "omnifocus"]
 slug: "841f5983-50b4-4524-b39c-f48de8628ec2"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Evernoteという名前の象さん
-description: このブログで、Evernote について全く何も書いてないな、ということに気づいたので、書くことにします。
-date: '2018-06-18T09:16:01.150Z'
-categories: []
-keywords: []
+date: "2018-06-18T09:16:01.150Z"
 tags: ["evernote", "note-taking"]
 slug: "724b2cde-e2ea-4eda-85c0-49e603552697"
 ---

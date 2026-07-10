@@ -1,9 +1,6 @@
 ---
 title: きゅーり.jp のつくりかた
-description: ''
-date: '2011-02-02T22:32:49.000Z'
-categories: []
-keywords: []
+date: "2011-02-02T22:32:49.000Z"
 tags: ["blogging", "omnifocus"]
 slug: "9a69b43b-118a-4f9c-83a5-fb6becb325a7"
 ---

@@ -1,9 +1,6 @@
 ---
 title: WWDC 2010 Keynote
-description: ''
-date: '2010-06-09T20:48:03.000Z'
-categories: []
-keywords: []
+date: "2010-06-09T20:48:03.000Z"
 tags: ["wwdc", "iphone-4", "apple"]
 slug: "77297d9c-9a8d-4996-a662-721e79cbaf52"
 ---

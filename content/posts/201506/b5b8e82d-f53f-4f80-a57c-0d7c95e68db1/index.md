@@ -1,9 +1,6 @@
 ---
 title: Lean UX という交差点
-description: ''
-date: '2015-06-11T10:11:42.000Z'
-categories: []
-keywords: []
+date: "2015-06-11T10:11:42.000Z"
 tags: ["lean-ux", "agile"]
 slug: "b5b8e82d-f53f-4f80-a57c-0d7c95e68db1"
 ---

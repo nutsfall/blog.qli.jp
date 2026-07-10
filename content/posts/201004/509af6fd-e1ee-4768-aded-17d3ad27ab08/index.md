@@ -1,9 +1,6 @@
 ---
 title: マルチタスクいらない派のiPhone OS 4 マルチタスクへの感想
-description: ''
-date: '2010-04-13T22:47:01.000Z'
-categories: []
-keywords: []
+date: "2010-04-13T22:47:01.000Z"
 tags: ["iphone", "ios", "multitasking"]
 slug: "509af6fd-e1ee-4768-aded-17d3ad27ab08"
 ---

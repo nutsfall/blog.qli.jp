@@ -1,9 +1,6 @@
 ---
 title: UP24 by Jawboneをやめた理由
-description: ''
-date: '2015-05-21T03:30:37.000Z'
-categories: []
-keywords: []
+date: "2015-05-21T03:30:37.000Z"
 tags: ["apple-watch", "jawbone", "activity-tracker"]
 slug: "7706ecb7-d481-4c8e-a97b-016761f0de59"
 ---

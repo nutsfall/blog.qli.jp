@@ -1,9 +1,6 @@
 ---
 title: 映画 ヴァンパイア
-description: ''
-date: '2012-09-17T13:23:12.000Z'
-categories: []
-keywords: []
+date: "2012-09-17T13:23:12.000Z"
 tags: ["shunji-iwai", "vampire-film"]
 slug: "b5e464ed-8d8b-4c31-be85-0039fb57d907"
 ---

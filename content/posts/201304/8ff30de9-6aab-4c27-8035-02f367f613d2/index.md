@@ -1,9 +1,6 @@
 ---
 title: cookoo watch for iOS v1.2 が出た
-description: ''
-date: '2013-04-23T20:34:59.000Z'
-categories: []
-keywords: []
+date: "2013-04-23T20:34:59.000Z"
 tags: ["cookoo-watch", "wearables"]
 slug: "8ff30de9-6aab-4c27-8035-02f367f613d2"
 ---

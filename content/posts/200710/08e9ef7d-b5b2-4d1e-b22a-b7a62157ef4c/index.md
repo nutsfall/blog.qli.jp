@@ -1,9 +1,6 @@
 ---
 title: ホリデーシーズンのMacBookシリーズを考えてみる
-description: ''
-date: '2007-10-19T18:16:35.000Z'
-categories: []
-keywords: []
+date: "2007-10-19T18:16:35.000Z"
 tags: ["apple", "macbook", "mac-os-x"]
 slug: "08e9ef7d-b5b2-4d1e-b22a-b7a62157ef4c"
 ---

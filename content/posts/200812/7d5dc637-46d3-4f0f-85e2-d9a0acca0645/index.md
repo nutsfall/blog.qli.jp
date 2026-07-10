@@ -1,9 +1,6 @@
 ---
 title: 2008年を振り返る ; IT-Tech
-description: ''
-date: '2008-12-26T22:39:47.000Z'
-categories: []
-keywords: []
+date: "2008-12-26T22:39:47.000Z"
 tags: ["iphone", "android", "year-in-review"]
 slug: "7d5dc637-46d3-4f0f-85e2-d9a0acca0645"
 ---

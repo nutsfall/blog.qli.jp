@@ -1,9 +1,6 @@
 ---
 title: iTunes DJがすごい
-description: ''
-date: '2009-03-13T22:25:46.000Z'
-categories: []
-keywords: []
+date: "2009-03-13T22:25:46.000Z"
 tags: ["itunes", "apple"]
 slug: "21aadbbf-3eb2-4558-9993-f86696414cc8"
 ---

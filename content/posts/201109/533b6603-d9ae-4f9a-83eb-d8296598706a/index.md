@@ -1,9 +1,6 @@
 ---
 title: yuck at Shibuya
-description: ''
-date: '2011-09-15T22:12:10.000Z'
-categories: []
-keywords: []
+date: "2011-09-15T22:12:10.000Z"
 tags: ["yuck", "live-music"]
 slug: "533b6603-d9ae-4f9a-83eb-d8296598706a"
 ---

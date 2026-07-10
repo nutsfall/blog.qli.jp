@@ -1,15 +1,11 @@
 ---
 title: iPodファミリーが一新されました
-description: ""
 date: "2007-09-06T03:23:03.000Z"
-categories: []
-keywords: []
 tags: ["ipod", "apple", "iphone"]
 slug: "f379d4ca-b72a-40bd-8d4d-f9ff9717c1ad"
+cover:
+  image: "0__vK9BWfkZawBjwquO.jpg"
 ---
-![](0__vK9BWfkZawBjwquO.jpg)
-![]()
-
 リーク情報がいっぱいありすぎて、もう何が何だか分からない状態でしたが、今日ようやく jobs 自ら正解が発表されました。
 
 一つ一つの詳しいことを紹介してもしょうがないので、簡単に新しい iPod ファミリーを紹介しておきます。
@@ -25,7 +21,7 @@ slug: "f379d4ca-b72a-40bd-8d4d-f9ff9717c1ad"
 
 ついでなので商品の画像と言うことで iPod Touch の広告を載せておきます。また、Apple に問いあわせた方の情報によると、
 
-リンク: [Mac de Life:「Cover Flow」Apple を征す！](http://blog.livedoor.jp/mac_pb12_1ghz/archives/51044097.html "Mac de Life:「Cover Flow」Appleを征す！").
+[Mac de Life:「Cover Flow」Apple を征す！](http://blog.livedoor.jp/mac_pb12_1ghz/archives/51044097.html)
 
 > 漢字変換は OK です。  
 > スペースキーで変換、予測変換機能を搭載しているようです。  

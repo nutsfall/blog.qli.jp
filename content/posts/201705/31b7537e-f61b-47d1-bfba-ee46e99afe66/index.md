@@ -1,14 +1,11 @@
 ---
 title: Things 3のリリース日が発表された
-description: "「5月リリースとは言ったけど、さすがに1日じゃねーよ」"
-date: '2017-05-04T00:32:09.932Z'
-categories: []
-keywords: []
+date: "2017-05-04T00:32:09.932Z"
 tags: ["things", "productivity"]
 slug: "31b7537e-f61b-47d1-bfba-ee46e99afe66"
+cover:
+  image: "1__j1qUqRty7jozdDZBS1v9Lw.jpeg"
 ---
-![](1__j1qUqRty7jozdDZBS1v9Lw.jpeg)
-
 「5月リリースとは言ったけど、さすがに1日じゃねーよ」
 
 と言っていた Things 3 のリリース日がようやく発表されました。

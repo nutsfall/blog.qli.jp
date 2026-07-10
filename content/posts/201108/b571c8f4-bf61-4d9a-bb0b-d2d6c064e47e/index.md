@@ -1,9 +1,6 @@
 ---
 title: スクラムガイドがアップデートされた
-description: ''
-date: '2011-08-13T08:46:18.000Z'
-categories: []
-keywords: []
+date: "2011-08-13T08:46:18.000Z"
 tags: ["scrum", "agile"]
 slug: "b571c8f4-bf61-4d9a-bb0b-d2d6c064e47e"
 ---

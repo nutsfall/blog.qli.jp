@@ -1,9 +1,6 @@
 ---
 title: 僕らがTwitterにはまる理由
-description: ''
-date: '2007-05-27T21:57:14.000Z'
-categories: []
-keywords: []
+date: "2007-05-27T21:57:14.000Z"
 tags: ["twitter", "jaiku"]
 slug: "15fa0932-d0f2-4a89-be66-37390bf0c7a3"
 ---

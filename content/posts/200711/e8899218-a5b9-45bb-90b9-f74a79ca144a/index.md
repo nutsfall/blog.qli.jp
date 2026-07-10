@@ -1,9 +1,6 @@
 ---
-title: '旅立ちの唄 :: Mr.Children'
-description: ''
-date: '2007-11-02T22:52:56.000Z'
-categories: []
-keywords: []
+title: "旅立ちの唄 :: Mr.Children"
+date: "2007-11-02T22:52:56.000Z"
 tags: ["mr-children", "music"]
 slug: "e8899218-a5b9-45bb-90b9-f74a79ca144a"
 ---
@@ -11,13 +8,4 @@ slug: "e8899218-a5b9-45bb-90b9-f74a79ca144a"
 
 今回はミディアムバラード。第一印象といってもCDを買う前ですが、音の厚みがなくて…なんて感じでしたが、聞いていくうちにその不思議な存在感が感じられてくるというか。愛おしくて大切にしたい一曲という感じ。カップリングとして入っている「羊、吠える」も桜井さんならではの歌詞の世界がそこに展開されています。こんな歌詞をかける人ってそんなにいないだろうな。
 
-[旅立ちの唄](http://www.amazon.co.jp/exec/obidos/ASIN/B000VWZEOY/mrchildrenonl-22/ref=nosim "旅立ちの唄")
-
-*   アーチスト: Mr.Children
-*   レーベル: トイズファクトリー
-*   価格: ￥ 1,200
-*   発売日: 2007/10/31
-*   売上ランキング： 7
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/11/02
+[旅立ちの唄](https://www.amazon.co.jp/dp/B000VWZEOY)

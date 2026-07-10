@@ -1,15 +1,12 @@
 ---
 title: WWDC 2006 Keynote speech
-description: ''
-date: '2006-08-08T07:40:52.000Z'
-categories: []
-keywords: []
+date: "2006-08-08T07:40:52.000Z"
 tags: ["wwdc", "apple", "mac-os-x"]
 slug: "3b52581b-b1a6-44d0-8e9d-1da549305223"
 ---
 朝起きるとQuicktimeで配信されているので、朝からずっと見てました。長丁場でもう外出する時間になってしまったので最後まで見れなかったのが残念です。英語はわかんないですが（汗）、結構プレゼンテーションの勉強になりますね。でも、AppleってJobsさん以外もプレゼン上手いんだなぁと感心しきりでした。
 
-リンク: [アップル、次期Mac OS XのLeopardを「ちょい見せ」 — CNET Japan](http://japan.cnet.com/news/ent/story/0,2000056022,20194547,00.htm "アップル、次期Mac OS XのLeopardを「ちょい見せ」 - CNET Japan").
+[アップル、次期Mac OS XのLeopardを「ちょい見せ」 — CNET Japan](http://japan.cnet.com/news/ent/story/0,2000056022,20194547,00.htm)
 
 > サンフランシスコ発 — Apple Computerは米国時間8月7日、Intel製プロセッサを搭載した初めてのプロ向けデスクトップ「Mac Pro」を披露したほか、次期Mac OS X「Leopard」のプレビューを公開した。
 

@@ -1,9 +1,6 @@
 ---
 title: Appleが Google Voice的なサービスを始める？
-description: ''
-date: '2010-01-19T09:22:25.000Z'
-categories: []
-keywords: []
+date: "2010-01-19T09:22:25.000Z"
 tags: ["apple", "google-voice", "iphone"]
 slug: "e07b4e59-57d4-41c4-832b-fd3da09fc918"
 ---
@@ -11,7 +8,7 @@ slug: "e07b4e59-57d4-41c4-832b-fd3da09fc918"
 
 > ではなぜAppleは自ら３G回線経由のIP電話機能をiPhoneに搭載させようとしているのか。恐らくGoogle Voiceのような統合サービスに乗り出そうとしているんじゃないだろうか。Google Voiceって日本では使えないので、僕自身どのような機能なのか実はよく分かってないんだけど、固定電話や携帯電話、IP電話などの電話番号を１つの電話にまとめて、どこに電話がかかってきても転送されて、１つの電話で受け答えできるようなサービスのように思う。
 
-> \[From [Tech Wave : AppleがIP電話に乗り出す可能性とキャリアから主導権を奪う可能性](http://techwave.jp/archives/51372135.html)\]
+> [From [Tech Wave : AppleがIP電話に乗り出す可能性とキャリアから主導権を奪う可能性](http://techwave.jp/archives/51372135.html)]
 
 普段ついったーでコメントとともに紹介して終わりだったりするのだけれども、これはちょっとブログとしてまとめておきたかったのでポスト。
 

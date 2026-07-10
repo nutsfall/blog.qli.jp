@@ -1,9 +1,6 @@
 ---
 title: "「知らないと知らないこと」を知ること"
-description: 3連休ではライブ行ったり、サッカー見たり、読書したりしてました。
-date: '2024-07-20T11:40:32.563Z'
-categories: []
-keywords: []
+date: "2024-07-20T11:40:32.563Z"
 tags: ["reading", "information-literacy"]
 slug: "c51bb68c-e80d-4361-bd11-52756451cc76"
 ---
@@ -23,5 +20,4 @@ slug: "c51bb68c-e80d-4361-bd11-52756451cc76"
 
 この3連休で、やっと「 なぜ働いていると本が読めなくなるのか 」を読み終えることができました。
 
-[**_Amazon.co.jp: なぜ働いていると本が読めなくなるのか (集英社新書) eBook : 三宅香帆: Kindleストア_**  
-Amazon.co.jp: なぜ働いていると本が読めなくなるのか (集英社新書) eBook : 三宅香帆: Kindleストアwww.amazon.co.jp](https://www.amazon.co.jp/dp/B0CWYZ7PFB/ "https://www.amazon.co.jp/dp/B0CWYZ7PFB/")[](https://www.amazon.co.jp/dp/B0CWYZ7PFB/)
+[Amazon.co.jp: なぜ働いていると本が読めなくなるのか (集英社新書) eBook : 三宅香帆: Kindleストア](https://www.amazon.co.jp/dp/B0CWYZ7PFB)

@@ -1,9 +1,6 @@
 ---
 title: MobileMeとGmailとiPhoneと
-description: ''
-date: '2011-04-21T23:42:25.000Z'
-categories: []
-keywords: []
+date: "2011-04-21T23:42:25.000Z"
 tags: ["mobileme", "gmail", "iphone"]
 slug: "e18a22f4-c187-4974-a42f-f9d78631a16e"
 ---

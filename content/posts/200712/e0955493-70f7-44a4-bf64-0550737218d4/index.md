@@ -1,9 +1,6 @@
 ---
 title: 2007年のIT系を振り返ってみる
-description: ''
-date: '2007-12-28T23:45:15.000Z'
-categories: []
-keywords: []
+date: "2007-12-28T23:45:15.000Z"
 tags: ["twitter", "iphone", "tech-review"]
 slug: "e0955493-70f7-44a4-bf64-0550737218d4"
 ---

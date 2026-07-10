@@ -1,14 +1,11 @@
 ---
 title: iPhone の端子がUSB-Cになると変わるもの・変わらないもの
-description: ''
-date: '2023-08-26T03:02:25.567Z'
-categories: []
-keywords: []
+date: "2023-08-26T03:02:25.567Z"
 tags: ["iphone", "usb-c", "apple"]
 slug: "846fe61b-b734-4647-bc29-c74a5d95a5a1"
+cover:
+  image: "1__XegeXZ1gogwGEu7BLtWTVw.jpeg"
 ---
-![](1__XegeXZ1gogwGEu7BLtWTVw.jpeg)
-
 夏の暑さが落ち着き始めましたね。もしかしたら１ヶ月後には毎日手にしているiPhoneが違うものになってるかもしれない時期で、全世界の携帯電話業界が慌ただしくなる頃ではあります。
 
 Appleはいつもイベント開催の前週にしか正式に告知しないので、イベント開催日すらもざわざわっと噂になるわけですが、今年はいよいよiPhoneの端子がLightningからUSB-C端子に切り替わることが確実なのではないかということで、静かにざわついています。

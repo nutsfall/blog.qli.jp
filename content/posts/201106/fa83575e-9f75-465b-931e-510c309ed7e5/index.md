@@ -1,9 +1,6 @@
 ---
 title: Mzoneを解約した
-description: ''
-date: '2011-06-05T10:52:58.000Z'
-categories: []
-keywords: []
+date: "2011-06-05T10:52:58.000Z"
 tags: ["wifi", "docomo"]
 slug: "fa83575e-9f75-465b-931e-510c309ed7e5"
 ---

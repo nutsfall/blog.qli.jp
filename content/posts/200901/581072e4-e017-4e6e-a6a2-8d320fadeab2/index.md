@@ -1,9 +1,6 @@
 ---
 title: URL短縮サービス tr.im
-description: ''
-date: '2009-01-15T23:46:47.000Z'
-categories: []
-keywords: []
+date: "2009-01-15T23:46:47.000Z"
 tags: ["url-shortener", "twitter"]
 slug: "581072e4-e017-4e6e-a6a2-8d320fadeab2"
 ---

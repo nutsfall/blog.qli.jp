@@ -1,9 +1,6 @@
 ---
 title: Alexaをお迎えした
-description: 自宅にAlexaをお迎えしました。
-date: '2017-11-18T03:44:43.388Z'
-categories: []
-keywords: []
+date: "2017-11-18T03:44:43.388Z"
 tags: ["amazon-echo", "alexa", "smart-speaker"]
 slug: "3783b589-cd71-4c9f-b88e-9f9cc2ddab50"
 ---

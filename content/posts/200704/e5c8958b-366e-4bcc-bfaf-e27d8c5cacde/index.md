@@ -1,9 +1,6 @@
 ---
 title: del.icio.us feedながし
-description: ''
-date: '2007-04-19T13:20:00.000Z'
-categories: []
-keywords: []
+date: "2007-04-19T13:20:00.000Z"
 tags: ["delicious", "social-bookmarking"]
 slug: "e5c8958b-366e-4bcc-bfaf-e27d8c5cacde"
 ---

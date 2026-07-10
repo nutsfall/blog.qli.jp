@@ -1,15 +1,12 @@
 ---
 title: IE7における互換性問題
-description: ''
-date: '2006-10-21T20:55:25.000Z'
-categories: []
-keywords: []
+date: "2006-10-21T20:55:25.000Z"
 tags: ["ie7", "activex"]
 slug: "f6bf2daf-41ec-4cf4-81e6-5fb2ccd8d597"
 ---
 Inernet Explorer 7における互換性の問題はこれだと思う。
 
-リンク: [ITmedia News：Webブラウザ戦争に本格復帰したIE (1/6)](http://www.itmedia.co.jp/news/articles/0610/20/news074.html "ITmedia News：Webブラウザ戦争に本格復帰したIE (1/6)").
+[ITmedia News：Webブラウザ戦争に本格復帰したIE (1/6)](http://www.itmedia.co.jp/news/articles/0610/20/news074.html)
 
 > われわれはこれらの変更をおおむね支持している。IEのセキュリティ問題の主な原因の1つはActiveXだからだ。IE 7はActiveXとスクリプティングに強く反対しており、デフォルトではほとんどのインスタンスをオフにして、最も安全なコントロールとスクリプト以外は、ユーザーが幾つかの手順を踏まなければ有効にできないようにしている。
 

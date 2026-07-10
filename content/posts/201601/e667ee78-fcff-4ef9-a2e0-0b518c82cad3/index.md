@@ -1,9 +1,6 @@
 ---
 title: Parrot zik 3を買いました
-description: ''
-date: '2016-01-29T13:01:00.000Z'
-categories: []
-keywords: []
+date: "2016-01-29T13:01:00.000Z"
 tags: ["parrot-zik", "headphones", "noise-cancelling"]
 slug: "e667ee78-fcff-4ef9-a2e0-0b518c82cad3"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ケータイの絵文字が共通化
-description: ''
-date: '2012-04-18T18:27:17.000Z'
-categories: []
-keywords: []
+date: "2012-04-18T18:27:17.000Z"
 tags: ["emoji", "mobile-carriers"]
 slug: "fa165f9c-8540-468f-b658-744480fbe8fb"
 ---

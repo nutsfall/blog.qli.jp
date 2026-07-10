@@ -1,9 +1,6 @@
 ---
 title: MacBook Air (Late 2010) が届いた
-description: ''
-date: '2010-10-26T21:08:50.000Z'
-categories: []
-keywords: []
+date: "2010-10-26T21:08:50.000Z"
 tags: ["macbook-air", "apple"]
 slug: "94ff3e48-bd8f-4eff-8ccc-0535ffd2d0bd"
 ---

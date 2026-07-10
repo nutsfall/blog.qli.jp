@@ -1,9 +1,6 @@
 ---
 title: Google Location History がひっそりと登場
-description: ''
-date: '2010-05-27T08:34:14.000Z'
-categories: []
-keywords: []
+date: "2010-05-27T08:34:14.000Z"
 tags: ["google-latitude", "location-sharing"]
 slug: "4be4ec9c-4f4b-4ff5-bee1-6ebc6db26a2d"
 ---

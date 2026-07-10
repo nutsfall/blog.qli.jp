@@ -1,9 +1,6 @@
 ---
-title: '類似サービスのまとめ :: Like Twitter'
-description: ''
-date: '2007-05-19T09:28:56.000Z'
-categories: []
-keywords: []
+title: "類似サービスのまとめ :: Like Twitter"
+date: "2007-05-19T09:28:56.000Z"
 tags: ["twitter", "microblogging", "jaiku"]
 slug: "8809764f-5b5a-48d9-9549-131b3e333456"
 ---

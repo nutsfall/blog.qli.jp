@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: しるし : Mr.Children'
-description: ''
-date: '2006-11-16T23:12:20.000Z'
-categories: []
-keywords: []
+title: "On Vox: しるし : Mr.Children"
+date: "2006-11-16T23:12:20.000Z"
 tags: ["mr-children"]
 slug: "2667bbf6-f032-4a99-b8e8-e277583281fc"
 ---

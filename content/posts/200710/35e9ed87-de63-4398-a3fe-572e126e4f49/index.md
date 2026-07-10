@@ -1,9 +1,6 @@
 ---
 title: apbank fes’07 ダイジェスト版が地上波で登場
-description: ''
-date: '2007-10-31T18:14:14.000Z'
-categories: []
-keywords: []
+date: "2007-10-31T18:14:14.000Z"
 tags: ["ap-bank", "music"]
 slug: "35e9ed87-de63-4398-a3fe-572e126e4f49"
 ---

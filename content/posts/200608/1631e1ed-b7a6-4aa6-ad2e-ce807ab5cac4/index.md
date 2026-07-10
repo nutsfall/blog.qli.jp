@@ -1,9 +1,6 @@
 ---
 title: WEBの常識統一試験
-description: ""
 date: "2006-08-21T15:07:00.000Z"
-categories: []
-keywords: []
 tags: ["web-design", "quiz"]
 slug: "1631e1ed-b7a6-4aa6-ad2e-ce807ab5cac4"
 ---
@@ -13,8 +10,6 @@ slug: "1631e1ed-b7a6-4aa6-ad2e-ce807ab5cac4"
 **URL:** [http://book.mycom.co.jp/wd/exam/](http://book.mycom.co.jp/wd/exam/)
 
 **サムネイル画像:**
-
-![]()
 
 **コメント:**   
 WEB デザイナー向け雑誌 WEB Designing の企画サイト。

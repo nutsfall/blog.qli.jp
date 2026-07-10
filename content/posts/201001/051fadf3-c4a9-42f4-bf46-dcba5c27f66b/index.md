@@ -1,9 +1,6 @@
 ---
 title: ソニーエリクソン Xperiaを触ってきた
-description: ''
-date: '2010-01-22T00:03:46.000Z'
-categories: []
-keywords: []
+date: "2010-01-22T00:03:46.000Z"
 tags: ["xperia", "android"]
 slug: "051fadf3-c4a9-42f4-bf46-dcba5c27f66b"
 ---

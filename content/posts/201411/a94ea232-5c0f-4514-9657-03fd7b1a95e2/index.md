@@ -1,9 +1,6 @@
 ---
 title: Parrot Zik 2.0 ファーストインプレッション
-description: ''
-date: '2014-11-18T22:56:47.000Z'
-categories: []
-keywords: []
+date: "2014-11-18T22:56:47.000Z"
 tags: ["parrot-zik", "headphones"]
 slug: "a94ea232-5c0f-4514-9657-03fd7b1a95e2"
 ---
@@ -15,10 +12,9 @@ slug: "a94ea232-5c0f-4514-9657-03fd7b1a95e2"
 
 Parrot Zikの詳細はこちらです；
 
-[**パロットZik 2.0 - 世界最先端のヘッドホン**  
-_Parrot Zik 2.0, le casque sans fil à la pointe de la technologie - Bluetooth - Effet Concert Hall - Annulation du bruit…_www.parrot.com](http://www.parrot.com/jp/products/zik2/ "http://www.parrot.com/jp/products/zik2/")[](http://www.parrot.com/jp/products/zik2/)
+[パロットZik 2.0 - 世界最先端のヘッドホン](http://www.parrot.com/jp/products/zik2/)
 
-#### 新しい時代のヘッドフォン
+## 新しい時代のヘッドフォン
 
 このヘッドフォンは、使っている間に調整できることがたくさんあります。音場の広さや、左右のチャンネルの角度、それからノイズキャンセリングの強さです。Bluetoothヘッドフォンなのでもちろん中にアンプを内蔵しているのですが、その音の傾向も変更することが可能です。そしてそれらの変更はすべてiPhoneにインストールしたアプリで行います。ヘッドフォンにソフトウェアのバージョンがあったりします。
 
@@ -26,12 +22,12 @@ _Parrot Zik 2.0, le casque sans fil à la pointe de la technologie - Bluetooth -
 
 自分の好みははっきりしているので、設定を何度も変更することはないですが。
 
-#### 音質は特に気にならず
+## 音質は特に気にならず
 
 こういうヘッドフォンで気になるのがその音質。Parrot Zikのレビュー調べても言及しているものが多くなかったのです。
 
 音質がとてもいいということはないです。が、聞いていて疲れない音だなというのは感じますし、外で聞いても満足できるくらいには低音も聞いている。なんにせよ、ノイズキャンセリングが聞いているので、しっかりと音楽を楽しめる感じです。
 
-#### 一番気になるのはバッテリの持ち
+## 一番気になるのはバッテリの持ち
 
 通勤で使うという場合は毎日充電が必要でしょうか？そんな印象を持ちました。自分は飛行機内で使う予定なのですが、ドアtoドアでつけられないかもなという心配はあったりします。

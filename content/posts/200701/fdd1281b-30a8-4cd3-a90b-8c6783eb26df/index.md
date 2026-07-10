@@ -1,9 +1,6 @@
 ---
 title: Last.fm Software 英語版でうまく曲情報を渡せない問題
-description: ''
-date: '2007-01-05T02:10:01.000Z'
-categories: []
-keywords: []
+date: "2007-01-05T02:10:01.000Z"
 tags: ["last-fm", "scrobbling"]
 slug: "fdd1281b-30a8-4cd3-a90b-8c6783eb26df"
 ---

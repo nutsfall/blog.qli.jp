@@ -1,9 +1,6 @@
 ---
 title: iPhone 5s ファーストインプレッション
-description: ''
-date: '2013-09-23T21:08:34.000Z'
-categories: []
-keywords: []
+date: "2013-09-23T21:08:34.000Z"
 tags: ["iphone-5s", "touch-id"]
 slug: "a83bb1aa-3773-423f-a014-3e36241c29e7"
 ---
@@ -11,13 +8,13 @@ slug: "a83bb1aa-3773-423f-a014-3e36241c29e7"
 
 発売開始当日は、予約販売がなかったiPhone 5sを買い求める客を中心に各地で行列ができ、docomoは丸の内で、Softbankは銀座で、auは原宿で、それぞれ発売開始イベントを行ったようです。また毎年恒例のキャリアのシステムトラブルも発生(au/docomo)。今回はそれほどひどいものではなく、2，3時間程度ではおさまっていました。
 
-#### iPhone 5sを購入
+## iPhone 5sを購入
 
 今回はiPhone5s 64GB Space Grayを購入するためにApple Store 渋谷に並ぶことにしました。キャリアショップや家電量販店では様々な理由で購入しないことを決めています。
 
 システムトラブルの影響を受け、少し遅くなってしまいましたが、当日には無事機種変更手続きを済ませました。
 
-#### iPhone 5s First impression
+## iPhone 5s First impression
 
 今回の機種変更の最大の理由は、au LTEの 800MHzサポートに他なりません。外観のデザインでは、iPhone 5sのSpace Grayよりも、iPhone 5 black の方が好みです。
 

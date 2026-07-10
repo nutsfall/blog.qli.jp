@@ -1,9 +1,6 @@
 ---
 title: MacBook Airが即購入とならない理由
-description: ''
-date: '2008-01-17T23:24:50.000Z'
-categories: []
-keywords: []
+date: "2008-01-17T23:24:50.000Z"
 tags: ["macbook-air", "apple"]
 slug: "3faf1c2c-3a34-445a-b4ed-9757349e2c49"
 ---
@@ -11,7 +8,7 @@ MacBook Airについて、おもしろい記事があったので紹介してお
 
 > MacBook Airは、「引き算のデザイン」を実践した極めてアップルらしいプロダクトなのだ。「あれもこれもあれば便利だろう」と機能を追加してお得感を出すのではなく、機能を削ってシンプルで分かりやすくするという手法になる。
 
-> \[From [MacBook Airの神髄は「引き算のデザイン」](http://ascii.jp/elem/000/000/100/100500/)\]
+> [From [MacBook Airの神髄は「引き算のデザイン」](http://ascii.jp/elem/000/000/100/100500/)]
 
 今MacBookを使って書いているのですが、MacBook Airの基本装備以外につながっているものと言えば、iPod TouchとTimeMachine用の外付けHDD、そして内蔵されたDVDドライブだけ。USBは2ポートなのですが、これ以上つながることはありません。
 

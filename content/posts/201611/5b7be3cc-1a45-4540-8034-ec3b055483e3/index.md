@@ -1,9 +1,6 @@
 ---
 title: アビスパ福岡とJ1リーグの2016年
-description: J1降格となった。でも久しぶりのJ1は本当に楽しかった。
-date: '2016-11-12T04:39:47.303Z'
-categories: []
-keywords: []
+date: "2016-11-12T04:39:47.303Z"
 tags: ["avispa-fukuoka", "j-league"]
 slug: "5b7be3cc-1a45-4540-8034-ec3b055483e3"
 ---

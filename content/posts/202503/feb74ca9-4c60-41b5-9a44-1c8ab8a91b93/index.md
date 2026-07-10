@@ -1,9 +1,6 @@
 ---
 title: 映画「ネムルバカ」についての雑談
-description: ''
-date: '2025-03-29T03:07:14.912Z'
-categories: []
-keywords: []
+date: "2025-03-29T03:07:14.912Z"
 tags: ["nemurubaka", "nogizaka46", "film"]
 slug: "feb74ca9-4c60-41b5-9a44-1c8ab8a91b93"
 ---

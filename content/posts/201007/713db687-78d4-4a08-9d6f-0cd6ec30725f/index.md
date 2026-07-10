@@ -1,9 +1,6 @@
 ---
 title: MobileMe カレンダー ベータ
-description: ''
-date: '2010-07-10T19:38:36.000Z'
-categories: []
-keywords: []
+date: "2010-07-10T19:38:36.000Z"
 tags: ["mobileme", "apple", "cloud-storage"]
 slug: "713db687-78d4-4a08-9d6f-0cd6ec30725f"
 ---

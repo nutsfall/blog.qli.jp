@@ -1,9 +1,6 @@
 ---
 title: しあわせのパン
-description: ''
-date: '2012-01-28T09:27:28.000Z'
-categories: []
-keywords: []
+date: "2012-01-28T09:27:28.000Z"
 tags: ["shiawase-no-pan", "film"]
 slug: "f973fb26-afdd-41b5-9593-5fdece778c3b"
 ---

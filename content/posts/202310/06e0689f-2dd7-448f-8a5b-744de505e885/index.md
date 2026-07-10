@@ -1,9 +1,6 @@
 ---
 title: USB-Cでうれしい？
-description: ''
-date: '2023-10-07T03:01:35.842Z'
-categories: []
-keywords: []
+date: "2023-10-07T03:01:35.842Z"
 tags: ["usb-c", "iphone-15-pro", "anker"]
 slug: "06e0689f-2dd7-448f-8a5b-744de505e885"
 ---

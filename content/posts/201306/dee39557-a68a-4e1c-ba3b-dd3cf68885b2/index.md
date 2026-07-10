@@ -1,9 +1,6 @@
 ---
 title: Eye-fi mobiを買わないたったひとつの理由
-description: ''
-date: '2013-06-22T10:39:19.000Z'
-categories: []
-keywords: []
+date: "2013-06-22T10:39:19.000Z"
 tags: ["eye-fi", "photography"]
 slug: "dee39557-a68a-4e1c-ba3b-dd3cf68885b2"
 ---

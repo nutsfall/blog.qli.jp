@@ -1,9 +1,6 @@
 ---
 title: tweetに対する反応の仕方
-description: ''
-date: '2010-01-22T23:43:44.000Z'
-categories: []
-keywords: []
+date: "2010-01-22T23:43:44.000Z"
 tags: ["twitter"]
 slug: "4176b666-6b08-4b73-b451-55ea46325374"
 ---

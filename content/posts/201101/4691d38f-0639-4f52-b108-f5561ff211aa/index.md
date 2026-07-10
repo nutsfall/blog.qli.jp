@@ -1,9 +1,6 @@
 ---
 title: Facebookが流行るとか、流行らないとか
-description: ''
-date: '2011-01-14T20:47:58.000Z'
-categories: []
-keywords: []
+date: "2011-01-14T20:47:58.000Z"
 tags: ["facebook", "mixi", "social-network"]
 slug: "4691d38f-0639-4f52-b108-f5561ff211aa"
 ---

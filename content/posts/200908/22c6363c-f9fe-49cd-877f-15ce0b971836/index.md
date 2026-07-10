@@ -1,9 +1,6 @@
 ---
 title: GTDのタスク管理を完全にOFに移行したよ
-description: ''
-date: '2009-08-08T23:11:33.000Z'
-categories: []
-keywords: []
+date: "2009-08-08T23:11:33.000Z"
 tags: ["omnifocus", "gtd"]
 slug: "22c6363c-f9fe-49cd-877f-15ce0b971836"
 ---

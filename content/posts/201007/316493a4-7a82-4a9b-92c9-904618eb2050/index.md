@@ -1,9 +1,6 @@
 ---
 title: Things Touch 1.6 で日本語バグが解決
-description: ''
-date: '2010-07-27T21:42:09.000Z'
-categories: []
-keywords: []
+date: "2010-07-27T21:42:09.000Z"
 tags: ["things", "ios4"]
 slug: "316493a4-7a82-4a9b-92c9-904618eb2050"
 ---

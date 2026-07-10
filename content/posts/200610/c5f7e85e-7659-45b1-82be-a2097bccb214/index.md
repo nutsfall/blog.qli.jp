@@ -1,15 +1,12 @@
 ---
 title: SunbirdとLightning
-description: ''
-date: '2006-10-11T14:03:39.000Z'
-categories: []
-keywords: []
+date: "2006-10-11T14:03:39.000Z"
 tags: ["sunbird", "lightning", "mozilla"]
 slug: "c5f7e85e-7659-45b1-82be-a2097bccb214"
 ---
 MozillaのカレンダープロジェクトであるSunbirdとLightningのバージョン0.3が公開されました。0.3なので、まだまだ実用向けではないはずなので、ご注意を。
 
-リンク: [Calendar Weblog: Sunbird & Lightning 0.3 Released](http://weblogs.mozillazine.org/calendar/2006/10/sunbird_lightning_03_released.html "Calendar Weblog: Sunbird & Lightning 0.3 Released").
+[Calendar Weblog: Sunbird & Lightning 0.3 Released](http://weblogs.mozillazine.org/calendar/2006/10/sunbird_lightning_03_released.html)
 
 > The Mozilla Calendar Project is pleased to announce the release of  
 > Sunbird and Lightning 0.3.

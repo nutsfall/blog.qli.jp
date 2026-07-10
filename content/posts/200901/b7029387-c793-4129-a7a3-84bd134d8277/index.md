@@ -1,9 +1,6 @@
 ---
 title: Skype 2.8 beta for Macがリリース
-description: ''
-date: '2009-01-07T09:55:16.000Z'
-categories: []
-keywords: []
+date: "2009-01-07T09:55:16.000Z"
 tags: ["skype", "mac"]
 slug: "b7029387-c793-4129-a7a3-84bd134d8277"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 最良のモバイル環境を紐解いてみたい
-description: ''
-date: '2008-01-05T00:40:28.000Z'
-categories: []
-keywords: []
+date: "2008-01-05T00:40:28.000Z"
 tags: ["mobile", "ipod-touch", "wifi"]
 slug: "c56f0d12-ef1d-4dd7-a21b-e1a1ca8353fe"
 ---

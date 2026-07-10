@@ -1,9 +1,6 @@
 ---
 title: チャットのやりとりも監視されている？
-description: ''
-date: '2007-08-06T20:55:17.000Z'
-categories: []
-keywords: []
+date: "2007-08-06T20:55:17.000Z"
 tags: ["instant-messaging", "privacy", "msn-messenger"]
 slug: "a79ff4b3-1590-4090-a692-c17c59b236e3"
 ---

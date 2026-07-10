@@ -1,15 +1,12 @@
 ---
 title: 何が登場するのか
-description: ''
-date: '2007-08-02T22:16:43.000Z'
-categories: []
-keywords: []
+date: "2007-08-02T22:16:43.000Z"
 tags: ["apple", "mac"]
 slug: "0236a864-02fc-448c-a598-87b5f6829b8e"
 ---
 8月7日にAppleが何らかの発表を行うらしいというウワサが流れて、しばらく経つのですが、あらゆるメディアにAppleが発表会を行うというニュースが掲載され始めました。
 
-リンク: [新型Mac登場か？ Appleが8月7日に発表会 — ITmedia News](http://www.itmedia.co.jp/news/articles/0708/02/news049.html "新型Mac登場か？　Appleが8月7日に発表会 - ITmedia News").
+[新型Mac登場か？ Appleが8月7日に発表会 — ITmedia News](http://www.itmedia.co.jp/news/articles/0708/02/news049.html)
 
 > 米Appleの広報担当は7月31日、報道機関に電話で連絡を行い、8月7日にカリフォルニア州クパチーノの本社で行うプレスイベントに招待した。同社はこのイベントでMac関連の発表を行うと説明している。それ以上の詳細は明らかにされていないが、どうやらこのイベントでは、iPhoneやiTunes、iPodではなく、Appleのコア製品であるMacintoshコンピュータに関する発表のみが行われるようだ。
 

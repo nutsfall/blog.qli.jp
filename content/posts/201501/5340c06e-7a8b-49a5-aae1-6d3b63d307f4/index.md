@@ -1,9 +1,6 @@
 ---
 title: ジョニーアイブの本を読んだ
-description: ''
-date: '2015-01-19T12:39:57.000Z'
-categories: []
-keywords: []
+date: "2015-01-19T12:39:57.000Z"
 tags: ["jony-ive", "apple", "book-review"]
 slug: "5340c06e-7a8b-49a5-aae1-6d3b63d307f4"
 ---

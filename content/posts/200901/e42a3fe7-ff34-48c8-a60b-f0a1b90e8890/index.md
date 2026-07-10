@@ -1,9 +1,6 @@
 ---
 title: 春モデルは楽しくない
-description: ''
-date: '2009-01-31T11:36:45.000Z'
-categories: []
-keywords: []
+date: "2009-01-31T11:36:45.000Z"
 tags: ["mobile", "iphone", "japanese-carriers"]
 slug: "e42a3fe7-ff34-48c8-a60b-f0a1b90e8890"
 ---

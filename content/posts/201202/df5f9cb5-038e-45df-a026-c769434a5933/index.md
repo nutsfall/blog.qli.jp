@@ -1,15 +1,12 @@
 ---
 title: Salyu 2夜ライブ
-description: ''
-date: '2012-02-02T23:36:57.000Z'
-categories: []
-keywords: []
+date: "2012-02-02T23:36:57.000Z"
 tags: ["salyu", "live-music"]
 slug: "df5f9cb5-038e-45df-a026-c769434a5933"
 ---
 Salyuさんのライブに2夜連続行きました。2月1日 salyu x salyu + Salyu＠代官山UNIT、そして2月2日 Salyuインストアライブ＠タワーレコード渋谷。
 
-#### **salyu x salyu + Salyu**
+## **salyu x salyu + Salyu**
 
 Salyuの特別プロジェクト salyu x salyu と Salyuの対バン構成。DVDをリリースしたsalyu x salyuとシングルをリリースしたSalyuの、リリースパーティという位置づけだったみたいですね。
 
@@ -17,7 +14,7 @@ Salyuの特別プロジェクト salyu x salyu と Salyuの対バン構成。DVD
 
 次に行われたのが Salyu ソロライブ。ちょっとアコースティックな布陣で行われました。本当に伸びやかなSalyuの声を堪能しました。
 
-#### **インストアライブ**
+## **インストアライブ**
 
 タワーレコード渋谷のインストアライブスペースは初めてだったのですが、それなりにスペースのある会場でしたね。整理番号も小さかったので前の方で見ることができました。
 
@@ -25,5 +22,4 @@ Salyuの特別プロジェクト salyu x salyu と Salyuの対バン構成。DVD
 
 ライブが終わった後は、握手会。Salyuさんと少しおはなしできました。あれだけ多くの人と短時間に会うんだからあんまり覚えてない気もしますが。
 
-[**Salyuの「photogenic」を iTunes で**  
-_"camera"、"LIFE(ライフ)"、"magic"とその他を含む、アルバム「photogenic」の曲をプレビュー、購入、ダウンロード。 アルバムを ¥2,000 で購入。 曲を ¥250 から。_itunes.apple.com](https://itunes.apple.com/jp/album/photogenic/id522027429 "https://itunes.apple.com/jp/album/photogenic/id522027429")[](https://itunes.apple.com/jp/album/photogenic/id522027429)
+[Salyuの「photogenic」を iTunes で](https://itunes.apple.com/jp/album/photogenic/id522027429)

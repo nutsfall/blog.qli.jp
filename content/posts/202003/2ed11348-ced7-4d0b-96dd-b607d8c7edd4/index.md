@@ -1,9 +1,6 @@
 ---
 title: 今年のアビスパ はこれまでと違う
-description: 2020年2月23日、ミクニワールドスタジアムで開催された ギラヴァンツ北九州 vs アビスパ福岡の試合を見に行きました。
 date: "2020-03-02T10:58:31.691Z"
-categories: []
-keywords: []
 tags: ["avispa-fukuoka", "j-league", "giravanz-kitakyushu"]
 slug: "2ed11348-ced7-4d0b-96dd-b607d8c7edd4"
 cover:

@@ -1,9 +1,6 @@
 ---
 title: TypePad Connect
-description: ''
-date: '2008-11-24T22:04:44.000Z'
-categories: []
-keywords: []
+date: "2008-11-24T22:04:44.000Z"
 tags: ["typepad", "blogging"]
 slug: "c4ba026c-6e66-4984-9379-603dcaa8b5f9"
 ---

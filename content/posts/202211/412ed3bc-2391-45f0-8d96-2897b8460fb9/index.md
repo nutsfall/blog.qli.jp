@@ -2,8 +2,6 @@
 title: 久しぶりの長距離移動の旅
 description: 8か月ぶりに福岡へ、3年ぶりに実家へ
 date: "2022-11-02T15:15:14.210Z"
-categories: []
-keywords: []
 tags: ["avispa-fukuoka", "j-league", "travel"]
 slug: "412ed3bc-2391-45f0-8d96-2897b8460fb9"
 cover:

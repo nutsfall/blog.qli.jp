@@ -1,9 +1,6 @@
 ---
 title: 仕様変更があったApple Store
-description: ''
-date: '2007-06-19T09:30:51.000Z'
-categories: []
-keywords: []
+date: "2007-06-19T09:30:51.000Z"
 tags: ["apple", "apple-store"]
 slug: "e781d842-3202-43a2-b0e1-a12896340a14"
 ---

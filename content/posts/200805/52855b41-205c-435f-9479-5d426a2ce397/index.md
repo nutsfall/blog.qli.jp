@@ -1,9 +1,6 @@
 ---
 title: タスク管理ツールで必要なこと
-description: ''
-date: '2008-05-18T20:33:17.000Z'
-categories: []
-keywords: []
+date: "2008-05-18T20:33:17.000Z"
 tags: ["task-management", "gtd", "omnifocus"]
 slug: "52855b41-205c-435f-9479-5d426a2ce397"
 ---

@@ -1,9 +1,6 @@
 ---
 title: feedlyに Pro が登場
-description: ''
-date: '2013-08-05T22:01:47.000Z'
-categories: []
-keywords: []
+date: "2013-08-05T22:01:47.000Z"
 tags: ["feedly", "rss"]
 slug: "7a045c1b-fae2-4b24-bf58-89dee1b021f0"
 ---

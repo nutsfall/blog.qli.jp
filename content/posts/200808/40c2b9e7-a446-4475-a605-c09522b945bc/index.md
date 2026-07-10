@@ -1,9 +1,6 @@
 ---
-title: 'もっと遠くへ : レミオロメン'
-description: ''
-date: '2008-08-02T10:14:34.000Z'
-categories: []
-keywords: []
+title: "もっと遠くへ : レミオロメン"
+date: "2008-08-02T10:14:34.000Z"
 tags: ["remioromen", "music-review"]
 slug: "40c2b9e7-a446-4475-a605-c09522b945bc"
 ---
@@ -17,11 +14,4 @@ slug: "40c2b9e7-a446-4475-a605-c09522b945bc"
 
 ちなみにこれを書いた現在(8/2)では、レーベルがビクターになっているのですが、本当はスピードスターレコーズです。くるりとかと同じレーベルです。なので、Amazonに修正依頼をしておきました。
 
-[もっと遠くへ/オーケストラ](http://www.amazon.co.jp/exec/obidos/ASIN/B001AT5FDC/qli-22/ref=nosim "もっと遠くへ/オーケストラ")
-
-*   アーチスト: レミオロメン
-*   レーベル: ビクターエンタテインメント
-*   発売日: 2008/07/30
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/08/02
+[もっと遠くへ/オーケストラ](https://www.amazon.co.jp/dp/B001AT5FDC)

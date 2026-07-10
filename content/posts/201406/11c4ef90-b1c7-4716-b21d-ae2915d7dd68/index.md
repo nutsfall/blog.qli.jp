@@ -1,9 +1,6 @@
 ---
 title: カジュアルなブルー
-description: ''
-date: '2014-06-15T11:47:13.554Z'
-categories: []
-keywords: []
+date: "2014-06-15T11:47:13.554Z"
 tags: ["world-cup", "j-league"]
 slug: "11c4ef90-b1c7-4716-b21d-ae2915d7dd68"
 ---

@@ -1,17 +1,13 @@
 ---
 title: コーヒーを飲みながら「今日」を確認する
-description: ""
 date: "2024-03-02T03:01:54.149Z"
-categories: []
-keywords: []
 tags: ["bluesky", "omnifocus"]
 slug: "cfe11299-88d1-4695-af0a-39df1cb9bfe4"
 ---
 
 3 月に入りましたね。今日は、Threads と Bluesky でハッシュタグのサポートが弱いよね。Twitter で一番大きいのはそれなので、使い分けされるかもね、みたいな記事を用意していましたが、Bluesky が見事にハッシュタグサポートをリリースしたので、ボツになりました。Bluesky は本当によいマイクロブログになってくれると思うので、今後に期待したいと思います。
 
-[**Bluesky (@bsky.app)**  
-\_📢 App Version 1.70 is rolling out now (1/6) Hashtags! You can now use #hashtags in your posts. When you tap them…\_bsky.app](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t "https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t")[](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t)
+[Bluesky (@bsky.app)](https://bsky.app/profile/bsky.app/post/3kmjbfqrrbu2t)
 
 というわけで。以前、OmniFocus の記事を書いたことがあります。ここは個人的なブログなので、決して SEO 的なことには興味がありませんが、それでも多くの方に読んでいただいているようです。
 

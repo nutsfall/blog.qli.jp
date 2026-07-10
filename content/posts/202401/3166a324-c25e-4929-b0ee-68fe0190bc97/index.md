@@ -1,21 +1,18 @@
 ---
 title: Things by Cultured Codeを運用するためのショートカット3つ
-description: 年が明けて最初の月ももうすぐ半分が過ぎ去ろうとしていますね。1月ということで、昨年のふりかえりをしたり、カレンダーや手帳を新調したり、今年の抱負を考えたり、そういう人も多いのかなと思います。もしかしたら、年末年始に過ごした地元から離れて、少しロスっぽい気持ちになっている人もいるか
-date: '2024-01-13T03:01:39.536Z'
-categories: []
-keywords: []
+date: "2024-01-13T03:01:39.536Z"
 tags: ["things", "ios-shortcuts", "productivity"]
 slug: "3166a324-c25e-4929-b0ee-68fe0190bc97"
 ---
 年が明けて最初の月ももうすぐ半分が過ぎ去ろうとしていますね。1月ということで、昨年のふりかえりをしたり、カレンダーや手帳を新調したり、今年の抱負を考えたり、そういう人も多いのかなと思います。もしかしたら、年末年始に過ごした地元から離れて、少しロスっぽい気持ちになっている人もいるかもしれません。
 
-#### 今年達成したいことを達成するために何をするか
+## 今年達成したいことを達成するために何をするか
 
 今年の抱負、やりたいこと・やるべきことを決めたら、それを具体的に実行できるアクションに落とし込む必要があります。自己啓発的には。リマインダーアプリは、ブレイクダウンし切ったアクションをリスト化したものを覚えててもらうには素晴らしい手段だと思います。ただし、リマインダーアプリは継続的に見る習慣をつけましょう。（つまり、毎日使ういつものツールにしましょう）
 
 脱線しますが、自分の場合、ブレイクダウンは、マインドマップを使うことが多いです。今はMindNodeを使っています。ブログの文章を練るときにもよく使います。
 
-#### シンプルなリマインダーアプリ Things by Cultured Code
+## シンプルなリマインダーアプリ Things by Cultured Code
 
 リマインダーアプリとして、ここではCultured codeが出しているThingsを紹介します。
 
@@ -43,12 +40,11 @@ Thingsは、Appleの生態系の中で生きているシンプルなツールで
 
 期限が近いものはチェックしましょう。Thingsでは「いつか」に入ってるTo-Doは自動的に「今日」に入れてくれないので、気づかないままということもあります。
 
-#### 簡単につくれるショートカット
+## 簡単につくれるショートカット
 
 Thingsはショートカットとの連携も充実していて、サンプルも公開してくれているので、比較的簡単に作ることができました。
 
-[**Using Apple Shortcuts**  
-_Learn how to use the Shortcuts app with Things to speed up common actions, such as creating to-dos with pre-filled…_culturedcode.com](https://culturedcode.com/things/support/articles/2955145/ "https://culturedcode.com/things/support/articles/2955145/")[](https://culturedcode.com/things/support/articles/2955145/)
+[Using Apple Shortcuts](https://culturedcode.com/things/support/articles/2955145/)
 
 Thingsの使い方を書いた文章は多く見ることはないのですが、OSの機能を最大限活かしながら強化されるツールなので、AppleのOSが好きな方にはぜひ選択肢に入れてほしいと思います。  
 一般名称であるThingsをアプリ名として使っているところにもその思想が現れているなと勝手に思っています。故に、情報に埋もれがちですね。

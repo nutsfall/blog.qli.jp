@@ -1,9 +1,6 @@
 ---
 title: 新Google Map
-description: ''
-date: '2006-09-26T19:57:30.000Z'
-categories: []
-keywords: []
+date: "2006-09-26T19:57:30.000Z"
 tags: ["google-maps"]
 slug: "f3fcb958-8925-420e-ba66-74025625aa43"
 ---
@@ -12,6 +9,6 @@ Google Mapが新しくなりました。
 
 巨大になったGoogleのひとりひとりのフットワークの軽さが今のGoogleを支えているのかもしれませんね。
 
-リンク: [Google Japan Blog: 新しいGoogleマップのご紹介](http://googlejapan.blogspot.com/2006/09/google_26.html "Google Japan Blog: 新しいGoogleマップのご紹介").
+[Google Japan Blog: 新しいGoogleマップのご紹介](http://googlejapan.blogspot.com/2006/09/google_26.html)
 
 > こんにちは、Google のエンジニアのクリスです。今日は、Google マップというサービスを発表させていただきたいと思います。

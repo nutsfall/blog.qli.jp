@@ -1,9 +1,6 @@
 ---
 title: イノベーション
-description: ''
-date: '2013-11-21T00:59:56.859Z'
-categories: []
-keywords: []
+date: "2013-11-21T00:59:56.859Z"
 tags: ["innovation", "lean-startup", "design-thinking"]
 slug: "14a782b6-7e20-444a-9780-4e62623603e3"
 ---

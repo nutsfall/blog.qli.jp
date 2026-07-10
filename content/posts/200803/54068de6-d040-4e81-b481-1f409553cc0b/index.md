@@ -1,9 +1,6 @@
 ---
 title: 続報：AirMacExtreme(7.2.1)におけるUSB接続ディスクの問題
-description: ""
 date: "2008-03-01T18:53:03.000Z"
-categories: []
-keywords: []
 tags: ["airport-extreme", "apple", "mac"]
 slug: "54068de6-d040-4e81-b481-1f409553cc0b"
 ---
@@ -12,7 +9,7 @@ slug: "54068de6-d040-4e81-b481-1f409553cc0b"
 
 > このトラブルは単純で、一度 AirMacDisk をマウントして、そのまま Mac をスリープさせたあと、復帰すると AirMacDisk のマウントが勝手に接続解除になり、以降 Mac 側から AirMacDisk が見えなくなってしまうためマウントできなくなるという問題です。
 
-> \[From [きゅーり.jp: AirMacExtreme(7.2.1)における USB 接続ディスクの問題](http://blog.qli.jp/2008/01/airmacextreme72.html)\]
+> [From [きゅーり.jp: AirMacExtreme(7.2.1)における USB 接続ディスクの問題](http://blog.qli.jp/2008/01/airmacextreme72.html)]
 
 Time Capsule が出荷開始となり、Apple Store Shibuya/Ginza 両店でも展示と販売が開始されました。
 

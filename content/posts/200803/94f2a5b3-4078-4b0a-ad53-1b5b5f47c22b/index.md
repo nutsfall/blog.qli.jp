@@ -1,9 +1,6 @@
 ---
 title: jaikuの招待可能数が復活した
-description: ''
-date: '2008-03-30T20:05:02.000Z'
-categories: []
-keywords: []
+date: "2008-03-30T20:05:02.000Z"
 tags: ["jaiku", "google"]
 slug: "94f2a5b3-4078-4b0a-ad53-1b5b5f47c22b"
 ---

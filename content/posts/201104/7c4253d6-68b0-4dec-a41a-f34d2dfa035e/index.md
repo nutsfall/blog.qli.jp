@@ -1,9 +1,6 @@
 ---
 title: iPad 2 が発売された
-description: ''
-date: '2011-04-28T21:50:40.000Z'
-categories: []
-keywords: []
+date: "2011-04-28T21:50:40.000Z"
 tags: ["ipad", "apple"]
 slug: "7c4253d6-68b0-4dec-a41a-f34d2dfa035e"
 ---

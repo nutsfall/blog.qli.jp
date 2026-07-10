@@ -1,9 +1,6 @@
 ---
 title: トラベラーズノートを買ってみた
-description: ''
-date: '2012-09-02T14:35:13.000Z'
-categories: []
-keywords: []
+date: "2012-09-02T14:35:13.000Z"
 tags: ["travelers-notebook", "stationery", "hobonichi"]
 slug: "759d6641-b054-468d-84cc-fbfe19be1f10"
 ---

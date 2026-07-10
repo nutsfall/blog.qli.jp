@@ -1,9 +1,6 @@
 ---
 title: Things Cloud Syncのテスト開始が予告
-description: ''
-date: '2011-03-29T21:34:27.000Z'
-categories: []
-keywords: []
+date: "2011-03-29T21:34:27.000Z"
 tags: ["things", "gtd", "cultured-code"]
 slug: "327093a3-d3f9-406f-a9ad-964bba0e5ddd"
 ---

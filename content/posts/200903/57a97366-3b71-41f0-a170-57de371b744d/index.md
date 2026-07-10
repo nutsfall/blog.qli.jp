@@ -1,9 +1,6 @@
 ---
 title: ハッシュタグつかおーぜ！
-description: ''
-date: '2009-03-14T12:02:34.000Z'
-categories: []
-keywords: []
+date: "2009-03-14T12:02:34.000Z"
 tags: ["twitter", "hashtag"]
 slug: "57a97366-3b71-41f0-a170-57de371b744d"
 ---

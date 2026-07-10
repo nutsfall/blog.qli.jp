@@ -1,9 +1,6 @@
 ---
 title: ウェブ人間論読みました
-description: ''
-date: '2006-12-25T22:17:09.000Z'
-categories: []
-keywords: []
+date: "2006-12-25T22:17:09.000Z"
 tags: ["web2.0", "book-review"]
 slug: "3b718152-0e2f-4b0c-995c-6c6a14727f1b"
 ---
@@ -21,5 +18,5 @@ slug: "3b718152-0e2f-4b0c-995c-6c6a14727f1b"
 
 “ウェブ人間論”とすこしかけ離れてしまいましたけど、感じたことをストレートに書いてみました。
 
-[ウェブ人間論](http://www.amazon.co.jp/exec/obidos/ASIN/4106101939/mrchildrenonl-22/)  
+[ウェブ人間論](https://www.amazon.co.jp/dp/4106101939)  
 梅田 望夫 平野 啓一郎

@@ -1,9 +1,6 @@
 ---
 title: やっと公式リリースされた 写真 for Yosemite
-description: ''
-date: '2015-04-11T00:06:09.000Z'
-categories: []
-keywords: []
+date: "2015-04-11T00:06:09.000Z"
 tags: ["apple", "os-x-yosemite", "photos-app"]
 slug: "e20787db-cfce-4a5b-ab62-b68915d798aa"
 ---

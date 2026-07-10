@@ -1,9 +1,6 @@
 ---
 title: Time Capsuleを新調しました
-description: ''
-date: '2013-08-03T09:24:35.000Z'
-categories: []
-keywords: []
+date: "2013-08-03T09:24:35.000Z"
 tags: ["apple", "airmac-time-capsule"]
 slug: "40eca1c1-ce72-40a6-aaaf-5471ad636bba"
 ---

@@ -1,16 +1,12 @@
 ---
 title: Mr.Children 重力と呼吸
-description: 10月3日、Mr.Children のアルバム「重力と呼吸」が発売されました。2015年6月4日発売「REFLECTION」から2.5年ぶり、19枚目のアルバムとなった。
-date: '2018-10-14T15:07:34.342Z'
-categories: []
-keywords: []
+date: "2018-10-14T15:07:34.342Z"
 tags: ["mr-children", "music"]
 slug: "f335064c-b1ee-4341-bd4c-1bd9fde03772"
 ---
 10月3日、Mr.Children のアルバム「重力と呼吸」が発売されました。2015年6月4日発売「REFLECTION」から2.5年ぶり、19枚目のアルバムとなった。
 
-[**【早期購入特典あり】重力と呼吸 (NEW ALBUM ジャケットステッカー付)**  
-_SILVER 3 方背BOX / 28P BOOKLET 付き 【初回生産分特典】 プレイパス封入（MUSIC + MUSIC VIDEO）有効期限 2019.4.30 MUSIC VIDEO :「here comes my…_www.amazon.co.jp](https://www.amazon.co.jp/dp/B07H4MMW98/ "https://www.amazon.co.jp/dp/B07H4MMW98/")[](https://www.amazon.co.jp/dp/B07H4MMW98/)
+[【早期購入特典あり】重力と呼吸 (NEW ALBUM ジャケットステッカー付)](https://www.amazon.co.jp/dp/B07H4MMW98)
 
 相変わらず音がいい。今年はすでに20枚くらいのアルバムを、Apple Musicからライブラリに追加したり、iTunes Storeで買ったりして、購入しているけれども、Mr.Childrenは Mr.Childrenだということがわかる音を出してくれている。
 

@@ -1,9 +1,6 @@
 ---
 title: モレスキン歴８ヶ月
-description: ''
-date: '2010-09-26T21:40:33.000Z'
-categories: []
-keywords: []
+date: "2010-09-26T21:40:33.000Z"
 tags: ["moleskine", "productivity", "evernote"]
 slug: "c5043156-bb07-41c7-a47f-fb6e0c8567b1"
 ---

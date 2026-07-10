@@ -1,9 +1,6 @@
 ---
 title: iTunes 9 のホームシェアリングにびっくり
-description: ''
-date: '2009-11-14T11:55:53.000Z'
-categories: []
-keywords: []
+date: "2009-11-14T11:55:53.000Z"
 tags: ["itunes", "home-sharing"]
 slug: "70008557-7b23-4aa7-938c-473a3e7a854f"
 ---

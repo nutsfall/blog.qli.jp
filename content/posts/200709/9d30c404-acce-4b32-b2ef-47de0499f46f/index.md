@@ -1,9 +1,6 @@
 ---
 title: iPodファミリーを見てきた
-description: ''
-date: '2007-09-08T20:42:52.000Z'
-categories: []
-keywords: []
+date: "2007-09-08T20:42:52.000Z"
 tags: ["apple", "ipod", "apple-store"]
 slug: "9d30c404-acce-4b32-b2ef-47de0499f46f"
 ---

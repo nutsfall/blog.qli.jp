@@ -1,9 +1,6 @@
 ---
 title: Get Things Done with Evernote Premium
-description: ''
-date: '2009-09-18T07:33:39.000Z'
-categories: []
-keywords: []
+date: "2009-09-18T07:33:39.000Z"
 tags: ["evernote", "gtd", "productivity"]
 slug: "3ffa205a-af1c-4276-9edf-fc72dddb00f9"
 ---

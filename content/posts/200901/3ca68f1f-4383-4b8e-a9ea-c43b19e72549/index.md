@@ -1,9 +1,6 @@
 ---
 title: I wish you a happy new year!
-description: ''
-date: '2009-01-01T17:03:44.000Z'
-categories: []
-keywords: []
+date: "2009-01-01T17:03:44.000Z"
 tags: ["new-year"]
 slug: "3ca68f1f-4383-4b8e-a9ea-c43b19e72549"
 ---

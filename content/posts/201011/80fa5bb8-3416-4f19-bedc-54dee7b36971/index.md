@@ -1,9 +1,6 @@
 ---
 title: RockMelt を使わなくなった理由
-description: ''
-date: '2010-11-28T11:34:55.000Z'
-categories: []
-keywords: []
+date: "2010-11-28T11:34:55.000Z"
 tags: ["rockmelt", "browser", "productivity"]
 slug: "80fa5bb8-3416-4f19-bedc-54dee7b36971"
 ---

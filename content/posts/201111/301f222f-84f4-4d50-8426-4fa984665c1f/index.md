@@ -1,9 +1,6 @@
 ---
 title: GAKU-MCライブ at 六本木ヒルズ
-description: ''
-date: '2011-11-02T23:07:31.000Z'
-categories: []
-keywords: []
+date: "2011-11-02T23:07:31.000Z"
 tags: ["gaku-mc", "live-music"]
 slug: "301f222f-84f4-4d50-8426-4fa984665c1f"
 ---

@@ -1,9 +1,6 @@
 ---
 title: AirPodsシリーズの評価を一段階あげるiOS16の新機能
-description: iOS16がいよいよリリースされました。ホーム画面のカスタマイズが主要なアップデートのひとつで、早速自分らしいホーム画面を設定した人も多いのではないでしょうか。
-date: '2022-09-12T23:46:28.499Z'
-categories: []
-keywords: []
+date: "2022-09-12T23:46:28.499Z"
 tags: ["airpods", "ios16", "spatial-audio"]
 slug: "5fdb226e-302d-40f9-965f-76b141d47b1c"
 ---

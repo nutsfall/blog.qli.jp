@@ -1,9 +1,6 @@
 ---
 title: Vista最新ドライバ一覧
-description: ''
-date: '2007-01-29T11:16:44.000Z'
-categories: []
-keywords: []
+date: "2007-01-29T11:16:44.000Z"
 tags: ["windows-vista", "radarsync"]
 slug: "31c41911-4c29-40c3-8a9d-e76fa1cdec63"
 ---
@@ -11,7 +8,7 @@ slug: "31c41911-4c29-40c3-8a9d-e76fa1cdec63"
 
 で、今日こんな投稿が。
 
-リンク: [Vista用の最新ドライバが一覧できる『RadarSync』 | P O P \* P O P](http://www.popxpop.com/archives/2007/01/vistaradarsync.html "Vista用の最新ドライバが一覧できる『RadarSync』 | P O P * P O P").
+[Vista用の最新ドライバが一覧できる『RadarSync』 | P O P * P O P](http://www.popxpop.com/archives/2007/01/vistaradarsync.html)
 
 > そこで、このサイトを覚えておけば時間が節約できるのでは。この「RadarSync」のサイトではVista用の最新ドライバが集められています。直接ダウンロードもできますよ。
 

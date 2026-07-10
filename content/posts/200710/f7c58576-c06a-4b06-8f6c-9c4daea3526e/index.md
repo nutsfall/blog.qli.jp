@@ -1,15 +1,12 @@
 ---
 title: Gmail IMAPの使い心地は？
-description: ''
-date: '2007-10-31T17:49:19.000Z'
-categories: []
-keywords: []
+date: "2007-10-31T17:49:19.000Z"
 tags: ["gmail", "imap"]
 slug: "f7c58576-c06a-4b06-8f6c-9c4daea3526e"
 ---
 まだまだ全アカウントには到達し切れていないようですが、自分のアカウントにはGmailのアカウント、Google Appsのアカウントともに先週末のLeopard祭りのさなかにやってきました。GmailのアカウントはさっそくMail.appに設定していますので、その雑感を。
 
-まず、Gmail IMAPの設定ですが、[Gmailヘルプ](http://mail.google.com/support/bin/answer.py?answer=78892)にGoogle推奨の設定方法が載っています。Gmail IMAPのディレクトリ構造は大きく\[Gmail\]以下にある特殊フォルダとルート直下にタグフォルダに分かれます。
+まず、Gmail IMAPの設定ですが、[Gmailヘルプ](http://mail.google.com/support/bin/answer.py?answer=78892)にGoogle推奨の設定方法が載っています。Gmail IMAPのディレクトリ構造は大きく[Gmail]以下にある特殊フォルダとルート直下にタグフォルダに分かれます。
 
 一般的なIMAPメールであれば、フォルダからメールを削除すればゴミ箱にはいるという形になりますが、タグフォルダはあくまでもタグフォルダなので、ここから削除するということはタグを削除することでありメールを削除することではありません。メールを削除する場合には「すべてのメール」フォルダ（英語版だとAll Mail)からメールを削除しないといけません。つまり、Gmail IMAPではタグの削除をタグフォルダからの削除と言い換えていることに注意しなければなりません。もしゴミ箱をIMAPサーバ上に保存していると、タグの削除したつもりがゴミ箱に入ってしまうので大変です。
 

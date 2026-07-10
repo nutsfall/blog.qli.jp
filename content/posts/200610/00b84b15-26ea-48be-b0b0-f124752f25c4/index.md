@@ -1,15 +1,12 @@
 ---
 title: moo.comがskypeとキャンペーン!
-description: ''
-date: '2006-10-23T21:25:36.000Z'
-categories: []
-keywords: []
+date: "2006-10-23T21:25:36.000Z"
 tags: ["moo", "skype"]
 slug: "00b84b15-26ea-48be-b0b0-f124752f25c4"
 ---
 Flickrとキャンペーンしていたのでこういうブログをごらんになっている方ならどこかで情報を仕入れているかと思いますが、名刺を作れるmoo.comがskypeとのキャンペーンを始めたそうです。
 
-リンク: [ミニカードプレゼントキャンペーン — Skype 日本語ブログ](http://share.skype.com/sites/ja/2006/10/23/skype_minicards.html "ミニカードプレゼントキャンペーン - Skype 日本語ブログ").
+[ミニカードプレゼントキャンペーン — Skype 日本語ブログ](http://share.skype.com/sites/ja/2006/10/23/skype_minicards.html)
 
 > オフ会用の名刺にSkype名を入れる時に使えるSkypeアイコンなどこちらのブログでもご紹介してきましたが、今日から始まるミニカードキャンペーンなら、ミニカード10枚にSkype名、SkypeIn番号、ハンドル名など色々載せて、送料も含めて無料でプレゼント。名刺半分くらいのかなりちっちゃなかわいらしいカードです。
 

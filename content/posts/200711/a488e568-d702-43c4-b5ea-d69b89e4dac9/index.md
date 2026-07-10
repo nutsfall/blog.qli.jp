@@ -1,9 +1,6 @@
 ---
 title: Mail.appをつかったタスク管理
-description: ''
-date: '2007-11-04T17:01:18.000Z'
-categories: []
-keywords: []
+date: "2007-11-04T17:01:18.000Z"
 tags: ["mail-app", "macos", "productivity"]
 slug: "a488e568-d702-43c4-b5ea-d69b89e4dac9"
 ---

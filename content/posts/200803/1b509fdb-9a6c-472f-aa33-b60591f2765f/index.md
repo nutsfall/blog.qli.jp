@@ -1,9 +1,6 @@
 ---
 title: 続報²：AirMacExtreme(7.2.1)におけるUSB接続ディスクの問題
-description: ''
-date: '2008-03-20T09:30:32.000Z'
-categories: []
-keywords: []
+date: "2008-03-20T09:30:32.000Z"
 tags: ["airmac-extreme", "apple"]
 slug: "1b509fdb-9a6c-472f-aa33-b60591f2765f"
 ---
@@ -11,7 +8,7 @@ slug: "1b509fdb-9a6c-472f-aa33-b60591f2765f"
 
 > すると、「初耳です」との回答。少し驚きながら。(いや、そんな反応されても困るんですけど。)一応ジーニアス用のデータベースを検索していたようですがそういうバグ報告はなかったようで。知らないんだったら直しようもないですね。
 
-> \[From [きゅーり.jp: 続報：AirMacExtreme(7.2.1)におけるUSB接続ディスクの問題](http://blog.qli.jp/2008/03/airmacextreme72.html)\]
+> [From [きゅーり.jp: 続報：AirMacExtreme(7.2.1)におけるUSB接続ディスクの問題](http://blog.qli.jp/2008/03/airmacextreme72.html)]
 
 AirMacのアップデートが今日開始されました。新しいファームウェアAirMac 7.3.1が提供開始されました。昨日にはLeopard自体のセキュリティアップデートも配布開始されていますので、かなり大規模な変更が行われた可能性もあります。
 

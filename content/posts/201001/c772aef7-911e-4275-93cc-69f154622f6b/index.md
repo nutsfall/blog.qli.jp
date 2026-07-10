@@ -1,9 +1,6 @@
 ---
 title: BANDAGEの特集を見て
-description: ''
-date: '2010-01-31T15:13:42.000Z'
-categories: []
-keywords: []
+date: "2010-01-31T15:13:42.000Z"
 tags: ["bandage", "kobayashi-takeshi", "music-industry"]
 slug: "c772aef7-911e-4275-93cc-69f154622f6b"
 ---

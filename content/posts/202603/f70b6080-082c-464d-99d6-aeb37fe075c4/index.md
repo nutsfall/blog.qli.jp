@@ -5,7 +5,6 @@ slug: "f70b6080-082c-464d-99d6-aeb37fe075c4"
 source: "medium"
 original_url: "https://medium.com/@hiro/3%E6%9C%8811%E6%97%A5-b10f378a6f60?source=rss-21bfda6f823e------2"
 tags: ["notes"]
-draft: false
 ---
 
 今年も3.11が来た。3.11に黙祷ができるのはとても平和だ。もしかしたら、能登はそれどころじゃないのかもしれない。

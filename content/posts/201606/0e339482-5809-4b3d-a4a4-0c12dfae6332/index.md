@@ -1,9 +1,6 @@
 ---
 title: イヤホン・ヘッドフォン
-description: ''
-date: '2016-06-25T02:07:19.000Z'
-categories: []
-keywords: []
+date: "2016-06-25T02:07:19.000Z"
 tags: ["headphones", "audio"]
 slug: "0e339482-5809-4b3d-a4a4-0c12dfae6332"
 ---

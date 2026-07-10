@@ -1,9 +1,6 @@
 ---
 title: MT3.3 の個人ライセンスはふとっぱら
-description: ''
-date: '2006-07-06T08:42:06.000Z'
-categories: []
-keywords: []
+date: "2006-07-06T08:42:06.000Z"
 tags: ["movable-type", "blogging-software"]
 slug: "435a9408-3972-419b-b895-f3a3c93d8772"
 ---

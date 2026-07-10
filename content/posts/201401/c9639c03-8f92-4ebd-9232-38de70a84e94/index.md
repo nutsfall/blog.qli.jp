@@ -1,9 +1,6 @@
 ---
 title: アジャイルチーム組成ゲーム
-description: ''
-date: '2014-01-16T12:56:29.000Z'
-categories: []
-keywords: []
+date: "2014-01-16T12:56:29.000Z"
 tags: ["agile", "scrum", "lean-startup"]
 slug: "c9639c03-8f92-4ebd-9232-38de70a84e94"
 ---

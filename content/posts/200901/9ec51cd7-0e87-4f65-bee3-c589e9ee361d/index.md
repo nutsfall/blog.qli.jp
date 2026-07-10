@@ -1,9 +1,6 @@
 ---
 title: jaikuはμブログ界のWordpressになれるか
-description: ""
 date: "2009-01-20T23:35:08.000Z"
-categories: []
-keywords: []
 tags: ["jaiku", "microblogging"]
 slug: "9ec51cd7-0e87-4f65-bee3-c589e9ee361d"
 ---
@@ -16,7 +13,7 @@ slug: "9ec51cd7-0e87-4f65-bee3-c589e9ee361d"
 
 > どういう結果になるだろうか。私は大いに注目している。
 
-> \[From [オープンソース化される Jaiku のファウンダー、「われわれは変貌中だ。消滅しかかっているわけではない」](http://jp.techcrunch.com/archives/20090117jaiku-founder-were-not-dying-were-morphing/#) \]
+> [From [オープンソース化される Jaiku のファウンダー、「われわれは変貌中だ。消滅しかかっているわけではない」](http://jp.techcrunch.com/archives/20090117jaiku-founder-were-not-dying-were-morphing/#) ]
 
 これを読むと、つまりは、今のブログのように、あちこちでいろんな人がそれぞれのサービスにホストされた自分の場所でつぶやいていくようになる。そういう世界を目指して行く。そういう風に読み取れます。
 

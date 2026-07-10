@@ -1,9 +1,6 @@
 ---
 title: Todoistがアップデート
-description: ''
-date: '2016-06-29T14:20:41.000Z'
-categories: []
-keywords: []
+date: "2016-06-29T14:20:41.000Z"
 tags: ["todoist", "evernote"]
 slug: "012cec1f-d2c8-4096-bf6b-fdc12916af9e"
 ---

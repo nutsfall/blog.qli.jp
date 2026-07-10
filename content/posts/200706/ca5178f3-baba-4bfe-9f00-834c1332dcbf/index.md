@@ -1,9 +1,6 @@
 ---
 title: ついったーおふぱぁてぃ
-description: ''
-date: '2007-06-15T22:44:52.000Z'
-categories: []
-keywords: []
+date: "2007-06-15T22:44:52.000Z"
 tags: ["twitter", "meetup"]
 slug: "ca5178f3-baba-4bfe-9f00-834c1332dcbf"
 ---

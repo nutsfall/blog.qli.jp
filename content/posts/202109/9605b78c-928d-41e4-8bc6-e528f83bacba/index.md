@@ -1,9 +1,6 @@
 ---
 title: iPhone 13 Proのとても簡単なファーストインプレッション
-description: iPhone 13 Pro を金曜日に手に入れました。今回は配送ではなく、Apple Storeでの受け取りにしました。
-date: '2021-09-27T12:08:54.313Z'
-categories: []
-keywords: []
+date: "2021-09-27T12:08:54.313Z"
 tags: ["iphone-13-pro", "apple", "setup"]
 slug: "9605b78c-928d-41e4-8bc6-e528f83bacba"
 ---
@@ -23,8 +20,7 @@ iPhone 13 Pro を受け取り、近くのスタバでそのままセットアッ
 
 移行は大体2時間くらいで終わりました。といってもアプリのダウンロードを待っていたり、このトラブルの検証してたりした時間がほとんどでした。
 
-[**iPhone 13 で「Apple Watch でロック解除」が機能しない場合**  
-_この問題は、今後のソフトウェアアップデートで解決する見込みです。アップデートが公開されるまでの間は、「Apple Watch でロック解除」をオフにして、パスコードを使って iPhone 13 のロックを解除してください。_support.apple.com](https://support.apple.com/ja-jp/HT212828 "https://support.apple.com/ja-jp/HT212828")[](https://support.apple.com/ja-jp/HT212828)
+[iPhone 13 で「Apple Watch でロック解除」が機能しない場合](https://support.apple.com/ja-jp/HT212828)
 
 iPhone 13 Proは、なぜか1年前にiPhone 12 Pro を初めて触ったときと比べると、ものとしての進化を感じることが多いです。
 

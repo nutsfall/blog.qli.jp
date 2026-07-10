@@ -1,15 +1,12 @@
 ---
 title: そんなに口コミが信頼できない？
-description: ''
-date: '2006-09-02T11:09:48.000Z'
-categories: []
-keywords: []
+date: "2006-09-02T11:09:48.000Z"
 tags: ["blogging", "word-of-mouth"]
 slug: "aee5b02b-5e6c-474e-bb99-f51507432f0b"
 ---
 興味深い記事があったのでエントリー。
 
-リンク: [製品情報に関する一般ブログの信頼性は、米で62.9％、日では15.0%：DESIGN IT! w/LOVE](http://gitanez.seesaa.net/article/23132949.html "製品情報に関する一般ブログの信頼性は、米で62.9％、日では15.0%：DESIGN IT! w/LOVE").
+[製品情報に関する一般ブログの信頼性は、米で62.9％、日では15.0%：DESIGN IT! w/LOVE](http://gitanez.seesaa.net/article/23132949.html)
 
 > エデルマン・ジャパン株式会社と株式会社テクノラティジャパンが213人を対象に行った「日本のブロガーに関するPR調査」は結構、僕には衝撃でした。  
 > 特に日本とアメリカで、こんなにもブログに対する意識が違うのかと驚かされました。

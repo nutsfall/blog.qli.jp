@@ -1,9 +1,6 @@
 ---
 title: ガラパゴスはエデンなのだ
-description: ''
-date: '2009-03-24T13:39:37.000Z'
-categories: []
-keywords: []
+date: "2009-03-24T13:39:37.000Z"
 tags: ["iphone", "mobile-industry", "japan"]
 slug: "2c421822-9c96-46a0-8ebd-da74fe71f4ca"
 ---

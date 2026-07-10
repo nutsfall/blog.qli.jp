@@ -1,9 +1,6 @@
 ---
 title: Kamikochi
-description: ''
-date: '2012-08-31T20:07:11.000Z'
-categories: []
-keywords: []
+date: "2012-08-31T20:07:11.000Z"
 tags: ["kamikochi", "travel", "photography"]
 slug: "b983debb-95a1-4296-9ae8-fafa7570a7cb"
 ---

@@ -1,9 +1,6 @@
 ---
 title: FONルータLa Foneraを設置しました
-description: ''
-date: '2006-12-17T23:44:32.000Z'
-categories: []
-keywords: []
+date: "2006-12-17T23:44:32.000Z"
 tags: ["fon", "wi-fi"]
 slug: "9e394e10-4ac0-4989-8c83-79d4fde6f18a"
 ---

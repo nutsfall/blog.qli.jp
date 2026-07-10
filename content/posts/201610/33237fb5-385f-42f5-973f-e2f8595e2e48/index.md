@@ -1,9 +1,6 @@
 ---
 title: mcol をやめることにした
-description: ''
-date: '2016-10-07T11:45:37.816Z'
-categories: []
-keywords: []
+date: "2016-10-07T11:45:37.816Z"
 tags: ["mr-children", "fan-site"]
 slug: "33237fb5-385f-42f5-973f-e2f8595e2e48"
 ---

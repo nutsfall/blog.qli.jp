@@ -1,9 +1,6 @@
 ---
 title: iPod Touchについての個人的な感想
-description: ''
-date: '2007-09-06T19:57:49.000Z'
-categories: []
-keywords: []
+date: "2007-09-06T19:57:49.000Z"
 tags: ["ipod-touch", "apple"]
 slug: "dc59f6be-637e-4787-a4b0-1e5dd44a13e2"
 ---

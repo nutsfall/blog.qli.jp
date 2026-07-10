@@ -1,9 +1,6 @@
 ---
 title: WWDC07 Keynote Speechでリリースされたもの
-description: ''
-date: '2007-06-12T23:35:03.000Z'
-categories: []
-keywords: []
+date: "2007-06-12T23:35:03.000Z"
 tags: ["wwdc", "safari", "apple"]
 slug: "fa302e97-bd66-4dc8-872d-770c02b2bf6a"
 ---

@@ -1,9 +1,6 @@
 ---
 title: チェックインなんてめんどくさい
-description: ''
-date: '2012-03-04T12:20:35.000Z'
-categories: []
-keywords: []
+date: "2012-03-04T12:20:35.000Z"
 tags: ["foursquare", "location-apps"]
 slug: "2abf65e0-7025-41ee-b85c-7dc28d47f73e"
 ---

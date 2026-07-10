@@ -1,16 +1,12 @@
 ---
 title: OmniFocusにタグがやってくる
-description: OmniFocusの制作元である OmniGroupが、昨年のまとめと今年の展望を発表している。
-date: '2017-01-28T03:05:59.894Z'
-categories: []
-keywords: []
+date: "2017-01-28T03:05:59.894Z"
 tags: ["omnifocus", "productivity"]
 slug: "297a8c90-915e-42db-a48c-507da0ac9c50"
 ---
 OmniFocusの制作元である OmniGroupが、昨年のまとめと今年の展望を発表している。
 
-[**Looking Back, Looking Ahead-2017 Edition**  
-_Welcome! Each year, I like to take a little time to pause and reflect on the past year's accomplishments, and to try to…_www.omnigroup.com](https://www.omnigroup.com/blog/looking-back-looking-ahead-2017-edition "https://www.omnigroup.com/blog/looking-back-looking-ahead-2017-edition")[](https://www.omnigroup.com/blog/looking-back-looking-ahead-2017-edition)
+[Looking Back, Looking Ahead-2017 Edition](https://www.omnigroup.com/blog/looking-back-looking-ahead-2017-edition)
 
 OmniFocusに絞って書けば、タグのサポート、繰り返しタスク設定の柔軟性強化、そして、通知の柔軟性強化を図るとのこと。
 

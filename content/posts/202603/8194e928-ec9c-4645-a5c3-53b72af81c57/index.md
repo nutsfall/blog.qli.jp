@@ -5,7 +5,6 @@ slug: "8194e928-ec9c-4645-a5c3-53b72af81c57"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E9%9F%B3%E6%A5%BD%E4%BD%93%E9%A8%93%E3%81%AE%E8%A1%8C%E3%81%8D%E5%85%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E9%9B%91%E8%A8%98-7dff89c86d1e?source=rss-21bfda6f823e------2"
 tags: ["notes", "music"]
-draft: false
 ---
 
 海外からSpotifyへの批判のような動きが聞こえてくる。日本と海外の状況は違うので、具体的には海外で起きたことが数年後日本にやってくるのだが、そんな日本でも既に音楽業界はサブスク経済で回っている。

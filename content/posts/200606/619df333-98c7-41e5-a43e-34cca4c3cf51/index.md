@@ -1,9 +1,6 @@
 ---
 title: Google Reader がかなり変わってた
-description: ""
 date: "2006-06-28T12:45:24.000Z"
-categories: []
-keywords: []
 tags: ["google-reader", "rss"]
 slug: "619df333-98c7-41e5-a43e-34cca4c3cf51"
 ---

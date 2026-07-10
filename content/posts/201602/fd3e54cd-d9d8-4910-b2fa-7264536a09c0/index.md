@@ -1,9 +1,6 @@
 ---
 title: PMとものづくりについての考察
-description: ''
-date: '2016-02-24T14:18:00.000Z'
-categories: []
-keywords: []
+date: "2016-02-24T14:18:00.000Z"
 tags: ["product-management", "agile"]
 slug: "fd3e54cd-d9d8-4910-b2fa-7264536a09c0"
 ---

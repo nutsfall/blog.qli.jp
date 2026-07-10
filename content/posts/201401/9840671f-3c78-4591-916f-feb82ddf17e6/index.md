@@ -1,16 +1,12 @@
 ---
-title: '期日前投票に行こう #東京都知事選挙'
-description: ''
-date: '2014-01-31T11:25:24.097Z'
-categories: []
-keywords: []
+title: "期日前投票に行こう #東京都知事選挙"
+date: "2014-01-31T11:25:24.097Z"
 tags: ["tokyo-governor-election", "voting"]
 slug: "9840671f-3c78-4591-916f-feb82ddf17e6"
+cover:
+  image: "1__1ovxoGewMpNcfj3ruZxTmg.jpeg"
+  caption: "Some rights reserved by Teeny! http://www.flickr.com/photos/godby51/2509282182/sizes/l/"
 ---
-![](1__1ovxoGewMpNcfj3ruZxTmg.jpeg)
-
-Some rights reserved by Teeny! http://www.flickr.com/photos/godby51/2509282182/sizes/l/
-
 東京都に直接関係ない人にはごめんなさい。これから東京都知事選挙について書きます。
 
 東京都知事選挙のニュースが毎日賑わせています。Twitterをはじめとして、さまざまな媒体でさまざまな議論が行われています。

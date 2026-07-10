@@ -1,9 +1,6 @@
 ---
 title: Google ドキュメント のフォーム機能を使ってみた
-description: ''
-date: '2008-06-15T16:24:00.000Z'
-categories: []
-keywords: []
+date: "2008-06-15T16:24:00.000Z"
 tags: ["google-docs", "survey"]
 slug: "02a5a91b-b60f-4583-add8-ffc005465f68"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Lightroom mobileが登場
-description: ''
-date: '2014-04-08T22:21:58.000Z'
-categories: []
-keywords: []
+date: "2014-04-08T22:21:58.000Z"
 tags: ["lightroom", "adobe", "icloud"]
 slug: "ec49b0e5-37e2-46b7-8928-74cff2fbcc47"
 ---
@@ -15,7 +12,7 @@ Lightroom mobileがリリースされました。iPhone版とiPad版が用意さ
 
 Creative Cloud を使って、LightroomとLightroom mobileで写真を同期することができます。普段から写真をLightroomで管理している人には、とても有用なツールなのではないでしょうか？
 
-#### Lightroom vs Revel
+## Lightroom vs Revel
 
 iPad版ではカメラロールから写真を読み込むことができますが、iCloudフォトストリームからは読み込むことができないようです。また、明示的な読み込み動作が必要なようでした。Revelはカメラロールから自動で保存できます。プロ用とコンシューマー用というコンセプトの違いでしょうか。
 
@@ -23,7 +20,7 @@ RevelはMac版のアップデートが長いこと止まっているほどモバ
 
 Eye-fiでiPhoneに転送するようにしているので、写真の読み込みをできるようにするために、Lightroom mobile for iPhone を待ちたいと思います。
 
-#### Creative Cloud vs iCloud
+## Creative Cloud vs iCloud
 
 iCloudは、ファイルを自動で転送するということです。今回Lightroom mobileの登場でCreative Cloudの真価が問われるわけですが、Creative Cloudは画像の編集も転送してくれます。iPadで画像のフィルターを変えると、Mac側でも自動で反映されます。
 

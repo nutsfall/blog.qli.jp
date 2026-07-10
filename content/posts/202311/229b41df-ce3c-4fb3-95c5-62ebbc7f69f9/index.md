@@ -1,9 +1,7 @@
 ---
 title: 2023/11/11
 description: 2023/11/11の “近況と雑感”
-date: '2023-11-11T03:01:58.954Z'
-categories: []
-keywords: []
+date: "2023-11-11T03:01:58.954Z"
 tags: ["avispa-fukuoka", "j-league", "idol-concert"]
 slug: "229b41df-ce3c-4fb3-95c5-62ebbc7f69f9"
 ---

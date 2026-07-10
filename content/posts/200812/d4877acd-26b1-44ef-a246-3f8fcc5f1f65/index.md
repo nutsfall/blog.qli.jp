@@ -1,9 +1,6 @@
 ---
 title: はじめてのGTD ストレスフリーの整理術
-description: ''
-date: '2008-12-24T10:44:36.000Z'
-categories: []
-keywords: []
+date: "2008-12-24T10:44:36.000Z"
 tags: ["gtd", "book-review"]
 slug: "d4877acd-26b1-44ef-a246-3f8fcc5f1f65"
 ---
@@ -15,12 +12,7 @@ slug: "d4877acd-26b1-44ef-a246-3f8fcc5f1f65"
 
 自分もまだ第1部の途中なのですが、自分のGTDのプロセスが実は破綻していることに気付けたりして有意義でした。こういう本は、3ヶ月に一回くらい読んで、一度自分のシステムを見直してみることが必要かもしれませんね。
 
-[はじめてのGTD ストレスフリーの整理術](http://www.amazon.co.jp/exec/obidos/ASIN/4576082116/qli-22/ref=nosim "はじめてのGTD ストレスフリーの整理術")
-
-*   発売元: 二見書房
-*   価格: ￥ 1,680
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/12/24
+[はじめてのGTD ストレスフリーの整理術](https://www.amazon.co.jp/dp/4576082116)
 
 p.s.
 

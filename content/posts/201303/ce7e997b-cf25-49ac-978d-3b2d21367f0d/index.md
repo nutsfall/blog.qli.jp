@@ -1,9 +1,6 @@
 ---
 title: 僕らがあの日から気づいたこと
-description: ''
-date: '2013-03-11T14:46:14.000Z'
-categories: []
-keywords: []
+date: "2013-03-11T14:46:14.000Z"
 tags: ["energy", "3-11"]
 slug: "ce7e997b-cf25-49ac-978d-3b2d21367f0d"
 ---

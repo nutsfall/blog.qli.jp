@@ -1,9 +1,6 @@
 ---
 title: countdown to 11th July 2008
-description: ''
-date: '2008-06-28T17:08:39.000Z'
-categories: []
-keywords: []
+date: "2008-06-28T17:08:39.000Z"
 tags: ["iphone-3g", "mobileme", "softbank"]
 slug: "a52de5a6-daad-45a3-8443-751db8cefe5b"
 ---

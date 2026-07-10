@@ -1,16 +1,12 @@
 ---
 title: "Thingsに新しいリストが追加された\U0001F389"
-description: Cultured Code のパーソナルタスクマネージャー Things にクリスマスプレゼントが届きました。3.11のリリースです。
-date: '2019-12-16T13:40:58.795Z'
-categories: []
-keywords: []
+date: "2019-12-16T13:40:58.795Z"
 tags: ["things", "productivity"]
 slug: "9368e914-ed19-4870-9a4b-b9fc639cf344"
 ---
 Cultured Code のパーソナルタスクマネージャー Things にクリスマスプレゼントが届きました。3.11のリリースです。
 
-[**The Quick Find Update**  
-_We've released Things 3.11 for iPad, iPhone, and Watch. The update for Mac has not been released yet (coming soon). A…_culturedcode.com](https://culturedcode.com/things/blog/2019/12/the-quick-find-update/ "https://culturedcode.com/things/blog/2019/12/the-quick-find-update/")[](https://culturedcode.com/things/blog/2019/12/the-quick-find-update/)
+[The Quick Find Update](https://culturedcode.com/things/blog/2019/12/the-quick-find-update/)
 
 検索機能からアクセスできる新しいリスト「Deadlines(期限)」「All Projects（すべてのプロジェクト）」が追加されました。
 
@@ -18,8 +14,7 @@ _We've released Things 3.11 for iPad, iPhone, and Watch. The update for Mac has 
 
 実行するタスクのプライオリティの付け方として、アイゼンハワーマトリクスというものがよく知られています。
 
-[**アイゼンハワー元大統領から学ぶ、時間・感情・仕事の管理術**  
-_アメリカ第34代大統領の ドワイト・D・アイゼンハワー は、初めての大統領選で大勝し、州間高速道路システムを作り、NASAを創設した人です。つまり、とても生産的な人物でした。今回は、アイゼンハワー元大統領の仕事ハックに注目してみましょう。…_www.lifehacker.jp](https://www.lifehacker.jp/2014/06/140601eisenhower.html "https://www.lifehacker.jp/2014/06/140601eisenhower.html")[](https://www.lifehacker.jp/2014/06/140601eisenhower.html)
+[アイゼンハワー元大統領から学ぶ、時間・感情・仕事の管理術](https://www.lifehacker.jp/2014/06/140601eisenhower.html)
 
 これは、タスクの「緊急」と「重要」について分類することが最初のステップになるわけですが、「Deadlines」によって、タスクの「緊急」について知ることができます。
 

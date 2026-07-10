@@ -5,7 +5,6 @@ slug: "1c065662-a3f3-48cb-a1dc-c39338e584fa"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E9%9F%B3%E6%A5%BD%E3%81%AE%E6%97%85-867208679030?source=rss-21bfda6f823e------2"
 tags: ["music"]
-draft: false
 ---
 
 ここ数ヶ月音楽ライブが重なった。いろんな場所で音楽を聴いていろんな感情にもなった。それを書いていきたい。

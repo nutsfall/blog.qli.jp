@@ -1,16 +1,11 @@
 ---
 title: "2009年を振り返る #3"
-description: ""
 date: "2009-12-31T10:36:18.000Z"
-categories: []
-keywords: []
 tags: ["evernote", "omnifocus", "productivity"]
 slug: "35b13cc3-e727-40ea-a83c-160cbf9f5dee"
 ---
 
-次の振り返りは、情報整理編。実は去年の今頃に、[Lifehacking.jp](http://lifehacking.jp/)の [@mehori](http://twitter.com/mehori) さんが書かれた[情報ダイエット仕事術](http://www.amazon.co.jp/gp/product/4479771328?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=4479771328)
-
-![]()
+次の振り返りは、情報整理編。実は去年の今頃に、[Lifehacking.jp](http://lifehacking.jp/)の [@mehori](http://twitter.com/mehori) さんが書かれた[情報ダイエット仕事術](https://www.amazon.co.jp/dp/4479771328)
 
 を読んでいて、その[感想記事]({{< ref "posts/200901/7eff13b2-7243-4300-abfd-2af68c0a5284" >}})の中に
 

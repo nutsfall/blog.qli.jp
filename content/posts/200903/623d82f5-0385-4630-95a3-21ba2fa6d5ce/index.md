@@ -1,9 +1,6 @@
 ---
 title: Tweet O’clockを自分のアカウントで試してみた
-description: ''
-date: '2009-03-02T09:52:59.000Z'
-categories: []
-keywords: []
+date: "2009-03-02T09:52:59.000Z"
 tags: ["twitter"]
 slug: "623d82f5-0385-4630-95a3-21ba2fa6d5ce"
 ---
@@ -13,7 +10,7 @@ slug: "623d82f5-0385-4630-95a3-21ba2fa6d5ce"
 
 > 気になるユーザーのTwitter IDを入力すると、その人の発言履歴を調べてくれて、「どの曜日のどの時間帯によくTwitterで発言しているか」を教えてくれるというわけだ。
 
-> \[From [Twitterでいつその人に絡むのがベストかを教えてくれる『Tweet O’Clock』 — 100SHIKI ～ 世界のアイデアを日替わりで ～](http://www.100shiki.com/archives/2009/03/tweetoclock.html)\]
+> [From [Twitterでいつその人に絡むのがベストかを教えてくれる『Tweet O’Clock』 — 100SHIKI ～ 世界のアイデアを日替わりで ～](http://www.100shiki.com/archives/2009/03/tweetoclock.html)]
 
 するとこんな感じ。
 

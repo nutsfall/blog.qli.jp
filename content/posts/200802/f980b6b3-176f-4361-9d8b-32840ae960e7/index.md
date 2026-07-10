@@ -1,9 +1,6 @@
 ---
 title: MacBook, MacBook Pro, iPod Shuffle 2GB, iPod Touch 1.1.4
-description: ''
-date: '2008-02-27T07:56:18.000Z'
-categories: []
-keywords: []
+date: "2008-02-27T07:56:18.000Z"
 tags: ["apple", "macbook-pro", "ipod-shuffle"]
 slug: "f980b6b3-176f-4361-9d8b-32840ae960e7"
 ---

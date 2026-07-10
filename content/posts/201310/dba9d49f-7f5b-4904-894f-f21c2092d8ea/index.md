@@ -1,9 +1,6 @@
 ---
 title: もっと本質へ
-description: ''
-date: '2013-10-29T01:14:43.152Z'
-categories: []
-keywords: []
+date: "2013-10-29T01:14:43.152Z"
 tags: ["journalism", "media"]
 slug: "dba9d49f-7f5b-4904-894f-f21c2092d8ea"
 ---

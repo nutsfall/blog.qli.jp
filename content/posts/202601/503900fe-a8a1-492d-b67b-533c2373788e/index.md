@@ -5,7 +5,6 @@ slug: "503900fe-a8a1-492d-b67b-533c2373788e"
 source: "medium"
 original_url: "https://medium.com/@hiro/2026%E5%B9%B43%E5%91%A8%E7%9B%AE%E3%81%AE%E9%9B%91%E8%A8%98-2d83ce7b642e?source=rss-21bfda6f823e------2"
 tags: ["notes", "music"]
-draft: false
 ---
 
 1月11日放送のEIGHT-JAMを見ていました。年始定番の「昨年よかった曲」を識者がベスト10形式で2週に分けて発表するという企画でした。1週目に発表されたボトム5には、Apple Musicがランダムで流してくれたもの、フェスやナタリーニュースで名前だけ聞いたことがあるグループを含め、さまざまな名前が並んでいました。

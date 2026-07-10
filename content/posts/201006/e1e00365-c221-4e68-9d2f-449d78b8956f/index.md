@@ -1,9 +1,6 @@
 ---
 title: 新規加入数と解約率
-description: ''
-date: '2010-06-06T09:25:08.000Z'
-categories: []
-keywords: []
+date: "2010-06-06T09:25:08.000Z"
 tags: ["mobile-carriers", "sim-lock"]
 slug: "e1e00365-c221-4e68-9d2f-449d78b8956f"
 ---

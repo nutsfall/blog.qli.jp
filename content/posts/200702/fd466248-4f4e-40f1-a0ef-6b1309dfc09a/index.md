@@ -1,15 +1,12 @@
 ---
 title: オオヒダさんのインタビュー記事
-description: ''
-date: '2007-02-21T08:00:31.000Z'
-categories: []
-keywords: []
+date: "2007-02-21T08:00:31.000Z"
 tags: ["kotonoha", "interview", "web-services"]
 slug: "fd466248-4f4e-40f1-a0ef-6b1309dfc09a"
 ---
 ITMedia の百式 田口さんの連載記事でオオヒダさんのインタビュー記事が。
 
-リンク: [ITmedia Biz.ID：“文系出身プログラマー”が独立するまで — — コトノハ・大日田貴司さん](http://www.itmedia.co.jp/bizid/articles/0702/20/news051.html "ITmedia Biz.ID：“文系出身プログラマー”が独立するまで——コトノハ・大日田貴司さん").
+[ITmedia Biz.ID：“文系出身プログラマー”が独立するまで — — コトノハ・大日田貴司さん](http://www.itmedia.co.jp/bizid/articles/0702/20/news051.html)
 
 > 新感覚の○×コミュニティ「コトノハ」などを手がける大日田貴司さん。「文系だから、プログラマーなんて無理」と思っていた学生時代を経て、プログラミング未経験可の会社に就職。業務のかたわら独自のサービスを作り、スカウトされて転職、そして独立 — — 。一見順調に見えるキャリアだが、その裏には焦りや苦労もあった。
 

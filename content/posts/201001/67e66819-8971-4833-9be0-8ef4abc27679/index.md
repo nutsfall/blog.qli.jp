@@ -1,9 +1,6 @@
 ---
-title: 'WiFi or 3G : iPad どっちを選ぶ？'
-description: ''
-date: '2010-01-29T23:00:53.000Z'
-categories: []
-keywords: []
+title: "WiFi or 3G : iPad どっちを選ぶ？"
+date: "2010-01-29T23:00:53.000Z"
 tags: ["ipad", "apple"]
 slug: "67e66819-8971-4833-9be0-8ef4abc27679"
 ---

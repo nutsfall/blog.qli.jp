@@ -1,9 +1,6 @@
 ---
 title: 位置情報系プロキシー的サービス Check.in
-description: ''
-date: '2010-03-27T16:24:43.000Z'
-categories: []
-keywords: []
+date: "2010-03-27T16:24:43.000Z"
 tags: ["location-services", "foursquare", "check-in"]
 slug: "0c0cd7b9-fd64-484b-a254-887cd244742d"
 ---
@@ -13,7 +10,7 @@ slug: "0c0cd7b9-fd64-484b-a254-887cd244742d"
 
 > Check.inは、同時に複数のサービスでチェックインできるアプリケーションだ。別の言い方をすれば、“一回のチェックインですべてに伝わる”というわけ。SXSWでデモしていたが（そのビデオがCrunchGearに載った）、実際に使わせてくれたのは今日（米国時間3/25）が初めてだ。いや、デモを見るより実際に使うほうが、何百倍もすばらしいよ。
 
-> \[From [複数の位置対応サービスに一度でチェックインできるCheck.in, まずWebアプリのベータでスタートへ](http://jp.techcrunch.com/archives/20100325check-in/) \]
+> [From [複数の位置対応サービスに一度でチェックインできるCheck.in, まずWebアプリのベータでスタートへ](http://jp.techcrunch.com/archives/20100325check-in/) ]
 
 brightkite for iPhoneのチェックイン部分だけを切り取ったようなイメージでいる。位置情報系の競争激化で、どのサービス経由で位置情報をシェアするかというのが悩みの種になっている人も多いと思うのだけど、これにより、一度に全部シェアするということが可能になる。
 

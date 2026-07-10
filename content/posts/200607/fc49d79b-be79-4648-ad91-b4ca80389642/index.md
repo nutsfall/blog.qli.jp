@@ -1,9 +1,6 @@
 ---
 title: 誰かが脚本を書いた世界の祭典
-description: ''
-date: '2006-07-10T11:24:07.000Z'
-categories: []
-keywords: []
+date: "2006-07-10T11:24:07.000Z"
 tags: ["fifa-world-cup", "zidane"]
 slug: "fc49d79b-be79-4648-ad91-b4ca80389642"
 ---

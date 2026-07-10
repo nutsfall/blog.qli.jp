@@ -1,9 +1,6 @@
 ---
 title: Get a Mac キャンペーン
-description: ''
-date: '2006-11-15T23:04:49.000Z'
-categories: []
-keywords: []
+date: "2006-11-15T23:04:49.000Z"
 tags: ["apple", "mac", "get-a-mac"]
 slug: "6d61d09c-db9f-45fc-9238-bdfb5507b7a2"
 ---

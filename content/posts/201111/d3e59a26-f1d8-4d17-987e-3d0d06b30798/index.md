@@ -1,9 +1,6 @@
 ---
 title: 最近使ったアプリ12個
-description: ''
-date: '2011-11-08T22:16:24.000Z'
-categories: []
-keywords: []
+date: "2011-11-08T22:16:24.000Z"
 tags: ["ios-apps", "productivity"]
 slug: "d3e59a26-f1d8-4d17-987e-3d0d06b30798"
 ---

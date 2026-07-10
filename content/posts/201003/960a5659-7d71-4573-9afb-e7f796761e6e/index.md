@@ -1,9 +1,6 @@
 ---
 title: GmailにGoogle Buzzの通知設定が追加
-description: ''
-date: '2010-03-14T11:39:01.000Z'
-categories: []
-keywords: []
+date: "2010-03-14T11:39:01.000Z"
 tags: ["google-buzz", "gmail"]
 slug: "960a5659-7d71-4573-9afb-e7f796761e6e"
 ---

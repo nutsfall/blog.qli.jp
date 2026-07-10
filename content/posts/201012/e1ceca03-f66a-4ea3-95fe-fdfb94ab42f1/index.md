@@ -1,9 +1,6 @@
 ---
 title: reeder for Macを使うのをやめた理由
-description: ''
-date: '2010-12-03T23:45:43.000Z'
-categories: []
-keywords: []
+date: "2010-12-03T23:45:43.000Z"
 tags: ["reeder", "google-reader", "rss"]
 slug: "e1ceca03-f66a-4ea3-95fe-fdfb94ab42f1"
 ---

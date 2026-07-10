@@ -1,9 +1,6 @@
 ---
 title: 10月14日にAppleの新しいノートブック
-description: ''
-date: '2008-10-10T06:41:33.000Z'
-categories: []
-keywords: []
+date: "2008-10-10T06:41:33.000Z"
 tags: ["apple", "macbook"]
 slug: "8d104c3b-c285-4a5a-9101-cddaee66ead2"
 ---

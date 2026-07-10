@@ -1,9 +1,6 @@
 ---
 title: CountDown JAPAN Fes 07/08
-description: ''
-date: '2008-01-06T12:01:42.000Z'
-categories: []
-keywords: []
+date: "2008-01-06T12:01:42.000Z"
 tags: ["countdown-japan", "salyu", "the-brilliant-green"]
 slug: "e1e869d8-ffc0-4e4e-8330-8f22df156cd6"
 ---

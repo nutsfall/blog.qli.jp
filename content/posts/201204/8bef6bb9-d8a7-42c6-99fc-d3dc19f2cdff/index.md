@@ -1,9 +1,6 @@
 ---
 title: Salyu Tour 2012 photogenic
-description: ''
-date: '2012-04-29T21:39:48.000Z'
-categories: []
-keywords: []
+date: "2012-04-29T21:39:48.000Z"
 tags: ["salyu", "live-concert"]
 slug: "8bef6bb9-d8a7-42c6-99fc-d3dc19f2cdff"
 ---

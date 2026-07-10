@@ -1,9 +1,6 @@
 ---
 title: chicappaサーバでのFeed取得
-description: ""
 date: "2006-08-27T20:00:35.000Z"
-categories: []
-keywords: []
 tags: ["php", "rss", "web-development"]
 slug: "0757c832-25d5-4c6d-b75c-072ea88d350b"
 ---

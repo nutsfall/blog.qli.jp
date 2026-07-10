@@ -1,9 +1,6 @@
 ---
 title: iPhone for everybodyを申し込んできた
-description: ''
-date: '2009-06-14T15:53:18.000Z'
-categories: []
-keywords: []
+date: "2009-06-14T15:53:18.000Z"
 tags: ["iphone", "softbank"]
 slug: "05357185-c3bf-461b-8b68-507cee089b8b"
 ---

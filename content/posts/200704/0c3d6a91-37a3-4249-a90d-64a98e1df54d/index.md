@@ -1,20 +1,15 @@
 ---
 title: Googleデスクトップ Mac版登場！
-description: ""
 date: "2007-04-04T23:43:52.000Z"
-categories: []
-keywords: []
 tags: ["google-desktop", "mac"]
 slug: "0c3d6a91-37a3-4249-a90d-64a98e1df54d"
 ---
 ちょっと興奮してます。  
 ついに、Mac 版 Google Desktop がリリースされました！
 
-リンク: [Official Google Mac Blog](http://googlemac.blogspot.com/ "Official Google Mac Blog").
+[Official Google Mac Blog](http://googlemac.blogspot.com/)
 
 > People have been asking me since I started at Google what I’ve been working on, and until today, I’ve been unable to say. Now is the time to change all that and introduce the newest product from the Google MacEng team: Google Desktop for Mac (beta).
-
-![]()
 
 やることは Windows 版と一緒ですが、サイドバーはありません。Mac には Dashboard がありますからね。また、Google Desktop for mac をインストールすると、Google Update も提供されます。今後は Windows 版も統合されるのかも。
 

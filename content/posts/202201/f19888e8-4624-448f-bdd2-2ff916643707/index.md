@@ -1,9 +1,6 @@
 ---
 title: "#EMPOWERED は中間管理職に読んでほしい書籍でした"
-description: 本の感想はちらほらtweetしても、なかなかこういう形で文章にするということは多くなかったのですが、この本はぜひ文章を書きたいと思いました。
-date: '2022-01-22T06:21:37.001Z'
-categories: []
-keywords: []
+date: "2022-01-22T06:21:37.001Z"
 tags: ["empowered", "product-management"]
 slug: "f19888e8-4624-448f-bdd2-2ff916643707"
 ---
@@ -26,5 +23,4 @@ EMPOWEREDの日本語訳は2021年6月に出版されました。オリジナル
 
 議論活発な「プロダクトチーム」というスタイルをより多くの人に知ってもらいたいと改めて思いましたし、拡げたい、作りたいと思いました。それによって、ソフトウェアに関わるあらゆる人たちをEMPOWERしたいと思っています。
 
-[**EMPOWERED 普通のチームが並外れた製品を生み出すプロダクトリーダーシップ**  
-_Amazonでマーティ・ケーガン, クリス・ジョーンズ, 二木夢子, 及川卓也のEMPOWERED…_www.amazon.co.jp](https://www.amazon.co.jp/gp/product/B098B4NLFJ/ "https://www.amazon.co.jp/gp/product/B098B4NLFJ/")[](https://www.amazon.co.jp/gp/product/B098B4NLFJ/)
+[EMPOWERED 普通のチームが並外れた製品を生み出すプロダクトリーダーシップ](https://www.amazon.co.jp/dp/B098B4NLFJ)

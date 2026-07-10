@@ -1,9 +1,6 @@
 ---
 title: Eye-fi にダイレクトモードがきた
-description: ''
-date: '2011-04-20T20:32:28.000Z'
-categories: []
-keywords: []
+date: "2011-04-20T20:32:28.000Z"
 tags: ["eye-fi", "photography", "iphone"]
 slug: "46ed6976-1b75-42e8-9fe5-0c57fea51100"
 ---

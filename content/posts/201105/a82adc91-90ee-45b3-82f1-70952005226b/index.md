@@ -1,9 +1,6 @@
 ---
 title: salyu x salyu s(o)un(d)beams tour
-description: ''
-date: '2011-05-06T23:34:31.000Z'
-categories: []
-keywords: []
+date: "2011-05-06T23:34:31.000Z"
 tags: ["salyu", "concert"]
 slug: "a82adc91-90ee-45b3-82f1-70952005226b"
 ---

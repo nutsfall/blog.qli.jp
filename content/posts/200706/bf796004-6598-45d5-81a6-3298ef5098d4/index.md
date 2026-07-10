@@ -1,9 +1,6 @@
 ---
 title: 英語ブログを始めました
-description: ''
-date: '2007-06-18T11:21:29.000Z'
-categories: []
-keywords: []
+date: "2007-06-18T11:21:29.000Z"
 tags: ["blogging", "english-learning"]
 slug: "bf796004-6598-45d5-81a6-3298ef5098d4"
 ---
@@ -11,7 +8,7 @@ slug: "bf796004-6598-45d5-81a6-3298ef5098d4"
 
 きっかけは梅田さんのブログのエントリー（以下参照）。
 
-リンク: [My Life Between Silicon Valley and Japan — サバイバルという言葉が嫌いなら使わないで話そうか](http://d.hatena.ne.jp/umedamochio/20070617/p1 "My Life Between Silicon Valley and Japan - サバイバルという言葉が嫌いなら使わないで話そうか").
+[My Life Between Silicon Valley and Japan — サバイバルという言葉が嫌いなら使わないで話そうか](http://d.hatena.ne.jp/umedamochio/20070617/p1)
 
 > こんなことはグローバリゼーションという文脈で、多くの人がすでに語っていることだけれど、「英語圏のネット世界」は、それが本当にカジュアルに自然に具現化されようとしている世界だ。「日本人・イコール・日本語圏・イコール・ネット上の日本語圏」の世界にいるだけだと、こればっかりはなかなか実感できないかもしれない。頭でわかってもね。
 

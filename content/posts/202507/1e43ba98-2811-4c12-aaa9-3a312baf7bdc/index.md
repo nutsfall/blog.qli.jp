@@ -1,9 +1,6 @@
 ---
 title: 子どもの頃に見た音楽の景色 — CDとRockin’on
-description: 今回は、ちょっと昔の話をしてみようと思います。このブログやTwitterでもたびたび触れているように、気がつけば日常の中でいろんな「ミュージックプレイス」に通うようになっています。
-date: '2025-07-26T03:01:57.177Z'
-categories: []
-keywords: []
+date: "2025-07-26T03:01:57.177Z"
 tags: ["mr-children", "rockin-on", "music"]
 slug: "1e43ba98-2811-4c12-aaa9-3a312baf7bdc"
 cover:

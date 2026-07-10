@@ -2,8 +2,6 @@
 title: introduce new my gear, Marshall Headphone MAJOR V
 description: 新しく登場したMarshall Headphone MAJOR V をレビューしました
 date: "2024-05-11T03:02:39.796Z"
-categories: []
-keywords: []
 tags: ["marshall", "headphones"]
 slug: "5e46d524-c591-405b-b194-a7e7603bcbb1"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 何度目の誕生日か
-description: 6月21日は夏至でした。そして、このブログはその日に誕生日を迎えました。もう何年目かは言いません。こういうタイミングなので、今日は少しこのブログについて語りたいと思っています。
 date: "2024-06-22T11:45:12.477Z"
-categories: []
-keywords: []
 tags: ["blogging", "omnifocus", "mr-children"]
 slug: "23609c89-bd7d-4c16-9764-7a549ae3a68a"
 ---

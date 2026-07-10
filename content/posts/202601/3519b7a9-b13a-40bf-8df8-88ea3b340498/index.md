@@ -5,7 +5,6 @@ slug: "3519b7a9-b13a-40bf-8df8-88ea3b340498"
 source: "medium"
 original_url: "https://medium.com/@hiro/2016%E5%B9%B4%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E5%88%9D%E3%82%81-688feaa599dc?source=rss-21bfda6f823e------2"
 tags: ["music"]
-draft: false
 ---
 
 リーガルリリーと羊文学の対バンライブに行ってきた。最高の夜だった。

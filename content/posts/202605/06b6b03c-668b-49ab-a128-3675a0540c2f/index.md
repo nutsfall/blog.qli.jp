@@ -5,7 +5,6 @@ slug: "06b6b03c-668b-49ab-a128-3675a0540c2f"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E6%8E%A8%E3%81%97%E6%B4%BB%E3%81%AE%E5%86%85%E5%81%B4%E3%81%8B%E3%82%89%E8%AA%AD%E3%82%80-%E3%82%A4%E3%83%B3-%E3%82%B5%E3%82%99-%E3%83%A1%E3%82%AB%E3%82%99%E3%83%81%E3%83%A3%E3%83%BC%E3%83%81-%E3%83%8D%E3%82%BF%E3%83%8F%E3%82%99%E3%83%AC%E6%84%9F%E6%83%B3-88d506db032a?source=rss-21bfda6f823e------2"
 tags: ["novel"]
-draft: false
 cover:
   image: "cover.png"
   caption: "Echoes in the Megachurch created by Gemini"

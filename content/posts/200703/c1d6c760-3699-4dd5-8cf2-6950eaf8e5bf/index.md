@@ -1,9 +1,6 @@
 ---
 title: 昔のブログの記事を移行しました
-description: ''
-date: '2007-03-05T11:53:38.000Z'
-categories: []
-keywords: []
+date: "2007-03-05T11:53:38.000Z"
 tags: ["blog-migration"]
 slug: "c1d6c760-3699-4dd5-8cf2-6950eaf8e5bf"
 ---

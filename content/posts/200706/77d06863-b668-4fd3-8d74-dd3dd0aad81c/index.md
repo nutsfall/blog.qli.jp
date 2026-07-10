@@ -1,21 +1,18 @@
 ---
 title: 修正するまで待てなかった？
-description: ''
-date: '2007-06-27T10:14:18.000Z'
-categories: []
-keywords: []
+date: "2007-06-27T10:14:18.000Z"
 tags: ["lhaca", "security"]
 slug: "77d06863-b668-4fd3-8d74-dd3dd0aad81c"
 ---
 昨日のニュースですが、+LhacaというLzhソフトウェア(アーカイバ)に脆弱性が報告されたというニュースがありました。
 
-リンク: [ITmedia エンタープライズ：Lhacaに未パッチの脆弱性、悪用トロイの木馬も出現](http://www.itmedia.co.jp/enterprise/articles/0706/26/news022.html "ITmedia エンタープライズ：Lhacaに未パッチの脆弱性、悪用トロイの木馬も出現").
+[ITmedia エンタープライズ：Lhacaに未パッチの脆弱性、悪用トロイの木馬も出現](http://www.itmedia.co.jp/enterprise/articles/0706/26/news022.html)
 
 > 日本で人気の圧縮・解凍ソフト「Lhaca」に未パッチの脆弱性が発覚、この問題を突いた「.lzh」圧縮形式のファイルが見つかった。米Symantecが6月25日のブログで報告している。
 
 具体的には
 
-リンク: [Symantec Security Response Weblog: Beware of LZH](http://www.symantec.com/enterprise/security_response/weblog/2007/06/beware_of_lzh.html "Symantec Security Response Weblog: Beware of LZH").
+[Symantec Security Response Weblog: Beware of LZH](http://www.symantec.com/enterprise/security_response/weblog/2007/06/beware_of_lzh.html)
 
 > All  
 > the ingredients required by file format exploit recipes. The difficulty  

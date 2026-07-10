@@ -1,9 +1,6 @@
 ---
 title: Qik live for iPhone がリリースされた
-description: ''
-date: '2009-12-27T11:32:18.000Z'
-categories: []
-keywords: []
+date: "2009-12-27T11:32:18.000Z"
 tags: ["qik", "iphone", "streaming"]
 slug: "f4b89576-f581-4a34-ac23-601baef63529"
 ---

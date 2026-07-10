@@ -1,9 +1,6 @@
 ---
-title: '2009年を振り返る #2 (+α)'
-description: ''
-date: '2009-12-31T09:46:17.000Z'
-categories: []
-keywords: []
+title: "2009年を振り返る #2 (+α)"
+date: "2009-12-31T09:46:17.000Z"
 tags: ["iphone", "twitter", "augmented-reality"]
 slug: "63791762-dbe0-478f-9ba6-5b69f4ca2aad"
 ---

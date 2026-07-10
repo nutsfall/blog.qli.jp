@@ -1,9 +1,6 @@
 ---
 title: Twitterに思うこと
-description: ''
-date: '2007-04-23T21:45:08.000Z'
-categories: []
-keywords: []
+date: "2007-04-23T21:45:08.000Z"
 tags: ["twitter", "social-media"]
 slug: "3c8915cb-752d-4f2b-b408-66883f22b858"
 ---

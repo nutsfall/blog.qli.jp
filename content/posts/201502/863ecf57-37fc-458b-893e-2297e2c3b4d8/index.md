@@ -1,9 +1,6 @@
 ---
 title: Mr.Children REFLECTION Live film
-description: ''
-date: '2015-02-07T03:19:28.000Z'
-categories: []
-keywords: []
+date: "2015-02-07T03:19:28.000Z"
 tags: ["mr-children", "live-film"]
 slug: "863ecf57-37fc-458b-893e-2297e2c3b4d8"
 ---

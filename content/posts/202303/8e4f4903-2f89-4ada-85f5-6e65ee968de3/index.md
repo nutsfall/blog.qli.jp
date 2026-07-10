@@ -1,9 +1,7 @@
 ---
 title: アディショナルタイム
 description: 優柔不断と、劇的な幕切れと
-date: '2023-03-25T03:01:38.717Z'
-categories: []
-keywords: []
+date: "2023-03-25T03:01:38.717Z"
 tags: ["avispa-fukuoka", "j-league"]
 slug: "8e4f4903-2f89-4ada-85f5-6e65ee968de3"
 ---

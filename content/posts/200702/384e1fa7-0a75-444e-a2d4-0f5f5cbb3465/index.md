@@ -1,9 +1,6 @@
 ---
 title: Inflame Casting(07/02/02)を聞いて。
-description: ''
-date: '2007-02-04T02:39:12.000Z'
-categories: []
-keywords: []
+date: "2007-02-04T02:39:12.000Z"
 tags: ["podcast", "web-design"]
 slug: "384e1fa7-0a75-444e-a2d4-0f5f5cbb3465"
 ---
@@ -12,7 +9,7 @@ slug: "384e1fa7-0a75-444e-a2d4-0f5f5cbb3465"
 
 で、対談で超長い尺ではありますが、なかなかいいお話があったのでご紹介しておきます。
 
-リンク: [Inflame Casting: IC #85 February 2 2007](http://www.yasuhisa.com/inflame/show.php?s=85 "Inflame Casting: IC #85 February 2 2007").
+[Inflame Casting: IC #85 February 2 2007](http://www.yasuhisa.com/inflame/show.php?s=85)
 
 Webデザインのブランディングから出発して、いろいろな話をされてます。結構ためになります。対談されている名村さんって名前聞いてピンとこなかったんですが、[ブログ](http://web-directions.com/)はFeedで読んでました。(さっき確認して、あーそういえば、と思い出しました。もっと脳内フィルタを鍛えないと)
 

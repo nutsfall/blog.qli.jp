@@ -1,9 +1,6 @@
 ---
 title: geo-tweeterをリリースしました
-description: ''
-date: '2009-12-03T12:38:49.000Z'
-categories: []
-keywords: []
+date: "2009-12-03T12:38:49.000Z"
 tags: ["geo-tweeter", "twitter", "google-maps"]
 slug: "7c21c891-ebba-409b-b575-6cef52e650a3"
 ---

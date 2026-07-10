@@ -1,9 +1,6 @@
 ---
-title: 'コルテオ / HALFWAY : salyu'
-description: ''
-date: '2009-02-11T21:51:16.000Z'
-categories: []
-keywords: []
+title: "コルテオ / HALFWAY : salyu"
+date: "2009-02-11T21:51:16.000Z"
 tags: ["salyu", "music"]
 slug: "52814719-e369-48a4-86c4-653ed7b0844d"
 ---
@@ -17,10 +14,4 @@ slug: "52814719-e369-48a4-86c4-653ed7b0844d"
 
 どちらも対照的ながらでも、1枚のシングルとしてきっちりまとまっているところがいいですね。
 
-[コルテオ~行列~/HALFWAY](http://www.amazon.co.jp/exec/obidos/ASIN/B001MD58AQ/qli-22/ref=nosim "コルテオ~行列~/HALFWAY")
-
-*   アーチスト: Salyu
-*   レーベル: TOY’S FACTORY Inc.(VAP)(M)
-*   発売日: 2009/02/11
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/02/11
+[コルテオ~行列~/HALFWAY](https://www.amazon.co.jp/dp/B001MD58AQ)

@@ -1,9 +1,6 @@
 ---
 title: AT-PHA30i を買ってみた
-description: ''
-date: '2010-01-05T18:26:08.000Z'
-categories: []
-keywords: []
+date: "2010-01-05T18:26:08.000Z"
 tags: ["audio-technica", "headphone-amp", "iphone"]
 slug: "6c80566b-6f90-47a6-9ecc-fa9eab00f780"
 ---
@@ -19,9 +16,8 @@ slug: "6c80566b-6f90-47a6-9ecc-fa9eab00f780"
 
 他のメーカーからも出ているようなので、探してみたいとは思っています。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B002XHAS8C](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B002XHAS8C "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B002XHAS8C")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B002XHAS8C](https://www.amazon.co.jp/dp/B002XHAS8C)
 
-[**Amazon**  
-_Edit description_rcm-jp.amazon.co.jp](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B001DD55OE "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B001DD55OE")[](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B001DD55OE)
+[Amazon](https://www.amazon.co.jp/dp/B001DD55OE)
 
 **追記(2010/1/9)：**このアンプを使うと音質がどうこうというより音が感情に訴えかける感じになるのだけれど、これ、なんなんでしょうかね

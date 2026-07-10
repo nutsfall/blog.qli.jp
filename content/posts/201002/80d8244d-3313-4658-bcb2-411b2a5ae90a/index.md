@@ -1,9 +1,6 @@
 ---
-title: 'ポっぷ :: 阿倍真央 / ABBOT KINNEY :: LOVE PHYCHEDELICO'
-description: ''
-date: '2010-02-28T15:57:37.000Z'
-categories: []
-keywords: []
+title: "ポっぷ :: 阿倍真央 / ABBOT KINNEY :: LOVE PHYCHEDELICO"
+date: "2010-02-28T15:57:37.000Z"
 tags: ["love-psychedelico", "abe-mao", "music"]
 slug: "80d8244d-3313-4658-bcb2-411b2a5ae90a"
 ---
@@ -13,13 +10,7 @@ slug: "80d8244d-3313-4658-bcb2-411b2a5ae90a"
 
 アルバム5枚目。オリジナルという意味では3枚目ですね。オリジナルの3枚は全部持っているんですが、これも裏切らない安心感がありますね。やっている音楽そのものはちょっとづつ違うんですが、すでに”デリコカラー”を確立している感じ。
 
-[ABBOT KINNEY](http://www.amazon.co.jp/exec/obidos/ASIN/B002TODDMC/qli-22/ref=nosim "ABBOT KINNEY")
-
-*   アーチスト: LOVE PSYCHEDELICO
-*   レーベル: ビクターエンタテインメント
-*   発売日: 2010/01/13
-
-posted with [Socialtunes](http://socialtunes.net) at 2010/02/28
+[ABBOT KINNEY](https://www.amazon.co.jp/dp/B002TODDMC)
 
 **ポっぷ** by 阿倍真央
 
@@ -27,12 +18,7 @@ posted with [Socialtunes](http://socialtunes.net) at 2010/02/28
 
 それぞれの楽曲の完成度が高いが故に気になるのが、このアルバムそのものの完成度。あまりにもバラエティに富みすぎて、アルバム全体の完成度に疑問を感じたりしました。彼女がどのような環境で音楽を作っているのかまったく知らないですが、第三者的立ち位置から助言できるような人の存在があれば、もっとアルバムの完成度が上がる気がします。いわゆる、”今後に期待”ってところかなと。
 
-[ポっぷ](http://www.amazon.co.jp/exec/obidos/ASIN/B002YAYKHI/qli-22/ref=nosim "ポっぷ")
-
-*   アーチスト: 阿部真央
-*   レーベル: ポニーキャニオン
-
-posted with [Socialtunes](http://socialtunes.net) at 2010/02/28
+[ポっぷ](https://www.amazon.co.jp/dp/B002YAYKHI)
 
 **p.s.**
 

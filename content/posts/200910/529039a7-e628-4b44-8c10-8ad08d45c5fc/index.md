@@ -1,9 +1,6 @@
 ---
-title: '世界が明日も続くなら :: GAKU-MC'
-description: ''
-date: '2009-10-29T22:02:16.000Z'
-categories: []
-keywords: []
+title: "世界が明日も続くなら :: GAKU-MC"
+date: "2009-10-29T22:02:16.000Z"
 tags: ["gaku-mc", "music"]
 slug: "529039a7-e628-4b44-8c10-8ad08d45c5fc"
 ---
@@ -15,21 +12,10 @@ slug: "529039a7-e628-4b44-8c10-8ad08d45c5fc"
 
 もし試聴ができるようならぜひ試聴して欲しいなと思います。iTunes Storeでも売ってますね。手を出すなが入ってないけど（笑）
 
-[世界が明日も続くなら](http://www.amazon.co.jp/exec/obidos/ASIN/B002M34BJ4/qli-22/ref=nosim "世界が明日も続くなら")
-
-*   アーチスト: GAKU-MC
-*   レーベル: トイズファクトリー
-*   発売日: 2009/10/21
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/10/29
+[世界が明日も続くなら](https://www.amazon.co.jp/dp/B002M34BJ4)
 
 p.s.
 
 以前レビューしたidlewildのアルバムがやっとリリースされたようで。こちらもかなりいいのでオススメします。
 
-[Post Electric Blues](http://www.amazon.co.jp/exec/obidos/ASIN/B002ICGC82/qli-22/ref=nosim "Post Electric Blues")
-
-*   アーチスト: Idlewild
-*   レーベル: Cooking Vinyl
-
-posted with [Socialtunes](http://socialtunes.net) at 2009/10/29
+[Post Electric Blues](https://www.amazon.co.jp/dp/B002ICGC82)

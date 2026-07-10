@@ -1,9 +1,6 @@
 ---
 title: ベスト盤を考えてみる（Mr.Childrenがかつて出した3枚のCDを通じて）
-description: ''
-date: '2010-10-25T19:44:27.000Z'
-categories: []
-keywords: []
+date: "2010-10-25T19:44:27.000Z"
 tags: ["mr-children", "music"]
 slug: "08a42b11-c3bd-45aa-b1f6-28e2115b194a"
 ---
@@ -11,7 +8,7 @@ slug: "08a42b11-c3bd-45aa-b1f6-28e2115b194a"
 
 そういえば、Mr.Childrenもベスト盤を出したことがありました。2001年7月11日のことです。通称、”骨””肉”といわれる2枚のアルバムでした。シングル曲を中心に構成されていて、個人的にはアイテムコレクターのような気持ちで買いました。収録曲は全部持っていたからです。実は、自分のiTunesライブラリにもこのアルバムは入れていません。曲が重複しているからです。このアルバムはメンバー自身によって選曲されたと聴いていますし、Mr.Childrenの音楽はこのアルバムをきっかけにして変わっていったような気がします。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B000O76P6C](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B000O76P6C "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B000O76P6C")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B000O76P6C](https://www.amazon.co.jp/dp/B000O76P6C)
 
 Mr.Childrenに関してはファンとして、ベスト盤もカップリング集も買ってしまうかもしれません。でもそれ以外だったらどうだろう？入門用として買う場合もあるでしょうし、もう数曲持っているから買わないという場合もあるかもしれません。
 

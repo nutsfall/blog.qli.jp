@@ -1,15 +1,12 @@
 ---
 title: JUGEMがXMLRPCに対応した
-description: ''
-date: '2007-02-24T15:01:38.000Z'
-categories: []
-keywords: []
+date: "2007-02-24T15:01:38.000Z"
 tags: ["jugem", "xml-rpc"]
 slug: "62d1c119-c9ae-4ccd-bd5c-70d74c9c3504"
 ---
 JugemがやっとXML-RPCに対応した。
 
-リンク: [JUGEMお知らせブログ | 投稿API(XML-RPC API)公開について](http://info.jugem.jp/?eid=8972 "JUGEMお知らせブログ | 投稿API(XML-RPC API)公開について").
+[JUGEMお知らせブログ | 投稿API(XML-RPC API)公開について](http://info.jugem.jp/?eid=8972)
 
 > 本日、JUEGEMにおいて投稿API(XML-RPC API)を導入しましたのでご連絡いたします。  
 > 投稿API(XML-RPC API)とはブログをJUGEM以外のサイトから編集できる仕組みのことを指します。  

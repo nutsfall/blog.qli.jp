@@ -1,9 +1,6 @@
 ---
 title: iPod TouchからiPhoneに乗り換えたい３つの理由
-description: ''
-date: '2008-06-06T00:18:03.000Z'
-categories: []
-keywords: []
+date: "2008-06-06T00:18:03.000Z"
 tags: ["iphone", "ipod-touch"]
 slug: "aa4374c5-2247-4b81-8ce0-f6225831a276"
 ---

@@ -1,9 +1,6 @@
 ---
 title: google検索結果のキーボードショートカットが便利な件について
-description: ''
-date: '2007-12-03T23:36:25.000Z'
-categories: []
-keywords: []
+date: "2007-12-03T23:36:25.000Z"
 tags: ["google", "keyboard-shortcuts"]
 slug: "0c4e96f6-fb90-42b9-90f2-7f64cbf4dbc2"
 ---

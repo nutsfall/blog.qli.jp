@@ -1,9 +1,6 @@
 ---
 title: backpackを触ってみた
-description: ''
-date: '2007-08-04T23:48:56.000Z'
-categories: []
-keywords: []
+date: "2007-08-04T23:48:56.000Z"
 tags: ["backpack", "gtd", "web-services"]
 slug: "d47f3ddf-82ab-4417-a086-7c958a275e4c"
 ---

@@ -1,9 +1,6 @@
 ---
 title: auで連絡先が消える？
-description: ''
-date: '2015-10-04T05:51:24.000Z'
-categories: []
-keywords: []
+date: "2015-10-04T05:51:24.000Z"
 tags: ["au", "iphone", "contacts"]
 slug: "5218a0a3-8665-41aa-aea5-ca84f66489dc"
 ---

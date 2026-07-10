@@ -1,9 +1,6 @@
 ---
 title: PMとものづくりについての考察
-description: 今年もデブサミに行ってきました。バレンタインデー開催を避けた先週と同様、いい天気のデブサミでした。
 date: "2016-02-24T14:18:00.000Z"
-categories: []
-keywords: []
 tags: ["product-management", "developers-summit", "agile"]
 slug: "d00ddde9-8f9b-4432-94e7-c711e38871d3"
 ---

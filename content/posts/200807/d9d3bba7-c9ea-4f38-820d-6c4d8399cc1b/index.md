@@ -1,9 +1,6 @@
 ---
 title: iPhone 3G用のイヤフォン
-description: ''
-date: '2008-07-04T22:56:10.000Z'
-categories: []
-keywords: []
+date: "2008-07-04T22:56:10.000Z"
 tags: ["iphone", "earphones"]
 slug: "d9d3bba7-c9ea-4f38-820d-6c4d8399cc1b"
 ---
@@ -11,7 +8,7 @@ slug: "d9d3bba7-c9ea-4f38-820d-6c4d8399cc1b"
 
 > 追記：今はサードパーティのイヤホンを使っているんですが、iPhone用イヤホンって実はマイク付きなんですよね。サードパーティのイヤホンでマイク付きが出てくれるかどうか、これが最大の懸念点です。
 
-> \[From [きゅーり.jp: モバイルライフ × iPhone](http://blog.qli.jp/2008/06/iphone-0135.html)\]
+> [From [きゅーり.jp: モバイルライフ × iPhone](http://blog.qli.jp/2008/06/iphone-0135.html)]
 
 という書き込みをしていたんですが、どうやら出してくれるサードパーティがあるそうです。
 

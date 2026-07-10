@@ -1,9 +1,6 @@
 ---
 title: WDE express vol.13 “書籍と出版の未来”
-description: ''
-date: '2010-08-27T00:17:49.000Z'
-categories: []
-keywords: []
+date: "2010-08-27T00:17:49.000Z"
 tags: ["e-books", "publishing", "craig-mod"]
 slug: "90cd82a2-fdfe-4678-8e9b-b88c727e96ae"
 ---

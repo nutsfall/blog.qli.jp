@@ -1,9 +1,6 @@
 ---
 title: untitled
-description: ''
-date: '2011-05-31T21:56:59.000Z'
-categories: []
-keywords: []
+date: "2011-05-31T21:56:59.000Z"
 tags: ["nuclear-power", "chim-pom", "3-11"]
 slug: "f1a838ba-1dae-430b-8715-e661c5eb38d2"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 僕がスタバを使う理由
-description: ''
-date: '2024-10-26T03:01:57.566Z'
-categories: []
-keywords: []
+date: "2024-10-26T03:01:57.566Z"
 tags: ["starbucks", "coffee"]
 slug: "9a69b45d-c1cc-4b4c-90c0-12f160b50c18"
 ---

@@ -1,17 +1,12 @@
 ---
 title: Thingsの日本語Siriコマンド一覧
-description: iOS11のリリースに合わせて、Things 3.2がリリースされました。これはiOS11への対応のバージョンとなりますが、特にSiri
-  IntegratedとDrag & Drop の対応がメインとなります。なお、Things for Mac 3.2はHigh…
-date: '2017-09-20T15:19:36.581Z'
-categories: []
-keywords: []
+date: "2017-09-20T15:19:36.581Z"
 tags: ["things", "siri", "ios"]
 slug: "917a3077-0447-47f5-a5e8-ab7f929e352d"
 ---
 iOS11のリリースに合わせて、Things 3.2がリリースされました。これはiOS11への対応のバージョンとなりますが、特にSiri IntegratedとDrag & Drop の対応がメインとなります。なお、Things for Mac 3.2はHigh Sierra対応リリースのため、来週リリースの予定です。
 
-[**Exciting New Things for iOS 11 - Things Blog - Cultured Code**  
-_We've just shipped Things 3.2 with three awesome new features: Direct integration with Siri, drag & drop for iPad, and…_culturedcode.com](https://culturedcode.com/things/blog/2017/09/exciting-new-things-for-ios-11/ "https://culturedcode.com/things/blog/2017/09/exciting-new-things-for-ios-11/")[](https://culturedcode.com/things/blog/2017/09/exciting-new-things-for-ios-11/)
+[Exciting New Things for iOS 11 - Things Blog - Cultured Code](https://culturedcode.com/things/blog/2017/09/exciting-new-things-for-ios-11/)
 
 Siri Integrated という機能は音声による機能のため、特に言語との結びつきが強いです。というわけで、上で紹介されていたものの日本語対応版を書いておくことにします。
 

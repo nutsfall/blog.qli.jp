@@ -1,9 +1,6 @@
 ---
 title: Shokz OPENCOMMのいまさらレビュー
-description: 当たり前のように家で働くようになって、早くも3年が経った。もともとオフィス以外の場所で働くことが選択肢にあった環境ではありましたが、ここまで当たり前になるとは思わなかった。
-date: '2023-06-03T03:01:46.808Z'
-categories: []
-keywords: []
+date: "2023-06-03T03:01:46.808Z"
 tags: ["shokz", "remote-work"]
 slug: "1789e302-59f5-4b4b-bf21-1d6e17ca93e7"
 ---
@@ -13,8 +10,7 @@ slug: "1789e302-59f5-4b4b-bf21-1d6e17ca93e7"
 
 この3年間、いろんなマイクを試した。そして、今使っているのがShokzだ。Shokz OPENCOMM は、インイヤーやオーバーイヤーではなく、そもそも耳を塞がない・覆わないということが、自然な感覚につながっていて、ストレスを軽減していると感じる。音を出す、振動する部分がこめかみのところに当たっていて、音量が大きくなるとむず痒くなることがあるのがやや厳しい。
 
-[**Shokz (旧AfterShokz) OPENCOMM ビジネスモデル 骨伝導ヘッドセット**  
-_スマホなどのモバイルとの接続に最適 快適性を追求したデザイン You will enjoy a 2-year warranty period from the purchased date with any products here…_jp.shokz.com](https://jp.shokz.com/products/bone-conduction-headphone-opencomm "https://jp.shokz.com/products/bone-conduction-headphone-opencomm")[](https://jp.shokz.com/products/bone-conduction-headphone-opencomm)
+[Shokz (旧AfterShokz) OPENCOMM ビジネスモデル 骨伝導ヘッドセット](https://jp.shokz.com/products/bone-conduction-headphone-opencomm)
 
 Shokz OPENCOMMのマイクは、口との距離が近く、Zoomのノイズキャンセリングと連動して、周りの環境音をあまり拾わないようなので、とても安心して使うことができる。「リモート」で働く時に一番気を使うのは、オンラインで繋ぐときの周囲の音だったりするので、その点についてはとても満足している。
 

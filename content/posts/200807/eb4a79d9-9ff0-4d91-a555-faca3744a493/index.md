@@ -1,13 +1,10 @@
 ---
 title: HERO 映画版
-description: ''
-date: '2008-07-21T06:15:53.000Z'
-categories: []
-keywords: []
+date: "2008-07-21T06:15:53.000Z"
 tags: ["hero", "japanese-drama"]
 slug: "eb4a79d9-9ff0-4d91-a555-faca3744a493"
 ---
-[HERO スタンダード・エディション](http://www.amazon.co.jp/exec/obidos/ASIN/B0011Z7ERK/sixapart-vox1-22 "HERO スタンダード・エディション")
+[HERO スタンダード・エディション](https://www.amazon.co.jp/dp/B0011Z7ERK)
 
 HEROの映画版をやっとみることができました。
 

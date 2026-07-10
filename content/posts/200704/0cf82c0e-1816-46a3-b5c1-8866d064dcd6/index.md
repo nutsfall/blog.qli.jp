@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: グッバイ　パスネット'
-description: ''
-date: '2007-04-01T23:24:53.000Z'
-categories: []
-keywords: []
+title: "On Vox: グッバイ　パスネット"
+date: "2007-04-01T23:24:53.000Z"
 tags: ["passnet", "transit"]
 slug: "0cf82c0e-1816-46a3-b5c1-8866d064dcd6"
 ---

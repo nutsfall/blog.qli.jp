@@ -1,9 +1,6 @@
 ---
 title: 雑記
-description: ''
-date: '2025-05-24T03:02:25.026Z'
-categories: []
-keywords: []
+date: "2025-05-24T03:02:25.026Z"
 tags: ["streaming", "omnifocus"]
 slug: "c933a4a9-2020-45b4-ba65-635ac74bfac8"
 ---

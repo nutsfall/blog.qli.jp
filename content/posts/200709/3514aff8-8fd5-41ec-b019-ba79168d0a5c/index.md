@@ -1,9 +1,6 @@
 ---
 title: iPod Touch初日の感想
-description: ''
-date: '2007-09-23T22:34:00.000Z'
-categories: []
-keywords: []
+date: "2007-09-23T22:34:00.000Z"
 tags: ["ipod-touch", "apple"]
 slug: "3514aff8-8fd5-41ec-b019-ba79168d0a5c"
 ---

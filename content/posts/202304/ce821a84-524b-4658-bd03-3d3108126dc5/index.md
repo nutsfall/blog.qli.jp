@@ -1,9 +1,6 @@
 ---
 title: あなたの夢は何色ですか?
-description: あっという間に春が来て、気温も高くなり、少し雨が降る日も多くなってきた。街の緑も鮮やかになり、初夏が近いのを感じる。いくつかの季節の移り変わりとともに過ごしてきた「ステイホーム」の間に撒かれたタネが芽吹き、花を開こうとしているのを感じる。人に会いにくい時間を制作にあてられたさまざ
-date: '2023-04-09T03:01:50.833Z'
-categories: []
-keywords: []
+date: "2023-04-09T03:01:50.833Z"
 tags: ["iwai-shunji", "vertical-video"]
 slug: "ce821a84-524b-4658-bd03-3d3108126dc5"
 ---
@@ -21,5 +18,4 @@ slug: "ce821a84-524b-4658-bd03-3d3108126dc5"
 
 いよいよ最終話、どんな展開で終わっていくのか、とても楽しみだ。
 
-[**岩井俊二監督×蒔田彩珠の新作縦型ドラマ『檸檬色の夢』 - VISION｜スマホ特化のLINE NEWSオリジナル縦型動画コンテンツ**  
-_イオは夢日記を付ける習慣がある美大生。レモン色の絵の具をどこかになくしてしまったことをきっかけにミヤマ先輩と親しくなり、彼に誘われて家具屋でバイトを始める。ある日、配達先で出会った巨体の男性から、小学時代の同級生だと打ち明けられるが、その名…_news.line.me](https://news.line.me/lp/vision/series/lemon "https://news.line.me/lp/vision/series/lemon")[](https://news.line.me/lp/vision/series/lemon)
+[岩井俊二監督×蒔田彩珠の新作縦型ドラマ『檸檬色の夢』 - VISION｜スマホ特化のLINE NEWSオリジナル縦型動画コンテンツ](https://news.line.me/lp/vision/series/lemon)

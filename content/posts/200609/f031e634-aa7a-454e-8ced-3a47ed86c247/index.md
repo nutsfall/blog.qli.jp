@@ -1,9 +1,6 @@
 ---
 title: ヤフー!ウェジットが公開。
-description: ''
-date: '2006-09-04T18:35:26.000Z'
-categories: []
-keywords: []
+date: "2006-09-04T18:35:26.000Z"
 tags: ["yahoo-widget", "dashboard"]
 slug: "f031e634-aa7a-454e-8ced-3a47ed86c247"
 ---
@@ -17,14 +14,6 @@ googleデスクトップWidgetはあまりよく知らないですが、Yahoo! W
 
 コンファブレーターを始めて知ったときは、日本語版への期待を持ちましたけど、こうやってヤフーを介して提供されるとは思いませんでした。
 
-リンク: <a title=”  
-  
-Yahoo! JAPAN、日本語版ウィジェット環境「Yahoo!ウィジェット」を提供開始  
-  
-“ href=”http://internet.watch.impress.co.jp/cda/news/2006/09/04/13177.html">  
-  
-Yahoo! JAPAN、日本語版ウィジェット環境「Yahoo!ウィジェット」を提供開始  
-  
-.
+[Yahoo! JAPAN、日本語版ウィジェット環境「Yahoo!ウィジェット」を提供開始](http://internet.watch.impress.co.jp/cda/news/2006/09/04/13177.html)
 
 > ヤフーは4日、デスクトップ上で「ウィジェット」と呼ばれるミニアプリケーションを動作させられるツール「Yahoo!ウィジェット」の提供を開始した。対応OSはWindows XP/2000、Mac OS X 10.3以上で、ヤフーのサイトから無償でダウンロードできる。

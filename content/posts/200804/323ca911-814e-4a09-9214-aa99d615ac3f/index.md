@@ -1,9 +1,6 @@
 ---
-title: 'イニシャル :: My Little Lover'
-description: ''
-date: '2008-04-09T20:54:38.000Z'
-categories: []
-keywords: []
+title: "イニシャル :: My Little Lover"
+date: "2008-04-09T20:54:38.000Z"
 tags: ["my-little-lover", "music"]
 slug: "323ca911-814e-4a09-9214-aa99d615ac3f"
 ---
@@ -15,10 +12,4 @@ My Little Loverのデビューした5月1日発売のアルバム「アイデン
 
 マイラバというと初期のイメージが強い人がたくさんいると思いますが、ポップ、アコースティック、エレクトリック、それらすべてに試行して受け入れて成長してきたユニットなんですよね。現在はAKKOさんのソロプロジェクトのはずなんですが、公式サイトに小林さんの名前だけあるのはなぜなんでしょうか？疑問です。
 
-[イニシャル(DVD付)](http://www.amazon.co.jp/exec/obidos/ASIN/B0013NXC8K/qli-22/ref=nosim "イニシャル(DVD付)")
-
-*   アーチスト: My Little Lover
-*   レーベル: エイベックス・エンタテインメント
-*   発売日: 2008/04/09
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/04/09
+[イニシャル(DVD付)](https://www.amazon.co.jp/dp/B0013NXC8K)

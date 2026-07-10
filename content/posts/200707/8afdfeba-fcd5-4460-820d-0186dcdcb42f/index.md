@@ -1,9 +1,6 @@
 ---
-title: 'Fables :: Immaculate Machine'
-description: ''
-date: '2007-07-02T22:27:09.000Z'
-categories: []
-keywords: []
+title: "Fables :: Immaculate Machine"
+date: "2007-07-02T22:27:09.000Z"
 tags: ["immaculate-machine", "music"]
 slug: "8afdfeba-fcd5-4460-820d-0186dcdcb42f"
 ---
@@ -15,11 +12,4 @@ iTunesで放浪していてたまたま見つけたアルバムをご紹介。[i
 
 最近はやりのmikaとか気に入った人は気に入るのかも。
 
-[Fables](http://www.amazon.co.jp/exec/obidos/ASIN/B000PC1KMU/mrchildrenonl-22/ref=nosim "Fables")
-
-*   アーチスト: Immaculate Machine
-*   レーベル: Mint
-*   価格: ￥ 2,411
-*   発売日: 2007/06/12
-
-posted with [Socialtunes](http://socialtunes.net) at 2007/07/02
+[Fables](https://www.amazon.co.jp/dp/B000PC1KMU)

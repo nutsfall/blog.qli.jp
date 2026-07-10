@@ -1,9 +1,6 @@
 ---
 title: コミュニケーションが変わる2つの出来事
-description: ''
-date: '2010-02-13T22:14:17.000Z'
-categories: []
-keywords: []
+date: "2010-02-13T22:14:17.000Z"
 tags: ["google-buzz", "facebook", "social-media"]
 slug: "a4a980fb-81e7-4c22-bcc3-e878a026e787"
 ---
@@ -25,6 +22,6 @@ slug: "a4a980fb-81e7-4c22-bcc3-e878a026e787"
 >   
 >  そしてこの心地よさを理解する人が増えれば、プライバシーに関する考え方も変わっていくのではないかと考えている。
 
-> \[From [Tech Wave : インターネットの楽しみ方の「陰」と「陽」](http://techwave.jp/archives/51387870.html)\]
+> [From [Tech Wave : インターネットの楽しみ方の「陰」と「陽」](http://techwave.jp/archives/51387870.html)]
 
 Twitterのようなネット上でしか知り合えない緩いつながりもいいですが、リアルネームで少し濃いつながりをやってみるのもいいかもなぁと思いますよ。という感じで、TwitterとBuzzを使い分けてみようかと思っているところです。

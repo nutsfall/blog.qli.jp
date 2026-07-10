@@ -1,21 +1,16 @@
 ---
 title: Cheero Wireless Earphones が届きました
-description: Twitter見てたらふらっと流れてきたので、ポチッとしたら今日届きました。
-date: '2018-03-10T02:55:08.804Z'
-categories: []
-keywords: []
+date: "2018-03-10T02:55:08.804Z"
 tags: ["cheero", "wireless-earphones", "airpods"]
 slug: "06a15a4d-b397-4644-bdbb-c6f6ccf5bd01"
+cover:
+  image: "1__Dft9KHhijw__bUXPReE__cKw.jpeg"
 ---
-![](1__Dft9KHhijw__bUXPReE__cKw.jpeg)
-
 Twitter見てたらふらっと流れてきたので、ポチッとしたら今日届きました。
 
-[**cheero Wireless Earphones**  
-_高音質な完全ワイヤレスイヤホンの登場です。_www.cheero.net](http://www.cheero.net/products/wireless_earphones/ "http://www.cheero.net/products/wireless_earphones/")[](http://www.cheero.net/products/wireless_earphones/)
+[cheero Wireless Earphones](http://www.cheero.net/products/wireless_earphones/)
 
-[**［レビュー］cheero Wireless Earphonesがやってきた！左右独立式の高音質ワイヤレスイヤホンがcheeroより登場！【PR】**  
-_みなさま、こんにちは。Kazuto Tanabe（@WWDC1999 ）です。 今回は、2018年3月8日より販売が始まるcheeroの新製品「cheero Wireless Earphones」をレビューします。 ..._xn--p9j1ayd.net](https://xn--p9j1ayd.net/archives/25686 "https://xn--p9j1ayd.net/archives/25686")[](https://xn--p9j1ayd.net/archives/25686)
+[［レビュー］cheero Wireless Earphonesがやってきた！左右独立式の高音質ワイヤレスイヤホンがcheeroより登場！【PR】](https://xn--p9j1ayd.net/archives/25686)
 
 AirPodsは持っているんですが、AirPodsはインナーイヤー型なので、カナル型を試したいと思っていたのと、ちょうどよくCheero Wireless Earphonesの話を聞いたのと、値段がとても手頃感だったので、お試し感覚です。
 
@@ -27,7 +22,7 @@ AirPodsは持っているんですが、AirPodsはインナーイヤー型なの
 
 第２は、デザイン上の問題。全体的にプラスチックにチープな感じが漂っているのと、使用中にイヤホンのLEDが光ること。一昔前のBluetooth機器は繋がっていることを示すためなのかどうなのか、必ず「光るLED」がありますが、結構ダサいと思っていました。”かっこよさ”はあまりないです。
 
-### 結論
+## 結論
 
 電車の中で、iPhone 7/8/Xに、Lightning変換アダプタをつけて、わざわざワイヤードイヤホンを繋げて音楽を楽しんでいる人をよく見かけます。
 

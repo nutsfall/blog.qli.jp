@@ -1,9 +1,6 @@
 ---
 title: LAST.FM BEST OF 2009
-description: ''
-date: '2009-12-08T23:13:21.000Z'
-categories: []
-keywords: []
+date: "2009-12-08T23:13:21.000Z"
 tags: ["last-fm", "music"]
 slug: "7ba43f66-a67d-4f64-a3de-1d95e5cf1357"
 ---

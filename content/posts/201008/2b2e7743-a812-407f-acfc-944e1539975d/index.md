@@ -1,9 +1,6 @@
 ---
 title: タスク管理を行うことで得られたメリット
-description: ''
-date: '2010-08-31T21:37:22.000Z'
-categories: []
-keywords: []
+date: "2010-08-31T21:37:22.000Z"
 tags: ["gtd", "task-management", "omnifocus"]
 slug: "2b2e7743-a812-407f-acfc-944e1539975d"
 ---

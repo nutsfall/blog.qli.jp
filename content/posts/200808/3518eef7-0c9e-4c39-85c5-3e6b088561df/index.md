@@ -1,9 +1,6 @@
 ---
 title: ガラパゴスが落としていったもの
-description: ''
-date: '2008-08-23T23:53:09.000Z'
-categories: []
-keywords: []
+date: "2008-08-23T23:53:09.000Z"
 tags: ["mobile-email", "docomo", "i-mode"]
 slug: "3518eef7-0c9e-4c39-85c5-3e6b088561df"
 ---

@@ -1,13 +1,10 @@
 ---
 title: 未来型サバイバル音楽論 を読了した
-description: ''
-date: '2010-11-20T18:53:16.000Z'
-categories: []
-keywords: []
+date: "2010-11-20T18:53:16.000Z"
 tags: ["book-review", "music-industry"]
 slug: "21f86b60-e97b-4320-91ce-a0f46267d6ca"
 ---
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=4121503708](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=4121503708 "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=4121503708")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=4121503708](https://www.amazon.co.jp/dp/4121503708)
 
 この本は、”渋谷系”のまっただ中にいた 音楽プロデューサー である牧村憲一さんと、メディアジャーナリスト 津田大介さんが語り合う感じで書かれた本で、レーベルを含めたレコード会社の歴史を中心にした音楽業界の流れだったり、津田大介さんがもっとも得意とされておられる、CDバブル期から音楽配信に向かう流れといったあたりを中心に構成されています。
 

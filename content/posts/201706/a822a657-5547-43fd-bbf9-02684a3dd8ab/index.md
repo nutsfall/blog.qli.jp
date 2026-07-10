@@ -1,9 +1,6 @@
 ---
 title: iPad Pro 10.5を買いました
-description: iPad Pro 9.7の登場が昨年なので１年ごとの買い替えははばかられました。結論からいえば買ってよかったと思っています。まだセットアップ終わったくらいしか触ってないですけども。
-date: '2017-06-13T14:44:16.385Z'
-categories: []
-keywords: []
+date: "2017-06-13T14:44:16.385Z"
 tags: ["ipad-pro", "apple"]
 slug: "a822a657-5547-43fd-bbf9-02684a3dd8ab"
 ---

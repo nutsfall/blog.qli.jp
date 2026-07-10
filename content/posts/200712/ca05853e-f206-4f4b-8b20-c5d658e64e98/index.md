@@ -1,9 +1,6 @@
 ---
 title: Googleリーダーにソーシャル機能を追加
-description: ''
-date: '2007-12-15T23:57:16.000Z'
-categories: []
-keywords: []
+date: "2007-12-15T23:57:16.000Z"
 tags: ["google-reader", "social-features"]
 slug: "ca05853e-f206-4f4b-8b20-c5d658e64e98"
 ---
@@ -13,4 +10,4 @@ slug: "ca05853e-f206-4f4b-8b20-c5d658e64e98"
 
 ソーシャルというからには必須なのはもちろん自分のプロファイルですが、これはこのブログでも当時はあえて取り上げなかったのですが、Googleがこっそりとリリースしている、Google Shared Stuffというサービスをベースにしています。プロフィールベースのソーシャルブックマークというか、そういった形のサービスで、公式リリースも何もまだされていませんが、このサービスがソーシャル化の鍵となるサービスになるのだと思われます。
 
-> So, we’ve linked up Reader with Google Talk (also known as chat in Gmail) to make your shared items visible to your friends from Google Talk \[From [Official Google Reader Blog: Reader and Talk are Friends!](http://googlereader.blogspot.com/2007/12/reader-and-talk-are-friends.html)\]
+> So, we’ve linked up Reader with Google Talk (also known as chat in Gmail) to make your shared items visible to your friends from Google Talk [From [Official Google Reader Blog: Reader and Talk are Friends!](http://googlereader.blogspot.com/2007/12/reader-and-talk-are-friends.html)]

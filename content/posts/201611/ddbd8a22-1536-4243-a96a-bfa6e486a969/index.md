@@ -1,9 +1,6 @@
 ---
 title: "#転売no の裏のぴあ外し"
-description: チケットキャンプがCMを始めたことに呼応して実施された、#no転売 から時が経ち、なかなか表に出ることがなかった音楽業界の人たちがメディアに出て色々情報が開示されたりしています。
-date: '2016-11-21T14:45:04.444Z'
-categories: []
-keywords: []
+date: "2016-11-21T14:45:04.444Z"
 tags: ["mr-children", "ticketing", "live-music"]
 slug: "ddbd8a22-1536-4243-a96a-bfa6e486a969"
 ---

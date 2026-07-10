@@ -1,9 +1,6 @@
 ---
 title: OmniFocusとOpenGPTを連携させる話
-description: ''
-date: '2025-01-24T15:02:13.469Z'
-categories: []
-keywords: []
+date: "2025-01-24T15:02:13.469Z"
 tags: ["omnifocus", "chatgpt", "productivity"]
 slug: "77719e56-9bd4-4d2c-93f8-105c1e409d6a"
 ---

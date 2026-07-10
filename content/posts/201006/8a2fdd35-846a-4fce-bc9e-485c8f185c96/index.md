@@ -1,9 +1,6 @@
 ---
 title: iOS4 リリース
-description: ''
-date: '2010-06-22T03:37:31.000Z'
-categories: []
-keywords: []
+date: "2010-06-22T03:37:31.000Z"
 tags: ["ios4", "mobileme"]
 slug: "8a2fdd35-846a-4fce-bc9e-485c8f185c96"
 ---

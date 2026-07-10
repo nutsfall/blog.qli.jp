@@ -1,9 +1,6 @@
 ---
 title: iPhone が au から登場するか？
-description: ''
-date: '2011-09-22T20:15:22.000Z'
-categories: []
-keywords: []
+date: "2011-09-22T20:15:22.000Z"
 tags: ["iphone", "au"]
 slug: "1d2e448a-1ebf-4175-9159-bf3bc1aa7378"
 ---

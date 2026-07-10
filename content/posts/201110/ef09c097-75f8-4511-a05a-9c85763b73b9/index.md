@@ -1,9 +1,6 @@
 ---
 title: iCloud がサービスイン
-description: ''
-date: '2011-10-13T19:17:51.000Z'
-categories: []
-keywords: []
+date: "2011-10-13T19:17:51.000Z"
 tags: ["icloud", "mobileme", "ios-5"]
 slug: "ef09c097-75f8-4511-a05a-9c85763b73b9"
 ---

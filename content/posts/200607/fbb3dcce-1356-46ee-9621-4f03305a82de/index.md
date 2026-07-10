@@ -1,18 +1,15 @@
 ---
 title: i d e a * i d e a — The Inbox Makeoverですっきり
-description: ''
-date: '2006-07-04T12:31:00.000Z'
-categories: []
-keywords: []
+date: "2006-07-04T12:31:00.000Z"
 tags: ["gmail", "email-management", "gtd"]
 slug: "fbb3dcce-1356-46ee-9621-4f03305a82de"
 ---
 昨日、ITmedia Biz.IDのオープニング企画で応募していたGmailアカウントのお誘いを頂いたので、さっそく”もう一つのアカウント”を作成してみた。でも、こいつはちょっと保留中。そのうち、プライベートメールの転送用として使うかも。  
 それと、プラスして、Gmailのメールのバックアップのために、Apple Mailにアカウントを登録。でも、これって.Mac syncされて別のPCで受信しちゃったりすると、2度と母艦Macには戻せないのだろうか・・・と戦々恐々。思い切って、別のMUAを使用して(といっても、Thunderbirdが確定している)バックアップ用ってことで受信しておくことも検討中(でも、そんなことしてると”シンプル”から離れちゃうんだよなぁ)
 
-昨日、深夜2時までそういう試行錯誤していた影響で、今日は会社のメールに関しても整理してみた。参考にしたのは、検索で見つけたidea\*ideaの昔の記事。
+昨日、深夜2時までそういう試行錯誤していた影響で、今日は会社のメールに関しても整理してみた。参考にしたのは、検索で見つけたidea*ideaの昔の記事。
 
-リンク: [i d e a \* i d e a — The Inbox Makeoverですっきり](http://www.ideaxidea.com/archives/2005/08/the_inbox_makeover.html "i d e a * i d e a - The Inbox Makeoverですっきり").
+[i d e a * i d e a — The Inbox Makeoverですっきり](http://www.ideaxidea.com/archives/2005/08/the_inbox_makeover.html)
 
 > 今までメーラーはフォルダーをたくさん作って振り分けのルールを決めていたのだが、今は「分類よりも検索」の方が主流である。なにかあれば検索すればいいだけなので「フォルダー＋振り分けルールの設定」は思い切って破棄。
 

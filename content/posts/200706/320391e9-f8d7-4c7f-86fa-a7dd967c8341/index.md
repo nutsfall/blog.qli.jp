@@ -1,9 +1,6 @@
 ---
 title: 僕がSafariを使わなくなった理由
-description: ''
-date: '2007-06-21T20:44:34.000Z'
-categories: []
-keywords: []
+date: "2007-06-21T20:44:34.000Z"
 tags: ["safari", "firefox", "browser"]
 slug: "320391e9-f8d7-4c7f-86fa-a7dd967c8341"
 ---

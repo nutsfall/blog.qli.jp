@@ -1,9 +1,6 @@
 ---
 title: ブログパーツを整理とかしてました
-description: ''
-date: '2008-08-14T23:26:11.000Z'
-categories: []
-keywords: []
+date: "2008-08-14T23:26:11.000Z"
 tags: ["blogging", "web-services"]
 slug: "827ae99f-b3ed-4f6c-9675-4da3ec144c29"
 ---

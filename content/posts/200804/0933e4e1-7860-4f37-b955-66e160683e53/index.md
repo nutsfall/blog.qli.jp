@@ -1,9 +1,6 @@
 ---
-title: 'DRM, No Life : no more DRMs'
-description: ''
-date: '2008-04-03T22:54:20.000Z'
-categories: []
-keywords: []
+title: "DRM, No Life : no more DRMs"
+date: "2008-04-03T22:54:20.000Z"
 tags: ["drm", "copyright", "music"]
 slug: "0933e4e1-7860-4f37-b955-66e160683e53"
 ---
@@ -11,7 +8,7 @@ slug: "0933e4e1-7860-4f37-b955-66e160683e53"
 
 > 文化庁がまとめた同案は、DRMによってコンテンツの複製回数が完全にコントロールできれば、補償金は不要になるという前提のもと、著作権法30条2項で規定された補償金制度を順次縮小していくという方針を示したもの
 
-> \[From [私的複製、補償金からDRMで管理へ — 文化庁の審議委員会が著作権法改正に向け始動:ニュース — CNET Japan](http://japan.cnet.com/news/biz/story/0,2000056020,20370762,00.htm?ref=rss)\]
+> [From [私的複製、補償金からDRMで管理へ — 文化庁の審議委員会が著作権法改正に向け始動:ニュース — CNET Japan](http://japan.cnet.com/news/biz/story/0,2000056020,20370762,00.htm?ref=rss)]
 
 DRMはすでに旧世代の遺物だと個人的には感じています。DRMの技術にも依るところが大きいですが、たとえばHD DVDとBlu-layのような物理の垣根をコンテンツが越えられないだけでも大きな問題なのに、さらにDRMでロックをかけるという方針は問題が大きいと思います。
 

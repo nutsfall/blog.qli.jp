@@ -1,13 +1,9 @@
 ---
 title: "“クライアントなしでIM”がバージョンアップ"
-description: ""
 date: "2006-11-10T17:33:55.000Z"
-categories: []
-keywords: []
 tags: ["meebo", "instant-messaging"]
 slug: "f1e58cd4-8a5d-43ba-890f-dcc4746fef9f"
 ---
-![]()
 
 このブログでも meebo me を一時期張っていたので知っている方もいるかもしれませんが、IM 統合 WEB サービスである meebo が大幅なリニューアルを行っています。このブログの前身のブログで紹介したことがあります。
 

@@ -1,9 +1,6 @@
 ---
 title: MacBook Proポータブル機
-description: ''
-date: '2007-07-12T00:21:10.000Z'
-categories: []
-keywords: []
+date: "2007-07-12T00:21:10.000Z"
 tags: ["apple", "macbook-pro"]
 slug: "974237e2-654b-413a-afad-563df00f6454"
 ---
@@ -13,6 +10,6 @@ slug: "974237e2-654b-413a-afad-563df00f6454"
 
 ちなみに、Apple関連ではiPhoneのようなosxで動くiPodが８月に登場するのではないかというウワサも盛り上がってきています。またほぼ確実視されているところでは、iMacのリニューアル版がそろそろ出るとか出ないとか。
 
-リンク: [MacBook Pro 12-inch ultraportable rumor resurfaces — Engadget](http://www.engadget.com/2007/07/11/macbook-pro-12-inch-ultraportable-rumor-resurfaces/ "MacBook Pro 12-inch ultraportable rumor resurfaces - Engadget").
+[MacBook Pro 12-inch ultraportable rumor resurfaces — Engadget](http://www.engadget.com/2007/07/11/macbook-pro-12-inch-ultraportable-rumor-resurfaces/)
 
 > MacScoop is reporting that some “trusted sources” have intimated Apple is readying a new, ultraportable 12-inch laptop for its MacBook Pro line.

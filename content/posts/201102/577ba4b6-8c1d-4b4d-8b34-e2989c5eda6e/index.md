@@ -1,9 +1,6 @@
 ---
 title: 3月2日に何が発表されるのか
-description: ''
-date: '2011-02-25T23:07:00.000Z'
-categories: []
-keywords: []
+date: "2011-02-25T23:07:00.000Z"
 tags: ["apple", "ipad"]
 slug: "577ba4b6-8c1d-4b4d-8b34-e2989c5eda6e"
 ---

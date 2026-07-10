@@ -1,9 +1,6 @@
 ---
 title: 京都音楽博覧会2024に行ってきた
-description: ''
-date: '2024-10-19T03:02:05.661Z'
-categories: []
-keywords: []
+date: "2024-10-19T03:02:05.661Z"
 tags: ["kyoto-ongaku-hakurankai", "quruli", "music-festival"]
 slug: "2aae6e3c-8bc0-42da-923d-6f06b45f0cb9"
 ---

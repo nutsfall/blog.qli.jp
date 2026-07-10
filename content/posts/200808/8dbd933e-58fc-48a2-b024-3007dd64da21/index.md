@@ -1,9 +1,6 @@
 ---
 title: MacBook Air アップデータ 登場
-description: ''
-date: '2008-08-23T14:28:10.000Z'
-categories: []
-keywords: []
+date: "2008-08-23T14:28:10.000Z"
 tags: ["macbook-air", "apple"]
 slug: "8dbd933e-58fc-48a2-b024-3007dd64da21"
 ---

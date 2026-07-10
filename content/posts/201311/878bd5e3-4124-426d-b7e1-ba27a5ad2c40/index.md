@@ -1,9 +1,6 @@
 ---
 title: mediumからみる今後のブログというパッケージ
-description: ''
-date: '2013-11-18T21:27:59.000Z'
-categories: []
-keywords: []
+date: "2013-11-18T21:27:59.000Z"
 tags: ["medium", "blogging"]
 slug: "878bd5e3-4124-426d-b7e1-ba27a5ad2c40"
 ---

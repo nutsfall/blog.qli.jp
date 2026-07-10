@@ -1,9 +1,6 @@
 ---
 title: twitterrific 2.0
-description: ''
-date: '2009-05-08T21:45:06.000Z'
-categories: []
-keywords: []
+date: "2009-05-08T21:45:06.000Z"
 tags: ["twitterrific", "twitter", "iphone"]
 slug: "026d8604-f737-408f-b65e-33ffd8ead1e8"
 ---

@@ -1,9 +1,7 @@
 ---
 title: あの夜も、昨日の夜も、覚えてる
 description: "「あの夜」の強い原体験があるわけではない自分が、「あの夜を覚えている」に出会って、その高い熱量を受けて、少し文章を書きたくなってしまいました。"
-date: '2022-03-21T05:33:32.190Z'
-categories: []
-keywords: []
+date: "2022-03-21T05:33:32.190Z"
 tags: ["radio", "all-night-nippon"]
 slug: "a318a94d-2248-4233-a7e9-b5739d166179"
 ---
@@ -25,5 +23,4 @@ slug: "a318a94d-2248-4233-a7e9-b5739d166179"
 
 このブログ記事が本題に行く前に、長々と自分語りをしてしまったのは、きっとその高い熱量に触れた結果なのだと思う。
 
-[**あの夜を覚えてる｜オールナイトニッポン55周年記念公演**  
-_オールナイトニッポン55周年記念公演『あの夜を覚えてる』の特設ページです。チケット絶賛発売中！_no.meets.ltd](https://no.meets.ltd/ann55th_anoyoru/index.html "https://no.meets.ltd/ann55th_anoyoru/index.html")[](https://no.meets.ltd/ann55th_anoyoru/index.html)
+[あの夜を覚えてる｜オールナイトニッポン55周年記念公演](https://no.meets.ltd/ann55th_anoyoru/index.html)

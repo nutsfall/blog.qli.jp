@@ -1,9 +1,6 @@
 ---
 title: iPhone Tips
-description: ''
-date: '2008-07-30T20:50:42.000Z'
-categories: []
-keywords: []
+date: "2008-07-30T20:50:42.000Z"
 tags: ["iphone", "tips"]
 slug: "467bb206-fb50-407b-935e-fa014734bfa1"
 ---

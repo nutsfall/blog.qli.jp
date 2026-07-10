@@ -1,9 +1,6 @@
 ---
 title: GTDに振り回されない
-description: ''
-date: '2009-04-25T13:41:00.000Z'
-categories: []
-keywords: []
+date: "2009-04-25T13:41:00.000Z"
 tags: ["gtd", "productivity"]
 slug: "f1f65c6d-1fb5-40f2-a989-f0974b20083f"
 ---

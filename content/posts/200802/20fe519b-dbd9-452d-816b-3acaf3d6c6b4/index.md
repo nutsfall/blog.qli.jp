@@ -1,9 +1,6 @@
 ---
 title: MacBook AirとLeopardから見えた矛盾点
-description: ''
-date: '2008-02-13T23:48:40.000Z'
-categories: []
-keywords: []
+date: "2008-02-13T23:48:40.000Z"
 tags: ["macbook-air", "time-machine", "apple"]
 slug: "20fe519b-dbd9-452d-816b-3acaf3d6c6b4"
 ---

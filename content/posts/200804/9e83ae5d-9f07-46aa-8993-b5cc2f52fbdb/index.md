@@ -1,9 +1,6 @@
 ---
 title: Google グッズ
-description: ''
-date: '2008-04-28T22:59:38.000Z'
-categories: []
-keywords: []
+date: "2008-04-28T22:59:38.000Z"
 tags: ["google"]
 slug: "9e83ae5d-9f07-46aa-8993-b5cc2f52fbdb"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Project と Product
-description: rebuild.fm 98にて、プロジェクトマネージャーとプロダクトマネージャーにフォーカスを当てて話していた。
-date: '2015-07-03T22:19:03.365Z'
-categories: []
-keywords: []
+date: "2015-07-03T22:19:03.365Z"
 tags: ["product-management", "agile"]
 slug: "e2ef55a4-4578-43d8-a107-c6e34f04e3e6"
 ---

@@ -1,9 +1,6 @@
 ---
 title: iPhone4Sの次はいつになるのか
-description: ''
-date: '2011-10-10T11:12:01.000Z'
-categories: []
-keywords: []
+date: "2011-10-10T11:12:01.000Z"
 tags: ["iphone", "apple"]
 slug: "a9917d55-5b35-4eab-9333-468549255b71"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 最適なリリース時期を探る
-description: ''
-date: '2012-09-27T19:45:47.000Z'
-categories: []
-keywords: []
+date: "2012-09-27T19:45:47.000Z"
 tags: ["apple-maps", "google-maps"]
 slug: "fad133fe-3851-4036-83ee-c8cf34e333d9"
 ---

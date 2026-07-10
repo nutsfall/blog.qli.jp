@@ -1,9 +1,6 @@
 ---
 title: OSXとiPhoneによるストリーム
-description: ''
-date: '2009-07-14T08:01:37.000Z'
-categories: []
-keywords: []
+date: "2009-07-14T08:01:37.000Z"
 tags: ["macos", "iphone"]
 slug: "94c254fc-ed8e-4440-8578-7d82d988543a"
 ---

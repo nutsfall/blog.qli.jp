@@ -1,9 +1,6 @@
 ---
 title: 映画 モテキ
-description: ''
-date: '2011-09-30T15:32:00.000Z'
-categories: []
-keywords: []
+date: "2011-09-30T15:32:00.000Z"
 tags: ["moteki", "film"]
 slug: "165cdb71-288a-47ba-a260-453d184530ba"
 ---

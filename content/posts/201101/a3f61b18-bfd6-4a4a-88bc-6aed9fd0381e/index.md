@@ -1,9 +1,6 @@
 ---
 title: looking forward
-description: ''
-date: '2011-01-05T18:11:12.000Z'
-categories: []
-keywords: []
+date: "2011-01-05T18:11:12.000Z"
 tags: ["new-year", "mr-children"]
 slug: "a3f61b18-bfd6-4a4a-88bc-6aed9fd0381e"
 ---

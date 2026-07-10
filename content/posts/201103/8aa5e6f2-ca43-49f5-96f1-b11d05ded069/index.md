@@ -1,9 +1,6 @@
 ---
 title: 生産性とコミュニケーション
-description: ''
-date: '2011-03-05T12:47:17.000Z'
-categories: []
-keywords: []
+date: "2011-03-05T12:47:17.000Z"
 tags: ["gtd", "scrum", "productivity"]
 slug: "8aa5e6f2-ca43-49f5-96f1-b11d05ded069"
 ---

@@ -1,9 +1,6 @@
 ---
 title: UCC と Twitterによるマーケティング
-description: ''
-date: '2010-02-08T14:05:42.000Z'
-categories: []
-keywords: []
+date: "2010-02-08T14:05:42.000Z"
 tags: ["twitter", "social-media-marketing", "ucc"]
 slug: "16fe3a39-c9ad-4507-9a26-f1284ab3ed3f"
 ---

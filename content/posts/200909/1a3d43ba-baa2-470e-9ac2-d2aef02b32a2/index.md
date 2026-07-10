@@ -1,9 +1,6 @@
 ---
 title: Appleのメディアイベントが告知されました
-description: ''
-date: '2009-09-01T08:05:00.000Z'
-categories: []
-keywords: []
+date: "2009-09-01T08:05:00.000Z"
 tags: ["apple", "ipod", "itunes"]
 slug: "1a3d43ba-baa2-470e-9ac2-d2aef02b32a2"
 ---

@@ -1,9 +1,6 @@
 ---
 title: TwitterとURLの話
-description: ''
-date: '2011-01-23T16:51:58.000Z'
-categories: []
-keywords: []
+date: "2011-01-23T16:51:58.000Z"
 tags: ["twitter", "url-design"]
 slug: "a5469b01-4099-41fa-8dea-f586df65b3d6"
 ---

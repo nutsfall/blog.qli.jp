@@ -1,9 +1,6 @@
 ---
 title: 囲い込まれる居心地の良さ
-description: ''
-date: '2009-01-03T00:23:01.000Z'
-categories: []
-keywords: []
+date: "2009-01-03T00:23:01.000Z"
 tags: ["apple", "ecosystem"]
 slug: "ce255ff0-7db0-42b3-824a-466243009b18"
 ---

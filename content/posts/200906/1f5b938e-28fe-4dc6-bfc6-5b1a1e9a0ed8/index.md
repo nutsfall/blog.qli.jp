@@ -1,9 +1,6 @@
 ---
 title: ナオト・インティライミのライブに行ってきた
-description: ''
-date: '2009-06-27T20:15:19.000Z'
-categories: []
-keywords: []
+date: "2009-06-27T20:15:19.000Z"
 tags: ["naoto-intiraymi", "live-music", "kimaguren"]
 slug: "1f5b938e-28fe-4dc6-bfc6-5b1a1e9a0ed8"
 ---

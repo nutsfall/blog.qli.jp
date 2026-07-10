@@ -1,22 +1,19 @@
 ---
 title: coComment日本語版が登場しました
-description: ""
 date: "2006-11-21T10:26:01.000Z"
-categories: []
-keywords: []
 tags: ["cocomment", "web-services"]
 slug: "c19b76ec-fff0-4940-9716-394173a544b5"
 ---
 
 以前、coComment というコメント管理サービスを紹介していました。
 
-リンク: [きゅーり.jp: コメントを管理]({{< ref "posts/200609/14aeb202-1c4e-4b70-b346-b131258d8e08" >}}).
+[きゅーり.jp: コメントを管理]({{< ref "posts/200609/14aeb202-1c4e-4b70-b346-b131258d8e08" >}})
 
 > 今までは「あとで読む」とか、feedpath のアーカイブ機能を使って、クリッピングしてました。先日コメントいただいた@aka さんのブログにいったら cocomment というサービスを利用されていたので、利用してみました。
 
 なんと、それが日本語化されたそうです。
 
-リンク: [Blogot: coComment 日本語版ベールを脱ぐ](http://www.blogot.com/got/2006/11/cocomment.html "Blogot: coComment日本語版ベールを脱ぐ").
+[Blogot: coComment 日本語版ベールを脱ぐ](http://www.blogot.com/got/2006/11/cocomment.html)
 
 > ネットエイジは今年はサービスローンチのラッシュだ。Saaf, TAGGY, Tila と続いてネットエイジの Web2.0 的サービスの第４弾である coComment 日本語版を本日リリースした。
 

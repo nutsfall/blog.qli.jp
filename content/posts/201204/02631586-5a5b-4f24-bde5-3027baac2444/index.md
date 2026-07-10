@@ -1,9 +1,6 @@
 ---
 title: auとSoftbankのキャリアメール対応表
-description: ''
-date: '2012-04-02T19:50:12.000Z'
-categories: []
-keywords: []
+date: "2012-04-02T19:50:12.000Z"
 tags: ["au", "softbank", "carrier-email"]
 slug: "02631586-5a5b-4f24-bde5-3027baac2444"
 ---

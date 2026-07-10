@@ -1,9 +1,6 @@
 ---
 title: mixi ページが発表されて
-description: ''
-date: '2011-08-31T21:51:00.000Z'
-categories: []
-keywords: []
+date: "2011-08-31T21:51:00.000Z"
 tags: ["mixi", "social-media"]
 slug: "97d163d0-3230-4aa8-9467-d4ea5b538c9c"
 ---

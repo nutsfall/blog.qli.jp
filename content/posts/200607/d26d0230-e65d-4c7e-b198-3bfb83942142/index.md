@@ -1,16 +1,11 @@
 ---
 title: "to U : bank band with salyu"
-description: ""
 date: "2006-07-26T09:37:00.000Z"
-categories: []
-keywords: []
 tags: ["bank-band", "salyu", "j-pop"]
 slug: "d26d0230-e65d-4c7e-b198-3bfb83942142"
 ---
 
-**楽曲/アルバムタイトル:** [to U](http://www.amazon.co.jp/exec/obidos/ASIN/B000FUU140/mrchildrenonl-22/ref=nosim/)
-
-**アーティスト:** Bank Band, Salyu, 桜井和寿, 小田和正
+**楽曲/アルバムタイトル:** [to U](https://www.amazon.co.jp/dp/B000FUU140)
 
 **コメント:**   
 なーんかいいですねぇ。じーんときますよ。
@@ -27,20 +22,4 @@ slug: "d26d0230-e65d-4c7e-b198-3bfb83942142"
 
 …来年は、ap bank fes 行きたいなぁ。
 
-**評価:**
-
-**評価者:** へるべすと
-
-**評価日付:** 2006–07–26
-
-**画像(URL):**
-
 ![](0__NkP5RccG6fNbVr4M.jpg)
-
-**メディア:** CD
-
-**発売日:** 2006–07–19
-
-**制作会社:** トイズファクトリー
-
-**ASIN:** B000FUU140

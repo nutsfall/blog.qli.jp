@@ -1,9 +1,6 @@
 ---
 title: フィッシュアイで遊んでみた
-description: ''
-date: '2014-07-20T22:11:22.000Z'
-categories: []
-keywords: []
+date: "2014-07-20T22:11:22.000Z"
 tags: ["photography", "olympus", "fisheye"]
 slug: "a3a77097-1798-43f9-9c43-7e356a762184"
 ---
@@ -15,4 +12,4 @@ slug: "a3a77097-1798-43f9-9c43-7e356a762184"
 
 これまでは、被写体を中心にしたボケを楽しむことが多くて、そういう意味では単焦点レンズがメインだったのですが、新しい選択肢を得られたと確信しました。ボディキャップレンズなので、レンズ自体も小さいですしね。
 
-[http://rcm-fe.amazon-adsystem.com/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=B00HWRHBUQ](http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00HWRHBUQ "http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00HWRHBUQ")
+[http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00HWRHBUQ](http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00HWRHBUQ "http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00HWRHBUQ")

@@ -1,9 +1,6 @@
 ---
 title: iPod nano(2G) 使用レビュー
-description: ""
 date: "2006-10-02T00:23:54.000Z"
-categories: []
-keywords: []
 tags: ["ipod-nano", "apple"]
 slug: "fd5706ed-7bd7-4245-ae4d-41d89afe41a9"
 ---

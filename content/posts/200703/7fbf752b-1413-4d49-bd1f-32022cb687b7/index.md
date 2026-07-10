@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: twitter'
-description: ''
-date: '2007-03-23T01:27:10.000Z'
-categories: []
-keywords: []
+title: "On Vox: twitter"
+date: "2007-03-23T01:27:10.000Z"
 tags: ["twitter"]
 slug: "7fbf752b-1413-4d49-bd1f-32022cb687b7"
 ---

@@ -1,9 +1,6 @@
 ---
-title: 'acoakko : My Little Lover'
-description: ''
-date: '2008-10-17T08:47:14.000Z'
-categories: []
-keywords: []
+title: "acoakko : My Little Lover"
+date: "2008-10-17T08:47:14.000Z"
 tags: ["my-little-lover", "music", "itunes"]
 slug: "563e605d-7554-45d3-bd31-e82dd8795d47"
 ---

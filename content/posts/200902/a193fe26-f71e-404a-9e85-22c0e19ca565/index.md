@@ -1,9 +1,6 @@
 ---
 title: twitter3年目に突入しました
-description: ''
-date: '2009-02-22T15:03:30.000Z'
-categories: []
-keywords: []
+date: "2009-02-22T15:03:30.000Z"
 tags: ["twitter"]
 slug: "a193fe26-f71e-404a-9e85-22c0e19ca565"
 ---
@@ -11,7 +8,7 @@ slug: "a193fe26-f71e-404a-9e85-22c0e19ca565"
 
 > 本日、２月２２日は自分がtwitterを使いだして１周年の記念日、twitter記念日です。
 
-> \[From [きゅーり.jp: twitter 使って１周年！](http://blog.qli.jp/2008/02/twitter.html)\]
+> [From [きゅーり.jp: twitter 使って１周年！](http://blog.qli.jp/2008/02/twitter.html)]
 
 ということは、今日2009年2月22日はtwitter2周年記念日です。
 
@@ -23,7 +20,7 @@ slug: "a193fe26-f71e-404a-9e85-22c0e19ca565"
 
 ちなみに、「ついったーを始めた日って分かるんですか？」って質問をうけたんですが、実は最近のついったーはあまりに古いログを削除するようにしているようで、最初のつぶやきとかって残ってないんですよね。そのときは「分からないです」って答えたのですが、あとでuserのAPIに自分でアクセスしてみれば分かることを教えていただきました。
 
-自分のユーザ情報を取得を行います。URLは [http://twitter.com/users/{your\_user\_id}.xml](http://twitter.com/users/%7Byour_user_id%7D.xml) です。XMLなのですが、そこにあるcreated\_atという項目が始めた時間です。UTCなので9時間足してあげましょう。（プログラマの人ならわかりますね、あれです）
+自分のユーザ情報を取得を行います。URLは [http://twitter.com/users/{your_user_id}.xml](http://twitter.com/users/%7Byour_user_id%7D.xml) です。XMLなのですが、そこにあるcreated_atという項目が始めた時間です。UTCなので9時間足してあげましょう。（プログラマの人ならわかりますね、あれです）
 
 Uploaded with [plasq](http://plasq.com/)’s [Skitch](http://skitch.com)!
 

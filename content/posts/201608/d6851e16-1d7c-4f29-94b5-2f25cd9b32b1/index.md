@@ -1,14 +1,11 @@
 ---
 title: ap bank fes 2016
-description: ''
-date: '2016-08-01T09:58:38.000Z'
-categories: []
-keywords: []
+date: "2016-08-01T09:58:38.000Z"
 tags: ["ap-bank-fes", "reborn-art-festival"]
 slug: "d6851e16-1d7c-4f29-94b5-2f25cd9b32b1"
+cover:
+  image: "1__C2LmjTzto__tkl5NwVWdUow.jpeg"
 ---
-![](1__C2LmjTzto__tkl5NwVWdUow.jpeg)
-
 東日本大震災の前、ap bank fes に何度か参加していた。
 
 そこは、小林武史が継続性のある環境問題の解決に向けて作った組織 ap bankが主体となって、資金集めのために音楽の力を借りる形で実施されたフェスで、同時に来場者に環境のことを、楽しみながら教えてくれたフェスだった。

@@ -1,9 +1,6 @@
 ---
 title: iPhone 3G Sを買うことに決めた理由
-description: ''
-date: '2009-06-21T12:58:35.000Z'
-categories: []
-keywords: []
+date: "2009-06-21T12:58:35.000Z"
 tags: ["iphone", "apple"]
 slug: "a6838208-151c-4b79-a021-f7207e5e522e"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Return the simple
-description: ''
-date: '2008-10-20T08:57:09.000Z'
-categories: []
-keywords: []
+date: "2008-10-20T08:57:09.000Z"
 tags: ["blog", "web-design"]
 slug: "67472452-f0a1-4938-8a17-9d92c248f61f"
 ---

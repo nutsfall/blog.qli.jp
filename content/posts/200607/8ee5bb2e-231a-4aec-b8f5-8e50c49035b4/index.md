@@ -1,9 +1,6 @@
 ---
 title: 思ったことを素直に
-description: ""
 date: "2006-07-18T23:14:00.000Z"
-categories: []
-keywords: []
 tags: ["self-improvement"]
 slug: "8ee5bb2e-231a-4aec-b8f5-8e50c49035b4"
 ---

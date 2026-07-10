@@ -1,9 +1,6 @@
 ---
 title: 大きく近いステージ (Mr.Children 未完ツアー)
-description: ''
-date: '2015-09-20T07:34:00.000Z'
-categories: []
-keywords: []
+date: "2015-09-20T07:34:00.000Z"
 tags: ["mr-children", "concert"]
 slug: "8dde594a-ccd2-487a-b3ce-29629fba7c6f"
 ---
@@ -22,7 +19,7 @@ Mr.Children REFLECTIONのアルバム発売は6月4日。
 
 最後は「Tomorrow Never Knows」「innocent world」で締めるというのはさすがである。
 
-#### 新しい試み
+## 新しい試み
 
 Mr.Childrenのライブはこれまで何回も参加してきた。それ故に、ちょっとしたパターンみたいなものも見えてくることもある。
 
@@ -30,7 +27,7 @@ Mr.Childrenのライブはこれまで何回も参加してきた。それ故に
 
 演出面でも面白い試みが見られた。REFLECTIONツアーから、WALTZを歌いながら出島で踊る桜井はあったものの、ALIVEで歩く桜井を会場の映像に組み入れたりするなど、新しいアイデアを取り入れているのはさすがだなと思った。
 
-#### これまでとこれからと
+## これまでとこれからと
 
 個人的に気になったのは、REFLECTION以前とREFLECTIONの音の響きの違い。
 

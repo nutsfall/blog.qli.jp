@@ -1,9 +1,6 @@
 ---
 title: iPad を買いました + α
-description: ''
-date: '2010-05-29T13:36:06.000Z'
-categories: []
-keywords: []
+date: "2010-05-29T13:36:06.000Z"
 tags: ["ipad", "apple"]
 slug: "d8932b0e-1e00-4e83-a2e7-23c4f83d0304"
 ---

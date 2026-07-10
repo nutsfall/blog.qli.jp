@@ -1,9 +1,6 @@
 ---
-title: 'Mr.Children HOME — in the field — : Mr.Children'
-description: ''
-date: '2008-08-14T21:49:37.000Z'
-categories: []
-keywords: []
+title: "Mr.Children HOME — in the field — : Mr.Children"
+date: "2008-08-14T21:49:37.000Z"
 tags: ["mr-children", "live-dvd"]
 slug: "8f856a05-18ff-4c52-aa9a-bda00e452883"
 ---
@@ -21,11 +18,4 @@ slug: "8f856a05-18ff-4c52-aa9a-bda00e452883"
 
 彼ら、アルバムレコーディング中みたいですね。HANABI、GIFT、少年とすばらしい曲たちが漏れ聞こえていますので、アルバムも早く聞きたいです。HANABIリリースと同時くらいにプレスリリースされるんだろうな。
 
-[Mr.Children “HOME” TOUR 2007~in the field~](http://www.amazon.co.jp/exec/obidos/ASIN/B001AXVX02/qli-22/ref=nosim "Mr.Children “HOME” TOUR 2007~in the field~")
-
-*   アーチスト: Mr.Children
-*   レーベル: トイズファクトリー
-*   発売日: 2008/08/06
-*   おすすめ度
-
-posted with [Socialtunes](http://socialtunes.net) at 2008/08/14
+[Mr.Children “HOME” TOUR 2007~in the field~](https://www.amazon.co.jp/dp/B001AXVX02)

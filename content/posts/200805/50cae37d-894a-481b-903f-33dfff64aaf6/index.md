@@ -1,9 +1,6 @@
 ---
 title: ATH-CK9レビュー
-description: ''
-date: '2008-05-19T21:25:23.000Z'
-categories: []
-keywords: []
+date: "2008-05-19T21:25:23.000Z"
 tags: ["ath-ck9", "earphones"]
 slug: "50cae37d-894a-481b-903f-33dfff64aaf6"
 ---

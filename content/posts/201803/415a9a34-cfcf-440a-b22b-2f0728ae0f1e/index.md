@@ -1,9 +1,6 @@
 ---
 title: CHATMONCHY Tribute
-description: チャットモンチーが活動を停止するタイミングが近づいてしまう。彼女らの活動停止についての心境はこの表現がしっくりくる。
-date: '2018-03-31T05:05:23.501Z'
-categories: []
-keywords: []
+date: "2018-03-31T05:05:23.501Z"
 tags: ["chatmonchy", "tribute-album"]
 slug: "415a9a34-cfcf-440a-b22b-2f0728ae0f1e"
 ---
@@ -13,8 +10,7 @@ slug: "415a9a34-cfcf-440a-b22b-2f0728ae0f1e"
 
 ちなみにオトナの事情かダウンロード販売や、ストリーミングには優しくないようなので、モノを買うのがいいかもです。iTunes Store では全曲揃っていません。
 
-[**_CHATMONCHY Tribute 〜My CHATMONCHY〜_**  
-CHATMONCHY Tribute 〜My CHATMONCHY〜www.amazon.co.jp](https://www.amazon.co.jp/dp/B0794JYPR2/ "https://www.amazon.co.jp/dp/B0794JYPR2/")[](https://www.amazon.co.jp/dp/B0794JYPR2/)
+[CHATMONCHY Tribute 〜My CHATMONCHY〜](https://www.amazon.co.jp/dp/B0794JYPR2)
 
 チャットモンチーの曲を下敷きに、それぞれのバンドの持つ世界観が見事に表現されている。かつ、やっぱり曲がしっかりとできていて、参加してるバンドのチャットモンチーへのリスペクトもあるためか、チャットモンチーの曲の魅力も伝わってくる。カバーアルバムを聞くことはそれほど多いわけではないが、このアルバムが素晴らしい作品であることは言える。
 

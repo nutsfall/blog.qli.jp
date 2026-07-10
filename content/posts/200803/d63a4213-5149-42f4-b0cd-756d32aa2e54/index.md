@@ -1,13 +1,10 @@
 ---
 title: アヒルと鴨のコインロッカー
-description: ''
-date: '2008-03-21T08:10:43.000Z'
-categories: []
-keywords: []
+date: "2008-03-21T08:10:43.000Z"
 tags: ["film", "isaka-kotaro"]
 slug: "d63a4213-5149-42f4-b0cd-756d32aa2e54"
 ---
-[アヒルと鴨のコインロッカー](http://www.amazon.co.jp/exec/obidos/ASIN/B000ZGSQQO/sixapart-vox1-22 "アヒルと鴨のコインロッカー")
+[アヒルと鴨のコインロッカー](https://www.amazon.co.jp/dp/B000ZGSQQO)
 
 アヒルと鴨のコインロッカーを見ました。
 

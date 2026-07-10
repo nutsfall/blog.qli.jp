@@ -1,9 +1,6 @@
 ---
 title: 強制アップグレードプロジェクト
-description: ''
-date: '2011-06-10T07:56:08.000Z'
-categories: []
-keywords: []
+date: "2011-06-10T07:56:08.000Z"
 tags: ["mobileme", "icloud", "apple"]
 slug: "2de2181f-6ece-4ddf-b13b-3789828cd7bf"
 ---

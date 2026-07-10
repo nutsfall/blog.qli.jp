@@ -1,9 +1,6 @@
 ---
 title: WWDC 2011 スケジュール発表
-description: ''
-date: '2011-03-29T11:38:10.000Z'
-categories: []
-keywords: []
+date: "2011-03-29T11:38:10.000Z"
 tags: ["wwdc", "apple", "ios"]
 slug: "4f45abbc-4646-40d2-b09f-cf6aa9b27f72"
 ---

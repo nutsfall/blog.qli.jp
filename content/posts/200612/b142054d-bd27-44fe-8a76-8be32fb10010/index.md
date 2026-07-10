@@ -1,9 +1,6 @@
 ---
 title: PSP Black
-description: ''
-date: '2006-12-20T21:14:05.000Z'
-categories: []
-keywords: []
+date: "2006-12-20T21:14:05.000Z"
 tags: ["psp", "gaming"]
 slug: "b142054d-bd27-44fe-8a76-8be32fb10010"
 ---

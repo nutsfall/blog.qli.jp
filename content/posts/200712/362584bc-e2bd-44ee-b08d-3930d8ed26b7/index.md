@@ -1,9 +1,6 @@
 ---
 title: 2008年を勝手に予想してみる
-description: ''
-date: '2007-12-31T11:28:49.000Z'
-categories: []
-keywords: []
+date: "2007-12-31T11:28:49.000Z"
 tags: ["iphone", "mobile", "predictions"]
 slug: "362584bc-e2bd-44ee-b08d-3930d8ed26b7"
 ---

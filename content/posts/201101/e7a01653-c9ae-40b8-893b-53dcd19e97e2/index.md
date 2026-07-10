@@ -1,9 +1,6 @@
 ---
 title: Mac App Storeが公開 / iWorkにもアップデータ
-description: ''
-date: '2011-01-11T23:49:19.000Z'
-categories: []
-keywords: []
+date: "2011-01-11T23:49:19.000Z"
 tags: ["mac-app-store", "apple", "twitter"]
 slug: "e7a01653-c9ae-40b8-893b-53dcd19e97e2"
 ---

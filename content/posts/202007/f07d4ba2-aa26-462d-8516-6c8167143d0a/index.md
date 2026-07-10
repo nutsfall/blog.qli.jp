@@ -1,9 +1,6 @@
 ---
 title: iOS14 PB で音楽が楽しくなった話
-description: 今年の夏も次期iOSの Public Beta が登場しています。Appleは日常使いのiPhoneに入れないでね、という警告とともに出していますが、アップデートしてしまう人が今年も多く見られるようです。夏の風物詩のようですね。
-date: '2020-07-28T10:25:21.066Z'
-categories: []
-keywords: []
+date: "2020-07-28T10:25:21.066Z"
 tags: ["ios", "apple-music", "audio-quality"]
 slug: "f07d4ba2-aa26-462d-8516-6c8167143d0a"
 ---
@@ -19,7 +16,6 @@ slug: "f07d4ba2-aa26-462d-8516-6c8167143d0a"
 
 > 送信側のiPhoneでAACから一度復元され、またAACに再変換されてから送信される
 
-[**【第153回】"iPhoneのAACファイルをAACでBluetooth伝送すると音質劣化しない"は本当か？ - Phile-web**  
-_■iPhoneからAACファイルをAACコーデックでBluetoothれば再変換されない？…_www.phileweb.com](https://www.phileweb.com/review/article/201604/15/2044.html "https://www.phileweb.com/review/article/201604/15/2044.html")[](https://www.phileweb.com/review/article/201604/15/2044.html)
+[【第153回】"iPhoneのAACファイルをAACでBluetooth伝送すると音質劣化しない"は本当か？ - Phile-web](https://www.phileweb.com/review/article/201604/15/2044.html)
 
 iOS14 PB ではこの辺りの仕組みが改善されたのかなと考えています。製品版までこの状態が続くのか、またどこかで変更されるのかわかりませんが、しばらくiOS14 PBで音楽を楽しみたいと思います。

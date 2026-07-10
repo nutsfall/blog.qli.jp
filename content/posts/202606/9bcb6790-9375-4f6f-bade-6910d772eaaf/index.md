@@ -5,7 +5,6 @@ slug: "9bcb6790-9375-4f6f-bade-6910d772eaaf"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E5%82%98%E3%81%AF%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E3%81%8B%E3%82%99%E4%BE%BF%E5%88%A9-c583b12c7065?source=rss-21bfda6f823e------2"
 tags: ["umbrella", "everyday-carry", "lifestyle"]
-draft: false
 cover:
   image: "cover.png"
 ---

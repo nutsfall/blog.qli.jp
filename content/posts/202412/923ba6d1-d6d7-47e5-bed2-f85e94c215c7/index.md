@@ -1,9 +1,6 @@
 ---
 title: Heading back HOME with Songs
-description: ''
-date: '2024-12-07T03:02:13.216Z'
-categories: []
-keywords: []
+date: "2024-12-07T03:02:13.216Z"
 tags: ["avispa-fukuoka", "marshall", "travel"]
 slug: "923ba6d1-d6d7-47e5-bed2-f85e94c215c7"
 cover:

@@ -1,9 +1,6 @@
 ---
 title: きゅーり.jp のRSSアクセス統計(2008.2.23版)
-description: ''
-date: '2008-02-24T13:11:05.000Z'
-categories: []
-keywords: []
+date: "2008-02-24T13:11:05.000Z"
 tags: ["feedburner", "rss", "blogging"]
 slug: "1420da79-ba04-485f-8bc7-55941ae026fd"
 ---

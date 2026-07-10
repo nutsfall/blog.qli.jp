@@ -1,9 +1,6 @@
 ---
 title: 映画 鴨川ホルモー
-description: ''
-date: '2012-04-13T22:26:09.000Z'
-categories: []
-keywords: []
+date: "2012-04-13T22:26:09.000Z"
 tags: ["kamogawa-horumo", "apple-tv"]
 slug: "2ceb22b3-2b07-4d92-97f4-0df635c9960d"
 ---

@@ -1,9 +1,6 @@
 ---
 title: WM3500RとIS03
-description: ''
-date: '2010-12-09T22:17:56.000Z'
-categories: []
-keywords: []
+date: "2010-12-09T22:17:56.000Z"
 tags: ["wimax", "android"]
 slug: "424f676b-9e76-45c4-9dcb-9bb438a8bf22"
 ---

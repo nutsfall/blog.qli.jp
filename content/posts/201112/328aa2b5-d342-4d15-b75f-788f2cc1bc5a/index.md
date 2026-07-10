@@ -1,9 +1,6 @@
 ---
 title: 2011年48週目のライブ
-description: ''
-date: '2011-12-04T12:04:18.000Z'
-categories: []
-keywords: []
+date: "2011-12-04T12:04:18.000Z"
 tags: ["salyu", "lego-big-morl", "live-music"]
 slug: "328aa2b5-d342-4d15-b75f-788f2cc1bc5a"
 ---

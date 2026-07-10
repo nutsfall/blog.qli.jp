@@ -1,9 +1,6 @@
 ---
 title: 標準のイヤフォンなんて付けてられるか！
-description: ""
 date: "2006-06-27T20:41:10.000Z"
-categories: []
-keywords: []
 tags: ["audio-technica", "ipod", "earphones"]
 slug: "73268420-f75c-40ee-a668-874a14ab221a"
 ---
@@ -14,7 +11,7 @@ slug: "73268420-f75c-40ee-a668-874a14ab221a"
 
 ![](0__mpgVaI5kCvf____XhT.jpg)
 
-[“オーディオテクニカ インナーイヤーヘッドホン ATH-CM700 BW” :: オーディオテクニカ](http://www.amazon.co.jp/exec/obidos/redirect?tag=mrchildrenonl-22%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.jp/gp/redirect.html%253fASIN=B000FWGSAY%2526tag=mrchildrenonl-22%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/B000FWGSAY%25253FSubscriptionId=02ZH6J1W0649DTNS6002)
+[“オーディオテクニカ インナーイヤーヘッドホン ATH-CM700 BW” :: オーディオテクニカ](https://www.amazon.co.jp/dp/B000FWGSAY)
 
 イヤフォンを発売日に買うって言うのは初めてのできごとですが、金曜日に買ってもうだいたいエージングが終わった感じです。もともと、このイヤフォンと同じ価格帯である”ATH-CM7"を使っていたんですが、半端じゃなく音がよくなった感じ。高温高音も低音もはっきりでていて、ドラムの音ってこんなに気持ちよかったんだって感じますよ。
 

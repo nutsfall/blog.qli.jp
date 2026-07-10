@@ -1,9 +1,6 @@
 ---
 title: mixi API公開ってことにはならないんだろうなぁ
-description: ''
-date: '2007-02-10T16:41:20.000Z'
-categories: []
-keywords: []
+date: "2007-02-10T16:41:20.000Z"
 tags: ["mixi", "web2.0"]
 slug: "380e8e9f-4c4a-433d-8159-926fb32cf085"
 ---

@@ -1,9 +1,6 @@
 ---
 title: エキスカの夕べに行ってきました
-description: ""
 date: "2008-03-01T01:27:15.000Z"
-categories: []
-keywords: []
 tags: ["skype", "excite", "tech-event"]
 slug: "cb0fba3a-457f-4d63-afeb-8ccb8bea12fa"
 ---

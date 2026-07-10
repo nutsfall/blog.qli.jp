@@ -1,15 +1,12 @@
 ---
 title: WILLCOM｜W-ZERO3[es]
-description: ''
-date: '2006-07-05T11:29:57.000Z'
-categories: []
-keywords: []
+date: "2006-07-05T11:29:57.000Z"
 tags: ["w-zero3", "willcom", "windows-mobile"]
 slug: "a00c3b7e-6efd-4e1a-ac9d-519a56990401"
 ---
 すでに昨日の発表から、この商品のエントリーが猛烈な勢いで増えていると思います。
 
-リンク: [WILLCOM｜W-ZERO3\[es\]](http://www.willcom-inc.com/ja/lineup/ws/007sh/index.html "WILLCOM｜W-ZERO3[es]").
+[WILLCOM｜W-ZERO3[es]](http://www.willcom-inc.com/ja/lineup/ws/007sh/index.html)
 
 > W-ZERO3のインテリジェントを踏襲し、さらにスマートなスタイルになった［es］。OSには引き続き「Windows Mobile 5.0」が採用され、WordやExcel、PowerPoint、PDFなど、パソコンのアプリケーションとの互換性も抜群です。
 

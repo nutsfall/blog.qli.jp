@@ -1,14 +1,11 @@
 ---
 title: Apple Mighty Mouseを衝動買い
-description: ""
 date: "2006-08-06T21:24:00.000Z"
-categories: []
-keywords: []
 tags: ["apple", "mighty-mouse"]
 slug: "f4c8d7ac-910f-436e-8668-f3aa774accfc"
 ---
 
-**商品:** [Apple Mighty Mouse Wireless Mighty Mouse MA272J/A](http://www.amazon.co.jp/exec/obidos/ASIN/B000H77RCU/mrchildrenonl-22/ref=nosim/)
+**商品:** [Apple Mighty Mouse Wireless Mighty Mouse MA272J/A](https://www.amazon.co.jp/dp/B000H77RCU)
 
 **コメント:**   
 買うつもりはなかったんだけど、Apple Store に行ってしまって、突然その場でほしくなってお買い上げ。

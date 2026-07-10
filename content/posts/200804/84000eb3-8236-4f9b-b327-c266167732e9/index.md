@@ -1,15 +1,12 @@
 ---
 title: 3G iPhoneは６月９日に発表されるのか？
-description: ''
-date: '2008-04-26T00:00:40.000Z'
-categories: []
-keywords: []
+date: "2008-04-26T00:00:40.000Z"
 tags: ["iphone", "apple", "wwdc"]
 slug: "84000eb3-8236-4f9b-b327-c266167732e9"
 ---
 mixxをのぞいていたらこんな記事がありました。
 
-リンク: [Apple to Announce 3G iPhone on 9th June | TechzTalk](http://techztalk.com/techwebsite/node/588 "Apple to Announce 3G iPhone on 9th June | TechzTalk").
+[Apple to Announce 3G iPhone on 9th June | TechzTalk](http://techztalk.com/techwebsite/node/588)
 
 > “The 3G iPhone will be announced June 9, the likely date of Apple CEO Steve Jobs keynote at the company’s Worldwide Developers Conference.”
 

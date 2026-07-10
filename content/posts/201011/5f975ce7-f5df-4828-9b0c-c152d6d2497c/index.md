@@ -1,9 +1,6 @@
 ---
 title: Apple, iOS 4.2 をリリース
-description: ''
-date: '2010-11-24T00:01:55.000Z'
-categories: []
-keywords: []
+date: "2010-11-24T00:01:55.000Z"
 tags: ["apple", "ios", "apple-tv"]
 slug: "5f975ce7-f5df-4828-9b0c-c152d6d2497c"
 ---

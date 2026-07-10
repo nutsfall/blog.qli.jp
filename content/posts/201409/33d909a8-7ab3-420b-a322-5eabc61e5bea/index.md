@@ -1,9 +1,6 @@
 ---
 title: Apple Media Event で気になること(Sep 2014)
-description: ''
-date: '2014-09-08T21:30:30.000Z'
-categories: []
-keywords: []
+date: "2014-09-08T21:30:30.000Z"
 tags: ["apple", "ios8", "icloud"]
 slug: "33d909a8-7ab3-420b-a322-5eabc61e5bea"
 ---

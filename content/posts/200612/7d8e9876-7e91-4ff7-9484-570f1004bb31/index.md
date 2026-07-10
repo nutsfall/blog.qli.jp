@@ -1,15 +1,12 @@
 ---
 title: myloでやってみたいこと
-description: ''
-date: '2006-12-28T00:57:26.000Z'
-categories: []
-keywords: []
+date: "2006-12-28T00:57:26.000Z"
 tags: ["sony-mylo"]
 slug: "7d8e9876-7e91-4ff7-9484-570f1004bb31"
 ---
 書き込みが前後しちゃうのですがそろそろ締め切りなので忘れないうちに書いておきます。
 
-リンク: [So-net blog:平日更新 日刊“mylo”:トラックバックでご要望をお寄せください！！](http://blog.so-net.ne.jp/mylo/2006-12-22 "So-net blog:平日更新 日刊“mylo”:トラックバックでご要望をお寄せください！！").
+[So-net blog:平日更新 日刊“mylo”:トラックバックでご要望をお寄せください！！](http://blog.so-net.ne.jp/mylo/2006-12-22)
 
 > ぜひ、このblogにトラックバックをつけて、疑問をお寄せください！
 

@@ -1,9 +1,6 @@
 ---
 title: 映画「虹の天使」を見てきました
-description: ''
-date: '2006-10-29T07:27:46.000Z'
-categories: []
-keywords: []
+date: "2006-10-29T07:27:46.000Z"
 tags: ["rainbow-song", "iwai-shunji", "ichihara-hayato"]
 slug: "61c9b18d-10ee-4326-8b53-2a657c27e329"
 ---

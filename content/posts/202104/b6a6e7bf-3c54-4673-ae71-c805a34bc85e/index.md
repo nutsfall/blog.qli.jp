@@ -1,9 +1,6 @@
 ---
 title: "「街の上で」という映画をみたこと"
-description: ''
-date: '2021-04-28T10:22:03.235Z'
-categories: []
-keywords: []
+date: "2021-04-28T10:22:03.235Z"
 tags: ["film", "shimokitazawa"]
 slug: "b6a6e7bf-3c54-4673-ae71-c805a34bc85e"
 ---

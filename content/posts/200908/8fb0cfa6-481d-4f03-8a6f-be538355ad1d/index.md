@@ -1,9 +1,6 @@
 ---
 title: WISH2009 のサポーターになったというご報告
-description: ''
-date: '2009-08-03T08:45:46.000Z'
-categories: []
-keywords: []
+date: "2009-08-03T08:45:46.000Z"
 tags: ["wish2009", "blogging-event"]
 slug: "8fb0cfa6-481d-4f03-8a6f-be538355ad1d"
 ---

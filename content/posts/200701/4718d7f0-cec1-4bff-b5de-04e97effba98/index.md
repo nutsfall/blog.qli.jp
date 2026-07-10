@@ -1,9 +1,6 @@
 ---
 title: 謹賀新年 2007
-description: ''
-date: '2007-01-04T00:50:00.000Z'
-categories: []
-keywords: []
+date: "2007-01-04T00:50:00.000Z"
 tags: ["blogging", "vox"]
 slug: "4718d7f0-cec1-4bff-b5de-04e97effba98"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Xperia acro IS11Sを買ってきた
-description: ''
-date: '2011-06-24T23:54:52.000Z'
-categories: []
-keywords: []
+date: "2011-06-24T23:54:52.000Z"
 tags: ["xperia", "android", "au"]
 slug: "5c2a336a-1e8d-438b-ab21-8960e24df410"
 ---

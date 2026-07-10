@@ -1,15 +1,12 @@
 ---
 title: check*padが使いやすくなりました
-description: ''
-date: '2006-08-05T20:11:19.000Z'
-categories: []
-keywords: []
+date: "2006-08-05T20:11:19.000Z"
 tags: ["checkpad", "task-management"]
 slug: "49c4cf33-f12c-4897-b90f-f0037ecef422"
 ---
 Remember the milkを使ったタスク管理を実践してきましたが、実はそれまではcheck\*pad使ってました。で、こんなエントリーを発見！
 
-リンク: [i d e a \* i d e a — check\*padで項目の移動が簡単に！](http://www.ideaxidea.com/archives/2006/08/checkpad_26.html "i d e a * i d e a - check*padで項目の移動が簡単に！").
+[i d e a \* i d e a — check\*padで項目の移動が簡単に！](http://www.ideaxidea.com/archives/2006/08/checkpad_26.html)
 
 > ■ チェック項目の移動が可能に
 

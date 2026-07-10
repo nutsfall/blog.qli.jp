@@ -1,9 +1,6 @@
 ---
 title: カメラと映画
-description: ''
-date: '2011-12-23T11:38:32.000Z'
-categories: []
-keywords: []
+date: "2011-12-23T11:38:32.000Z"
 tags: ["olympus-e-p3", "love-letter", "camera"]
 slug: "bfa96693-d5f8-48f5-a3b1-aa835f3041e5"
 ---

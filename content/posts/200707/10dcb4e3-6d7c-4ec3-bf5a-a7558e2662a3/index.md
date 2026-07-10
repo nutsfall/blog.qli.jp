@@ -1,9 +1,6 @@
 ---
 title: Pownceを試してみた
-description: ''
-date: '2007-07-08T19:13:03.000Z'
-categories: []
-keywords: []
+date: "2007-07-08T19:13:03.000Z"
 tags: ["pownce", "social-networking"]
 slug: "10dcb4e3-6d7c-4ec3-bf5a-a7558e2662a3"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Eye-fiを買いました
-description: ''
-date: '2010-12-27T22:05:09.000Z'
-categories: []
-keywords: []
+date: "2010-12-27T22:05:09.000Z"
 tags: ["eye-fi", "photography"]
 slug: "801c6f21-41ad-416a-a333-a4bbada5110c"
 ---
@@ -17,4 +14,4 @@ slug: "801c6f21-41ad-416a-a333-a4bbada5110c"
 
 Eye-fiといえば、ジオタグを写真に埋め込むことができます。無線LANの電波を拾って位置を特定しているそうです。いわゆる衛星通信とのGPSは搭載していません。どの程度有効か試してみたんですが、先日熊谷行ったときはまわりに無線LANがなかったせいか位置情報を付けてくれませんでした。無線LANが多く飛んでいる都会で使える機能と考えた方がよさそうですね。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B003ITFTNI](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B003ITFTNI "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B003ITFTNI")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B003ITFTNI](https://www.amazon.co.jp/dp/B003ITFTNI)

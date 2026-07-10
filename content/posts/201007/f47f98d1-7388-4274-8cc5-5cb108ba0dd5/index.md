@@ -1,9 +1,6 @@
 ---
 title: lego big morl のライブに行って
-description: ''
-date: '2010-07-01T22:01:28.000Z'
-categories: []
-keywords: []
+date: "2010-07-01T22:01:28.000Z"
 tags: ["lego-big-morl", "live-music"]
 slug: "f47f98d1-7388-4274-8cc5-5cb108ba0dd5"
 ---

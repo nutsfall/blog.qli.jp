@@ -1,9 +1,6 @@
 ---
 title: いよいよ iOS5 の足音が
-description: ''
-date: '2011-09-14T20:47:19.000Z'
-categories: []
-keywords: []
+date: "2011-09-14T20:47:19.000Z"
 tags: ["ios", "apple", "sony"]
 slug: "952c70e0-bdcd-4114-add7-e4e20b97c391"
 ---

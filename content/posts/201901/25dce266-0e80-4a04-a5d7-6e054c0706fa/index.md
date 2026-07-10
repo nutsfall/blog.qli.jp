@@ -1,9 +1,6 @@
 ---
 title: 8:20pm JST on 21st Jan 2019
-description: 試合開始から20分後、日本中が湧くゴール。それを入れたのが、冨安健洋だった。
-date: '2019-01-22T10:59:16.934Z'
-categories: []
-keywords: []
+date: "2019-01-22T10:59:16.934Z"
 tags: ["avispa-fukuoka", "tomiyasu-takehiro"]
 slug: "25dce266-0e80-4a04-a5d7-6e054c0706fa"
 ---

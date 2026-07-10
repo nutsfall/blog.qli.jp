@@ -1,9 +1,6 @@
 ---
 title: サマソニビーチステージが中止になった5年前を思いだす
-description: ''
-date: '2025-08-16T03:01:45.322Z'
-categories: []
-keywords: []
+date: "2025-08-16T03:01:45.322Z"
 tags: ["day-one", "summer-sonic", "journaling"]
 slug: "ebdc5c35-312d-4e19-bc3a-2c72dec17c70"
 ---

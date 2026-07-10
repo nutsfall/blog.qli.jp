@@ -1,9 +1,6 @@
 ---
 title: Time Capsule リプレイス
-description: ''
-date: '2010-05-13T22:43:38.000Z'
-categories: []
-keywords: []
+date: "2010-05-13T22:43:38.000Z"
 tags: ["time-capsule", "apple"]
 slug: "08733e59-7047-44f4-91d4-941491160460"
 ---

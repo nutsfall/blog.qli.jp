@@ -1,9 +1,6 @@
 ---
 title: the brilliant greenが活動再開
-description: ''
-date: '2010-01-12T23:28:37.000Z'
-categories: []
-keywords: []
+date: "2010-01-12T23:28:37.000Z"
 tags: ["the-brilliant-green", "music"]
 slug: "83368938-c7d9-46be-86bd-f14245846900"
 ---
@@ -15,8 +12,8 @@ slug: "83368938-c7d9-46be-86bd-f14245846900"
 
 彼らがレコード会社を移籍した理由は分かりませんが、結果として、僕らリスナーが彼らの音楽に接する選択肢が増えたということを素直に喜びたいと思います。そして、ぜひこれまでの楽曲の権利もすべて移転して、iTunesで買えるようになってほしいと切に願います。（トミフェブ、トミヘブはかなり厳しいでしょうね･･･）
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B001113FAY](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B001113FAY "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B001113FAY")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B001113FAY](https://www.amazon.co.jp/dp/B001113FAY)
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B0031B67B6](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B0031B67B6 "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B0031B67B6")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B0031B67B6](https://www.amazon.co.jp/dp/B0031B67B6)
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B00005HQ50](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B00005HQ50 "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B00005HQ50")
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS1=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B00005HQ50](https://www.amazon.co.jp/dp/B00005HQ50)

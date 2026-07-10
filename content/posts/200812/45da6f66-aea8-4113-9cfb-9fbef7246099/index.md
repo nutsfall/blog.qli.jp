@@ -1,9 +1,6 @@
 ---
 title: 非正規雇用と新卒内定
-description: ''
-date: '2008-12-15T22:27:44.000Z'
-categories: []
-keywords: []
+date: "2008-12-15T22:27:44.000Z"
 tags: ["employment", "japan-economy"]
 slug: "45da6f66-aea8-4113-9cfb-9fbef7246099"
 ---

@@ -1,9 +1,6 @@
 ---
 title: RubyKaigiに行ってみた
-description: ''
-date: '2013-06-01T21:06:42.000Z'
-categories: []
-keywords: []
+date: "2013-06-01T21:06:42.000Z"
 tags: ["rubykaigi", "ruby"]
 slug: "0564388f-c1c6-4ea3-9b67-fb887c150b8a"
 ---

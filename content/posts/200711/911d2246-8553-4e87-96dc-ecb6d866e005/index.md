@@ -1,9 +1,6 @@
 ---
 title: Open Web Awardsに日本発サイトを応募してみよう！
-description: ''
-date: '2007-11-28T23:14:21.000Z'
-categories: []
-keywords: []
+date: "2007-11-28T23:14:21.000Z"
 tags: ["open-web-awards", "web"]
 slug: "911d2246-8553-4e87-96dc-ecb6d866e005"
 ---

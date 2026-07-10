@@ -1,14 +1,11 @@
 ---
 title: Life goes on
-description: ''
-date: '2023-06-24T03:01:31.931Z'
-categories: []
-keywords: []
+date: "2023-06-24T03:01:31.931Z"
 tags: ["takeuchi-anna", "concert", "k-pop"]
 slug: "7ee0f50a-95a9-4131-912c-361e8bd78b45"
+cover:
+  image: "0__IatMdw9DnuKrm4d5.jpg"
 ---
-![](0__IatMdw9DnuKrm4d5.jpg)
-
 先日、竹内アンナのライブに行ってきた。今回は5枚目のEP、at FIVEを引っ提げての全国ツアーのファイナル。サポートメンバーにdawgssの二人を招き、スリーピースのアレンジで進行していくライブは圧巻だった。
 
 「竹内アンナ」を知ったのは、2018年のこと。TwitterやFoursquareなどがブレイクしたお祭りイベントとして知られる、SXSW2018に出演した日本人ミュージシャンがいるという話を通じて名前を聞いた。Apple Musicでt検索し、曲を聴いて、それ以来、ずっと追っかけている”推し”のひとり。

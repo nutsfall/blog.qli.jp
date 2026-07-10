@@ -1,9 +1,6 @@
 ---
 title: MacBook Air M4 にアップデート
-description: ""
 date: "2025-04-12T03:02:50.369Z"
-categories: []
-keywords: []
 tags: ["apple", "macbook"]
 slug: "37c542b6-be4c-4350-822e-bc7770192cc2"
 cover:

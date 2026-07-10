@@ -1,9 +1,6 @@
 ---
 title: 写真と地図
-description: ''
-date: '2012-12-14T21:36:07.000Z'
-categories: []
-keywords: []
+date: "2012-12-14T21:36:07.000Z"
 tags: ["google-maps", "instagram"]
 slug: "d4442aa1-05a9-4bea-bfc0-f7322a8de0b2"
 ---

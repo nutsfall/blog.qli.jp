@@ -1,9 +1,6 @@
 ---
 title: ZV-1で動画をつくってみた
-description: いよいよ発売になったZV-1。iPhoneで動画を作ろうと思ったことはないのですが、ZV-1で動画を作ってみました。
-date: '2020-06-20T14:01:04.206Z'
-categories: []
-keywords: []
+date: "2020-06-20T14:01:04.206Z"
 tags: ["sony-zv-1", "video-creation", "igtv"]
 slug: "63558fd6-3eed-49f1-9b05-2bb781aca863"
 ---
@@ -11,8 +8,7 @@ slug: "63558fd6-3eed-49f1-9b05-2bb781aca863"
 
 今回はIGTVに上げてみました。
 
-[**Instagram post by hiro \* Jun 20, 2020 at 5:43am UTC**  
-_2 Likes, 0 Comments - hiro (@hiro.qli) on Instagram_www.instagram.com](https://www.instagram.com/tv/CBpUNOaJZ4D/ "https://www.instagram.com/tv/CBpUNOaJZ4D/")[](https://www.instagram.com/tv/CBpUNOaJZ4D/)
+[Instagram post by hiro * Jun 20, 2020 at 5:43am UTC](https://www.instagram.com/tv/CBpUNOaJZ4D/)
 
 動画はiMovieで作ったもの。音声は自動補正をしていますが、映像は撮って出しで、何も変更していません。途中、切り替えスイッチでぼけモードを変更したりしているところもあります。
 

@@ -1,9 +1,6 @@
 ---
 title: "“あの日”の話をしよう"
-description: ''
-date: '2014-03-11T14:40:27.000Z'
-categories: []
-keywords: []
+date: "2014-03-11T14:40:27.000Z"
 tags: ["3-11"]
 slug: "88971e6d-0170-4644-be83-05dc7f8651c9"
 ---

@@ -1,9 +1,6 @@
 ---
 title: フットボールがなかった2週間
-description: ''
-date: '2023-08-05T03:01:53.114Z'
-categories: []
-keywords: []
+date: "2023-08-05T03:01:53.114Z"
 tags: ["j-league", "football"]
 slug: "7f12c2fb-a1b8-4495-9ffc-108ebf3f8b78"
 ---
