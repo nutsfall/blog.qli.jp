@@ -6,7 +6,7 @@ slug: "88008656-c69f-4af3-9dfb-57bc6b1c7e1c"
 ---
 Appleが今週末新しいiPodシリーズの紹介イベントを行います。
 
-リンク: [アップル — 新しいiPodファミリーのご紹介です](http://www.apple.com/jp/articles/event/ipod/ "アップル - 新しいiPodファミリーのご紹介です").
+[アップル — 新しいiPodファミリーのご紹介です](http://www.apple.com/jp/articles/event/ipod/)
 
 > 2007年9月15日 (土) 〜30日 (日) までの各週末、下記の店舗において、新しくなったiPodをご紹介するイベントを開催します。
 

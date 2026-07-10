@@ -6,7 +6,7 @@ slug: "d81e2356-9534-4ddf-a0bb-c26be7607c76"
 ---
 仕事中にISOからCDを作る作業をしていて暇なのでfeed読んでたらこんな記事が。
 
-リンク: [So-net blog:平日更新 日刊“mylo”:勝手にイイジマ的blog記事大賞！](http://blog.so-net.ne.jp/mylo/2006-12-27 "So-net blog:平日更新 日刊“mylo”:勝手にイイジマ的blog記事大賞！").
+[So-net blog:平日更新 日刊“mylo”:勝手にイイジマ的blog記事大賞！](http://blog.so-net.ne.jp/mylo/2006-12-27)
 
 > 現在、お台場メディアージュ、銀座ソニービル、大阪ソニースタイルストアにて  
 > “mylo”の展示を行っております。イベントにこられなかった方、お近くにい  

@@ -7,8 +7,7 @@ slug: "9e44d04e-b95b-49d8-b600-c99571404372"
 ---
 もう師が走り回る季節ですか。そろそろ締める時期だなと思い、今年の体験の棚卸しをしていたら、さっきやってきた羊文学のアルバムがとてもよすぎて語彙がなくなってしまいました。
 
-[**羊文学の「12 hugs (like butterflies)」**  
-_羊文学の12 hugs (like butterflies)をApple Musicで聴く。2023年年。12曲。時間：41分。_music.apple.com](https://music.apple.com/jp/album/12-hugs-like-butterflies/1714742640 "https://music.apple.com/jp/album/12-hugs-like-butterflies/1714742640")[](https://music.apple.com/jp/album/12-hugs-like-butterflies/1714742640)
+[羊文学の「12 hugs (like butterflies)」](https://music.apple.com/jp/album/12-hugs-like-butterflies/1714742640)
 
 さて、本題に。12月最初の週末となった先週は、アビスパ福岡の今シーズン最後のホームゲームを見に、ベスト電器スタジアムに行ってました。福岡に帰るのはとても久しぶりだったので、前泊して楽しみました。
 

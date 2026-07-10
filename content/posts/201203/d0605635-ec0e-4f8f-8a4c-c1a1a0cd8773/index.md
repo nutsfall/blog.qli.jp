@@ -6,8 +6,7 @@ slug: "d0605635-ec0e-4f8f-8a4c-c1a1a0cd8773"
 ---
 映画 高校デビューみました。
 
-[**高校デビューを iTunes で**  
-_英 勉監督作品「高校デビュー」の予告編を視聴、カスタマーと批評家のレビューをチェック。¥2,500で。_itunes.apple.com](https://itunes.apple.com/jp/movie/gao-xiaodebyu/id464095801 "https://itunes.apple.com/jp/movie/gao-xiaodebyu/id464095801")[](https://itunes.apple.com/jp/movie/gao-xiaodebyu/id464095801)
+[高校デビューを iTunes で](https://itunes.apple.com/jp/movie/gao-xiaodebyu/id464095801)
 
 主役の大野いとってこれが初めての映画出演だと思うんだけれども、なんかすごくハマってた。映画自体はテンポがよくて、吉本の芸人も出てたけど、それが過度に目立つわけでもなく。映画自体も93分とちょい短めだったけど、短さを感じさせなかった。
 

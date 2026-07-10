@@ -8,7 +8,7 @@ slug: "1b334ef0-05b5-4ef3-85e2-01d343d13d94"
 
 全世界のTwitterユーザも同じことを考えていたみたいで、TechCrunchにJaikuまとめ記事がのってましたので紹介します。
 
-リンク: [TechCrunch Japanese アーカイブ � TwitterからJaikuに乗り換える？](http://jp.techcrunch.com/archives/making-the-switch-from-twitter-to-jaiku/ "TechCrunch Japanese アーカイブ � TwitterからJaikuに乗り換える？").
+[TechCrunch Japanese アーカイブ � TwitterからJaikuに乗り換える？](http://jp.techcrunch.com/archives/making-the-switch-from-twitter-to-jaiku/)
 
 > 最近のTwitterに関する不満はダウンタイムがやたらに多いことばかりではない。Twitterが動いているときでも、アップデート/リフレッシュに失敗する、ページが読み込まれない、サードパーティーのツールが接続できない、など、役立たずとまでは言わないが、いらいらさせられることおびただしい。ダウンタイムの詳細はここに。
 

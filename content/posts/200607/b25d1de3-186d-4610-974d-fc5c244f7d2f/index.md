@@ -8,7 +8,7 @@ slug: "b25d1de3-186d-4610-974d-fc5c244f7d2f"
 GTDってシンプルだけど慣れないとわかりにくい部分があるのも確かですよね。自分も本を読みながらやっているとはいえ、イマイチ自信が持てないのも確かですし。  
 というわけで、お時間が許す方、ITmediaに取り上げられたい方、ぜひ参加してみてはいかがでしょうか？
 
-リンク: [i d e a \* i d e a — GTD徹底研究会！](http://www.ideaxidea.com/archives/2006/07/gtd_2.html "i d e a * i d e a - GTD徹底研究会！").
+[i d e a \* i d e a — GTD徹底研究会！](http://www.ideaxidea.com/archives/2006/07/gtd_2.html)
 
 > さてブロガー応援企画第何回目か忘れた回、ですが、「GTD徹底研究会！」を行います。
 

@@ -6,7 +6,7 @@ slug: "af4ac139-f7ff-48ed-a4a9-a9125f7d4818"
 ---
 Mozilla Labsからfirefoxをベースにした[ソーシャルブラウザCoopの研究のニュース](http://jp.techcrunch.com/archives/mozilla-to-build-social-features-into-firefox-bad-news-for-flock/)が飛び込んできましたが、これについて同じくFirefoxベースでソーシャルブラウザを開発しているFlockからのコメントがありました。
 
-リンク: [Mozilla Labs — ‘The Coop’](http://www.flock.com/blog/mozilla-labs-the-coop "Mozilla Labs - 'The Coop'").
+[Mozilla Labs — ‘The Coop’](http://www.flock.com/blog/mozilla-labs-the-coop)
 
 > Many of you may have recently read about “The Coop”, a Mozilla Labs project to “experiment with adding social tools to the web browser.” There has been much discussion about this project as it relates to Flock, and whether or not this is good news for us. One example: this morning TechCrunch posted a story titled “Mozilla To Build Social Networking Into Firefox: Bad News For Flock”
 

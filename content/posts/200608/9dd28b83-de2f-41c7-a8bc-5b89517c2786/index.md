@@ -6,7 +6,7 @@ slug: "9dd28b83-de2f-41c7-a8bc-5b89517c2786"
 ---
 情報収集の関するlifehacks。「いいね、これ」って思ったのでエントリーしてみることにします。
 
-リンク: [i d e a \* i d e a — 情報収集のアンテナを高める方法](http://www.ideaxidea.com/archives/2006/08/post_115.html "i d e a * i d e a - 情報収集のアンテナを高める方法").
+[i d e a \* i d e a — 情報収集のアンテナを高める方法](http://www.ideaxidea.com/archives/2006/08/post_115.html)
 
 > よく「どうやってそんなに情報を集めているのですか？」と聞かれるので答えてみることにします。
 

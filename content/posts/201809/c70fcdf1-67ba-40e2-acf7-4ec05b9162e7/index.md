@@ -15,8 +15,7 @@ iOS12から追加された機能で一番よく使う機能はこれかもしれ
 
 という機能です。
 
-[**iPhone、iPad、iPod touch でおやすみモードを使う**  
-_おやすみモードを使うと、デバイスがロックされている間の着信音、警告音、通知音を消音にすることができます。おやすみモードを使う時間帯を設定しておいたり、特定の人からの電話だけ受けたりすることもできます。_support.apple.com](https://support.apple.com/ja-jp/HT204321 "https://support.apple.com/ja-jp/HT204321")[](https://support.apple.com/ja-jp/HT204321)
+[iPhone、iPad、iPod touch でおやすみモードを使う](https://support.apple.com/ja-jp/HT204321)
 
 おやすみモードって “解除し忘れ” を気にして使わないという人も多いのだと思うので、そういう人には朗報です。
 

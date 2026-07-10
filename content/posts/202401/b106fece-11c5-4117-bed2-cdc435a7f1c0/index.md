@@ -9,8 +9,7 @@ slug: "b106fece-11c5-4117-bed2-cdc435a7f1c0"
 
 Apple Musicは、世界中でPodcastを制作しているのですが、その中で、YOASOBIのPodcast「YOASOBI’s Otsumami」が全4回展開されています。
 
-[**YOASOBI'S OTSUMAMI RadioをApple Musicで**  
-_YOASOBI'S OTSUMAMI RadioをApple Musicで聴く。_music.apple.com](https://music.apple.com/jp/curator/yoasobis-otsumami-radio/1702075493 "https://music.apple.com/jp/curator/yoasobis-otsumami-radio/1702075493")[](https://music.apple.com/jp/curator/yoasobis-otsumami-radio/1702075493)
+[YOASOBI'S OTSUMAMI RadioをApple Musicで](https://music.apple.com/jp/curator/yoasobis-otsumami-radio/1702075493)
 
 YOASOBIのメンバーであるAyaseとikuraのこれまで、そして、YOASOBIのこれからが語られる4時間にわたるPodcastです。
 

@@ -7,8 +7,7 @@ slug: "29812e3e-ba5c-4579-bd87-ce05424e3956"
 ---
 OmniFocusがバージョンアップして、”Drop”機能がつきました。これは Public Test でテストされていた機能です。
 
-[**New OmniFocus Feature: Dropped Actions - The Omni Group**  
-_Creators of Mac, iPad, and iPhone productivity software. Proud to bring you OmniFocus, OmniOutliner, OmniGraffle, and…_www.omnigroup.com](https://www.omnigroup.com/blog/omnifocus-dropped-actions "https://www.omnigroup.com/blog/omnifocus-dropped-actions")[](https://www.omnigroup.com/blog/omnifocus-dropped-actions)
+[New OmniFocus Feature: Dropped Actions - The Omni Group](https://www.omnigroup.com/blog/omnifocus-dropped-actions)
 
 これまで OmniFocus はアクションを「完了」するか、「削除」するかしかできませんでした。 “もうやらないことを決めたアクション” をどう処理すればいいか困っていた方もいるかもしれません。
 

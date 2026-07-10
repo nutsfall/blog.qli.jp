@@ -18,8 +18,7 @@ AirPods Maxは一体誰向けの商品なのかというのは実はよくわか
 
 > ゲーマーやライブ配信者も、ラグタイムを大幅に減らし、Mac、iPad、iPhoneにあらかじめ内蔵されているスピーカーに匹敵する、超低レイテンシーのオーディオのメリットを得ることができます。
 
-[**AirPods Maxにロスレスオーディオと超低レイテンシーのオーディオを導入**  
-_Appleは、AirPods Maxに超低レイテンシーのロスレスオーディオを導入し、究極のリスニング体験とさらに素晴らしいパフォーマンスを提供します。_www.apple.com](https://www.apple.com/jp/newsroom/2025/03/lossless-audio-and-ultra-low-latency-audio-come-to-airpods-max/ "https://www.apple.com/jp/newsroom/2025/03/lossless-audio-and-ultra-low-latency-audio-come-to-airpods-max/")[](https://www.apple.com/jp/newsroom/2025/03/lossless-audio-and-ultra-low-latency-audio-come-to-airpods-max/)
+[AirPods Maxにロスレスオーディオと超低レイテンシーのオーディオを導入](https://www.apple.com/jp/newsroom/2025/03/lossless-audio-and-ultra-low-latency-audio-come-to-airpods-max/)
 
 この文章を読んでいると、このAirPods Maxはいわゆる「スタジオヘッドフォン」で、空間オーディオの制作環境を提供したいということなのかなと感じています。
 

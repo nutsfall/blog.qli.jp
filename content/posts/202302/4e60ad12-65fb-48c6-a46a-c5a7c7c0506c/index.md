@@ -6,8 +6,7 @@ slug: "4e60ad12-65fb-48c6-a46a-c5a7c7c0506c"
 ---
 Cultured Code社が作るリマインダーアプリ Things for Macには、日付を自然言語で入力できる機能があります。Cultured Code では、入力例が提示されていますが、Thingsを日本語環境で使っていると、この入力例が使えません。
 
-[**Using Natural Language Input**  
-_Use natural language to quickly schedule to-dos, add reminders, or set deadlines. It's easy to set a start date…_culturedcode.com](https://culturedcode.com/things/support/articles/9780167/ "https://culturedcode.com/things/support/articles/9780167/")[](https://culturedcode.com/things/support/articles/9780167/)
+[Using Natural Language Input](https://culturedcode.com/things/support/articles/9780167/)
 
 ということで、日本語入力例をまとめてみました。サンプルは上記の記事をそのまま使っています。
 

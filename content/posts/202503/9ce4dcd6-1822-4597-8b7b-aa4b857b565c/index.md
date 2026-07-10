@@ -8,8 +8,7 @@ cover:
 ---
 先日、OmniFocusの使い方をまとめました。
 
-[**OmniFocusの使い方 (Jan. 25)**  
-_Edit description_hiro.medium.com](https://hiro.medium.com/omnifocus%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-jan-25-cbe7257dd1a3 "https://hiro.medium.com/omnifocus%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-jan-25-cbe7257dd1a3")[](https://hiro.medium.com/omnifocus%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-jan-25-cbe7257dd1a3)
+[OmniFocusの使い方 (Jan. 25)](https://hiro.medium.com/omnifocus%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-jan-25-cbe7257dd1a3)
 
 その中で、カスタムパースペクティブ「NEXT」について説明しました。それは「着手可能なアクション」が表示されるものなのですが、ひとつだけ言及していないことがありました。それは、すべての「着手可能なアクション」を表示しているわけではないということです。
 

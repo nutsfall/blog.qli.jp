@@ -6,13 +6,13 @@ slug: "38968041-82f9-4e85-b0a7-90c762fc2e2d"
 ---
 GoogleがjotSpotというサービスを買ったことを発表しました。
 
-リンク: [Official Google Blog: Spot on](http://googleblog.blogspot.com/2006/10/spot-on.html "Official Google Blog: Spot on").
+[Official Google Blog: Spot on](http://googleblog.blogspot.com/2006/10/spot-on.html)
 
 > OK, I can finally blurt it out: JotSpot is now part of Google, and I couldn’t be more excited.
 
 このJotSpotというサービス、知らなかったので調べてみたらレビュー記事がありました。
 
-リンク: [JotSpot （企業向けwiki） : ワークスタイル・メモ](http://www.ariel-networks.com/blogs/tokuriki/2006/01/wiki_jotspot.html "JotSpot （企業向けwiki） : ワークスタイル・メモ").
+[JotSpot （企業向けwiki） : ワークスタイル・メモ](http://www.ariel-networks.com/blogs/tokuriki/2006/01/wiki_jotspot.html)
 
 > JotSpotも、先日紹介したSocialtextと同様wikiを活用したサービスです。
 

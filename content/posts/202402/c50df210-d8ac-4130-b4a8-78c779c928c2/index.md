@@ -11,8 +11,7 @@ slug: "c50df210-d8ac-4130-b4a8-78c779c928c2"
 
 昨年の終わり頃、iPhoneの充電環境を変えました。今は、BelkinのBoostCharge Proを使っています。
 
-[**BoostCharge Pro MagSafe 15W を搭載した 2-in-1 ワイヤレス充電ドック | Belkin | Belkin JP**  
-_StandBy 対応充電ドックを備えた iPhone 15、14、13、12 シリーズ、Apple Watch、AirPods 用の 15W 高速 MagSafe ワイヤレス充電を実現します。_www.belkin.com](https://www.belkin.com/jp/P-WIZ020.html "https://www.belkin.com/jp/P-WIZ020.html")[](https://www.belkin.com/jp/P-WIZ020.html)
+[BoostCharge Pro MagSafe 15W を搭載した 2-in-1 ワイヤレス充電ドック | Belkin | Belkin JP](https://www.belkin.com/jp/P-WIZ020.html)
 
 iPhoneとApple Watchを使っています。どちらも充電できることが必須要件で、これまではAppleの充電パッドを使っていました。iOS17で追加された「スタンバイ」を使ってみたいということで充電環境を変えてみることにしました。
 
@@ -22,8 +21,7 @@ iPhoneは寝てる間に充電していて、Apple Watchは寝てる間に腕に
 
 こっそりAirPods ProのUSB-Cケースの単体売りが始まっていました。さくっと購入して使っています。普段の生活ではUSB-C端子を使うことはないので気にする必要はないのですが、旅行先では無線充電ではなく、ケーブルで充電することが多く、Lightningケーブルの持ち歩きを避けることができています。
 
-[**AirPods Pro（第2世代）MagSafe充電ケース（USB-C）を購入**  
-_新しいAirPods Pro（第2世代）MagSafe充電ケース（USB-C）を使えば、ワイヤレスでもUSB-Cポートでも充電できます。apple.comで今すぐ購入できます。_www.apple.com](https://www.apple.com/jp/shop/product/MUYG3J/A/ "https://www.apple.com/jp/shop/product/MUYG3J/A/")[](https://www.apple.com/jp/shop/product/MUYG3J/A/)
+[AirPods Pro（第2世代）MagSafe充電ケース（USB-C）を購入](https://www.apple.com/jp/shop/product/MUYG3J/A/)
 
 #### 残ったLightning端子
 

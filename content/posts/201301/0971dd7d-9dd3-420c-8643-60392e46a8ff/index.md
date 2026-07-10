@@ -8,8 +8,7 @@ slug: "0971dd7d-9dd3-420c-8643-60392e46a8ff"
 
 これまで約２週間くらい使ってみたので、その感想を簡単に。
 
-[**COOKOO Watch**  
-_Explore hiro.qli's photos on Flickr. hiro.qli has uploaded 2785 photos to Flickr._www.flickr.com](http://www.flickr.com/photos/beyondmywish/8367573600/ "http://www.flickr.com/photos/beyondmywish/8367573600/")[](http://www.flickr.com/photos/beyondmywish/8367573600/)
+[COOKOO Watch](http://www.flickr.com/photos/beyondmywish/8367573600/)
 
 iPhoneとのリンクはBluetoothなのですが、これがなんとも絶妙。無線は人体を通さないので、たとえば腕組みして時計を覆い隠してしまうと、リンクが外れてしまいます。という感じで、iPhoneとCOOKOOの距離だったり、あいだにある物質なんかでリンクが切れたりします。少しの時間切れているだけであれば、自動的にリンクを復旧しようと試みます。リンクが切れた場合は、COOKOO Watchが振動したり、音を鳴らしたりして知らせてくれます。
 

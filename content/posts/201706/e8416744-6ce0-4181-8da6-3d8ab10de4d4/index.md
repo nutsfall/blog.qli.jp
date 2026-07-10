@@ -7,8 +7,7 @@ slug: "e8416744-6ce0-4181-8da6-3d8ab10de4d4"
 ---
 WWDC2017 Keynoteで発表された、macOS High Sierra。早速Appleのサイトにプロモページが立ち上がりました。
 
-[**macOS High Sierraプレビュー**  
-_macOS High Sierraは、新しい先進的なテクノロジー、強化された機能の数々、一段ときびきびとしたパフォーマンスをMacにもたらします。_www.apple.com](https://www.apple.com/jp/macos/high-sierra-preview/ "https://www.apple.com/jp/macos/high-sierra-preview/")[](https://www.apple.com/jp/macos/high-sierra-preview/)
+[macOS High Sierraプレビュー](https://www.apple.com/jp/macos/high-sierra-preview/)
 
 実はKeynoteで発表されたもの以外の情報が詰まっていることが多いのですが、その中で気になったものを取り上げてみます。
 

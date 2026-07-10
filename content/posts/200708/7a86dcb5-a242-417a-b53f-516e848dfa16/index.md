@@ -17,6 +17,6 @@ slug: "7a86dcb5-a242-417a-b53f-516e848dfa16"
 .Macサービスの基本として、iLifeを介してサーバ側にデータを上げて、それを利用するという特徴があったのですが、今回のiLifeのウェブギャラリー機能でそれがより顕著になり、さらにWEBを介したiPhone用UIを用意することにより、単に「あちら側にデータがある」を超えたFMCといえるような環境を作り出すことに成功したと思えます。あくまで享受できるのはAppleネイティブな環境だけですが、こういうことがもっと広がればいいなと。  
 あとは、iWebにYouTubeやGoogle Adsence用のUIが増えたりしているのは、AppleとGoogleの繋がりを感じさせます。
 
-リンク: [アップル、新iMacを発表 — 「iLife ‘08」や表計算機能を加えた「iWork」も登場:ニュース — CNET Japan](http://japan.cnet.com/news/tech/story/0,2000056025,20354299,00.htm "アップル、新iMacを発表--「iLife '08」や表計算機能を加えた「iWork」も登場:ニュース - CNET Japan").
+[アップル、新iMacを発表 — 「iLife ‘08」や表計算機能を加えた「iWork」も登場:ニュース — CNET Japan](http://japan.cnet.com/news/tech/story/0,2000056025,20354299,00.htm)
 
 > Appleの最高経営責任者（CEO）Steve Jobs氏は米国時間8月7日、米カリフォルニア州クパチーノにある同社本社で新しいiMacを発表した。

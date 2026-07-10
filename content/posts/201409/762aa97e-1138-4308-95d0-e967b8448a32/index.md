@@ -6,8 +6,7 @@ slug: "762aa97e-1138-4308-95d0-e967b8448a32"
 ---
 普段イヤホンは Atomic Floyd SuperDarts Titanium + Remoteを使っています。このイヤホン、イヤーチップとして最も標準的なシリコン製のものとは別にフォームチップがついています。
 
-[**「イヤホンチップ、意識してますか？」− あなたが使っているのはどれ？ イヤホンチップの種類を解説 (1/2) - Phile-web**  
-_オーディオ＆ビジュアルのポータルサイト。ヘッドホンやハイレゾ音源、ネットオーディオなど、いま旬の情報＆レビューをいち早くお届けします！_www.phileweb.com](http://www.phileweb.com/review/article/201210/12/590.html "http://www.phileweb.com/review/article/201210/12/590.html")[](http://www.phileweb.com/review/article/201210/12/590.html)
+[「イヤホンチップ、意識してますか？」− あなたが使っているのはどれ？ イヤホンチップの種類を解説 (1/2) - Phile-web](http://www.phileweb.com/review/article/201210/12/590.html)
 
 普段はこのフォームチップを使っていたのですが、フォームチップは使い込むほど、耐性がなくなってしまうんですよね。ということで、買い換えることにしました。
 

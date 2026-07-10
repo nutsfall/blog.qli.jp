@@ -11,8 +11,7 @@ slug: "6425fd3c-1f27-4b2e-92b1-c398e4c70b49"
 
 ![](1__4KZjbmgtEqKUeMWNQdL5rg.jpeg)
 
-[**Marshallの最新Major IVヘッドフォンは80時間駆動や無線充電などの機能搭載、有線接続も可能 | TechCrunch Japan**  
-_Marshall（マーシャル）の新しい Major IV…_jp.techcrunch.com](https://jp.techcrunch.com/2020/10/18/2020-10-16-marshall-major-iv-wireless-headphones-offer-great-sound-plus-80-hours-of-battery-life-and-wireless-charging/ "https://jp.techcrunch.com/2020/10/18/2020-10-16-marshall-major-iv-wireless-headphones-offer-great-sound-plus-80-hours-of-battery-life-and-wireless-charging/")[](https://jp.techcrunch.com/2020/10/18/2020-10-16-marshall-major-iv-wireless-headphones-offer-great-sound-plus-80-hours-of-battery-life-and-wireless-charging/)
+[Marshallの最新Major IVヘッドフォンは80時間駆動や無線充電などの機能搭載、有線接続も可能 | TechCrunch Japan](https://jp.techcrunch.com/2020/10/18/2020-10-16-marshall-major-iv-wireless-headphones-offer-great-sound-plus-80-hours-of-battery-life-and-wireless-charging/)
 
 Major I でデビューを果たし、Major II では全体的アップデートをはかり、Major III では Bluetooth を装備してきました。Major IVは Bluetooth ヘッドフォンとして全体的なアップデートが図られています。その最たる例は連続再生時間80時間。USB-Cで充電できるようになったのも、地味に嬉しいアップデートです。
 

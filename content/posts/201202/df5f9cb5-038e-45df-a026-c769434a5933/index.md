@@ -22,5 +22,4 @@ Salyuの特別プロジェクト salyu x salyu と Salyuの対バン構成。DVD
 
 ライブが終わった後は、握手会。Salyuさんと少しおはなしできました。あれだけ多くの人と短時間に会うんだからあんまり覚えてない気もしますが。
 
-[**Salyuの「photogenic」を iTunes で**  
-_"camera"、"LIFE(ライフ)"、"magic"とその他を含む、アルバム「photogenic」の曲をプレビュー、購入、ダウンロード。 アルバムを ¥2,000 で購入。 曲を ¥250 から。_itunes.apple.com](https://itunes.apple.com/jp/album/photogenic/id522027429 "https://itunes.apple.com/jp/album/photogenic/id522027429")[](https://itunes.apple.com/jp/album/photogenic/id522027429)
+[Salyuの「photogenic」を iTunes で](https://itunes.apple.com/jp/album/photogenic/id522027429)

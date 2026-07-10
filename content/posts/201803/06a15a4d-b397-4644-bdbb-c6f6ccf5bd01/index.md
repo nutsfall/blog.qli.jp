@@ -9,11 +9,9 @@ slug: "06a15a4d-b397-4644-bdbb-c6f6ccf5bd01"
 
 Twitter見てたらふらっと流れてきたので、ポチッとしたら今日届きました。
 
-[**cheero Wireless Earphones**  
-_高音質な完全ワイヤレスイヤホンの登場です。_www.cheero.net](http://www.cheero.net/products/wireless_earphones/ "http://www.cheero.net/products/wireless_earphones/")[](http://www.cheero.net/products/wireless_earphones/)
+[cheero Wireless Earphones](http://www.cheero.net/products/wireless_earphones/)
 
-[**［レビュー］cheero Wireless Earphonesがやってきた！左右独立式の高音質ワイヤレスイヤホンがcheeroより登場！【PR】**  
-_みなさま、こんにちは。Kazuto Tanabe（@WWDC1999 ）です。 今回は、2018年3月8日より販売が始まるcheeroの新製品「cheero Wireless Earphones」をレビューします。 ..._xn--p9j1ayd.net](https://xn--p9j1ayd.net/archives/25686 "https://xn--p9j1ayd.net/archives/25686")[](https://xn--p9j1ayd.net/archives/25686)
+[［レビュー］cheero Wireless Earphonesがやってきた！左右独立式の高音質ワイヤレスイヤホンがcheeroより登場！【PR】](https://xn--p9j1ayd.net/archives/25686)
 
 AirPodsは持っているんですが、AirPodsはインナーイヤー型なので、カナル型を試したいと思っていたのと、ちょうどよくCheero Wireless Earphonesの話を聞いたのと、値段がとても手頃感だったので、お試し感覚です。
 

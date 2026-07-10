@@ -6,7 +6,7 @@ slug: "f7d891a4-2ed2-4d90-b3f7-d92e1850a990"
 ---
 ちょっと古いネタになってしまった申し訳ないのだけど。
 
-リンク: [あなたと一緒にネットサーフィンしてくれるアバター『Weblin』 | 100SHIKI.COM](http://www.100shiki.com/archives/2007/04/weblin.html "あなたと一緒にネットサーフィンしてくれるアバター『Weblin』 | 100SHIKI.COM").
+[あなたと一緒にネットサーフィンしてくれるアバター『Weblin』 | 100SHIKI.COM](http://www.100shiki.com/archives/2007/04/weblin.html)
 
 > Weblinではあなたがネットサーフィンをするときについてまわってくれるアバターを提供している。
 

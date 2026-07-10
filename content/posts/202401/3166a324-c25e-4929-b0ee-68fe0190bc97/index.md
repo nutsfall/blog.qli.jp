@@ -45,8 +45,7 @@ Thingsは、Appleの生態系の中で生きているシンプルなツールで
 
 Thingsはショートカットとの連携も充実していて、サンプルも公開してくれているので、比較的簡単に作ることができました。
 
-[**Using Apple Shortcuts**  
-_Learn how to use the Shortcuts app with Things to speed up common actions, such as creating to-dos with pre-filled…_culturedcode.com](https://culturedcode.com/things/support/articles/2955145/ "https://culturedcode.com/things/support/articles/2955145/")[](https://culturedcode.com/things/support/articles/2955145/)
+[Using Apple Shortcuts](https://culturedcode.com/things/support/articles/2955145/)
 
 Thingsの使い方を書いた文章は多く見ることはないのですが、OSの機能を最大限活かしながら強化されるツールなので、AppleのOSが好きな方にはぜひ選択肢に入れてほしいと思います。  
 一般名称であるThingsをアプリ名として使っているところにもその思想が現れているなと勝手に思っています。故に、情報に埋もれがちですね。

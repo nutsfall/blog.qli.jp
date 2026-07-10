@@ -6,7 +6,7 @@ slug: "de468bac-314c-4f6c-a1bb-103b807d4dcd"
 ---
 百式さんで”Run Baisc”なるものが紹介されていました。
 
-リンク: [ブラウザだけでBASICを実行する『Run Basic』 | 100SHIKI.COM](http://www.100shiki.com/archives/2007/02/basicrun_basic.html "ブラウザだけでBASICを実行する『Run Basic』 | 100SHIKI.COM").
+[ブラウザだけでBASICを実行する『Run Basic』 | 100SHIKI.COM](http://www.100shiki.com/archives/2007/02/basicrun_basic.html)
 
 > そんな人におすすめなのがRun Basicである。このサイト、いわゆるブラウザ上のインタープリターである。
 

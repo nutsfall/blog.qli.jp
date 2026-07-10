@@ -6,7 +6,7 @@ slug: "3c48ec71-a192-4ad0-83ec-08e3fb861439"
 ---
 ついに発売日が発表されたオーディオテクニカのNCヘッドフォンですが、試用レビューがのっていました。
 
-リンク: [“QuietPoint” ATH-ANC7](http://review.ascii24.com/db/review/peri/speaker/2007/01/24/667399-000.html "“QuietPoint” ATH-ANC7").
+[“QuietPoint” ATH-ANC7](http://review.ascii24.com/db/review/peri/speaker/2007/01/24/667399-000.html)
 
 > 今回の出張には間に合わなかったのだが、気になっていたNCヘッドホンがある。オーディオテクニカ(株)が2006年10月に発表した「ATH-ANC7」である。発売時期や価格の詳細は長らくアナウンスされてこなかったが、今月23日にようやく明らかになった。2月23日に発売される、この注目の新製品のサンプルを入手できたので、紹介しよう。
 

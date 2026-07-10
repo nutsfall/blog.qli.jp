@@ -6,7 +6,7 @@ slug: "5cee903c-39f4-4e07-a233-7b85ad05525f"
 ---
 特に話題性もなく、ひっそりと登場した感のある9(nine)ですが、レビューが掲載されていました。
 
-リンク: [ITmedia D モバイル：快適なレスポンスが魅力のメールとブラウザ — — 「9（nine）」 (1/2)](http://plusd.itmedia.co.jp/mobile/articles/0701/15/news109.html "ITmedia  D モバイル：快適なレスポンスが魅力のメールとブラウザ——「9（nine）」 (1/2)").
+[ITmedia D モバイル：快適なレスポンスが魅力のメールとブラウザ — — 「9（nine）」 (1/2)](http://plusd.itmedia.co.jp/mobile/articles/0701/15/news109.html)
 
 > 「9（nine）」レビューの後編は、本体デザインとその操作性をチェックした前編に続き、注目のEメールとWebブラウザ、日本語入力まわりを検証。「これで十分」との呼び声が高い9（nine）の実力とは。
 

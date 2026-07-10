@@ -6,7 +6,7 @@ slug: "48b1b049-1ba0-4fba-b304-dd5651b92892"
 ---
 Google Descktop Searchがリフレッシュされました。今回はメジャー級マイナーバージョンアップです。
 
-リンク: [Inside Google Desktop: Check out the new Sidebar](http://googledesktop.blogspot.com/2006/11/check-out-new-sidebar.html "Inside Google Desktop: Check out the new Sidebar").
+[Inside Google Desktop: Check out the new Sidebar](http://googledesktop.blogspot.com/2006/11/check-out-new-sidebar.html)
 
 > And this version is compatible with all of the latest software including Microsoft Vista, Office 2007 and Mozilla Firefox 2.0.
 

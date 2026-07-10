@@ -13,8 +13,7 @@ Apple Musicで音楽を聴くと、擬似的に前を向いている方にある
 
 ステレオで聞いている時よりも、ひとつひとつのトラックが際立って聞こえるので、楽曲によっては聞こえ方が変わったようになります。特にトラック数が多くて微妙にパンニングをずらしてある楽曲は聞こえ方が変わるかも。miidaの楽曲は、リズムに身を任せて漂う感覚が得られ、お気に入りです。
 
-[**miidaの"melt night"**  
-_曲・4:38・2021年 · Apple Musicのサブスクリプションに登録すると利用できます。無料で体験する。_music.apple.com](https://music.apple.com/jp/album/melt-night/1576622796?i=1576622797 "https://music.apple.com/jp/album/melt-night/1576622796?i=1576622797")[](https://music.apple.com/jp/album/melt-night/1576622796?i=1576622797)
+[miidaの"melt night"](https://music.apple.com/jp/album/melt-night/1576622796?i=1576622797)
 
 #### ヘッドトラッキングで音の位置を感じる
 

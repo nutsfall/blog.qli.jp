@@ -40,14 +40,10 @@ Smartband Talkの外観は Fitbit Flexにも似ていて、好感が持てまし
 
 #### リンク
 
-[**Xperia™ Z3 SOL26 | ソニーモバイルコミュニケーションズ**  
-_ソニーモバイルコミュニケーションズの携帯電話「Xperia(TM) Z3 SOL26」の製品情報。_www.sonymobile.co.jp](http://www.sonymobile.co.jp/xperia/au/sol26/ "http://www.sonymobile.co.jp/xperia/au/sol26/")[](http://www.sonymobile.co.jp/xperia/au/sol26/)
+[Xperia™ Z3 SOL26 | ソニーモバイルコミュニケーションズ](http://www.sonymobile.co.jp/xperia/au/sol26/)
 
-[**Xperia™ Z3 Compact SO-02G | ソニーモバイルコミュニケーションズ**  
-_ソニーモバイルコミュニケーションズの携帯電話「Xperia(TM) Z3 Compact SO-02G」の製品情報。_www.sonymobile.co.jp](http://www.sonymobile.co.jp/xperia/docomo/so-02g/ "http://www.sonymobile.co.jp/xperia/docomo/so-02g/")[](http://www.sonymobile.co.jp/xperia/docomo/so-02g/)
+[Xperia™ Z3 Compact SO-02G | ソニーモバイルコミュニケーションズ](http://www.sonymobile.co.jp/xperia/docomo/so-02g/)
 
-[**SmartWatch 3 SWR50 | ソニーモバイルコミュニケーションズ**  
-_機能やデザインに加えて、ソニーモバイルがおすすめするSmartWatch 3用のアプリをご紹介。_www.sonymobile.co.jp](http://www.sonymobile.co.jp/product/smartwear/swr50/ "http://www.sonymobile.co.jp/product/smartwear/swr50/")[](http://www.sonymobile.co.jp/product/smartwear/swr50/)
+[SmartWatch 3 SWR50 | ソニーモバイルコミュニケーションズ](http://www.sonymobile.co.jp/product/smartwear/swr50/)
 
-[**SmartBand Talk SWR30 | ソニーモバイルコミュニケーションズ**  
-_ソニーモバイルコミュニケーションズのアクセサリを紹介。「SmartBand Talk SWR30」の製品情報。_www.sonymobile.co.jp](http://www.sonymobile.co.jp/product/smartwear/swr30/ "http://www.sonymobile.co.jp/product/smartwear/swr30/")[](http://www.sonymobile.co.jp/product/smartwear/swr30/)
+[SmartBand Talk SWR30 | ソニーモバイルコミュニケーションズ](http://www.sonymobile.co.jp/product/smartwear/swr30/)

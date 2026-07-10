@@ -7,8 +7,7 @@ slug: "861ab129-ed6e-4f0b-b6c6-f13bfafdc0d7"
 ---
 AppleからApple Special Eventの予告がありました。10月30日朝10時(EDT)に開始されます。場所はなんとニューヨーク、ブルックリンです。
 
-[**Apple Events - Apple Special Events**  
-_Watch the latest Apple keynote stream, and check out the archive of special event announcements for our products and…_www.apple.com](https://www.apple.com/apple-events/ "https://www.apple.com/apple-events/")[](https://www.apple.com/apple-events/)
+[Apple Events - Apple Special Events](https://www.apple.com/apple-events/)
 
 これまでの噂を総合すると、iPadとMacBookの登場がメインとなりそうです。Mac miniやMac Proのアップデートの予告もされるのではと言われています。
 

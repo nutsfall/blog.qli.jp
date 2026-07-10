@@ -17,7 +17,6 @@ slug: "f07d4ba2-aa26-462d-8516-6c8167143d0a"
 
 > 送信側のiPhoneでAACから一度復元され、またAACに再変換されてから送信される
 
-[**【第153回】"iPhoneのAACファイルをAACでBluetooth伝送すると音質劣化しない"は本当か？ - Phile-web**  
-_■iPhoneからAACファイルをAACコーデックでBluetoothれば再変換されない？…_www.phileweb.com](https://www.phileweb.com/review/article/201604/15/2044.html "https://www.phileweb.com/review/article/201604/15/2044.html")[](https://www.phileweb.com/review/article/201604/15/2044.html)
+[【第153回】"iPhoneのAACファイルをAACでBluetooth伝送すると音質劣化しない"は本当か？ - Phile-web](https://www.phileweb.com/review/article/201604/15/2044.html)
 
 iOS14 PB ではこの辺りの仕組みが改善されたのかなと考えています。製品版までこの状態が続くのか、またどこかで変更されるのかわかりませんが、しばらくiOS14 PBで音楽を楽しみたいと思います。

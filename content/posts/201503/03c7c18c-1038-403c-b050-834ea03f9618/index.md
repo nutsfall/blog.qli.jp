@@ -4,8 +4,7 @@ date: "2015-03-21T02:52:28.000Z"
 tags: ["macbook", "apple"]
 slug: "03c7c18c-1038-403c-b050-834ea03f9618"
 ---
-[**MediumとGhost**  
-_昨年末、Mediumが公式アカウントの日本語コンテンツを投稿してからというもの、これまで日本語圏からは見えてこなかった、Mediumの開発スピードが著しい。最近ではようやくiOSアプリから記事を書くことができるようになった（iPad版、…_medium.com](https://medium.com/@hiro/medium%E3%81%A8ghost-f4716c134d63 "https://medium.com/@hiro/medium%E3%81%A8ghost-f4716c134d63")[](https://medium.com/@hiro/medium%E3%81%A8ghost-f4716c134d63)
+[MediumとGhost](https://medium.com/@hiro/medium%E3%81%A8ghost-f4716c134d63)
 
 先ほど、上の記事を書いたところなのだけど、実はいま某カフェに来てMBAで書いている。ケーブルは何も接続していない。電源アダプターもモバイルルーターも持ってきた(通信環境といえばiPhoneもある)のだけど、電源は充分に持っているし、店内にWi-Fiがある（Wi2を使っている）ので使う必要がない。
 
@@ -21,8 +20,7 @@ iPhone / iPad の登場で、コンシューマ向けのコンピュータは必
 
 MacBookが搭載している Core Mのラインナップは来年頃登場が想定される Skylake では無線充電に対応するという話もある。
 
-[**Rebuild: 82: Your Faith Is Being Tested (hak)**  
-_Hakuro Matsuda さんをゲストに迎えて、MacBook, USB Type-C, Apple Watch, Apple Pay, GDC, Oculus Rift などについて話しました。_rebuild.fm](http://rebuild.fm/82/ "http://rebuild.fm/82/")[](http://rebuild.fm/82/)
+[Rebuild: 82: Your Faith Is Being Tested (hak)](http://rebuild.fm/82/)
 
 そういう状況から考えれば、MacBookは、「いま」欲しいと思える人だけが買えばいいデバイスに思える。
 

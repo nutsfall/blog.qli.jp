@@ -6,7 +6,7 @@ slug: "2e54e5f5-92c3-442c-801b-b32803acbe5a"
 ---
 iアプリ版は出ていたんですが、早速Ezweb版(というかEzアプリ版)が提供されました。
 
-リンク: [ITmedia D モバイル：au用Windows Live for Mobile、本日より提供開始](http://plusd.itmedia.co.jp/mobile/articles/0609/28/news042.html "ITmedia  D モバイル：au用Windows Live for Mobile、本日より提供開始").
+[ITmedia D モバイル：au用Windows Live for Mobile、本日より提供開始](http://plusd.itmedia.co.jp/mobile/articles/0609/28/news042.html)
 
 > マイクロソフトは9月28日、携帯向けWindows Liveサービスを正式に開始。auのBREW対応携帯向けとなるWindows Live for Mobileを同日よりau携帯電話向け公式サイトで提供を開始した。ソフト使用料は無料。
 

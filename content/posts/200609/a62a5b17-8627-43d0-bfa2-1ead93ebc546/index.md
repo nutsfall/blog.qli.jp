@@ -4,7 +4,7 @@ date: "2006-09-08T00:07:00.000Z"
 tags: ["macbook", "apple"]
 slug: "a62a5b17-8627-43d0-bfa2-1ead93ebc546"
 ---
-リンク: [MacBook: 断続的にシャットダウンする](http://docs.info.apple.com/article.html?artnum=304308-ja "MacBook: 断続的にシャットダウンする").
+[MacBook: 断続的にシャットダウンする](http://docs.info.apple.com/article.html?artnum=304308-ja)
 
 > お使いの MacBook が断続的にシャットダウンする場合は、サポートサービスの窓口として AppleCare あるいはアップル正規サービスプロバイダまでご連絡ください。
 

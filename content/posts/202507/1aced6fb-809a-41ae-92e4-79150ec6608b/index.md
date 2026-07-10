@@ -12,8 +12,7 @@ cover:
 
 周囲のiOSエンジニアたちも、夏の終わり頃に予定されているiOS26のリリースに向けて、すでに動き出しています。まずは情報共有から。そんな中、OmniFocusを開発するOmniGroupからも新たなアナウンスがあったので、今回はその内容に触れてみたいと思います。
 
-[**Omni Roadmap 2025 - Post-WWDC Update - The Omni Group**  
-_What an exciting WWDC25! We always look forward to what Apple will announce at their annual developer conference…_www.omnigroup.com](https://www.omnigroup.com/blog/omni-roadmap-2025-post-wwdc-update "https://www.omnigroup.com/blog/omni-roadmap-2025-post-wwdc-update")[](https://www.omnigroup.com/blog/omni-roadmap-2025-post-wwdc-update)
+[Omni Roadmap 2025 - Post-WWDC Update - The Omni Group](https://www.omnigroup.com/blog/omni-roadmap-2025-post-wwdc-update)
 
 OmniFocusに言及してる部分だけを要約すると次のとおり。
 

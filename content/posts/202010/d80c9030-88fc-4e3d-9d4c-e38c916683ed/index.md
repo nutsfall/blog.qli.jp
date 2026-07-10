@@ -11,8 +11,7 @@ Apple 秋の収穫祭 2020 #2 “High, Speed” が開催されました。
 
 新しいiPhoneが出ることは当然なので、噂されていた、AirPods Studioを期待していましたが、発表されませんでした。量産体制にうまく入れなかったという情報が入ってきています。
 
-[**Rumor: Apple facing 'major hiccup' in AirPods Studio production, AirTags coming next month …**  
-_Apple held a special event yesterday to introduce the iPhone 12 lineup and the HomePod mini. However, there are two…_9to5mac.com](https://9to5mac.com/2020/10/14/rumor-apple-facing-major-hiccup-in-airpods-studio-production-airtags-coming-next-month/ "https://9to5mac.com/2020/10/14/rumor-apple-facing-major-hiccup-in-airpods-studio-production-airtags-coming-next-month/")[](https://9to5mac.com/2020/10/14/rumor-apple-facing-major-hiccup-in-airpods-studio-production-airtags-coming-next-month/)
+[Rumor: Apple facing 'major hiccup' in AirPods Studio production, AirTags coming next month …](https://9to5mac.com/2020/10/14/rumor-apple-facing-major-hiccup-in-airpods-studio-production-airtags-coming-next-month/)
 
 #### 一気に引き上げてきた「スタンダード」
 

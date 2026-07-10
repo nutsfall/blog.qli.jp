@@ -6,7 +6,7 @@ slug: "9d2475a0-1117-42ec-9dbf-0462901c4d19"
 ---
 Voxが大きなバージョンアップを行いました。…ってか、いつメンテナンスしてたんだよって話もありますが。
 
-リンク: [【お知らせ】Vox新バージョンリリース！ — チームVoxのブログ](http://team-jp.vox.com/library/post/new-release-time.html "【お知らせ】Vox新バージョンリリース！ - チームVoxのブログ").
+[【お知らせ】Vox新バージョンリリース！ — チームVoxのブログ](http://team-jp.vox.com/library/post/new-release-time.html)
 
 > 私達は本日、新バージョンのリリースを行いました。まず、その変更された機能の一つとして、もうすでにお気づきの方もいらっしゃるかと思いますが、Voxホームが大幅に変更されています。
 

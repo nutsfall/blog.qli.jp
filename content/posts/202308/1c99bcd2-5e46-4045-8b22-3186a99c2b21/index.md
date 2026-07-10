@@ -8,8 +8,7 @@ slug: "1c99bcd2-5e46-4045-8b22-3186a99c2b21"
 
 2021年に出版された “[A Philosophy of Software Design](https://amzn.asia/d/3qQ7LIv)”というソフトウェア開発に関する本がにわかに(?)注目を浴びていて、[fukabori.fm](https://fukabori.fm)ではiwaseさんとt-wadaさんの対談が3回にわたって配信されている。その3回目で「認知負荷」について語っていた。
 
-[**102\. A Philosophy of Software Design (3/3) w/ twada**  
-_twadaさんをゲストに、A Philosophy of Software DesignをテーマにしたエピソードのPart3です。今回は「認知負荷」についてひたすら語っていただきました。_fukabori.fm](https://fukabori.fm/episode/102 "https://fukabori.fm/episode/102")[](https://fukabori.fm/episode/102)
+[102\. A Philosophy of Software Design (3/3) w/ twada](https://fukabori.fm/episode/102)
 
 認知負荷とは何かという話をするつもりはないので、Podcastを聴いてもらえればと思うのだけど、話を聞きながら、GTD(Getting Things Done)の動機と似ているなと思った。GTDについては、[全面改訂版 はじめてのGTD ストレスフリーの整理術](https://amzn.asia/d/aHBavFG)を読んでもらえればと思うのだけど、この本の中でこういう記述がある。
 

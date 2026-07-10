@@ -8,8 +8,7 @@ slug: "65326c7a-970b-46f4-bbc2-6dc57f5f0447"
 
 「ロスレスってなんですか？」のAppleからの答えはこちらに。（これを書いている段階では和訳されていないのですが、6月にはきっとされるはず）
 
-[**About lossless audio in Apple Music**  
-_Lossless is not yet available but is coming soon. Apple Music delivers an unparalleled listening experience that's…_support.apple.com](https://support.apple.com/ja-jp/HT212183 "https://support.apple.com/ja-jp/HT212183")[](https://support.apple.com/ja-jp/HT212183)
+[About lossless audio in Apple Music](https://support.apple.com/ja-jp/HT212183)
 
 現在Apple Musicで配信されているものはAAC 256kbps。これをAppleが持つALAC(Apple Lossless Audio Codec)を使って、16-bit/44.1 kHz (CD品質)から24-bit/192 kHzまでのクオリティを配信できるようにする、というのがハイレゾ・ロスレスに関する新しいサービス内容です。16-bit/44.1 kHz (CD品質)→24-bit/48 kHzをロスレスと呼び、それ以上をハイレゾロスレスと呼ぶことにしたようです。
 

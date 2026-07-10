@@ -9,13 +9,11 @@ slug: "214b3872-76a4-42f3-bea6-e810a52f1b6d"
 
 trfやglobeなど「かつての」名曲を彼は多くかけていたそうだが、番組内で取り上げられたクラブの客の感想として「新しい」というものがあった。映し出されたクラブの様子も、小室哲哉がかける音楽に対しての反応は好意的のようだった。
 
-[**NEC presents『Crossroad（クロスロード）』**  
-_テレビ東京「NEC presents『Crossroad（クロスロード）』」番組公式サイトです。築いてきた地位に安住せず、常に"挑戦し続ける"人たちは何に刺激を受け、どんな発想・人生哲学でそこへ向かうのか？彼らのCrossroad（人生…_www.tv-tokyo.co.jp](http://www.tv-tokyo.co.jp/crossroad/backnumber/person143.html "http://www.tv-tokyo.co.jp/crossroad/backnumber/person143.html")[](http://www.tv-tokyo.co.jp/crossroad/backnumber/person143.html)
+[NEC presents『Crossroad（クロスロード）』](http://www.tv-tokyo.co.jp/crossroad/backnumber/person143.html)
 
 その前の日、Music StationにORANGE RANGE が登場し、「以心電信」を披露した。もともと2004年に発表され、auのCM曲となった曲である。アーティストごとに観客席を入れ替えることをやっているようだったが、久しぶりのORANGA RANGEのステージの観客は、それこそリアルタイムで「以心電信」に熱狂した世代は多くなさそうだった。
 
-[**テレビ朝日｜ミュージックステーション**  
-_Mｽﾃ｜Ｍステ公式サイト。着メロ、出演者ラインナップ、ランキング情報などなど！_www.tv-asahi.co.jp](http://www.tv-asahi.co.jp/music/contents/m_lineup/1252/index2.html "http://www.tv-asahi.co.jp/music/contents/m_lineup/1252/index2.html")[](http://www.tv-asahi.co.jp/music/contents/m_lineup/1252/index2.html)
+[テレビ朝日｜ミュージックステーション](http://www.tv-asahi.co.jp/music/contents/m_lineup/1252/index2.html)
 
 自分が生まれたのは1980年。1990年代に10代を過ごした。高校生時代に、ポケベルが流行り、渋谷でガングロが登場し、それこそ渋谷が一大文化発信地だった時代を過ごした。福岡という地方までは渋谷から発信された文化が十分に届いていたとは思えないが。
 

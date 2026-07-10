@@ -6,7 +6,7 @@ slug: "9e54d8c8-975c-4f34-b1f5-57dfea020ba3"
 ---
 ついにここまできましたね。あともう一歩ってところでしょうか。
 
-リンク: [ヤフーとMS、IMサービス相互接続のベータテストを開始へ — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20169287,00.htm?ref=rss "ヤフーとMS、IMサービス相互接続のベータテストを開始へ - CNET Japan").
+[ヤフーとMS、IMサービス相互接続のベータテストを開始へ — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20169287,00.htm?ref=rss)
 
 > YahooとMicrosoftは米国時間7月13日、「Windows Live Messenger」と「Yahoo Messenger with Voice」の相互接続について、限定的なベータテストを開始する予定だ。
 

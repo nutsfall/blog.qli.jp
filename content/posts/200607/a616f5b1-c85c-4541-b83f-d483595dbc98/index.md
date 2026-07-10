@@ -6,7 +6,7 @@ slug: "a616f5b1-c85c-4541-b83f-d483595dbc98"
 ---
 ついに待望のものが出ました。
 
-リンク: [ITmedia News：W-ZERO3とMacでシンクロするソフト登場](http://www.itmedia.co.jp/news/articles/0607/19/news031.html "ITmedia News：W-ZERO3とMacでシンクロするソフト登場").
+[ITmedia News：W-ZERO3とMacでシンクロするソフト登場](http://www.itmedia.co.jp/news/articles/0607/19/news031.html)
 
 > 米Mark/Spaceは7月18日、Mac OS X用シンクロソフト、Missing Sync for Windows Mobileのアップデート版をリリースした。このバージョン2.5は、β版は既に出ていたが、これが公式リリースとなる。ユニバーサルバイナリ対応で、シャープのW-ZERO3、Zaurus SLシリーズ、HPのiPAQ、PalmのTreo 700wなどのWindows Mobile 5搭載スマートフォンおよびPocket PCをサポートする。
 

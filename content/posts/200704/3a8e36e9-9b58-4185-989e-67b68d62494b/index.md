@@ -7,7 +7,7 @@ slug: "3a8e36e9-9b58-4185-989e-67b68d62494b"
 Appleは、DRMフリーの楽曲をiTunesStoreで販売することを発表しました。最初に提供されるのは、EMIの楽曲です。あわせてビットレートも上げられます。  
 今よりも高音質の音楽をITunesStoreで買って、ソニーのウォークマンにも入れられます。
 
-リンク: [Apple Unveils Higher Quality DRM-Free Music on the iTunes Store](http://www.apple.com/pr/library/2007/04/02itunes.html "Apple Unveils Higher Quality DRM-Free Music on the iTunes Store").
+[Apple Unveils Higher Quality DRM-Free Music on the iTunes Store](http://www.apple.com/pr/library/2007/04/02itunes.html)
 
 > CUPERTINO, California — April 2, 2007 — Apple� today announced that EMI Music’s entire digital catalog of music will be available for purchase DRM-free (without digital rights management) from the iTunes� Store (www.itunes.com) worldwide in May.
 

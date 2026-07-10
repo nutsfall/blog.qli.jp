@@ -6,7 +6,7 @@ slug: "1ce42122-3dd9-4c23-b551-64bb60a82963"
 ---
 Google パーソナライズページがiGoogleという新しいブランドで再出発しました。これまで英語版だけで使えたテーマも日本語版で使えるようになっています。
 
-リンク: [Official Google Blog: You’ve got gadget mail](http://googleblog.blogspot.com/2007/04/youve-got-gadget-mail.html "Official Google Blog: You've got gadget mail").
+[Official Google Blog: You’ve got gadget mail](http://googleblog.blogspot.com/2007/04/youve-got-gadget-mail.html)
 
 > For a while now, we Googlers have used a bit of shorthand to refer to the Personalized Homepage — a name that connotes interactivity, the Internet, and personalization all at once. Please meet iGoogle, the new name for the Google Personalized Homepage.
 

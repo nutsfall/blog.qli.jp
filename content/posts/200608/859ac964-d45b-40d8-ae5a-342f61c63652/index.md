@@ -6,7 +6,7 @@ slug: "859ac964-d45b-40d8-ae5a-342f61c63652"
 ---
 早めに寝ようと思うとこういうのを発見してしまうんだな。
 
-リンク: [ITmedia Biz.ID：PDA、使ってますか？](http://www.itmedia.co.jp/bizid/articles/0608/29/news106.html "ITmedia Biz.ID：PDA、使ってますか？").
+[ITmedia Biz.ID：PDA、使ってますか？](http://www.itmedia.co.jp/bizid/articles/0608/29/news106.html)
 
 > 以下の質問について、こちらから、もしくはトラックバック・はてなブックマークを通じて皆さんのご意見を教えてほしい。
 

@@ -17,8 +17,7 @@ JIRAやTrello、Backlogなどを使ったカンバン化を進めてみるのも
 
 Things for watch は先日アップデートがあり、watchアプリが直接クラウド上のThings Cloudと直接同期が取れるようになりました。
 
-[**New Things for Apple Watch**  
-_Since New Year, we've been working on a big update - and it's all about modernizing Things for Apple Watch. All the…_culturedcode.com](https://culturedcode.com/things/blog/2020/03/new-things-for-apple-watch/ "https://culturedcode.com/things/blog/2020/03/new-things-for-apple-watch/")[](https://culturedcode.com/things/blog/2020/03/new-things-for-apple-watch/)
+[New Things for Apple Watch](https://culturedcode.com/things/blog/2020/03/new-things-for-apple-watch/)
 
 Apple Watchは LTEにも対応しているので、iPhoneが近くになくても同期が取れるようになりました。ただし、一時的な同期のみで iPhoneなしで使えるという形ではないようです。
 

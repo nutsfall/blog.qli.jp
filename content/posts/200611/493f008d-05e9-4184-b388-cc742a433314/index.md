@@ -7,7 +7,7 @@ slug: "493f008d-05e9-4184-b388-cc742a433314"
 
 au で Gmail が出来るよって記事が”いまごろ”掲載された。これに続く形であちこちのブログサイトでも「au でつかえんじゃん。べんりー」って声が聞こえてきた。
 
-リンク: [ITmedia Biz.ID：Gmail が国内でも au 携帯電話に対応、ドコモとソフトバンクは利用できず](http://www.itmedia.co.jp/bizid/articles/0611/08/news009.html "ITmedia Biz.ID：Gmailが国内でもau携帯電話に対応、ドコモとソフトバンクは利用できず").
+[ITmedia Biz.ID：Gmail が国内でも au 携帯電話に対応、ドコモとソフトバンクは利用できず](http://www.itmedia.co.jp/bizid/articles/0611/08/news009.html)
 
 > 2.7G バイトの Web メールサービス「Gmail」が、国内でも携帯電話に対応した。編集部では au 端末の Web ブラウザで利用できることを確認した。NTT ドコモの i モードブラウザとソフトバンクの標準ブラウザでは利用できなかった。
 

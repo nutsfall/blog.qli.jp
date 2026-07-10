@@ -4,8 +4,7 @@ date: "2012-11-16T22:18:28.000Z"
 tags: ["eye-fi", "photography"]
 slug: "4da88a52-3dfa-41a6-acdd-5a0d9534ffbe"
 ---
-[**IMG\_1742**  
-_Explore hiro.qli's photos on Flickr. hiro.qli has uploaded 2785 photos to Flickr._www.flickr.com](http://www.flickr.com/photos/beyondmywish/8190916338/ "http://www.flickr.com/photos/beyondmywish/8190916338/")[](http://www.flickr.com/photos/beyondmywish/8190916338/)
+[IMG\_1742](http://www.flickr.com/photos/beyondmywish/8190916338/)
 
 eye-fi PRO X2 16GBが発売されたので買ってみました。エンドレスモードのあるeye-fiでは容量が大きくなったというよりも、SDカードの速度であるclass 10に対応したというのが大きかったです。
 

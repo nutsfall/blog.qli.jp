@@ -12,8 +12,7 @@ slug: "3ba67b0e-98be-4c9f-9ee6-da6870648089"
 
 そんな記念すべき日に、タワーレコードでCDを買ってきましたよ。
 
-[**Untitled | hiro.qli | Flickr**  
-_Explore hiro.qli's photos on Flickr. hiro.qli has uploaded 2785 photos to Flickr._www.flickr.com](http://www.flickr.com/photos/beyondmywish/8163756973/ "http://www.flickr.com/photos/beyondmywish/8163756973/")[](http://www.flickr.com/photos/beyondmywish/8163756973/)
+[Untitled | hiro.qli | Flickr](http://www.flickr.com/photos/beyondmywish/8163756973/)
 
 Advantage Lucyさんの 胸キュンアルペジオ。iTSでは取り扱ってませんでした。Advantage Lucyのメンバーである福村さんの10回忌ということで制作されたアルバム。Advantage Lucyとしても久々の音源になります。自分自身はAdvantage Lucyを知ったのが割と最近なのでじつは福村さんを知らないのですが、Advantage Lucyが自分の中でも好きなバンドなのはかわらないし、きっと福村さんがいたころの音源も聞いているし、面影を知らなくてもいいかなと思っています。
 

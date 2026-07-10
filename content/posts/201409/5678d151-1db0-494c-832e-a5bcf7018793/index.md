@@ -22,8 +22,7 @@ Galaxy Noteはファブレットというカテゴリに分けられることを
 
 その他にも、iPhone6へのNFC搭載、Apple Pay(当面は米国のみサービス）など、今後の展開が期待されるものが発表されています。Reachabilityは画面が大きくなると必要性は理解できますし、便利なんだと思いますが、いいのかあれで感がつきまといます。
 
-[**A look at Apple's 'Reachability' one-hand mode for larger iPhone 6 (Video)**  
-_One feature that Apple didn't spend time showing off on stage is a rumored one-handed mode for the new larger iPhone 6…_9to5mac.com](http://9to5mac.com/2014/09/09/a-look-at-apples-reachability-one-hand-mode-for-larger-iphone-6-video/#more-340209 "http://9to5mac.com/2014/09/09/a-look-at-apples-reachability-one-hand-mode-for-larger-iphone-6-video/#more-340209")[](http://9to5mac.com/2014/09/09/a-look-at-apples-reachability-one-hand-mode-for-larger-iphone-6-video/#more-340209)
+[A look at Apple's 'Reachability' one-hand mode for larger iPhone 6 (Video)](http://9to5mac.com/2014/09/09/a-look-at-apples-reachability-one-hand-mode-for-larger-iphone-6-video/#more-340209)
 
 アナウンスされた日付では、iOS8リリースは17日、予約が12日、発売は19日、となりました。
 

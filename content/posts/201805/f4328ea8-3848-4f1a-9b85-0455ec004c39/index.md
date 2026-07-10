@@ -7,8 +7,7 @@ slug: "f4328ea8-3848-4f1a-9b85-0455ec004c39"
 ---
 現在、TestFlightテスト中のOmniFocus3.0 for iOSの発売日がセットされました。TestFlightバージョンを毎日使っていますが、日本語化などの整備も進んでいて、そろそろReadyに近づいていることが感じられます。5月30日とのことですが、日本は時間がシアトルより先に進んでいるので、5月31日にチェックするのがいいと思います。
 
-[**OmniFocus 3.0 for iOS Ship Date: May 30 - The Omni Group**  
-_Creators of Mac, iPad, and iPhone productivity software. Proud to bring you OmniFocus, OmniOutliner, OmniGraffle, and…_www.omnigroup.com](https://www.omnigroup.com/blog/omnifocus-3.0-for-ios-ship-date-may-30 "https://www.omnigroup.com/blog/omnifocus-3.0-for-ios-ship-date-may-30")[](https://www.omnigroup.com/blog/omnifocus-3.0-for-ios-ship-date-may-30)
+[OmniFocus 3.0 for iOS Ship Date: May 30 - The Omni Group](https://www.omnigroup.com/blog/omnifocus-3.0-for-ios-ship-date-may-30)
 
 今回のメインは、何と言ってもコンテキストのタグ化。これにより、OmniFocusは「GTD(Getting Things Done)を知らないと使えないツールから、GTDを知らなくても使えるツール」に舵を切ることになります。
 
@@ -16,8 +15,7 @@ _Creators of Mac, iPad, and iPhone productivity software. Proud to bring you Omn
 
 OmniFocus3の実装の裏に隠されている意図などは、彼らがやっているPodcast番組 The Omni Show でコメントされているので聞いてみてください。全編英語ですが、Transcriptも公開されています。
 
-[**The Omni Show**  
-_Get to know the people and stories behind Omni's award-winning productivity apps for Mac and iOS._theomnishow.omnigroup.com](https://theomnishow.omnigroup.com "https://theomnishow.omnigroup.com")[](https://theomnishow.omnigroup.com)
+[The Omni Show](https://theomnishow.omnigroup.com)
 
 #### アップデートで注意すべきこととは？
 

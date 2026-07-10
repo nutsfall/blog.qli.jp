@@ -18,5 +18,4 @@ Mr.Childrenのここ数年のツアーに参加しても気になっていたの
 
 “\[(an imitation) blood orange\]”にはなんらかのコンセプトがあるのだろうか。そういえば、彼はラジオ ap bank radio で「20周年記念のオリジナルアルバム」というような発言をしていた。もしかしたら、最新のMr.Children というのがコンセプトなのかもしれない。としたら、そのタイトルに “imitation”なんて単語を入れる、Mr.Childrenのひねくれ具合はさすがだと思ってしまう。
 
-[**Amazon.co.jp: Mr.Children : \[(an imitation) blood orange\](初回限定盤)(DVD付) - ミュージック**  
-_(an imitation) blood orange\](初回限定盤)(DVD付)\] Mr.Children - CD・レコードの購入はオンライン通販アマゾン公式サイトで。お急ぎ便ご利用で当日・翌日にお届け。_www.amazon.co.jp](https://www.amazon.co.jp/dp/B009GARMLK "https://www.amazon.co.jp/dp/B009GARMLK")[](https://www.amazon.co.jp/dp/B009GARMLK)
+[Amazon.co.jp: Mr.Children : \[(an imitation) blood orange\](初回限定盤)(DVD付) - ミュージック](https://www.amazon.co.jp/dp/B009GARMLK)

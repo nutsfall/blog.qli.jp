@@ -6,7 +6,7 @@ slug: "5541c980-a6d0-4c90-854f-e218cdc58597"
 ---
 最新のiPodにウィルスが混入していたそうです。工場って台湾とかでしたっけ？最近こういうの流行っていそうですが、製造元にはきちんとした対策を行って欲しいものです。感染ルートも気になるところですが。
 
-リンク: [ITmedia News：ビデオiPodにWindowsウイルスが混入](http://www.itmedia.co.jp/news/articles/0610/18/news011.html "ITmedia News：ビデオiPodにWindowsウイルスが混入").
+[ITmedia News：ビデオiPodにWindowsウイルスが混入](http://www.itmedia.co.jp/news/articles/0610/18/news011.html)
 
 > Appleは「ご想像のとおり、このようなウイルスに対してWindowsはあまり耐性がないことにわれわれは動転している。自分自身がそれを見つけることができなかったということについてはさらに驚いている」とコメントしている。
 

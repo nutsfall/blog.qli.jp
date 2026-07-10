@@ -4,7 +4,7 @@ date: "2006-06-30T14:27:22.000Z"
 tags: ["google-checkout", "google"]
 slug: "96b3edb4-fb27-4dd7-958a-85b7dee16b6b"
 ---
-リンク: [グーグル、待望の決済サービス「Google Checkout」を提供開始 — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20154747,00.htm "グーグル、待望の決済サービス「Google Checkout」を提供開始 - CNET Japan").
+[グーグル、待望の決済サービス「Google Checkout」を提供開始 — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20154747,00.htm)
 
 > Googleは米国時間6月29日に、オンライン決済システム「Google Checkout」を公開した。ユーザーはGoogleアカウントを利用して、支払いを手軽に済ませることができるようになる。
 

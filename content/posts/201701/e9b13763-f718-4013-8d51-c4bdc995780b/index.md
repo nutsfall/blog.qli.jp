@@ -7,8 +7,7 @@ slug: "e9b13763-f718-4013-8d51-c4bdc995780b"
 ---
 久しぶりに本屋に本を買いに行きました。周りでオススメされていた Joy, Incを読みました。最近Kindle版も出ていたのでリンクを貼っておきます。個人的にはiBooksの方が好みですが、こちらにはまだ出ていなかった。
 
-[**ジョイ・インク 役職も部署もない全員主役のマネジメント**  
-_Amazonでリチャード・シェリダン, 原田騎郎, 安井力, 吉羽龍太郎, 永瀬美穂, 川口恭伸の{ProductTitle}。アマゾンならポイント還元本が多数。一度購入いただいた電子書籍は、KindleおよびFire端末、スマートフォ…_www.amazon.co.jp](https://www.amazon.co.jp/ebook/dp/B01N12YJO4/ "https://www.amazon.co.jp/ebook/dp/B01N12YJO4/")[](https://www.amazon.co.jp/ebook/dp/B01N12YJO4/)
+[ジョイ・インク 役職も部署もない全員主役のマネジメント](https://www.amazon.co.jp/ebook/dp/B01N12YJO4/)
 
 本の帯に「喜び」とか書いてあって、少しひいてしまう人もいるかもしれないが、この本に書いてあるのは、この本の著者、Richard Sheridanが作った Menlo Innovations という会社でやったこと。そして、それによって、メンバーが楽しく働けて、顧客が嬉しい成果を上げられるようになったということ。
 

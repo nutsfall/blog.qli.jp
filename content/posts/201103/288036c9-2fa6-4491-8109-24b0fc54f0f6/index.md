@@ -12,5 +12,4 @@ slug: "288036c9-2fa6-4491-8109-24b0fc54f0f6"
 
 正直書けば、惚れました。こんな感動久しぶり。iTunes Storeでは売ってないようだったので、CD買ってきました。個人的におすすめする一枚です。
 
-[**ヤックの「ヤック」を iTunes で**  
-_"ゲット・アウェイ"、"ザ・ウォール"、"シュック・ダウン"とその他を含む、アルバム「ヤック」の曲をプレビュー、購入、ダウンロード。 アルバムを ¥1,400 で購入。 曲を ¥250 から。_itunes.apple.com](https://itunes.apple.com/jp/album/yuck-japanese-version/id459085300 "https://itunes.apple.com/jp/album/yuck-japanese-version/id459085300")[](https://itunes.apple.com/jp/album/yuck-japanese-version/id459085300)
+[ヤックの「ヤック」を iTunes で](https://itunes.apple.com/jp/album/yuck-japanese-version/id459085300)

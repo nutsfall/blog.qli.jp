@@ -6,7 +6,7 @@ slug: "bc4da79d-5a6d-4e67-a046-69f2a712736a"
 ---
 Google Talkからやっとステータスを通知してくれるバッジ(chatback)がでました。[ここ](http://www.google.com/talk/service/badge/New)から作ることができます。さっそく右側に設置しています。
 
-リンク: [Google Talkabout: Google Talk chatback](http://googletalk.blogspot.com/2008/02/google-talk-chatback.html "Google Talkabout: Google Talk chatback").
+[Google Talkabout: Google Talk chatback](http://googletalk.blogspot.com/2008/02/google-talk-chatback.html)
 
 > Do you have a blog, online profile, or some other personal web page? Would you like to communicate more with your visitors? Today we’re launching a new Google Talk feature that lets visitors to your web site chat with you.
 

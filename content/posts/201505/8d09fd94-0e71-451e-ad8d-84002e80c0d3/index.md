@@ -14,13 +14,11 @@ slug: "8d09fd94-0e71-451e-ad8d-84002e80c0d3"
 
 自分がいわゆる GTD というのを知ったのは Life Hacks Press という本がきっかけだった記憶がある。（角さんとか t_wada さんとかが著者にいて、今見ると、この本面白いですね）
 
-[**Life Hacks PRESS ~デジタル世代の「カイゼン」術~**  
-\_Amazon.co.jp： Life Hacks PRESS ~デジタル世代の「カイゼン」術~: 田口 元, 安藤 幸央, 平林 純, 角 征典, 和田 卓人, 金子 順, 角谷 信太郎: 本\_www.amazon.co.jp](http://www.amazon.co.jp/dp/4774127280 "http://www.amazon.co.jp/dp/4774127280")[](http://www.amazon.co.jp/dp/4774127280)
+[Life Hacks PRESS ~デジタル世代の「カイゼン」術~](http://www.amazon.co.jp/dp/4774127280)
 
 その後で「ストレスフリーの仕事術」（いわゆる GTD 本 2 冊目）とか読んだりして、自分なりに GTD を取り組みはじめることになる。
 
-[**ストレスフリーの仕事術―仕事と人生をコントロールする 52 の法則**  
-\_Amazon.co.jp： ストレスフリーの仕事術―仕事と人生をコントロールする 52 の法則: デビッド アレン, 田口 元: 本\_www.amazon.co.jp](http://www.amazon.co.jp/dp/4576060732 "http://www.amazon.co.jp/dp/4576060732")[](http://www.amazon.co.jp/dp/4576060732)
+[ストレスフリーの仕事術―仕事と人生をコントロールする 52 の法則](http://www.amazon.co.jp/dp/4576060732)
 
 ### ツールとガラケーと iPhone
 

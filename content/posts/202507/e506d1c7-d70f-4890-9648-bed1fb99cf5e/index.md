@@ -6,8 +6,7 @@ slug: "e506d1c7-d70f-4890-9648-bed1fb99cf5e"
 ---
 いろんなエンタメが好きですが、特に映画と音楽が好きです。先日、多くの人が見ていたということで『国宝』を観ました。気になる点があったので、Threadsのネタバレ機能を使って投稿してみたところ、コメントをもらえてスッキリ。ネタバレ機能、いいですね。（これは余談です）
 
-[**hiro (@hiro.qli) on Threads**  
-_映画国宝の感想 歌舞伎の演目が物語を駆動してるのは好きだし、物事をいちいちセリフで説明したりしない説明的でない展開もよかった。…_www.threads.com](https://www.threads.com/@hiro.qli/post/DMEyeKdzGqA?xmt=AQF0ArUBDurq7cDHNf5jkGgXcKsIhIOlceRYilatFEIWXw "https://www.threads.com/@hiro.qli/post/DMEyeKdzGqA?xmt=AQF0ArUBDurq7cDHNf5jkGgXcKsIhIOlceRYilatFEIWXw")[](https://www.threads.com/@hiro.qli/post/DMEyeKdzGqA?xmt=AQF0ArUBDurq7cDHNf5jkGgXcKsIhIOlceRYilatFEIWXw)
+[hiro (@hiro.qli) on Threads](https://www.threads.com/@hiro.qli/post/DMEyeKdzGqA?xmt=AQF0ArUBDurq7cDHNf5jkGgXcKsIhIOlceRYilatFEIWXw)
 
 映画も音楽も、それなりに「下敷き」があることが多いです。特に、クリエイターが影響を受けた作品が、自分の作品に反映されるのはよくある話。映画に似た構図を入れたり、音楽で同じフレーズを使ってみたり。そうして、「縦の文脈」ができていきます。「縦」というのは、年代を超えた重なりという意味ですね。
 

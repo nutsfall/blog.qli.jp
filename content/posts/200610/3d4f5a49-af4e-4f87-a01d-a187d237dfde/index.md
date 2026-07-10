@@ -6,7 +6,7 @@ slug: "3d4f5a49-af4e-4f87-a01d-a187d237dfde"
 ---
 いきなりガジェットネタですみません。[mylo](http://www.jp.sonystyle.com/Qnavi/Detail/COM-1.html)の発売が決定しました！ひさびさのsonyガジェットなだけに積極的な方向で検討したいと思います。
 
-リンク: [ソニ☆モバ: パーソナルコミュニケーター“mylo”の国内発売が決定！](http://so-mo.net/archives/2006/10/mylo.html "ソニ☆モバ: パーソナルコミュニケーター“mylo”の国内発売が決定！").
+[ソニ☆モバ: パーソナルコミュニケーター“mylo”の国内発売が決定！](http://so-mo.net/archives/2006/10/mylo.html)
 
 > ソニーは、ワイヤレスLAN環境下でインターネットにアクセスし、Webサイトの閲覧や、チャット、インターネット電話などによるコミュニケーションを楽しむことができる小型携帯端末、パーソナルコミュニケーター“mylo” COM-1iconを、ソニースタイルおよびその提携店で12月中旬に発売予定であることを発表しました。色はブラックのみで販売価格は税込で約45,000円（送料別・10/18時点）。なお、商品のお届け開始日は、2月上旬を予定しているとか。
 
@@ -23,6 +23,6 @@ p.s.
 
 Skype日本語ブログでも紹介されました。あ、[mylo blog](http://blog.so-net.ne.jp/mylo/)ってso-netでやってたのね。
 
-リンク: [mylo日本発売詳細発表 — Skype 日本語ブログ](http://share.skype.com/sites/ja/2006/10/18/mylo_japan_announcement.html "mylo日本発売詳細発表 - Skype 日本語ブログ").
+[mylo日本発売詳細発表 — Skype 日本語ブログ](http://share.skype.com/sites/ja/2006/10/18/mylo_japan_announcement.html)
 
 > 以前もご紹介したSonyの小型携帯端末、パーソナルコミュニケーター“mylo”『COM-1』の日本発売が発表されました。

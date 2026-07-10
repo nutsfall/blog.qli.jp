@@ -9,7 +9,7 @@ slug: "fbb3dcce-1356-46ee-9621-4f03305a82de"
 
 昨日、深夜2時までそういう試行錯誤していた影響で、今日は会社のメールに関しても整理してみた。参考にしたのは、検索で見つけたidea\*ideaの昔の記事。
 
-リンク: [i d e a \* i d e a — The Inbox Makeoverですっきり](http://www.ideaxidea.com/archives/2005/08/the_inbox_makeover.html "i d e a * i d e a - The Inbox Makeoverですっきり").
+[i d e a \* i d e a — The Inbox Makeoverですっきり](http://www.ideaxidea.com/archives/2005/08/the_inbox_makeover.html)
 
 > 今までメーラーはフォルダーをたくさん作って振り分けのルールを決めていたのだが、今は「分類よりも検索」の方が主流である。なにかあれば検索すればいいだけなので「フォルダー＋振り分けルールの設定」は思い切って破棄。
 

@@ -10,5 +10,4 @@ slug: "c48e7372-b3a4-496d-ae2c-208bf4ab0854"
 
 LEGO BIG MORLというバンドは、ファンが揃って「なぜ売れないのかわからない」と首をかしげるバンドである。でも、それは、彼らがJ-POPでもなく、J-ROCKでもなく、オルタナティブでもなく、LEGO BIG MORLというジャンルだからじゃないかなと今は感じている。それだけ、彼らの見せる世界は、独特で、クオリティが高い。
 
-[**LEGO BIG MORLの「心臓の居場所」を iTunes で**  
-_"最終回は透明"、"あなたがいればいいのに"、"真実の泉"とその他を含む、アルバム「心臓の居場所」の曲をプレビュー、購入、ダウンロード。 アルバムを ¥2,100 で購入。 曲を ¥250 から。_itunes.apple.com](https://itunes.apple.com/jp/album/shinzou-no-ibasyo/id1210255804 "https://itunes.apple.com/jp/album/shinzou-no-ibasyo/id1210255804")[](https://itunes.apple.com/jp/album/shinzou-no-ibasyo/id1210255804)
+[LEGO BIG MORLの「心臓の居場所」を iTunes で](https://itunes.apple.com/jp/album/shinzou-no-ibasyo/id1210255804)

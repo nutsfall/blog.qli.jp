@@ -6,7 +6,7 @@ slug: "8bf3c57b-a20a-4dd1-ac51-6f4a72219068"
 ---
 WWDCで発表されたニュースのうち、これが今のところ気になるニュースなのです。
 
-リンク: [EAおよびid、Mac用ゲームに進出 — CNET Japan](http://japan.cnet.com/news/tech/story/0,2000056025,20350754,00.htm?ref=rss "EAおよびid、Mac用ゲームに進出 - CNET Japan").
+[EAおよびid、Mac用ゲームに進出 — CNET Japan](http://japan.cnet.com/news/tech/story/0,2000056025,20350754,00.htm?ref=rss)
 
 > Appleの最高経営責任者（CEO）Steve Jobs氏は米国時間6月11日、同社が開催する「Worldwide Developers Conference（WWDC）」で、同社Macintoshラインアップがゲーム界の2大パブリッシャーの支援を得たことを明らかにした。
 

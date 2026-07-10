@@ -4,7 +4,7 @@ date: "2006-07-25T17:14:12.000Z"
 tags: ["youtube", "jasrac", "copyright"]
 slug: "969229d1-e8fb-4d96-af30-72d25974a418"
 ---
-リンク: [ITmedia News：JASRAC、YouTubeに削除要請 ACCSも「対策を検討」](http://www.itmedia.co.jp/news/articles/0607/25/news083.html "ITmedia News：JASRAC、YouTubeに削除要請　ACCSも「対策を検討」").
+[ITmedia News：JASRAC、YouTubeに削除要請 ACCSも「対策を検討」](http://www.itmedia.co.jp/news/articles/0607/25/news083.html)
 
 > 日本音楽著作権協会（JASRAC）は7月25日、動画共有サイト「YouTube」上で、JASRAC管理楽曲を含む動画の削除要請に乗り出したことを明らかにした。コンピュータソフトウェア著作権協会（ACCS）も、会員企業が権利を持つコンテンツについて、YouTubeへの削除要請を検討する。
 

@@ -7,8 +7,7 @@ slug: "79c222a7-c9b1-4e91-b5c8-afc0e5c88e28"
 ---
 OmniFocus 3.8 がリリースされました。今回の主なトピックは Omni Automation。 JavaScript で項目を自動生成したりすることができる機能で、OmniGroupの他のアプリには導入されているものです。
 
-[**OmniFocus 3.8 Launches with Support for Omni Automation - The Omni Group**  
-_Creators of Mac, iPad, and iPhone productivity software. Proud to bring you OmniFocus, OmniOutliner, OmniGraffle, and…_www.omnigroup.com](https://www.omnigroup.com/blog/omnifocus-3.8-launches-with-support-for-omni-automation "https://www.omnigroup.com/blog/omnifocus-3.8-launches-with-support-for-omni-automation")[](https://www.omnigroup.com/blog/omnifocus-3.8-launches-with-support-for-omni-automation)
+[OmniFocus 3.8 Launches with Support for Omni Automation - The Omni Group](https://www.omnigroup.com/blog/omnifocus-3.8-launches-with-support-for-omni-automation)
 
 OmniFocus for macOS にはクイックオープンという機能があります。⌘ + O で開く小さい窓からは、プロジェクトやタグを検索して、ジャンプすることができます。
 

@@ -23,8 +23,7 @@ Evernoteユーザーの方ならアップデートが毎日のようにくるこ
 
 これまでもあったテンプレートギャラリーがリニューアルされました。
 
-[**Evernote Templates Gallery | Evernote**  
-_Save time and effort with easy-to-install note templates to fit every need. They're fully customizable and endlessly…_evernote.com](https://evernote.com/templates "https://evernote.com/templates")[](https://evernote.com/templates)
+[Evernote Templates Gallery | Evernote](https://evernote.com/templates)
 
 **4\. スペースが削除できるようになりました**
 
@@ -40,5 +39,4 @@ Evernoteではノートで “/” を入力することで、さまざまな要
 
 ここで紹介した更新はページにまとまって紹介されています。ウォッチしたいという方は、RSSもあるので、RSSリーダーやTapestryで購読しておくとよいと思います。
 
-[**Evernote Product Updates**
-_See the latest Evernote features, improvements, and product updates. Share your feedback and your suggestions!_product.evernote.com](https://product.evernote.com "https://product.evernote.com")[](https://product.evernote.com)
+[Evernote Product Updates](https://product.evernote.com)

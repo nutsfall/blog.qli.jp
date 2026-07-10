@@ -12,8 +12,7 @@ slug: "a94ea232-5c0f-4514-9657-03fd7b1a95e2"
 
 Parrot Zikの詳細はこちらです；
 
-[**パロットZik 2.0 - 世界最先端のヘッドホン**  
-_Parrot Zik 2.0, le casque sans fil à la pointe de la technologie - Bluetooth - Effet Concert Hall - Annulation du bruit…_www.parrot.com](http://www.parrot.com/jp/products/zik2/ "http://www.parrot.com/jp/products/zik2/")[](http://www.parrot.com/jp/products/zik2/)
+[パロットZik 2.0 - 世界最先端のヘッドホン](http://www.parrot.com/jp/products/zik2/)
 
 #### 新しい時代のヘッドフォン
 

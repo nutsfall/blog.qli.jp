@@ -22,7 +22,7 @@ slug: "f379d4ca-b72a-40bd-8d4d-f9ff9717c1ad"
 
 ついでなので商品の画像と言うことで iPod Touch の広告を載せておきます。また、Apple に問いあわせた方の情報によると、
 
-リンク: [Mac de Life:「Cover Flow」Apple を征す！](http://blog.livedoor.jp/mac_pb12_1ghz/archives/51044097.html "Mac de Life:「Cover Flow」Appleを征す！").
+[Mac de Life:「Cover Flow」Apple を征す！](http://blog.livedoor.jp/mac_pb12_1ghz/archives/51044097.html)
 
 > 漢字変換は OK です。  
 > スペースキーで変換、予測変換機能を搭載しているようです。  

@@ -6,8 +6,7 @@ slug: "40788bc7-a1be-41e2-8194-0b3e3913a7de"
 ---
 UX STARTというイベントを始めて知った。9月7日から9日までアメリカで行われたらしい。その記事をたまたま知ることができた。
 
-[**UX STRAT 2014**  
-_コロラド州ボルダーにて、去る9月8日、9日にユーザーエクスペリエンス戦略（UX戦略）に関する国際会議、UX STRAT 2014が開催された。昨年の第１回に引き続き、今年が2回目の開催となる。 この会議は、米国でコンサルタント／講師をし…_www.underconcept.com](http://www.underconcept.com/blog/archives/983 "http://www.underconcept.com/blog/archives/983")[](http://www.underconcept.com/blog/archives/983)
+[UX STRAT 2014](http://www.underconcept.com/blog/archives/983)
 
 UX START 2014というイベントは、UX戦略をテーマにおこなれるものだそうだ。記事を読む中で興味深かったのは、UX戦略がテーマであるにも関わらず、一見領域外と思える組織デザイン(組織論や組織内コミュニケーション)について触れていたということ。
 

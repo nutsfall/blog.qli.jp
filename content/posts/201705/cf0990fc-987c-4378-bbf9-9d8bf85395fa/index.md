@@ -7,17 +7,13 @@ slug: "cf0990fc-987c-4378-bbf9-9d8bf85395fa"
 ---
 ![](1__PI4cdEvuyD7u3JA6RPnyVg.png)
 
-[**Meet the All-New Things - Things Blog - Cultured Code**  
-_It's here! We've been working hard on a completely new version of Things for the past years and we're incredibly proud…_culturedcode.com](https://culturedcode.com/things/blog/2017/05/meet-the-all-new-things/ "https://culturedcode.com/things/blog/2017/05/meet-the-all-new-things/")[](https://culturedcode.com/things/blog/2017/05/meet-the-all-new-things/)
+[Meet the All-New Things - Things Blog - Cultured Code](https://culturedcode.com/things/blog/2017/05/meet-the-all-new-things/)
 
-[**Things 3 を Mac App Store で**  
-_「Things 3」のレビューをチェック、カスタマー評価を比較、スクリーンショットを確認、詳細情報を入手。Mac OS X 10.11.0かまたはそれ以降対応の Things 3 をダウンロードして Mac で利用。_itunes.apple.com](https://itunes.apple.com/jp/app/things-3/id904280696?mt=12 "https://itunes.apple.com/jp/app/things-3/id904280696?mt=12")[](https://itunes.apple.com/jp/app/things-3/id904280696?mt=12)
+[Things 3 を Mac App Store で](https://itunes.apple.com/jp/app/things-3/id904280696?mt=12)
 
-[**Things 3を App Store で**  
-_「Things 3」のレビューをチェック、カスタマー評価を比較、スクリーンショットを確認、詳細情報を入手。Things 3をダウンロードして iPhone、iPad、iPod touch で利用。_itunes.apple.com](https://itunes.apple.com/jp/app/things-3/id904237743?mt=8 "https://itunes.apple.com/jp/app/things-3/id904237743?mt=8")[](https://itunes.apple.com/jp/app/things-3/id904237743?mt=8)
+[Things 3を App Store で](https://itunes.apple.com/jp/app/things-3/id904237743?mt=8)
 
-[**Things 3 for iPadを App Store で**  
-_「Things 3 for iPad」のレビューをチェック、カスタマー評価を比較、スクリーンショットを確認、詳細情報を入手。Things 3 for iPadをダウンロードして iPhone、iPad、iPod touch で利用。_itunes.apple.com](https://itunes.apple.com/jp/app/things-3-for-ipad/id904244226?mt=8 "https://itunes.apple.com/jp/app/things-3-for-ipad/id904244226?mt=8")[](https://itunes.apple.com/jp/app/things-3-for-ipad/id904244226?mt=8)
+[Things 3 for iPadを App Store で](https://itunes.apple.com/jp/app/things-3-for-ipad/id904244226?mt=8)
 
 [2013年12月の突然の発表](https://culturedcode.com/things/blog/2013/12/a-million-things/)から約3年。ついにThings 3がリリース。
 

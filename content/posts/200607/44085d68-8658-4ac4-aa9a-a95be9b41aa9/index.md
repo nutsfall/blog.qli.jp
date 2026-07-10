@@ -6,7 +6,7 @@ slug: "44085d68-8658-4ac4-aa9a-a95be9b41aa9"
 ---
 米国ではこういうことでサービス提供元が訴えられたりするんだろうなぁとか思ってしまった例。（この記事を発見した情報元は”あそこ”です。)
 
-リンク: [Blogger ヘルプ : 自分の Blog が母親に見つかった場合はどうすればよいですか。](http://help.blogger.com/bin/answer.py?answer=41972&topic=8937 "Blogger ヘルプ : 自分の Blog が母親に見つかった場合はどうすればよいですか。").
+[Blogger ヘルプ : 自分の Blog が母親に見つかった場合はどうすればよいですか。](http://help.blogger.com/bin/answer.py?answer=41972&topic=8937)
 
 > 偽名を使用する
 

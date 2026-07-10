@@ -10,8 +10,7 @@ slug: "3b444003-c4ce-4af2-99eb-bc4eab28e89f"
   
 自分にとって手帳はどこかにいったチケットを貼っておいたり、その日にあったことを書き込んでおいたりする、日記帳のようなものです。いろいろチケットを貼っているので、一年が終わると分厚くなってしまったりします。それは、一年よく遊んだという証でもあります。
 
-[**pocket\_notebook\_for\_2012**  
-_Explore hiro.qli's photos on Flickr. hiro.qli has uploaded 2785 photos to Flickr._www.flickr.com](http://www.flickr.com/photos/beyondmywish/8316762846/ "http://www.flickr.com/photos/beyondmywish/8316762846/")[](http://www.flickr.com/photos/beyondmywish/8316762846/)
+[pocket\_notebook\_for\_2012](http://www.flickr.com/photos/beyondmywish/8316762846/)
 
 来年はモレスキンに変えてみようと思っています。1日1ページは使いやすかったのですが、空白のページも多く、自分の使い方にはあわないかもと思ったからです。
 

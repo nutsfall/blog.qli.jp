@@ -6,7 +6,7 @@ slug: "5c40e02f-5f09-41fc-8590-8ece96652ce1"
 ---
 Leopardのリリースが延期されました。iPhoneの開発が難航しているのでしょうかね。おそらく、iTVの延期も少なからず影響しているんだと思いますが。
 
-リンク: [アップル、次期Mac OS Xリリースを10月に — 原因はiPhone開発 — CNET Japan](http://japan.cnet.com/news/ent/story/0,2000056022,20347040,00.htm?ref=rss "アップル、次期Mac OS Xリリースを10月に--原因はiPhone開発 - CNET Japan").
+[アップル、次期Mac OS Xリリースを10月に — 原因はiPhone開発 — CNET Japan](http://japan.cnet.com/news/ent/story/0,2000056022,20347040,00.htm?ref=rss)
 
 > Appleの次期Mac OS X「Leopard」のリリースが10月までずれ込むことが明らかになった。理由は、「iPhone」の出荷予定を守るためだという。
 

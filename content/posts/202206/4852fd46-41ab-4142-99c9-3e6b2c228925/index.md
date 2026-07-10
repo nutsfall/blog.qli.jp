@@ -25,8 +25,7 @@ Mr.Childrenがデビューしてもうすぐ30周年という話は2019年くら
 
 「半世紀へのエントランス」の準備運動のために用意されたステージ。東京ガーデンシアターは新しいハコで、パンデミック後にライブの開催ができるようになってから、非常によく見かけるようになったミュージックプレイスだ。ステージに対して横幅が広く、どこからでも見やすいハコとして知られている。
 
-[**住友不動産｜東京ガーデンシアター/劇場型イベントホール8,000人収容 | 東京ガーデンシアター**  
-_2020年開業。東京の中枢にほど近い、湾岸エリアの一角"有明"。ここに、東京屈指の広がりを見せる劇場型イベントホールが誕生。世界に誇るエンタテインメントホールとして、かつてない臨場感、経験したことのない感動を人々に提供する。_www.shopping-sumitomo-rd.com](https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/ "https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/")[](https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/)
+[住友不動産｜東京ガーデンシアター/劇場型イベントホール8,000人収容 | 東京ガーデンシアター](https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/)
 
 動いているMr.Childrenのメンバーたちを見るのは実に3年ぶり。彼らが登場し、youthful days が流れ始めた時、これまで味わったことのない強い多幸感を感じた。これまでMr.Childrenの音楽とは少し距離を置いたこともあるし、日常の音楽すぎて「今めっちゃ聴きたい音楽」になることはそんなにないので、多幸感を感じた自分に驚きを感じた一夜だった。
 
@@ -56,8 +55,7 @@ Mr.Childrenが次々に繰り出すサウンドに酔いながら、綺麗な映
 
 セットリストは、Webサイトに投稿されているものを参考にしました。
 
-[**Mr.Children -Mr.Children 30th Anniversary Tour 半世紀へのエントランス | ライブ・セットリスト情報サービス【 LiveFans (ライブファンズ) 】**  
-_5月の東京ドーム公演に続いての参加となりました。 今回も圧巻のパフォーマンスで今までになかった炎の演出もあり、パフォーマンスと演出は文句なしでした。 気になった点としては選曲です。…_www.livefans.jp](https://www.livefans.jp/groups/187653 "https://www.livefans.jp/groups/187653")[](https://www.livefans.jp/groups/187653)
+[Mr.Children -Mr.Children 30th Anniversary Tour 半世紀へのエントランス | ライブ・セットリスト情報サービス【 LiveFans (ライブファンズ) 】](https://www.livefans.jp/groups/187653)
 
 まず１曲目。今回の演出では、一旦下がったディスプレイが幕の役割になり、１曲目の演奏開始とともに上がるとMr.Childrenが登場するという演出だった。
 

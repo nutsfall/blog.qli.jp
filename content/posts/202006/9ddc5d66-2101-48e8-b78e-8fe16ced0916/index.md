@@ -29,12 +29,10 @@ Watch FaceにはSiri Watch Face というものがあります。適切なタイ
 
 WWDCの基調講演は日本時間23日午前2時。その後開発者向けの基調講演ともいえる Platform State of the Union があります。
 
-[**WWDC20**  
-_Join us for the first global, all-online WWDC20. Coming June 22._developer.apple.com](https://developer.apple.com/wwdc20/ "https://developer.apple.com/wwdc20/")[](https://developer.apple.com/wwdc20/)
+[WWDC20](https://developer.apple.com/wwdc20/)
 
 その前日にはプレミアリーグの優勝が決まるかもしれない、マージーサイドダービーもあります。
 
-[**Everton v Liverpool, 2019/20 | Premier League**  
-_Read about Everton v Liverpool in the Premier League 2019/20 season, including lineups, stats and live blogs, on the…_www.premierleague.com](https://www.premierleague.com/match/46898 "https://www.premierleague.com/match/46898")[](https://www.premierleague.com/match/46898)
+[Everton v Liverpool, 2019/20 | Premier League](https://www.premierleague.com/match/46898)
 
 忙しい１週間になりそうです。

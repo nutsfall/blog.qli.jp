@@ -6,7 +6,7 @@ slug: "e40a5efc-ca05-4318-b18b-2910cec62c48"
 ---
 このブログでは特に取り扱わなかったのですが、先日発生したSkypeの大規模障害について詳細が明かされました。
 
-リンク: [Skypeログイン障害詳細 — Skype 日本語ブログ](http://share.skype.com/sites/ja/2007/08/20/what_happened_on_aug_16.html "Skypeログイン障害詳細 - Skype 日本語ブログ").
+[Skypeログイン障害詳細 — Skype 日本語ブログ](http://share.skype.com/sites/ja/2007/08/20/what_happened_on_aug_16.html)
 
 > 正常値を超える数の再起動によって、Skypeのネットワークリソースが影響を受け、これがログイン要求の殺到につながり、P2Pネットワークリソースの不足と相まって重大な結果をもたらしました。
 

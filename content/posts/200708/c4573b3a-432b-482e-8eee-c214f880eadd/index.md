@@ -6,7 +6,7 @@ slug: "c4573b3a-432b-482e-8eee-c214f880eadd"
 ---
 日本に住んでいる以上あまり関係ないですが、American Airlinesが国内線で（つまり米国内で）飛行機の中でのWiFiサービスを始めるとか。
 
-リンク: [American Airlines、一部国内線でブロードバンド接続サービスを提供 — ITmedia News](http://www.itmedia.co.jp/news/articles/0708/03/news017.html "American Airlines、一部国内線でブロードバンド接続サービスを提供 - ITmedia News").
+[American Airlines、一部国内線でブロードバンド接続サービスを提供 — ITmedia News](http://www.itmedia.co.jp/news/articles/0708/03/news017.html)
 
 > 米American Airlinesは8月1日、米AirCellと提携し、乗客向けに高速ブロードバンド接続サービスを提供すると発表した。来年、主に国内線として使用されているボーイング767–200で試験的に導入する。
 

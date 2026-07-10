@@ -7,7 +7,7 @@ slug: "ce78a5af-f2dc-4fd4-a4b8-e08ce6bf2c7a"
 Google Readerが大幅にバージョンアップしました。  
 今までは、フィードのアイテムごとを管理するという思想の元に作成されていて、ブログをまたいだ形で記事を読んでいく形だったのですが、やっぱりそれは先進的すぎたのか、ブログ単位での扱いも出来るようになりました。
 
-リンク: [Official Google Blog: Your inbox for the web](http://googleblog.blogspot.com/2006/09/your-inbox-for-web.html "Official Google Blog: Your inbox for the web").
+[Official Google Blog: Your inbox for the web](http://googleblog.blogspot.com/2006/09/your-inbox-for-web.html)
 
 > Enter Google Reader. Today there’s a new version that makes it even easier to keep track of your favorite websites. Think of Google Reader as your inbox for the web. When you check your email, you don’t go to each of your friends’ mailboxes to see if they sent you anything — you just check your inbox.
 

@@ -8,8 +8,7 @@ draft: true
 
 文章を書いていく場所をここから新しい場所に移していきます。
 
-[**Things on a planet | hiro | Substack**  
-\_A just personal blog. I am writing Things on a planet. Click to read Things on a planet, by hiro, a Substack…\_thingsonaplanet.substack.com](https://thingsonaplanet.substack.com "https://thingsonaplanet.substack.com")[](https://thingsonaplanet.substack.com)
+[Things on a planet | hiro | Substack](https://thingsonaplanet.substack.com)
 
 長いこと、medium にお世話になってきたのですが、ここで文章を書き続けることについて、さまざまなことを考えて、substack に移行することにしました。
 

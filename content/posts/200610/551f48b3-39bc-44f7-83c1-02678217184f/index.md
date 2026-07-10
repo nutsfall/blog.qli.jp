@@ -6,7 +6,7 @@ slug: "551f48b3-39bc-44f7-83c1-02678217184f"
 ---
 このブログでも何度か取り上げているmacbookのシャットダウン問題なのですが、これに関連して新しいファームウェアが登場しました。
 
-リンク: [Apple — Support — Downloads — MacBook SMC Firmware Update 1.1](http://www.apple.com/support/downloads/macbooksmcfirmwareupdate11.html "Apple - Support - Downloads - MacBook SMC Firmware Update 1.1").
+[Apple — Support — Downloads — MacBook SMC Firmware Update 1.1](http://www.apple.com/support/downloads/macbooksmcfirmwareupdate11.html)
 
 > The SMC Update improves the MacBook’s internal monitoring system and  
 > addresses issues with unexpected shutdowns. This update is recommended  

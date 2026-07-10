@@ -12,13 +12,11 @@ cover:
 
 ここ数年、音楽業界で存在感を増しているのがBillboard Japan Chartです。毎週発表されるHot100は、ストリーミング、CD売上、ラジオエアプレイなどを統合して作られたランキングで、音楽の実際の聴取状況を反映した指標として注目されています。
 
-[**Billboard Japan Hot 100 | Charts | Billboard JAPAN**  
-_米国で最も権威のある音楽チャート・Billboard（ビルボード）の日本公式サイト。洋楽チャート、邦楽チャート、音楽ニュース、プレゼント情報などを提供。_www.billboard-japan.com](https://www.billboard-japan.com/charts/detail?a=hot100 "https://www.billboard-japan.com/charts/detail?a=hot100")[](https://www.billboard-japan.com/charts/detail?a=hot100)
+[Billboard Japan Hot 100 | Charts | Billboard JAPAN](https://www.billboard-japan.com/charts/detail?a=hot100)
 
 テレビ業界でたくさん音楽番組が作られていたころ、僕たちに馴染みがあったのは「オリコンランキング」でした。ある一定の期間のCD売上枚数を合算して並べたものなのですが、着うたを経て、Spotify・Apple Musicが来ると、CDの売り上げが落ちていったわけで、「本当にきかれている音楽」をCDの売上枚数だけで測れなくなった時代がありました。そのころ登場したのが Billboard Japan Chartでした。このチャートが、どのようにして作られたのか、何を大切にして作られたのかは、「ビルボードジャパンの挑戦 ヒットチャート解体新書」に書かれているので、音楽とデータに興味がある方はぜひ読んでみてください。
 
-[**_Amazon.co.jp: ビルボードジャパンの挑戦 ヒットチャート解体新書 データを読み解きアクションを加速する eBook : 礒﨑 誠二（ビルボードジャパンチャートディレクター）, 山口…_**  
-Amazon.co.jp: ビルボードジャパンの挑戦 ヒットチャート解体新書 データを読み解きアクションを加速する eBook : 礒﨑 誠二（ビルボードジャパンチャートディレクター）, 山口…amzn.asia](https://amzn.asia/d/1VIMrrq "https://amzn.asia/d/1VIMrrq")[](https://amzn.asia/d/1VIMrrq)
+[Amazon.co.jp: ビルボードジャパンの挑戦 ヒットチャート解体新書 データを読み解きアクションを加速する eBook : 礒﨑 誠二（ビルボードジャパンチャートディレクター）, 山口…](https://amzn.asia/d/1VIMrrq)
 
 CDランキングだけでは「本当にきかれている音楽」がわからなくなった頃に人気が出たのが、ジャニーズ、そしてAKB48なのだろうなと、今振り返れば考えたりします。グループにファンがつき、支えている状況は、他の音楽グループとは明らかに違う構造だし、その盛り上がりに、音楽ビジネスに関わるあらゆる人たちが頼った、そういう時代だったのかもしれないなと。音楽業界の外にいる、いち音楽好きとしての感想です。 そしてそれを参考にしてビジネスを組み立てたのが、いわゆるK-POPのグループたちだったのかもしれません。
 

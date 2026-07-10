@@ -15,8 +15,7 @@ slug: "6d7d0827-e507-45a9-beaa-2d3974e71643"
 
 2018/19シーズン Manchester United vs New Castle United。ファビオの師匠でもあるベニテス監督率いるニューキャッスルは、5バックの守備を形成し、スペースを消されたユナイテッドは後ろで繋ぎながら攻撃の機会を伺った。この試合では、Man Utdがボールを73%支配しながら結果は3–2。90分のゴールで決着がつくほど接戦だった。
 
-[**Manchester United vs Newcastle United - English Premier League 06 October 2018 | Manchester United**  
-_Follow live match coverage and reaction as Manchester United play Newcastle United in the English Premier League on 06…_www.manutd.com](https://www.manutd.com/en/matches/matchcenter?matchId=987668 "https://www.manutd.com/en/matches/matchcenter?matchId=987668")[](https://www.manutd.com/en/matches/matchcenter?matchId=987668)
+[Manchester United vs Newcastle United - English Premier League 06 October 2018 | Manchester United](https://www.manutd.com/en/matches/matchcenter?matchId=987668)
 
 アビスパ福岡が志向しているのは、これと同じ。スペースを素早く使い、少ないパス本数でゴールに迫るサッカー。大外を使うことがあるだろうし、裏を使うこともあるかもしれない。スペースがなければ、後ろで繋ぎながら様子を伺い、スペースを窺う。つまり、緩急をつけた“縦に速いサッカー” 。
 

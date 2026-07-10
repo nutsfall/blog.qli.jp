@@ -15,8 +15,7 @@ MagSafeバッテリーパックを導入してみました。
 
 MagSafeバッテリーパックはその名前の通り、iPhone 12のMagSafe機能を使ってiPhoneにくっつけて充電できるモバイルバッテリーです。移動中にモバイルバッテリーを使おうとするとどうしてもケーブルが邪魔になるので便利です。もちろん、MagSafe機能を使ったモバイルバッテリーは、サードパーティのものも発売されています。（そしてそっちの方が安いです）
 
-[**Anker PowerCore Magnetic 5000 (マグネット式ワイヤレス充電機能搭載 5000mAh コンパクト モバイルバッテリー) 【 マグネット式/ワイヤレス出力 (5W) /…**  
-_Anker PowerCore Magnetic 5000 (マグネット式ワイヤレス充電機能搭載 5000mAh コンパクト モバイルバッテリー) 【 マグネット式/ワイヤレス出力 (5W) / USB-Cポート出力 (10W) /…_www.amazon.co.jp](https://www.amazon.co.jp/dp/B08TZYQP9J "https://www.amazon.co.jp/dp/B08TZYQP9J")[](https://www.amazon.co.jp/dp/B08TZYQP9J)
+[Anker PowerCore Magnetic 5000 (マグネット式ワイヤレス充電機能搭載 5000mAh コンパクト モバイルバッテリー) 【 マグネット式/ワイヤレス出力 (5W) /…](https://www.amazon.co.jp/dp/B08TZYQP9J)
 
 質感はAppleによくあるホワイト。AirPodsやApple Pencilを持っている方はよくわかると思います。もう 初代iPod Shuffleからずっと続いている質感です。
 

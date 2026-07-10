@@ -55,8 +55,7 @@ WEB版には新しいエディタが今年から来ていますが、Evernoteで
 
 MoneyForwardの方がユーザーが多いようですが、シンプルという点を評価してこちらを選択しています。実はこのタイプのサービス自体は評価していないのですが（セキュリティ的な観点から）、MoneyTreeは金融機関との連携をスムーズにするMT Linkをやっているのも評価しています。
 
-[**金融インフラプラットフォーム MT LINK by Moneytree | マネーツリー**  
-_マネーツリーの「MT LINK」は、国内約2,700社以上の銀行口座（個人、法人）、クレジットカード、電子マネー、ポイントカード、証券口座の取引明細を一つに集約。自社サービスを大きく成長させる次世代の金融インフラプラットフォームです。_link.getmoneytree.com](https://link.getmoneytree.com/jp "https://link.getmoneytree.com/jp")[](https://link.getmoneytree.com/jp)
+[金融インフラプラットフォーム MT LINK by Moneytree | マネーツリー](https://link.getmoneytree.com/jp)
 
 #### Deliveries
 

@@ -23,8 +23,7 @@ macOS・iOS・iPadOSでともにウィジェットが変更され、ウィジェ
 
 合わせて、J-POP Now Radio という番組が始まりました。毎週アーティストを特集しながら最新曲を取り上げていくようです。
 
-[**J-Pop Now Radio with Kentaro OchiaiをApple Musicで**  
-_Apple Musicのラジオ番組『J-Pop Now…_music.apple.com](https://music.apple.com/jp/curator/j-pop-now-radio-with-kentaro-ochiai/1526877564 "https://music.apple.com/jp/curator/j-pop-now-radio-with-kentaro-ochiai/1526877564")[](https://music.apple.com/jp/curator/j-pop-now-radio-with-kentaro-ochiai/1526877564)
+[J-Pop Now Radio with Kentaro OchiaiをApple Musicで](https://music.apple.com/jp/curator/j-pop-now-radio-with-kentaro-ochiai/1526877564)
 
 他にも、2000年生まれ前後の音楽を中心に取り上げる「#ヤンスタ」などさまざまな日本向けのプレイリストが新しく登場しています。
 

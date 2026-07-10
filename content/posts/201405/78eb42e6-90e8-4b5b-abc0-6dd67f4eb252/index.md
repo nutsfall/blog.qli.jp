@@ -6,8 +6,7 @@ slug: "78eb42e6-90e8-4b5b-abc0-6dd67f4eb252"
 ---
 Thingsの開発元である cultured codeが “Getting Started with Things" というページを公開しています。
 
-[**Getting Started with Things | Cultured Code**  
-_Like to-dos, there are almost always too many potential projects for you to work on at any given time. If you're not…_culturedcode.com](http://culturedcode.com/things/guide/ "http://culturedcode.com/things/guide/")[](http://culturedcode.com/things/guide/)
+[Getting Started with Things | Cultured Code](http://culturedcode.com/things/guide/)
 
 **Updated 9th Feb. 2015:**  
 超訳というつもりで日本語訳したのですが、Cultured Codeに「この記事すごくいいんだけど日本語化しないの？」って聞いたら、あるよ、ってこのページを示されたので、手直ししました。

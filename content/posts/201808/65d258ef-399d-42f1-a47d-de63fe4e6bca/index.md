@@ -9,8 +9,7 @@ slug: "65d258ef-399d-42f1-a47d-de63fe4e6bca"
 
 Inside Omnifocus に掲載された記事がとても示唆深かったので、軽く要点だけつまんで紹介する。
 
-[**Getting Out of the Inbox - Inside OmniFocus**  
-_Daniel writes about processing his Inbox by using his Today tag and Pending project._inside.omnifocus.com](https://inside.omnifocus.com/daniel-steinberg "https://inside.omnifocus.com/daniel-steinberg")[](https://inside.omnifocus.com/daniel-steinberg)
+[Getting Out of the Inbox - Inside OmniFocus](https://inside.omnifocus.com/daniel-steinberg)
 
 **The Discipline of In (Inboxのルール）**
 

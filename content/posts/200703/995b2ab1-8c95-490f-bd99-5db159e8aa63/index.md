@@ -6,7 +6,7 @@ slug: "995b2ab1-8c95-490f-bd99-5db159e8aa63"
 ---
 いつも密かに読ませていただいている、lomoさんのブログでiddyが紹介されていたので、早速登録してみた。
 
-リンク: [「iddy」と自分まとめサービスのまとめ | caramel\*vanilla](http://caramel-tea.com/2007/03/iddy/ "「iddy」と自分まとめサービスのまとめ | caramel*vanilla").
+[「iddy」と自分まとめサービスのまとめ | caramel\*vanilla](http://caramel-tea.com/2007/03/iddy/)
 
 > 昨日新しく始まったブロガー向けプロフィール作成サービス「iddy」  
 > (ネーミングがいいですね)

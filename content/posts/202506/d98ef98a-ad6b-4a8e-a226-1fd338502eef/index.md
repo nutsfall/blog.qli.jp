@@ -10,8 +10,7 @@ cover:
 
 今年も6月がきて、久しぶりの寝不足の朝を経験しました。6月10日2時から開始されたWWDC25のキーノートは、いつもより短く90分で終わりました。ハードウェアは出なかったし、事前の噂通りの発表であったものの、情報量が多く濃密な90分でした。その後、Appleが開発者向けに公開した動画には、キーノートでは触れられなかった情報も含まれていました。
 
-[**OS - Top OS Features**  
-_Explore a new design with Liquid Glass and exciting features coming to iOS 26, iPadOS 26, macOS 26, watchOS 26…_www.apple.com](https://www.apple.com/os/ "https://www.apple.com/os/")[](https://www.apple.com/os/)
+[OS - Top OS Features](https://www.apple.com/os/)
 
 実は同じ日に、22時から櫻坂46の新曲ミュージックビデオが公開されました。寝不足の中で22時を待っているのは、体力勝負って感じがしましたね。その日は気づいたらちょっと寝てしまったり…。
 

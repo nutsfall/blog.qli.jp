@@ -9,8 +9,7 @@ slug: "1e76bc7c-2b50-477b-96b4-c5afa7732ec5"
 
 それはそうと、今年もAppleTV+で The morning show の配信が始まりました。日本でどれくらいの方が見ているかわかりませんが、Season 1からずっと見ているドラマで、今年も最後まで見ることになると思います。邦ドラマはよく見ていますが、英語圏の映画やドラマはほとんど見ていないし、また、出演者のお名前もあまり存じ上げないという状態だったりはします。
 
-[**ザ･モーニングショーを視聴 - Apple TV (日本)**  
-_アメリカに朝を届けるニュース番組の人々を通じ、現代の職場のリアルを大胆かつ赤裸々に描くエミー賞受賞作品。モーニングショーの幕が上がります。_tv.apple.com](https://tv.apple.com/jp/show/%E3%82%B5%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC/umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m "https://tv.apple.com/jp/show/%E3%82%B5%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC/umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m")[](https://tv.apple.com/jp/show/%E3%82%B5%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC/umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m)
+[ザ･モーニングショーを視聴 - Apple TV (日本)](https://tv.apple.com/jp/show/%E3%82%B5%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC/umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m)
 
 さて、もうすぐiOS17がやってきます。今年もPublic Betaを使っています。先日はWWDC Keynoteで予告された、AirPods Proの「適応型オーディオ」がさっそく降ってきました。「適応型オーディオ」で可能なことはすでに他社のイヤホンでは実現されているので、特別新しいものではありません。しかし、AirPods Proの特徴として「適応型オーディオ」と「ノイズキャンセリング」を簡単に切り替えることができます。音楽に没頭したいって時に便利かも。
 

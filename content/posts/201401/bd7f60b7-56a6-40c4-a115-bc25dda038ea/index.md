@@ -10,11 +10,9 @@ slug: "bd7f60b7-56a6-40c4-a115-bc25dda038ea"
 
 一方、サービスに関しては、KDDIがイベントの発表直前に相次いでサービスのクローズを決定しています。
 
-[**「LISMO Video DVDレンタル」および「HMV for LISMO!」のサービス終了について**  
-_KDDIのニュースリリース 「LISMO Video DVDレンタル」および「HMV for LISMO!」のサービス終了について_news.kddi.com](http://news.kddi.com/kddi/corporate/newsrelease/2014/01/10/7.html "http://news.kddi.com/kddi/corporate/newsrelease/2014/01/10/7.html")[](http://news.kddi.com/kddi/corporate/newsrelease/2014/01/10/7.html)
+[「LISMO Video DVDレンタル」および「HMV for LISMO!」のサービス終了について](http://news.kddi.com/kddi/corporate/newsrelease/2014/01/10/7.html)
 
-[**「Skype™｜au」のサービス終了について**  
-_KDDIのニュースリリース 「Skype™｜au」のサービス終了について_news.kddi.com](http://news.kddi.com/kddi/corporate/newsrelease/2014/01/10/20.html "http://news.kddi.com/kddi/corporate/newsrelease/2014/01/10/20.html")[](http://news.kddi.com/kddi/corporate/newsrelease/2014/01/10/20.html)
+[「Skype™｜au」のサービス終了について](http://news.kddi.com/kddi/corporate/newsrelease/2014/01/10/20.html)
 
 廃止した後の新しいサービスが生まれるかどうか期待されます。
 

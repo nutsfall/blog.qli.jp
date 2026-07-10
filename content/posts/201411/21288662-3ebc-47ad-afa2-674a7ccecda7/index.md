@@ -47,8 +47,7 @@ Mr.Childrenは”足音”について、これまで行ってきた配信リリ
 
 と記述があるくらいだ。
 
-[**Mr.Children | TOY'S FACTORY**  
-_Mr.Childrenなど多数のアーティストが所属するTOY'S FACTORYのウェブサイトです。_www.toysfactory.co.jp](http://www.toysfactory.co.jp/artist/mrchildren/89531/ "http://www.toysfactory.co.jp/artist/mrchildren/89531/")[](http://www.toysfactory.co.jp/artist/mrchildren/89531/)
+[Mr.Children | TOY'S FACTORY](http://www.toysfactory.co.jp/artist/mrchildren/89531/)
 
 今回は月9の主題歌ということもあり、月9のプロモーションにあわせて早めに音源がメディア解禁されたのだけれども、その後YoutubeでPVをフル尺公開するという暴挙まで行った。
 

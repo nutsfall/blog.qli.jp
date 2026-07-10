@@ -4,7 +4,7 @@ date: "2006-11-27T18:09:23.000Z"
 tags: ["apple", "apple-store-shibuya"]
 slug: "62c36ebf-568a-4168-8a86-b72c7d9bbf50"
 ---
-リンク: [Apple Store 渋谷がリニューアル──“iPodバー”を新設](http://mac.ascii24.com/mac/news/misc/2006/11/24/666068-000.html "Apple Store 渋谷がリニューアル──“iPodバー”を新設").
+[Apple Store 渋谷がリニューアル──“iPodバー”を新設](http://mac.ascii24.com/mac/news/misc/2006/11/24/666068-000.html)
 
 > 若者の街、渋谷に店舗を構える米アップルコンピュータ社の直営店“Apple Store Shibuya(アップルストア渋谷)”が今週末、本格的にリニューアルオープンする。改装されたのは2階で、iPod専用のサポートコーナー“iPod Bar”と、Macを使ったクリエイティブワーク全般を学べる“The Studio”が追加された。
 

@@ -5,8 +5,7 @@ date: "2017-05-06T07:15:22.883Z"
 tags: ["mastodon", "fediverse"]
 slug: "a97eab16-c4f1-41ee-875e-442efe107b52"
 ---
-[**tootsuite/mastodon**  
-_mastodon - A GNU Social-compatible microblogging server_github.com](https://github.com/tootsuite/mastodon "https://github.com/tootsuite/mastodon")[](https://github.com/tootsuite/mastodon)
+[tootsuite/mastodon](https://github.com/tootsuite/mastodon)
 
 mastodonは、GNU SocialやらOStatusを起源にしたソフトウェアとされている。GNU SocialやらOStatusを遡っていくと、StatusNetにたどり着くのだが、自分自身いろんなサービスを触ってみるのが好きなので、StatusNetやその派生としてのidenti.ca でも遊んでいたことがあった。
 

@@ -8,13 +8,13 @@ slug: "06943a51-433d-4b13-9007-d3ebb87478ba"
 
 そんな彼らが発表したのは、Appleの.macみたいな、そして日本のISPならどこでもやっているような旧世代の容量販売システムだった。
 
-リンク: [Google、PicasaとGmailに有料追加ストレージ — ITmedia News](http://www.itmedia.co.jp/news/articles/0708/10/news031.html "Google、PicasaとGmailに有料追加ストレージ - ITmedia News").
+[Google、PicasaとGmailに有料追加ストレージ — ITmedia News](http://www.itmedia.co.jp/news/articles/0708/10/news031.html)
 
 > ユーザーは6Gバイト（年間20ドル）、25Gバイト（同75ドル）、100Gバイト（同250ドル）、250Gバイト（同500ドル）のいずれかのプランを選択可能。支払いはGoogle Checkoutで行う。
 
 一般的にディスクというのはかなり高い。本業としてシステム構築に関わっている関係上、こういったものに触れる機会が多いのだけど、容量が欲しい、けど高くて買えない、という担当者をいっぱい知っている。なので、こういう形式で費用を要求してくることには疑問は感じない。けどGoogle担当者は以前こう発言している。
 
-リンク: [ITmedia Biz.ID：Gmailにまつわる「5つの質問」](http://www.itmedia.co.jp/bizid/articles/0608/23/news074.html "ITmedia Biz.ID：Gmailにまつわる「5つの質問」").
+[ITmedia Biz.ID：Gmailにまつわる「5つの質問」](http://www.itmedia.co.jp/bizid/articles/0608/23/news074.html)
 
 > ただし、現在2.7Gバイトを超える容量については、通常の利用で上限に近づいたユーザーは自然と増加するようになっているという。
 

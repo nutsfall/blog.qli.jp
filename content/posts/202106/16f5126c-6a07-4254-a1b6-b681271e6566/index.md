@@ -17,8 +17,7 @@ slug: "16f5126c-6a07-4254-a1b6-b681271e6566"
 
 xGは、データスタジアム社が運営するFootball Labというサイトで公開されています。
 
-[**データによってサッカーはもっと輝く | Football LAB［フットボールラボ］**  
-_フットボールラボ(Football…_www.football-lab.jp](https://www.football-lab.jp "https://www.football-lab.jp")[](https://www.football-lab.jp)
+[データによってサッカーはもっと輝く | Football LAB［フットボールラボ］](https://www.football-lab.jp)
 
 19試合戦ったアビスパの成績は次の通り；
 

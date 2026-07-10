@@ -12,6 +12,6 @@ slug: "08f7ff2e-6728-4e4e-b9b3-3f1ece4a2491"
 
 肝心の検索機能は、既読しちゃった記事を探すのに役立ちそうですので、スター付け忘れた記事をブログにするのに使います。
 
-リンク: [Official Google Reader Blog: “We found it!”](http://googlereader.blogspot.com/2007/09/we-found-it.html "Official Google Reader Blog: ").
+[Official Google Reader Blog: “We found it!”](http://googlereader.blogspot.com/2007/09/we-found-it.html)
 
 > Search lets you use keywords to find items in your subscriptions (if you’re looking to search all blogs, give Blog Search a try). If you subscribe to someone’s shared items, it’ll search those too.

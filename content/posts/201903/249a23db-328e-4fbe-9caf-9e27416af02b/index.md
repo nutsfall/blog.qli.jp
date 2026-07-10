@@ -13,8 +13,7 @@ slug: "249a23db-328e-4fbe-9caf-9e27416af02b"
 
 写真を撮ると公開する場所も欲しくなるもので、Flickr Proを再開することにしました。Instagramではないのは、写真をセットで公開したかったからです。
 
-[**20190316 hamarikyu, Tokyo Spring**  
-_Explore this photo album by hiro.qli on Flickr!_flic.kr](https://flic.kr/s/aHskPTT3Ft "https://flic.kr/s/aHskPTT3Ft")[](https://flic.kr/s/aHskPTT3Ft)
+[20190316 hamarikyu, Tokyo Spring](https://flic.kr/s/aHskPTT3Ft)
 
 #### iPad Air / iPad mini / iMac
 

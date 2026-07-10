@@ -6,8 +6,7 @@ slug: "3bcd5c47-a926-4357-b24d-232b37c95afc"
 ---
 Things 2.5 for Mac が登場しました。Things 2.5は Yosemite 対応が主な変更点になりました。
 
-[**Yosemite and Things 2.5 - Things Blog - Cultured Code**  
-_OS X Yosemite is here, and with it, an awesome update to Things for Mac-including an all-new Today Widget, Handoff…_culturedcode.com](http://culturedcode.com/things/blog/2014/10/yosemite-and-things-2-5.html "http://culturedcode.com/things/blog/2014/10/yosemite-and-things-2-5.html")[](http://culturedcode.com/things/blog/2014/10/yosemite-and-things-2-5.html)
+[Yosemite and Things 2.5 - Things Blog - Cultured Code](http://culturedcode.com/things/blog/2014/10/yosemite-and-things-2-5.html)
 
 #### Yosemite ってなに？
 
