@@ -16,4 +16,4 @@ slug: "f7a3fbcc-3714-44f3-b1e7-efb242333c5c"
 
 プロモーションビデオもあったので貼り付けておきます。
 
-[http://www.vimeo.com/moogaloop.swf?clip\_id=1529825&server=www.vimeo.com&show\_title=1&show\_byline=1&show\_portrait=0&color=&fullscreen=1](http://www.vimeo.com/moogaloop.swf?clip_id=1529825&server=www.vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1)
+[http://www.vimeo.com/moogaloop.swf?clip_id=1529825&server=www.vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1](http://www.vimeo.com/moogaloop.swf?clip_id=1529825&server=www.vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1)

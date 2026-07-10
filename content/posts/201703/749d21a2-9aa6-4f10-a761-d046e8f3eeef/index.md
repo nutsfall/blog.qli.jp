@@ -13,7 +13,7 @@ slug: "749d21a2-9aa6-4f10-a761-d046e8f3eeef"
 
 その日はJリーグマッチデーだった。アビスパ福岡の、福岡で暮らしている選手たち、そしてサポーターは試合のため仙台にいた。地震はキックオフ3時間前に起きたため、選手たちは自分の家族の安否を確認できないまま試合開始のホイッスルを聞くことになる。
 
-[http://data.jleague.jp/SFMS02/?match\_card\_id=8734](http://data.jleague.jp/SFMS02/?match_card_id=8734)
+[http://data.jleague.jp/SFMS02/?match_card_id=8734](http://data.jleague.jp/SFMS02/?match_card_id=8734)
 
 その試合でエールを送ってくれたのが仙台の人たちだった。
 

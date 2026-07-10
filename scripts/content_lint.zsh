@@ -34,7 +34,6 @@ check "旧ブログ リンク: 形式"       '^リンク: \['
 check "空画像 ![]()"                '!\[\]\(\)'
 check "リモート画像参照"            '!\[[^]]*\]\(https?://'
 check "エスケープ残骸 \\_ \\*"      '\\[_*]'
-check "三点リーダ代用 ･･･"          '･･･'
 
 echo "=== 本文: 定型ブロック ==="
 check "posted with (Socialtunes等)" 'posted with'

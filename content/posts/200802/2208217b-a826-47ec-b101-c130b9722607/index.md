@@ -9,7 +9,7 @@ Gmail の絵文字対応が強化されました。
 
 > au の携帯メール ( @ezweb.ne.jp ) から Gmail に絵文字が送れるようになりました
 
-> \[From [Google Japan Blog: Gmail の携帯絵文字対応が強化されました](http://googlejapan.blogspot.com/2008/02/gmail.html)\]
+> [From [Google Japan Blog: Gmail の携帯絵文字対応が強化されました](http://googlejapan.blogspot.com/2008/02/gmail.html)]
 
 今回の絵文字対応は au→Gmail の絵文字送信で、前回はモバイル Gmail だと問題なかったものが、PC 上でも表示できるようになったもの。これで au と Gmail が提携したときの絵文字の公約は果たしたことになります。
 

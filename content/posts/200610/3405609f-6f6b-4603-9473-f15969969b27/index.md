@@ -4,7 +4,7 @@ date: "2006-10-18T12:11:29.000Z"
 tags: ["willcom", "w-sim", "mobile"]
 slug: "3405609f-6f6b-4603-9473-f15969969b27"
 ---
-Willcomがついに、W-OAM対応のW-simを発表しました。単体発売含めて発売は12月中旬(myloとかぶってる)。きちんと書いていませんが、きっとW-ZERO3\[es\]でも使えるんですよね？
+Willcomがついに、W-OAM対応のW-simを発表しました。単体発売含めて発売は12月中旬(myloとかぶってる)。きちんと書いていませんが、きっとW-ZERO3[es]でも使えるんですよね？
 
 [WILLCOM｜高度化通信規格「W-OAM」対応のW-SIM発売について](http://www.willcom-inc.com/ja/corporate/press/2006/10/18/index_03.html?ref=rdf)
 

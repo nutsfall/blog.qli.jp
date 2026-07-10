@@ -12,4 +12,4 @@ slug: "a5ba1b24-dbb9-4e9a-9fc7-c7cabe19d6f7"
 
 海と、田んぼと、風車と、心地よい風がある、いい場所でした。
 
-[打ち上げ花火、下から見るか?横から見るか? \[DVD\]](https://www.amazon.co.jp/dp/B00005G1GE)
+[打ち上げ花火、下から見るか?横から見るか? [DVD]](https://www.amazon.co.jp/dp/B00005G1GE)

@@ -23,6 +23,6 @@ masujun
 @[Hiro](http://twitter.com/Hiro) 昨日ツイートして頂いておりました利用規約について、誤解を招いてしまう書き方だったNドライブ関連の部分を追記いたしました。公式ブログでもご説明させていただきましたので、よろしければご覧くださいませ。 [http://bit.ly/aDDMsy](http://bit.ly/aDDMsy)[less than a minute ago](http://twitter.com/naver_jp/statuses/17850324318 "Tue Jul 06 07:01:27 +0000 2010") via web
 
 [**NAVER**](http://twitter.com/naver_jp)  
-naver\_jp
+naver_jp
 
 というわけで、[実際に利用規約が変わったわけ](http://naverland.naver.jp/?p=2163)ですが、このスピード感、ぜひ見習いたいものですね。

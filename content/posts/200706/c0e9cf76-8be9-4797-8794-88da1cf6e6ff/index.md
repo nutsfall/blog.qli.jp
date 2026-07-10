@@ -4,7 +4,7 @@ date: "2007-06-04T12:32:41.000Z"
 tags: ["remember-the-milk", "gtd"]
 slug: "c0e9cf76-8be9-4797-8794-88da1cf6e6ff"
 ---
-RTMの日本語ブログが始まったそうです。これで一層利用者が増えるかもしれませんね。自分は何度か浮気しかけながらもcheck\*padで頑張っています。
+RTMの日本語ブログが始まったそうです。これで一層利用者が増えるかもしれませんね。自分は何度か浮気しかけながらもcheck*padで頑張っています。
 
 [Remember The Milk 日本版 公式ブログ � Remember The Milk 日本版 公式ブログが始まりました](http://blog.rememberthemilk.jp/2007/06/03/8/)
 

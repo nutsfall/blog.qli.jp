@@ -8,7 +8,7 @@ slug: "8c09cf4c-5a32-4163-9a7a-27c5a31aebe8"
 
 > We have heard whispers the Apple is planning on launching the iPad at retail stores on Friday, March 26th at 6 p.m. in similar fashion to the original iPhone launch.
 
-> \[From [Apple iPad to Go on Sale Friday March 26th? — Mac Rumors](http://www.macrumors.com/2010/03/02/apple-ipad-to-go-on-sale-friday-march-26th/)\]
+> [From [Apple iPad to Go on Sale Friday March 26th? — Mac Rumors](http://www.macrumors.com/2010/03/02/apple-ipad-to-go-on-sale-friday-march-26th/)]
 
 という感じで、”3月末”と発表された時点で、3月の最終金曜日なんだろうなといういつもの憶測がありましたが、こういう記事も発表されたので、ちょっとチェックしてみました。
 

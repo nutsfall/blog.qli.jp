@@ -8,7 +8,7 @@ slug: "bcc36678-ea37-4809-840f-4e0ff3f01f0c"
 
 > We are very happy to announce today that Things 1.0 will be released at Macworld Expo 2009, on January 6th
 
-> \[From [Land in Sight : Things Blog : Cultured Code](http://culturedcode.com/things/blog/2008/10/land-in-sight.html)\]
+> [From [Land in Sight : Things Blog : Cultured Code](http://culturedcode.com/things/blog/2008/10/land-in-sight.html)]
 
 [Macworld Expo 2009](http://www.macworldexpo.com/)にあわせてリリースされるそうです。Macworld Expo 2009はモスコミューンセンター（サンフランシスコ）で1月5日-9日に行われるようです。
 

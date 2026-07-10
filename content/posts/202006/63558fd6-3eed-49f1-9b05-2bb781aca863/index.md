@@ -9,7 +9,7 @@ slug: "63558fd6-3eed-49f1-9b05-2bb781aca863"
 
 今回はIGTVに上げてみました。
 
-[Instagram post by hiro \* Jun 20, 2020 at 5:43am UTC](https://www.instagram.com/tv/CBpUNOaJZ4D/)
+[Instagram post by hiro * Jun 20, 2020 at 5:43am UTC](https://www.instagram.com/tv/CBpUNOaJZ4D/)
 
 動画はiMovieで作ったもの。音声は自動補正をしていますが、映像は撮って出しで、何も変更していません。途中、切り替えスイッチでぼけモードを変更したりしているところもあります。
 

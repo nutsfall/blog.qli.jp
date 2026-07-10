@@ -8,7 +8,7 @@ slug: "b20d73e9-370f-492b-92e6-b904a8822efd"
 
 昨年2月の記事にこのユビキタスキャプチャの実践について触れられていた記事があって、時間があればご紹介しようと思いつつ、こんなに延び延びになってしまっていたのですが、ご紹介したいと思います。
 
-> If you’re not already capturing all your thoughts or tasks immediately on paper, or in a digital system, and carrying that around with you wherever you go, I highly recommend you start today.\[From [Tips for GTD’s Ubiquitous Capture | Zen Habits](http://zenhabits.net/2007/02/tips-for-gtds-ubiquitous-capture/) \]
+> If you’re not already capturing all your thoughts or tasks immediately on paper, or in a digital system, and carrying that around with you wherever you go, I highly recommend you start today.[From [Tips for GTD’s Ubiquitous Capture | Zen Habits](http://zenhabits.net/2007/02/tips-for-gtds-ubiquitous-capture/) ]
 
 ここであげられているTipsは全部で7つ。順に紹介します。意訳も含まれていますが、違訳があればお知らせください。
 

@@ -10,6 +10,6 @@ slug: "6255e2df-30d1-4d9e-bb16-1f94a3f0eb6f"
 
 これって、これですか？
 
-[Apple AirMac Express ベースステーション \[M9470J/A\]](https://www.amazon.co.jp/dp/B0002GSAO0)
+[Apple AirMac Express ベースステーション [M9470J/A]](https://www.amazon.co.jp/dp/B0002GSAO0)
 
 小ネタ、かつSonyさんには嫌がられそうな投稿ですけど。

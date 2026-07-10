@@ -6,7 +6,7 @@ slug: "d2ea03e9-ea76-4161-97c1-37dca2f223f5"
 ---
 震災におけるふくいち事故の事故調査委員会というのは、いくつかあるんだけれども、先日国会事故調査委員会の報告書が出てきた。意外なことにSlideShareで提供されていた。
 
-\[slideshare id=13550588&doc=naiicyouyaku-120705052335-phpapp02&type=d\]
+[slideshare id=13550588&doc=naiicyouyaku-120705052335-phpapp02&type=d]
 
 International Business Times([日本語記事](http://jp.ibtimes.com/articles/32802/20120708/37239/page1.htm))によると、黒川委員長は次のように語ったらしい。
 

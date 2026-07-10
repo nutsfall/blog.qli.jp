@@ -4,7 +4,7 @@ date: "2009-12-19T22:25:54.000Z"
 tags: ["atomic-floyd", "earphones"]
 slug: "c32d4c11-7dd5-4d31-bdb0-54d724e812c4"
 ---
-[idea\*ideaでも紹介があった](http://www.ideaxidea.com/archives/2009/12/hidefdrum.html)HiDefDrumを買ってみました。もともと大分で行われたAUGM(Apple User Group Meeting)にて、日本での販売元になるフォーカルの恩田さんが紹介されていたイヤホンで、AUGMをTwitterで流し読みしていたときからわりと評判になっていたのを知っていたのですが、まぁ、まさかidea\*ideaで目にするとは。
+[idea*ideaでも紹介があった](http://www.ideaxidea.com/archives/2009/12/hidefdrum.html)HiDefDrumを買ってみました。もともと大分で行われたAUGM(Apple User Group Meeting)にて、日本での販売元になるフォーカルの恩田さんが紹介されていたイヤホンで、AUGMをTwitterで流し読みしていたときからわりと評判になっていたのを知っていたのですが、まぁ、まさかidea*ideaで目にするとは。
 
 発売が11月中旬だったようであまりレビューが出回っていないのですよね。メーカー的にもそれほど知られているわけではないので、本当は買う前にかなり否定的なレビューを読みたかったんですが、それもできず･･･。Shureも持ってるだろ、ってツッコミつつ、ものは試しなので買ってみました。
 

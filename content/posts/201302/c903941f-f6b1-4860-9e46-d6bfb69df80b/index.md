@@ -4,7 +4,7 @@ date: "2013-02-27T23:28:50.000Z"
 tags: ["cheese-cake", "music"]
 slug: "c903941f-f6b1-4860-9e46-d6bfb69df80b"
 ---
-福岡県から４人組のバンドがデビューするというのでiTunes Storeで買ってみました。バンドの名前は CHEESE CAKE ([@cheesecake\_f](http://twitter.com/cheesecake_f) )。
+福岡県から４人組のバンドがデビューするというのでiTunes Storeで買ってみました。バンドの名前は CHEESE CAKE ([@cheesecake_f](http://twitter.com/cheesecake_f) )。
 
 [哀しみのブランコ](https://www.amazon.co.jp/dp/B00AQ3ETIA)
 

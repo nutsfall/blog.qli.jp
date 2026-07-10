@@ -8,7 +8,7 @@ slug: "57078e2a-8287-47db-93d9-ac212a9bd5e3"
 
 > Google Chrome OS は x86 とARM 両方のチップで作動する予定で、私たちは来年多くのネットブックを提供すために複数の OEM と協力中です。このソフトウェアのアーキテクチャーは、「Linux カーネル上で動作する新しいウィンドウシステム内で動作する Google Chrome」というシンプルなものです。アプリケーション開発者にとって、ウェブはプラットフォームです。ウェブベースのアプリケーションはすべて自動的に機能し、自分のお気に入りのウェブテクノロジーを使って新しいアプリケーションを書くことも可能です。そしてもちろん、これらのアプリケーションは Google Chrome OS だけでなく、Windows、Mac、Linux などで動作するいずれの標準規格ブラウザでも動作しますので、ほかのどのプラットフォームよりも多くのユーザーをターゲットにすることができるのです。
 
-> \[From [Google Japan Blog: Google Chrome OS のご紹介](http://googlejapan.blogspot.com/2009/07/google-chrome-os.html)\]
+> [From [Google Japan Blog: Google Chrome OS のご紹介](http://googlejapan.blogspot.com/2009/07/google-chrome-os.html)]
 
 Google Chromeだけ立ち上がるLinuxベースのOSという見方が正しいのかもしれない。デバイス管理とかはOS上で提供するにしても、Google Waveを見せてHTML5は開発のプラットフォームだと宣言したGoogleが、いまさらネイティブアプリケーションの開発環境を提供するわけがない。
 

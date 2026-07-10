@@ -12,13 +12,13 @@ slug: "df8947ca-6efb-4434-aea8-fff70f6483c1"
 
 > 結構前に知り合いの先輩がTwitterで「Thingsいい」ってつぶやいていて、「何のことかいな？」と思っていたんだけどこれだったのか！
 
-> \[From [メーラーのようにフォルダで管理できるGTDツール『Things』 | CREAMU](http://blog.creamu.com/mt/2008/09/gtdthings.html)\]
+> [From [メーラーのようにフォルダで管理できるGTDツール『Things』 | CREAMU](http://blog.creamu.com/mt/2008/09/gtdthings.html)]
 
 GTDのタスク管理ツールでThingsという名前で、ログインしてみると何かに似ている･･･。あれれ？と思ってたら、これでした。
 
 > タスク管理ソフト、英語ではProductivityというカテゴリだったりしますが、これまで、CheckPad、Remember the Milk、OmniFocusと試してきました。ここにきてまた新しいソフトウェアにたどり着きました。それがThingsです。
 
-> \[From [きゅーり.jp: Things :: GTDに忠実なタスク管理ソフト](http://blog.qli.jp/2008/05/things-gtd-b0b5.html)\]
+> [From [きゅーり.jp: Things :: GTDに忠実なタスク管理ソフト](http://blog.qli.jp/2008/05/things-gtd-b0b5.html)]
 
 そうです。Thingsです。この記事で書いていた
 

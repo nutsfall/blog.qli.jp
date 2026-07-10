@@ -10,7 +10,7 @@ willcomがこんなものを発表していました。
 >   
 > いつでもどこでも日本全国が無線LANスポットに
 
-> \[From [WILLCOM｜～超小型通信モジュールW-SIM（ウィルコム シム）搭載。いつでもどこでも日本全国が無線LANスポットに～ 「どこでもWi-Fi」の発売について](http://www.willcom-inc.com/ja/corporate/press/2008/10/09/index.html) \]
+> [From [WILLCOM｜～超小型通信モジュールW-SIM（ウィルコム シム）搭載。いつでもどこでも日本全国が無線LANスポットに～ 「どこでもWi-Fi」の発売について](http://www.willcom-inc.com/ja/corporate/press/2008/10/09/index.html) ]
 
 何かというと、WiFi対応のW-SIMアダプタですね。電源をONにしておけば、カバンの中に入れておいてもiPhoneとか、iPod Touchとか、MacBookとかからWiFiで通信できるというやつです。ただしPHSの通信速度で、ですけど。
 

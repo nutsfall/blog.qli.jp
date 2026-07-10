@@ -10,8 +10,8 @@ slug: "86e9f15d-42fa-4cf3-b42b-834cab906e7a"
 
 で、ここで注目したいのが「iTunesに自動的に追加」というフォルダ。不思議なフォルダだなと思ったら、こういうことみたいです。
 
-> iTunes 9 以降には、「iTunes Music」または「iTunes Media」\* フォルダの下に「iTunes に自動的に追加」フォルダがあります。このフォルダに iTunes 互換コンテンツが読み込まれ、iTunes で互換性があるかどうか解析されて、iTunes ライブラリに追加されます。ファイルに互換性がない場合は、「追加なし」フォルダに置かれます。
+> iTunes 9 以降には、「iTunes Music」または「iTunes Media」* フォルダの下に「iTunes に自動的に追加」フォルダがあります。このフォルダに iTunes 互換コンテンツが読み込まれ、iTunes で互換性があるかどうか解析されて、iTunes ライブラリに追加されます。ファイルに互換性がない場合は、「追加なし」フォルダに置かれます。
 
-> \[From [iTunes 9：「iTunes に自動的に追加」フォルダについて](http://support.apple.com/kb/HT3832?viewlocale=ja_JP)\]
+> [From [iTunes 9：「iTunes に自動的に追加」フォルダについて](http://support.apple.com/kb/HT3832?viewlocale=ja_JP)]
 
 つまり、Apple Scriptやシェルスクリプトなどで作業しやすくなりましたよ、ということなんじゃないかと思います。これが何を意味することになるのかは分かりませんが、こういうインターフェイスの拡張は注目してあげるべきではないでしょうか。

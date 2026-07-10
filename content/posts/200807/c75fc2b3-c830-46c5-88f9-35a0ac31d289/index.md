@@ -16,7 +16,7 @@ slug: "c75fc2b3-c830-46c5-88f9-35a0ac31d289"
 
 > メンテナンス期間中、なるべく早くMobileMeをご利用いただけるように努力します。
 
-> \[From [Apple .Mac Welcome](http://www.mac.com/WebObjects/Welcome.woa?aff=consumer&cty=JP&lang=ja)\]
+> [From [Apple .Mac Welcome](http://www.mac.com/WebObjects/Welcome.woa?aff=consumer&cty=JP&lang=ja)]
 
 日本時間10日の10:00から( via [timeanddate.com](http://tinyurl.com/6o6uez) )のメンテナンスとなり、その後リリースされる形になると思います。期待していましょう！
 

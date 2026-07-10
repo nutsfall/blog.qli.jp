@@ -12,7 +12,7 @@ slug: "ff3572a9-4ac3-49f5-9ff0-b14e21d6ec89"
 
 > というような報告があがっているようです。
 
-> \[From [きゅーり.jp: Safari3.1でGmailが不調なことがあるらしい](http://blog.qli.jp/2008/03/safari31gmail-5.html)\]
+> [From [きゅーり.jp: Safari3.1でGmailが不調なことがあるらしい](http://blog.qli.jp/2008/03/safari31gmail-5.html)]
 
 ですが、その後WebKitの bugzillaに[bug 16381](http://bugs.webkit.org/show_bug.cgi?id=16381)として登録され、fixされました。
 

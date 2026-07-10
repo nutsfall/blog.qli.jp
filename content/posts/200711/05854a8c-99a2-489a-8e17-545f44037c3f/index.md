@@ -6,7 +6,7 @@ slug: "05854a8c-99a2-489a-8e17-545f44037c3f"
 ---
 TypePadが深夜のリニューアルで容量と転送量を増やしました。
 
-> TypePadの各プランの容量と転送量が大幅にアップされました！ \[From [Six Apart — TypePad Japan: 容量と転送量の大幅アップ、TypePad ビジネスクラス誕生！](http://www.sixapart.jp/typepad/inside/2007/11/011712.html)\]
+> TypePadの各プランの容量と転送量が大幅にアップされました！ [From [Six Apart — TypePad Japan: 容量と転送量の大幅アップ、TypePad ビジネスクラス誕生！](http://www.sixapart.jp/typepad/inside/2007/11/011712.html)]
 
 このブログでは特に転送量のかかるコンテンツをおいているわけではないので、直接恩恵を受けるわけではないですが、転送量の増加はとってもうれしいです。
 

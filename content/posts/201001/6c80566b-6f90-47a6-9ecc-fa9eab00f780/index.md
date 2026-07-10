@@ -16,7 +16,7 @@ slug: "6c80566b-6f90-47a6-9ecc-fa9eab00f780"
 
 他のメーカーからも出ているようなので、探してみたいとは思っています。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B002XHAS8C](https://www.amazon.co.jp/dp/B002XHAS8C)
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B002XHAS8C](https://www.amazon.co.jp/dp/B002XHAS8C)
 
 [Amazon](https://www.amazon.co.jp/dp/B001DD55OE)
 

@@ -4,7 +4,7 @@ date: "2015-06-01T12:56:30.000Z"
 tags: ["google-photos", "photography"]
 slug: "11003a8d-352a-4bfd-ab96-79fdbbd7e916"
 ---
-### 背景
+## 背景
 
 Google I/Oで Google Photosが発表されました。Google+から評判の写真機能だけを取り出したと言われるサービスです。
 
@@ -14,7 +14,7 @@ Google+の写真管理機能はもともとGoogle+で投稿された写真を管
 
 Google Photos開始のアナウンスとともに、Android / iOSのそれぞれのGoogle Photosアプリ、そして Mac / Windows用のアップロード用アプリがダウンロードできるようになっています。もちろん、Googleらしく、メインのインターフェイスはWEBに用意された [https://photos.google.com](https://photos.google.com) です。
 
-### 使ってみる
+## 使ってみる
 
 普段使っているiCloud Photo Libraryと切り替えたり、置き換わったりする必要もなさそうなので、入れてみています。
 
@@ -24,7 +24,7 @@ iCloud Photo Libraryで iPhone に同期されている6000枚程度の写真を
 
 個人的にはiCloud Photo Libraryよりも信頼が置けるので、オリジナルをどうしても保存したい / RAWがどうしても必要だ、という状況がなければ、写真管理をおまかせするのはアリです。Google+のころからの写真編集機能やアルバム機能も相変わらず優秀ですし。
 
-### Google+ はどうなるのか
+## Google+ はどうなるのか
 
 もっとも評価が高かった写真機能を失ったGoogle+がどうなるのか。Google+のスタッフはこんなポストをしています。
 

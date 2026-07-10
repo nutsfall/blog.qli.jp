@@ -8,18 +8,18 @@ slug: "4aa82c0e-e38c-4a98-b21f-9db35db28cd1"
 
 いや、本当に人が多かった。東福寺や清水寺といったメジャースポットはすごかったですね。天気はそれほどいいってわけでもなく、午前中はぽつりぽつりと来てました。
 
-[IMG\_1778](http://www.flickr.com/photos/beyondmywish/8213954882/)
+[IMG_1778](http://www.flickr.com/photos/beyondmywish/8213954882/)
 
 お昼は一度行ってお気に入りになった四条河原町から歩いて行けるとあるカフェへ。とても大好きな雰囲気なので、ぜひ東京にもほしいですね。
 
 夕方くらいになると、見事に青空が出てきて、ハッピーエンドで終わる物語のよう。
 
-[IMG\_1826](http://www.flickr.com/photos/beyondmywish/8212899801/)
+[IMG_1826](http://www.flickr.com/photos/beyondmywish/8212899801/)
 
 たまにiPhone5のパノラマを使ってみているのですが、太陽光がはいると簡単に白飛びするのですね、という写真
 
-[IMG\_1813](http://www.flickr.com/photos/beyondmywish/8214027552/)
+[IMG_1813](http://www.flickr.com/photos/beyondmywish/8214027552/)
 
 にしても、京都はたまにいくといい街ですね
 
-[IMG\_1854](http://www.flickr.com/photos/beyondmywish/8212943395/)
+[IMG_1854](http://www.flickr.com/photos/beyondmywish/8212943395/)

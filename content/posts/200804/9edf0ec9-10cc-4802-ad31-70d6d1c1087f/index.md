@@ -8,7 +8,7 @@ slug: "9edf0ec9-10cc-4802-ad31-70d6d1c1087f"
 
 > We’ve been working quietly for a while to port Jaiku to Google infrastructure. Today we’re taking off our welding goggles to announce Jaiku will be one of the first apps to run on the new Google App Engine.
 
-> \[From [Jaikido Blog | Wroom — we’re moving to Google App Engine](http://www.jaiku.com/blog/2008/04/08/wroom-were-moving-to-google-app-engine/)\]
+> [From [Jaikido Blog | Wroom — we’re moving to Google App Engine](http://www.jaiku.com/blog/2008/04/08/wroom-were-moving-to-google-app-engine/)]
 
 Google Appにて[Google App Engine](http://appengine.google.com/)というものを構築していて、その中でjaikuがGoogle App Engine用の初めのアプリとしてリリースされるそうです。ということは、組織内で使う簡単な会話ツールとして、ということを想定しているのかもしれません。
 

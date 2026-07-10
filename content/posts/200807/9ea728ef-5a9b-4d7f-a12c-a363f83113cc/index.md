@@ -12,7 +12,7 @@ slug: "9ea728ef-5a9b-4d7f-a12c-a363f83113cc"
 
 > これは譲ってはならない一線だ。
 
-> \[From [nobilog2: iPhoneについて誤解してはならない２つのポイント](http://nobi.cocolog-nifty.com/nobilog2/2008/07/iphone_e2c0.html#more)\]
+> [From [nobilog2: iPhoneについて誤解してはならない２つのポイント](http://nobi.cocolog-nifty.com/nobilog2/2008/07/iphone_e2c0.html#more)]
 
 これ、自分も個人的に心配しているiPhone失敗のシナリオ。Appleはハードウェアメーカだけど、同時にコンセプトを作って売っている会社。携帯電話という非常にマスにターゲットできる市場なだけに、そのコンセプトや製品の意味を理解しない人（どうやら”できない”人もいるっぽい）が買っていくようであれば、最悪なシナリオを歩む可能性が高い。
 

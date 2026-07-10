@@ -7,7 +7,7 @@ slug: "c50df210-d8ac-4130-b4a8-78c779c928c2"
 ---
 今年もあっという間に１ヶ月が過ぎました。今日は節分、明日は春分。寒さももう少し、という感じですね。その前にひと山ありそうです。
 
-#### iPhoneの充電環境を更新した
+## iPhoneの充電環境を更新した
 
 昨年の終わり頃、iPhoneの充電環境を変えました。今は、BelkinのBoostCharge Proを使っています。
 
@@ -17,13 +17,13 @@ iPhoneとApple Watchを使っています。どちらも充電できることが
 
 iPhoneは寝てる間に充電していて、Apple Watchは寝てる間に腕につけています。充電タイミングが異なるので、どちらも同時に充電することはないのですが、使っていない方でいつでもAirPods Proの充電ができるので、とても気に入っています。
 
-#### AirPods Proのケースを買い替えた
+## AirPods Proのケースを買い替えた
 
 こっそりAirPods ProのUSB-Cケースの単体売りが始まっていました。さくっと購入して使っています。普段の生活ではUSB-C端子を使うことはないので気にする必要はないのですが、旅行先では無線充電ではなく、ケーブルで充電することが多く、Lightningケーブルの持ち歩きを避けることができています。
 
 [AirPods Pro（第2世代）MagSafe充電ケース（USB-C）を購入](https://www.apple.com/jp/shop/product/MUYG3J/A/)
 
-#### 残ったLightning端子
+## 残ったLightning端子
 
 自分の周りのAppleデバイスでLightning端子を使う必要があるのは、
 

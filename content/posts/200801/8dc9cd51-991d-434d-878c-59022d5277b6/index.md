@@ -10,7 +10,7 @@ MacBook Airという選択肢が増え、そしていよいよPenryn搭載MacBoo
 
 > Microsoftは米国時間1月21日、再度方針を転換し、「Windows Vista Home Basic」と「Windows Vista Home Premium」を仮想マシン上でゲストOSとして実行することを可能にする予定だと発表した。
 
-> \[From [MS、Vista仮想化で再度方針転換 — Home Basic、Home Premiumも利用可能に:ニュース — CNET Japan](http://japan.cnet.com/news/ent/story/0,2000056022,20365392,00.htm)\]
+> [From [MS、Vista仮想化で再度方針転換 — Home Basic、Home Premiumも利用可能に:ニュース — CNET Japan](http://japan.cnet.com/news/ent/story/0,2000056022,20365392,00.htm)]
 
 これまではVistaの下位エディションはライセンス上禁止どころか、”仮想環境では動きません”とまでヘルプ窓口が言い張るほどのものだったのですが、動かしていい、実は動きますよ、という方向に変わるらしい。前回変わると言われていて、前言撤回したことがある前科がありますが、ハードウェアとのコラボレーションという道を歩むAppleと異なり、ソフトウェアの世界で生きているMicrosoftにとって、ライバルであるXenを含めた仮想環境市場こそが、次の道だと考えているかも知れません。
 

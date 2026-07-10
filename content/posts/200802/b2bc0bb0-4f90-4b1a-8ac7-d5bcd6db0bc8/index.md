@@ -9,7 +9,7 @@ slug: "b2bc0bb0-4f90-4b1a-8ac7-d5bcd6db0bc8"
 
 > 従来機からディスプレイをタッチパネル化し、3.5 インチ VGA（800×480 ピクセル）サイズに拡大。130 万画素カメラを内蔵し、Flash 再生に対応するなど「もう 1 度作り直したと言っていいぐらい」（ソニー広報センター）大幅に機能を強化した
 
-> \[From [“もう一度作り直した”ソニー「mylo」新作 YouTube・mixi に一発接続  — ITmedia News](http://www.itmedia.co.jp/news/articles/0802/19/news039.html)\]
+> [From [“もう一度作り直した”ソニー「mylo」新作 YouTube・mixi に一発接続  — ITmedia News](http://www.itmedia.co.jp/news/articles/0802/19/news039.html)]
 
 カメラ付き。画面を拡大。Flash 搭載。これらのスペックを見る限り mylo 購入者からのフィードバックを忠実に取り入れたものといってよさそうです。前回はソニーマーケティングが頑張って売っていたという印象がぬぐえませんでしたが、今回はソニー本体もきちんとセールスしてくれるようです。
 

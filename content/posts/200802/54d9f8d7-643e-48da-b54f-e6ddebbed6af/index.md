@@ -8,7 +8,7 @@ slug: "54d9f8d7-643e-48da-b54f-e6ddebbed6af"
 
 > Few details have been made available, but the SDK has been reportedly been seeded to select developers in the months ahead of its release. The event will take places at 10am Pacific time at Apple’s Cupertino campus.
 
-> \[From [iPhone, iPod Touch SDK Details March 6th — Mac Rumors](http://www.macrumors.com/2008/02/27/iphone-ipod-touch-sdk-details-march-6th/)\]
+> [From [iPhone, iPod Touch SDK Details March 6th — Mac Rumors](http://www.macrumors.com/2008/02/27/iphone-ipod-touch-sdk-details-march-6th/)]
 
 多少遅れるのではないかとのウワサも飛び交っていましたが、遅れるという公式発表はなく、ただ来週のイベントが発表された形です。イベントは3月6日現地時間10時(日本時間7日午前3時)からApple本社で行われます。
 

@@ -10,7 +10,7 @@ slug: "d88336f3-8f7c-4334-bdb8-4cf625e660ca"
 
 *   [iPhone用カールツァイスの広角レンズ「ExoLens with Optics by ZEISS」が発売開始](http://www.danshihack.com/2016/06/22/junp/iphoneaccessory-zeiss-2.html)
 
-### 写真を撮ってみました
+## 写真を撮ってみました
 
 作例はカシマスタジアムです。東京からバスで2時間という遠さですが本当にいいスタジアムだと思います。
 
@@ -22,7 +22,7 @@ slug: "d88336f3-8f7c-4334-bdb8-4cf625e660ca"
 
 *   [@exolens instagram](https://www.instagram.com/exolens/?hl=ja)
 
-### 装着感
+## 装着感
 
 カメラをつけると、すこし重心が変わります。レンズ自体も重いので重さもそこそこあります。歩きながら撮るときに使うというより、写真を狙うポジションまで移動した後でカバンからレンズを取り出しつけるという使い方になると思います。(もちろんもう一台撮影用のiPhoneを用意してもいいのですが)
 

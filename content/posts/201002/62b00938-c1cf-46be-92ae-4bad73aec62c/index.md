@@ -10,4 +10,4 @@ slug: "62b00938-c1cf-46be-92ae-4bad73aec62c"
 
 “時代”のせいにするくらいなら、このくらいの知識は知っているべきなんじゃないかなと思います。これを読んで何を感じるか、何をはじめるかは人それぞれだとは思いますが、行動が変わるきっかけになり得る、そんな本だと思います。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=4334975712](https://www.amazon.co.jp/dp/4334975712)
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=4334975712](https://www.amazon.co.jp/dp/4334975712)

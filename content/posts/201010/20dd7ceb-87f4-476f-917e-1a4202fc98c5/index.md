@@ -8,7 +8,7 @@ MobileMeでしばらくベータテストされていた新カレンダーがベ
 
 > 新しいMobileMeカレンダーのベータ版が終了し、すべてのメンバーの皆様にご利用いただけるようになりました。ベータ版に参加し、これまでで最高のMobileMeカレンダーを作り上げることにご協力していただいた皆様に感謝します
 
-> \[From [アップル — MobileMe — News — 新しいMobileMeカレンダーがリリース](http://www.apple.com/jp/mobileme/news/2010/10/mobileme-12.html)\]
+> [From [アップル — MobileMe — News — 新しいMobileMeカレンダーがリリース](http://www.apple.com/jp/mobileme/news/2010/10/mobileme-12.html)]
 
 MobileMeカレンダーはあくまでiCal上に本体があり、データをクラウドと同期する仕組みになっていましたが、今回のリリースにより、CalDAVベースになります。
 

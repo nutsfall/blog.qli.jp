@@ -12,7 +12,7 @@ slug: "44d61651-8444-42da-8651-9a2a784cd690"
 
 **iTunes：**iTunes 8 が登場するそうです。新しいビジュアライゼーションが追加されるとか。また、HD品質のTV番組が楽しめるようになるとか。HD品質は、今年発表となるiPodから対応するようですね。日本ではビデオレンタルすらも始まっていないので、あまり関係がないですが。これまでのiTunesのように、急なbug fixで8.1が出たりしないことをお祈りしておきます。( via [MacRumors](http://www.macrumors.com/2008/09/03/itunes-8-playlist-recommendations-visualizations/) )新しいビジュアライゼーションはvimeoにビデオが上がっているので掲載しておきます。
 
-[http://vimeo.com/moogaloop.swf?clip\_id=169308&server=vimeo.com&show\_title=1&show\_byline=1&show\_portrait=0&color=00adef&fullscreen=1](http://vimeo.com/moogaloop.swf?clip_id=169308&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00adef&fullscreen=1)  
+[http://vimeo.com/moogaloop.swf?clip_id=169308&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00adef&fullscreen=1](http://vimeo.com/moogaloop.swf?clip_id=169308&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=00adef&fullscreen=1)  
   
 [Magnetosphere revisited (audio by Tosca)](http://vimeo.com/169308?pg=embed&sec=169308) from [flight404](http://vimeo.com/flight404?pg=embed&sec=169308) on [Vimeo](http://vimeo.com?pg=embed&sec=169308).
 

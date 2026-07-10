@@ -6,7 +6,7 @@ slug: "80bcfa2f-3c73-4050-ab65-739abbe191ef"
 ---
 コメント書こうとしたらいろいろ書きたくなったので、エントリーにしました(汗、いっぱい)。
 
-[プラットフォームとしてのブラウザ — Speed Feed \[ITmedia オルタナティブ・ブログ\]](http://blogs.itmedia.co.jp/speedfeed/2006/07/post_31f8.html)
+[プラットフォームとしてのブラウザ — Speed Feed [ITmedia オルタナティブ・ブログ]](http://blogs.itmedia.co.jp/speedfeed/2006/07/post_31f8.html)
 
 > しかし、その僕でもFirefoxを使う頻度が上がっている理由はfeedpathのBlogエディタがSafariではすべての機能を使うことができないためだ。（この理由についてはここでは触れない）
 

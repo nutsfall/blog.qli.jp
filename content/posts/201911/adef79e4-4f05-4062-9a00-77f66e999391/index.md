@@ -7,7 +7,7 @@ slug: "adef79e4-4f05-4062-9a00-77f66e999391"
 ---
 Beats Solo Pro と AirPods Pro を3日ほど使ったので感想を。
 
-#### AirPods Pro
+## AirPods Pro
 
 つけていることを忘れるほどの装着性とノイズキャンセリングというのがAirPods Proの最大の特徴だと思う。
 
@@ -17,7 +17,7 @@ Beats Solo Pro と AirPods Pro を3日ほど使ったので感想を。
 
 AirPods Proは、すぐに “Transparency” モードにうつれるようにすることで外さずに会話するという提案をした。外部音を取り込むモードはノイズキャンセリングの歴史上、いろんなデバイスにあったが、ほんとうに自然に音を取り込むことができる。iPhoneやWatchからもコントロールができるようにしたのも使い勝手の上でとても良い。
 
-#### Beats Solo Pro
+## Beats Solo Pro
 
 Beats の音といえば、低音がブーストされた音をイメージする方が多いようなのだけれども、Appleに買収されてからのモデルでは、少しずつAppleらしいフラットなサウンドになってきた。
 

@@ -6,7 +6,7 @@ slug: "58a8f191-2844-441f-85b2-98778fd7d0fb"
 ---
 Twitter経由でこういうエントリーがあったので反応してみる。
 
-[Operaのよいところってどこですか? | caramel\*vanilla](http://caramel-tea.com/2007/04/opera/)
+[Operaのよいところってどこですか? | caramel*vanilla](http://caramel-tea.com/2007/04/opera/)
 
 > コメント・トラックバック・ソーシャルブックマークのコメント・Twitter…なんでもいいのでOperaに対するご意見を聞けたらなって考えています。
 

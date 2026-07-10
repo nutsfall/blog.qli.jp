@@ -8,7 +8,7 @@ slug: "3b1fc192-54bc-4cf7-9a1a-107f773a84b3"
 
 > このデバイスは二つともいずれベライゾンワイヤレスがやることになるかもしれない。そのひとつは早ければこの夏にも。（さあWWDCのウワサの始まりだ！）
 
-> \[From [［CG］さあ、アップルとベライゾンが組んでiPhone liteとマルチメディアタブレットを出すぞ！](http://jp.techcrunch.com/archives/20090428apple-verizon-wireless-sitting-in-a-tree-%E2%80%98iphone-lite%E2%80%99-multimedia-tablet-en-route-to-vzw/) \]
+> [From [［CG］さあ、アップルとベライゾンが組んでiPhone liteとマルチメディアタブレットを出すぞ！](http://jp.techcrunch.com/archives/20090428apple-verizon-wireless-sitting-in-a-tree-%E2%80%98iphone-lite%E2%80%99-multimedia-tablet-en-route-to-vzw/) ]
 
 どうやらAppleのタブレットには電話機能がついていて、回線契約をすることができるとのこと。で、その回線として選ばれたのが、アメリカでは№1のオペレータであるベライゾン。
 

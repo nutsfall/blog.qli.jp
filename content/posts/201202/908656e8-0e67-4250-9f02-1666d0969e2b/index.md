@@ -22,4 +22,4 @@ slug: "908656e8-0e67-4250-9f02-1666d0969e2b"
 
 最近、岩井俊二さん著「番犬は庭を守る」を読みました。原子力発電所の臨界事故により、放射能に汚染されたあとの社会の物語です。臨界事故で汚染された世界でも、また臨界事故が起きてしまう。あの世界がいつまでもフィクションであることを願うばかりです。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss\_til&asins=4344021231](https://www.amazon.co.jp/dp/4344021231)
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4344021231](https://www.amazon.co.jp/dp/4344021231)

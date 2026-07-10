@@ -6,7 +6,7 @@ slug: "e278c960-0163-4d7a-924f-e23127712004"
 ---
 > まだ10通ほど招待メールがありますので、試してみたいというかたがおられましたらコンタクトフォームからご連絡ください
 
-> \[From [Evernote の招待メールがやってきました | Lifehacking.jp](http://lifehacking.jp/2008/03/evernote-invite/)\]
+> [From [Evernote の招待メールがやってきました | Lifehacking.jp](http://lifehacking.jp/2008/03/evernote-invite/)]
 
 というわけで、いつも拝見させていただいているLifehacking.jpのmehoriさんからEvernoteのinviteを頂き早速試しています。実はこのポストがなければこんなサービスがあるなんて知らなかったのですが。(TechCrunchとか読み飛ばしてるかも)
 

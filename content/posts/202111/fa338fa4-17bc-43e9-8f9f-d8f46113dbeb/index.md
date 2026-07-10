@@ -7,7 +7,7 @@ slug: "fa338fa4-17bc-43e9-8f9f-d8f46113dbeb"
 ---
 先日少し時間をとってワーケーションをやってきました。その時に役に立ったものをガジェット目線でまとめます。
 
-#### Anker PowerPort Atom III 63W Slim
+## Anker PowerPort Atom III 63W Slim
 
 [Anker PowerPort Atom III 63W Slim (PD 充電器 4ポート USB-C 急速充電器)【PPS規格対応 / PD対応 / PowerIQ 3.0 (Gen2)搭載 /…](https://amzn.to/3kMZENk)
 
@@ -15,7 +15,7 @@ slug: "fa338fa4-17bc-43e9-8f9f-d8f46113dbeb"
 
 この一段で、MacBook Pro、Apple Watch、iPad Pro、iPhoneと充電することができるので重宝しています。それぞれのデバイスは充電タイミングが異なり、同時に充電することは稀なので、ケーブルだけ挿しておいて使っていました。
 
-#### iPad Pro
+## iPad Pro
 
 [iPad Pro](https://www.apple.com/jp/ipad-pro/)
 
@@ -23,13 +23,13 @@ slug: "fa338fa4-17bc-43e9-8f9f-d8f46113dbeb"
 
 動画を見る以外にもブラウジングなどにも使っていたので、本当に何にでもなるコンピュータだなと思います。
 
-#### AirPods （第３世代）
+## AirPods （第３世代）
 
 [AirPods（第3世代）](https://www.apple.com/jp/airpods-3rd-generation/)
 
 今回は荷物が多かったので、少しでも減らすべく、AirPods MaxではなくAirPodsを持っていくことにしました。携帯性もよく、また機能性も十分でちょうどよかったと思います。空間オーディオにも対応しているので、iPad Pro で動画を見るのにも十分でした。
 
-#### Bluetoothスピーカー
+## Bluetoothスピーカー
 
 今回の旅ではSonos Roamを持っていく予定でした。まだ外に持ち出したことがなかったのですが、荷物が多かったので今回は断念。ホテルに備え付けのbluetoothスピーカーがあったので、部屋で仕事中にBGMを流したりしていました。あとradiko経由でラジオ番組流したり。
 
@@ -37,7 +37,7 @@ slug: "fa338fa4-17bc-43e9-8f9f-d8f46113dbeb"
 
 [Sonos Roam | Sonos(ソノス)公式オンラインストア](https://www.sonos.com/ja-jp/shop/roam.html)
 
-#### NT-USB mini
+## NT-USB mini
 
 [NT-USB Mini | Studio Quality USB Microphone | RØDE Microphones](https://ja.rode.com/microphones/usb/nt-usb-mini)
 
@@ -47,7 +47,7 @@ slug: "fa338fa4-17bc-43e9-8f9f-d8f46113dbeb"
 
 スピーカーは静かな場所であれば、Mac本体のスピーカーでも良いと思っています。AirPodsを使ってもよいと思います。この製品は、ワイヤードのヘッドフォンをつなげることで、モニタリングと共にスピーカーとして使うことができますが、ヘッドフォンは荷物になるので、持ち運ぶことは諦めました。
 
-#### まとめ
+## まとめ
 
 今回のワーケーションで役に立ったガジェットたちを紹介しました。今回は自然の中でのワーケーションを実施したのですが、今度は都市部のホテルでのワーケーションも試してみたいと思っています。
 

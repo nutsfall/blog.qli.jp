@@ -19,10 +19,10 @@ slug: "f0ba327e-7c97-47b4-b286-bd9dd021345e"
 
 東京という同じ場所で見方によってさまざまな音楽が作られていく。文学のような楽しみ方ですが、こういう楽しみ方もありですよね。
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B0031QYEG6](https://www.amazon.co.jp/dp/B0031QYEG6)
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B0031QYEG6](https://www.amazon.co.jp/dp/B0031QYEG6)
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B000G02WPK](https://www.amazon.co.jp/dp/B000G02WPK)
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B000G02WPK](https://www.amazon.co.jp/dp/B000G02WPK)
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B000E1NYLC](https://www.amazon.co.jp/dp/B000E1NYLC)
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B000E1NYLC](https://www.amazon.co.jp/dp/B000E1NYLC)
 
-[http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B001H0GBZ0](https://www.amazon.co.jp/dp/B001H0GBZ0)
+[http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B001H0GBZ0](https://www.amazon.co.jp/dp/B001H0GBZ0)

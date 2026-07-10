@@ -16,6 +16,6 @@ slug: "51dcd01d-0046-483a-968b-53a7e6568537"
 
 プロモーションビデオもあったので貼り付けておきます。
 
-\[vimeo [http://www.vimeo.com/1529825](http://www.vimeo.com/1529825) w=400&h=302\]  
+[vimeo [http://www.vimeo.com/1529825](http://www.vimeo.com/1529825) w=400&h=302]  
   
 [Blog Action Day 2008 Poverty](http://www.vimeo.com/1529825?pg=embed&sec=1529825) from [Blog Action Day](http://www.vimeo.com/user677567?pg=embed&sec=1529825) on [Vimeo](http://vimeo.com?pg=embed&sec=1529825).

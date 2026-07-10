@@ -12,6 +12,6 @@ slug: "ef2ebbde-b879-45ac-8718-227f72cc51bb"
 
 > MobileMe syncing is the highest priority for us. It will be available in a free 1.x update sometime after we ship the 1.0 release at Macworld
 
-> \[From [Sync with MobileMe](http://culturedcode.com/things/forums/read.php?4,9071,13398#msg-13398)\]
+> [From [Sync with MobileMe](http://culturedcode.com/things/forums/read.php?4,9071,13398#msg-13398)]
 
 簡単に訳すと、「MobileMeを使った同期は重要だと思う。1.0のリリースの後、いつか無料アップデートで可能になるだろう。」とのこと。”sometime”がそれほど遠い将来になるとは思えないので、数ヶ月のうちには可能になると思われます。期待したいです！

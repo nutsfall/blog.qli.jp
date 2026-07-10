@@ -12,25 +12,25 @@ slug: "3fb674ef-8a85-471d-8d5a-794005c31021"
 
 というわけで、今年1年に出会ったアルバムの中からお気に入りのアルバムを紹介していく。リンクは全部Apple Musicなので、Spotify派やGoogle Music派の場合は検索してみてください。
 
-#### Songline by くるり、重力と呼吸 by Mr.Children
+## Songline by くるり、重力と呼吸 by Mr.Children
 
 Mr.Childrenとくるりのこのアルバムは、それぞれのキャラクターの安定感を感じる。ずっと同じ曲だと飽きてしまうけど、新しいアルバムにそれぞれのバンドの味が滲み出ていて、安心感がある、そんな感じ。
 
 [‎くるりの「ソングライン」](https://itunes.apple.com/jp/album/songline/1413641821)
 
-#### スポットライト by FLOWER FLOWER
+## スポットライト by FLOWER FLOWER
 
 最初 FLOWER FLOWER を聞いた時に、YUIとの違いを意識してるのかなと思ったこともあったけど、自由にロックをやっている印象が強くなった。「パワフル」のキャッチーさとかは、とてもYUIを彷彿とさせる。
 
 [‎FLOWER FLOWERの「スポットライト (Extra Edition)」](https://itunes.apple.com/jp/album/%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%A9%E3%82%A4%E3%83%88-extra-edition/1350314975)
 
-#### Luby Sparks by Luby Sparks
+## Luby Sparks by Luby Sparks
 
 もともと聞いていたYuckのtweetで知ったんだと思うけど、Luby SparksもYuckのように、ギターを歪ませるタイプのロック。Yuckみたいなサウンドをやるバンドが、日本から出てくるということに最初は驚きを感じた。
 
 [‎Luby Sparksの「Luby Sparks」](https://itunes.apple.com/jp/album/luby-sparks/1329831656)
 
-#### REI by Rei
+## REI by Rei
 
 やっとアルバムを出してくれた、という印象が強いRei。ギターテクニックとかが言われることが多いですが、このアルバムを通して聞いてみて、改めて、アイデアの豊富さとか、バックグランドにある音楽の厚みみたいなものを感じることができた。
 
@@ -38,13 +38,13 @@ Mr.Childrenとくるりのこのアルバムは、それぞれのキャラクタ
 
 [‎Reiの「REI」](https://itunes.apple.com/jp/album/rei/1437479390)
 
-#### 誕生 by チャットモンチー
+## 誕生 by チャットモンチー
 
 今年の大きなトピックはいくつかあって、そのひとつがチャットモンチー。これを聞いて、武道館の最後のライブを見て、走り抜けた気持ちよさみたいなのが伝わってきて、チャットモンチーがお休みすることに強い肯定感があった。
 
 [‎チャットモンチーの「誕生 (Bonus Track Edition)」](https://itunes.apple.com/jp/album/%E8%AA%95%E7%94%9F-bonus-track-edition/1388774324)
 
-#### DISTANCE by Attractions
+## DISTANCE by Attractions
 
 やっぱこれ紹介してしまう。もう知ってる人は知っているので解説の必要はないと思うけど、記事を貼って解説がわりにしておく。
 
@@ -54,7 +54,7 @@ Mr.Childrenとくるりのこのアルバムは、それぞれのキャラクタ
 
 東京拠点のメジャーレーベルとかに行かずに勝手に世界でウケてしまえばいいと思う。それくらいのことはできるサウンドだと思うし、それが福岡っぽい。
 
-#### 最後に
+## 最後に
 
 今年入手したアルバムを出してみて、いくつか選んでこういう記事を書くんだけど、今年は新しいバンドやミュージシャンが目立った一年だなと思うし、アルバムは出なかったので記事にはないけど、あいみょんがブレイクした1年だったかなと思う。
 

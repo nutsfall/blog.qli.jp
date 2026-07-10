@@ -8,7 +8,7 @@ slug: "08748301-05a9-4457-a834-f04541bf3f7d"
 
 黒いミラネーゼループは、実はちょっとしたトラブルで存在が明らかになったりしたものの、なかなか登場しませんでした。
 
-*   [9to5mac: Apple leaks unreleased Space Black Milanese Loop Apple Watch band on Czech store site \[Update: Gone!\]](http://9to5mac.com/2016/01/06/apple-watch-leak-space-black-milanese-loop-new-band/)
+*   [9to5mac: Apple leaks unreleased Space Black Milanese Loop Apple Watch band on Czech store site [Update: Gone!]](http://9to5mac.com/2016/01/06/apple-watch-leak-space-black-milanese-loop-new-band/)
 
 イベントの中で発表されたApple Watchのバンドで特に注目されたのは、ウーブンナイロン。ところがその中でこっそり紹介されたいのが、スペースブラックミラネーゼループでした。
 

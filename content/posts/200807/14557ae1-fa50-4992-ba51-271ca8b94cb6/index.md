@@ -13,7 +13,7 @@ slug: "14557ae1-fa50-4992-ba51-271ca8b94cb6"
 
 表参道に到着すると、朝8時の時点で行列が出来ていて、最後尾は陸橋の当たりまできていました（下に地図載せました）。並ぼうとすると、16GBは売り切れていて入荷未定であること、8GBのみの販売であることを知らされました。
 
-\[googlemaps [https://maps.google.com/maps/ms?hl=ja&ie=UTF8&s=AARTsJpABHo6sUxqPkHR\_6cnoA3mFMoRzQ&msa=0&msid=109088814049508711478.000451cc6286121902794&ll=35.669351,139.703715&spn=0.002615,0.003219&z=17&output=embed&w=300&h=300\]](https://maps.google.com/maps/ms?hl=ja&ie=UTF8&s=AARTsJpABHo6sUxqPkHR_6cnoA3mFMoRzQ&msa=0&msid=109088814049508711478.000451cc6286121902794&ll=35.669351,139.703715&spn=0.002615,0.003219&z=17&output=embed&w=300&h=300])
+\[googlemaps [https://maps.google.com/maps/ms?hl=ja&ie=UTF8&s=AARTsJpABHo6sUxqPkHR_6cnoA3mFMoRzQ&msa=0&msid=109088814049508711478.000451cc6286121902794&ll=35.669351,139.703715&spn=0.002615,0.003219&z=17&output=embed&w=300&h=300\]](https://maps.google.com/maps/ms?hl=ja&ie=UTF8&s=AARTsJpABHo6sUxqPkHR_6cnoA3mFMoRzQ&msa=0&msid=109088814049508711478.000451cc6286121902794&ll=35.669351,139.703715&spn=0.002615,0.003219&z=17&output=embed&w=300&h=300])
 
 それから約3時間、11時くらいに店内に入れたと思います。店内は普段は端末のディスプレイが華やかに行われている1Fの右側部分がすべて簡易受付になっていました。いすも置けない環境で、ただPC(IBM Tinkpad)と、そしてその下にプリンタ、USB外付けHDD、そしてOCRがおいてあるという環境。ソフトバンクの方々もばたばたと事務処理をこなしている印象でした。
 

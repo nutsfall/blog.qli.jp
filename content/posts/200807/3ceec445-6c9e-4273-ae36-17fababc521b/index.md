@@ -8,7 +8,7 @@ NTTドコモがBlackBerryの個人向けサービスを始めるそうです。
 
 > NTTドコモは、スマートフォン「BlackBerry」の個人向けサービス「ブラックベリーインターネットサービス」を8月1日より開始する。
 
-> \[From [ドコモ、個人向け「BlackBerry」サービス8月1日開始](http://k-tai.impress.co.jp/cda/article/news_toppage/40748.html#) \]
+> [From [ドコモ、個人向け「BlackBerry」サービス8月1日開始](http://k-tai.impress.co.jp/cda/article/news_toppage/40748.html#) ]
 
 これはつまりSoftbankのiPhoneに対抗するためのサービスだと思うのは早計でしょうか？でも、これで日本でiPhone 対 BlackBerry のシェア争いが始まるわけですね。
 

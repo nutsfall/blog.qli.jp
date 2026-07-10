@@ -8,7 +8,7 @@ slug: "c6f9a11b-d5e6-42a3-82e5-4050ea522fa0"
 
 > この度、ソフトバンクモバイル株式会社は、今年中に日本国内において「iPhone」を発売することにつきまして、アップル社と契約を締結したことを発表いたします。
 
-> \[From [「iPhone」について | ソフトバンクモバイル株式会社](http://www.softbankmobile.co.jp/ja/news/press/2008/20080604_01/)\]
+> [From [「iPhone」について | ソフトバンクモバイル株式会社](http://www.softbankmobile.co.jp/ja/news/press/2008/20080604_01/)]
 
 これでひとまず国内向けにiPhoneが発売されること、そして3G版のiPhoneが登場することは確定しました。(ドコモから確実に発売されないという話ではありません）
 

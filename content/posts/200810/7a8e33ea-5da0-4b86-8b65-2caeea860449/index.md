@@ -10,6 +10,6 @@ slug: "7a8e33ea-5da0-4b86-8b65-2caeea860449"
 
 > ちまたで噂になっているGetting Things Done(GTD)ですが、「興味あるけど、どっから始めたら…」という方にピッタリのGTDツールをご紹介。
 
-> \[From [GTDの基礎をデスクトップで学べるツール『GTD Free』（無料） : ライフハッカー［日本版］, 仕事も生活も上手くこなすライフハック情報満載のブログ・メディア](http://www.lifehacker.jp/2008/10/gtd_free_getting_things_done.html)\]
+> [From [GTDの基礎をデスクトップで学べるツール『GTD Free』（無料） : ライフハッカー［日本版］, 仕事も生活も上手くこなすライフハック情報満載のブログ・メディア](http://www.lifehacker.jp/2008/10/gtd_free_getting_things_done.html)]
 
 Javaで作られているのでマルチプラットフォームで動くようです。英語版のみですが、あのフローを回していきやすくなっているようなので試してみるのもいいのではないでしょうか？
