@@ -85,10 +85,10 @@
 - [#13](https://github.com/nutsfall/blog.qli.jp/issues/13) 壊れ画像ファイル10件の調査・復元（実体がテキスト/HTML。Phase 7で発見）
 - [#14](https://github.com/nutsfall/blog.qli.jp/issues/14) 旧記事タイトルの文字化け（U+FFFD）の調査・修正（Phase 3で発見）
 - [#15](https://github.com/nutsfall/blog.qli.jp/issues/15) UUID slugの扱いの検討
-- [#16](https://github.com/nutsfall/blog.qli.jp/issues/16) 旧記事1832件のoriginal_url補完の可否調査
 
 ## 対応しないと決めたもの
 
+- 旧記事1832件の `original_url` 補完 — 不要と判断（2026-07-10、[#16](https://github.com/nutsfall/blog.qli.jp/issues/16) クローズ済み）
 - 三点リーダ代用 `･･･`（64件）— 当時の文体として保存
 - エスケープ残骸24件 — レンダリングに影響するため据え置き（外すと表示が変わる）
 - 未正規化Amazonリンク1件（201508/a87ddf56… の `/pv`）— ASINなしの一般リンク
