@@ -1,9 +1,6 @@
 ---
-title: 'Enemy :: the brilliant green'
-description: ''
-date: '2007-12-22T21:53:30.000Z'
-categories: []
-keywords: []
+title: "Enemy :: the brilliant green"
+date: "2007-12-22T21:53:30.000Z"
 tags: ["the-brilliant-green", "music"]
 slug: "8dcd3d42-26c6-4601-8b36-0a4d92ac183c"
 ---

@@ -1,9 +1,6 @@
 ---
 title: MacBook Pro 再設計モデル？
-description: ''
-date: '2006-07-12T14:17:37.000Z'
-categories: []
-keywords: []
+date: "2006-07-12T14:17:37.000Z"
 tags: ["macbook-pro", "apple"]
 slug: "98580805-03c1-4ff5-8aeb-f15bf75295f8"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Picasa日本語版サービス開始
-description: ''
-date: '2006-12-07T15:23:50.000Z'
-categories: []
-keywords: []
+date: "2006-12-07T15:23:50.000Z"
 tags: ["picasa", "photo-sharing"]
 slug: "f729eb24-bd0e-4d96-b90f-b3b398b2c675"
 ---

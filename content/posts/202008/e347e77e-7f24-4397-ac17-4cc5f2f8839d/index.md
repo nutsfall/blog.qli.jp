@@ -1,9 +1,7 @@
 ---
 title: 新しいLoggingのカタチ；文章と写真と、そしてビデオと音声
 description: Blogだけじゃなく、vlogが登場するなど、 “logging”の方法もさまざまな方法が出てきたので、それについて少し考えてみました。
-date: '2020-08-22T02:42:39.350Z'
-categories: []
-keywords: []
+date: "2020-08-22T02:42:39.350Z"
 tags: ["blogging", "vlog", "stand-fm"]
 slug: "e347e77e-7f24-4397-ac17-4cc5f2f8839d"
 ---

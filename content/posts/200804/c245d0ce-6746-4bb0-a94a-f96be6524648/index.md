@@ -1,9 +1,6 @@
 ---
 title: SocialThing!の招待メールが届いた
-description: ''
-date: '2008-04-05T00:37:38.000Z'
-categories: []
-keywords: []
+date: "2008-04-05T00:37:38.000Z"
 tags: ["socialthing", "friendfeed"]
 slug: "c245d0ce-6746-4bb0-a94a-f96be6524648"
 ---

@@ -1,9 +1,6 @@
 ---
 title: "houki boshi : Mr.Children"
-description: ""
 date: "2006-07-05T23:05:57.000Z"
-categories: []
-keywords: []
 tags: ["mr-children", "music"]
 slug: "4d331f78-500e-45c9-9a2a-29473eed662b"
 ---

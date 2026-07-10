@@ -2,8 +2,6 @@
 title: OmniFocus 4.7正式リリース：予定日ってどんな感じ？
 description: 新しい「予定日」機能を触ってみた感想と、一緒に追加された相互排他的タグ、繰り返し機能についても。これまでの習慣が変わりそうな予感。
 date: "2025-08-30T03:01:42.308Z"
-categories: []
-keywords: []
 tags: ["omnifocus", "productivity"]
 slug: "15226ca0-bd2e-43ba-8855-2b3900c2809e"
 ---

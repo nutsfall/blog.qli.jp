@@ -1,9 +1,6 @@
 ---
 title: au 2010 夏モデル S004 を触ってきた
-description: ''
-date: '2010-05-17T22:07:36.000Z'
-categories: []
-keywords: []
+date: "2010-05-17T22:07:36.000Z"
 tags: ["au", "snapdragon"]
 slug: "872d4677-4326-40b8-9e38-5c609f50599b"
 ---

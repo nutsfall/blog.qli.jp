@@ -1,9 +1,6 @@
 ---
 title: LOVE HONEY by 大塚愛
-description: ''
-date: '2017-04-15T03:15:19.154Z'
-categories: []
-keywords: []
+date: "2017-04-15T03:15:19.154Z"
 tags: ["ai-otsuka", "j-pop", "apple-music"]
 slug: "9d2a0992-f800-4de5-91ae-37e150c2ef7e"
 ---

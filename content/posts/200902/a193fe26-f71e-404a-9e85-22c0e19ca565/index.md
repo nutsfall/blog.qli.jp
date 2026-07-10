@@ -1,9 +1,6 @@
 ---
 title: twitter3年目に突入しました
-description: ''
-date: '2009-02-22T15:03:30.000Z'
-categories: []
-keywords: []
+date: "2009-02-22T15:03:30.000Z"
 tags: ["twitter"]
 slug: "a193fe26-f71e-404a-9e85-22c0e19ca565"
 ---

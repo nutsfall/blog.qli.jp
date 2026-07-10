@@ -1,9 +1,6 @@
 ---
 title: 802.11nは速いです
-description: ''
-date: '2008-03-23T01:27:33.000Z'
-categories: []
-keywords: []
+date: "2008-03-23T01:27:33.000Z"
 tags: ["airmac-extreme", "wifi"]
 slug: "04d524d4-1f04-4d3c-9f4d-d0219edf29e0"
 ---

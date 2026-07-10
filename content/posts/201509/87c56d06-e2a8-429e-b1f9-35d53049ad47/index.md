@@ -1,9 +1,6 @@
 ---
 title: Siriにヒントをもらえなかった発表会
-description: ''
-date: '2015-09-10T02:55:50.000Z'
-categories: []
-keywords: []
+date: "2015-09-10T02:55:50.000Z"
 tags: ["apple", "ipad-pro", "apple-tv"]
 slug: "87c56d06-e2a8-429e-b1f9-35d53049ad47"
 ---

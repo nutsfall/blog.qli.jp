@@ -1,9 +1,6 @@
 ---
 title: OpenIDについての考察
-description: ""
 date: "2008-03-01T01:06:59.000Z"
-categories: []
-keywords: []
 tags: ["openid", "web-authentication"]
 slug: "50b5faa2-bcf3-41e8-b7d4-03ddd34f64e1"
 ---

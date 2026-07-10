@@ -1,9 +1,6 @@
 ---
 title: SocialThing!の招待メールが増えていた！
-description: ''
-date: '2008-04-22T11:00:07.000Z'
-categories: []
-keywords: []
+date: "2008-04-22T11:00:07.000Z"
 tags: ["socialthing", "social-media"]
 slug: "71be9fd7-0ddb-4c06-9d6f-a31e65d8f5f0"
 ---

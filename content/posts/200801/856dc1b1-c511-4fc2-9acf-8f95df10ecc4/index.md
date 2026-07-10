@@ -1,9 +1,6 @@
 ---
 title: SonyからSkype for PSPとmylo2が発表されました
-description: ''
-date: '2008-01-07T23:08:32.000Z'
-categories: []
-keywords: []
+date: "2008-01-07T23:08:32.000Z"
 tags: ["sony", "psp", "skype"]
 slug: "856dc1b1-c511-4fc2-9acf-8f95df10ecc4"
 ---

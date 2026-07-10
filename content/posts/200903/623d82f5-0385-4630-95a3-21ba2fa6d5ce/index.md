@@ -1,9 +1,6 @@
 ---
 title: Tweet O’clockを自分のアカウントで試してみた
-description: ''
-date: '2009-03-02T09:52:59.000Z'
-categories: []
-keywords: []
+date: "2009-03-02T09:52:59.000Z"
 tags: ["twitter"]
 slug: "623d82f5-0385-4630-95a3-21ba2fa6d5ce"
 ---

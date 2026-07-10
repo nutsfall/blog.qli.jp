@@ -1,9 +1,6 @@
 ---
 title: iOSの無線同期をやめました
-description: ''
-date: '2012-12-18T00:11:42.000Z'
-categories: []
-keywords: []
+date: "2012-12-18T00:11:42.000Z"
 tags: ["ios", "wifi-sync", "itunes"]
 slug: "5b523231-5757-46d8-aed5-4174ed1d1640"
 ---

@@ -1,9 +1,6 @@
 ---
-title: 'DISQUS : ブログのコメント欄にコミュニティ要素を追加する'
-description: ''
-date: '2008-04-06T21:12:50.000Z'
-categories: []
-keywords: []
+title: "DISQUS : ブログのコメント欄にコミュニティ要素を追加する"
+date: "2008-04-06T21:12:50.000Z"
 tags: ["disqus", "tumblr"]
 slug: "42f8c32c-57bb-44a2-8e4e-ed08508d966d"
 ---

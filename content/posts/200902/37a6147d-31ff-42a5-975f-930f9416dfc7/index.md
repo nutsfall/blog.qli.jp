@@ -1,9 +1,6 @@
 ---
 title: プロフィール書きました
-description: ''
-date: '2009-02-27T00:08:13.000Z'
-categories: []
-keywords: []
+date: "2009-02-27T00:08:13.000Z"
 tags: ["typepad", "blogging"]
 slug: "37a6147d-31ff-42a5-975f-930f9416dfc7"
 ---

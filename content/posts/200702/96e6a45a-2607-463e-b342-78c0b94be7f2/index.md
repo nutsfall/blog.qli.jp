@@ -1,9 +1,6 @@
 ---
 title: Feed problem
-description: ''
-date: '2007-02-24T16:00:05.000Z'
-categories: []
-keywords: []
+date: "2007-02-24T16:00:05.000Z"
 tags: ["vox", "feedburner"]
 slug: "96e6a45a-2607-463e-b342-78c0b94be7f2"
 ---

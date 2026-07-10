@@ -1,9 +1,7 @@
 ---
 title: "“今日のタスク”の作り方 (OmniFocus3)"
 description: Inside Omnifocus に掲載された記事がとても示唆深かったので、軽く要点だけつまんで紹介する。
-date: '2018-08-07T14:42:47.313Z'
-categories: []
-keywords: []
+date: "2018-08-07T14:42:47.313Z"
 tags: ["omnifocus", "task-management"]
 slug: "65d258ef-399d-42f1-a47d-de63fe4e6bca"
 ---

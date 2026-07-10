@@ -1,9 +1,6 @@
 ---
 title: 大きく近いステージ (Mr.Children 未完ツアー)
-description: ''
-date: '2015-09-20T07:34:00.000Z'
-categories: []
-keywords: []
+date: "2015-09-20T07:34:00.000Z"
 tags: ["mr-children", "concert"]
 slug: "8dde594a-ccd2-487a-b3ce-29629fba7c6f"
 ---

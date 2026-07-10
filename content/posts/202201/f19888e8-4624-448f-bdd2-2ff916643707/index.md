@@ -1,9 +1,7 @@
 ---
 title: "#EMPOWERED は中間管理職に読んでほしい書籍でした"
 description: 本の感想はちらほらtweetしても、なかなかこういう形で文章にするということは多くなかったのですが、この本はぜひ文章を書きたいと思いました。
-date: '2022-01-22T06:21:37.001Z'
-categories: []
-keywords: []
+date: "2022-01-22T06:21:37.001Z"
 tags: ["empowered", "product-management"]
 slug: "f19888e8-4624-448f-bdd2-2ff916643707"
 ---

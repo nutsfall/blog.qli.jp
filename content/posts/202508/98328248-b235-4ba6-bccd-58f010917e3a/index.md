@@ -1,9 +1,6 @@
 ---
-title: '笑いっぱなしだった蒲田の午後 #ダレハナ夏祭り'
-description: ''
-date: '2025-08-23T03:01:36.659Z'
-categories: []
-keywords: []
+title: "笑いっぱなしだった蒲田の午後 #ダレハナ夏祭り"
+date: "2025-08-23T03:01:36.659Z"
 tags: ["dare-hana", "yamazaki-rena", "live-event"]
 slug: "98328248-b235-4ba6-bccd-58f010917e3a"
 ---

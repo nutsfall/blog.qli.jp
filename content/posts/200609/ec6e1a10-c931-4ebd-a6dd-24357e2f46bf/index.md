@@ -1,9 +1,6 @@
 ---
 title: ファイル整理術(svn編)
-description: ''
-date: '2006-09-15T11:32:09.000Z'
-categories: []
-keywords: []
+date: "2006-09-15T11:32:09.000Z"
 tags: ["subversion", "version-control"]
 slug: "ec6e1a10-c931-4ebd-a6dd-24357e2f46bf"
 ---

@@ -1,9 +1,6 @@
 ---
 title: クローバーフィールドを見てきた
-description: ''
-date: '2008-04-06T17:45:56.000Z'
-categories: []
-keywords: []
+date: "2008-04-06T17:45:56.000Z"
 tags: ["cloverfield", "movie"]
 slug: "e12de314-05cc-48d3-a332-decf64ca5cbc"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 携帯電話販売店のトラブルについて
-description: ''
-date: '2008-07-22T09:41:35.000Z'
-categories: []
-keywords: []
+date: "2008-07-22T09:41:35.000Z"
 tags: ["iphone", "softbank", "mobile-carriers"]
 slug: "42bd2020-b798-4cfd-b4cf-374e976fd575"
 ---

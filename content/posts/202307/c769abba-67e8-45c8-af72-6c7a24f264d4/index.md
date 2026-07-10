@@ -1,9 +1,6 @@
 ---
 title: 2023年、夏、つま恋の風を感じて思ったこと
-description: ''
-date: '2023-07-22T03:01:40.157Z'
-categories: []
-keywords: []
+date: "2023-07-22T03:01:40.157Z"
 tags: ["ap-bank-fes", "mr-children", "music-festival"]
 slug: "c769abba-67e8-45c8-af72-6c7a24f264d4"
 ---

@@ -1,9 +1,6 @@
 ---
-title: '花鳥風月 :: レミオロメン'
-description: ''
-date: '2010-03-11T09:22:17.000Z'
-categories: []
-keywords: []
+title: "花鳥風月 :: レミオロメン"
+date: "2010-03-11T09:22:17.000Z"
 tags: ["remioromen", "music"]
 slug: "be7b8723-e5a8-4af6-9f98-ea2cc67b3e5f"
 ---

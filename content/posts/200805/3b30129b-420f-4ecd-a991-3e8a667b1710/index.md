@@ -1,9 +1,6 @@
 ---
 title: プログラミングを始めたきっかけとか、流れとか
-description: ''
-date: '2008-05-05T21:08:37.000Z'
-categories: []
-keywords: []
+date: "2008-05-05T21:08:37.000Z"
 tags: ["programming", "n88basic"]
 slug: "3b30129b-420f-4ecd-a991-3e8a667b1710"
 ---

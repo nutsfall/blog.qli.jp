@@ -1,9 +1,6 @@
 ---
 title: iPhone、指紋の次は声紋をほしがる
-description: ''
-date: '2015-09-17T11:12:02.000Z'
-categories: []
-keywords: []
+date: "2015-09-17T11:12:02.000Z"
 tags: ["ios", "siri"]
 slug: "3197c0a2-59f0-4a38-a3f7-07172deea10f"
 ---

@@ -5,7 +5,6 @@ slug: "5e25c9fe-efb6-4b3b-b6c8-98d6adb8caea"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E9%9F%B3%E6%A5%BD%E3%81%AE%E6%97%85-2026%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F-1f43f1c6e20e?source=rss-21bfda6f823e------2"
 tags: ["music", "apple-music"]
-draft: false
 cover:
   image: "cover.png"
 ---

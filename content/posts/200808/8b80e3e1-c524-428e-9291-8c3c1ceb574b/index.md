@@ -1,9 +1,6 @@
 ---
-title: 'GIFT : Mr.Children'
-description: ''
-date: '2008-08-02T09:49:34.000Z'
-categories: []
-keywords: []
+title: "GIFT : Mr.Children"
+date: "2008-08-02T09:49:34.000Z"
 tags: ["mr-children", "music-review"]
 slug: "8b80e3e1-c524-428e-9291-8c3c1ceb574b"
 ---

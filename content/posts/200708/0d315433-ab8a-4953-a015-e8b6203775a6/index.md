@@ -1,9 +1,6 @@
 ---
 title: Blog Action Dayに何が起きるか
-description: ''
-date: '2007-08-18T00:31:46.000Z'
-categories: []
-keywords: []
+date: "2007-08-18T00:31:46.000Z"
 tags: ["blog-action-day", "environment"]
 slug: "0d315433-ab8a-4953-a015-e8b6203775a6"
 ---

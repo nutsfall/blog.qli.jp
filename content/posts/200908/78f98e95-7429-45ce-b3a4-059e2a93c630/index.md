@@ -1,9 +1,6 @@
 ---
 title: 東京ナイロンガールズ
-description: ''
-date: '2009-08-11T05:38:33.000Z'
-categories: []
-keywords: []
+date: "2009-08-11T05:38:33.000Z"
 tags: ["tokyo-nylon-girls", "web-magazine"]
 slug: "78f98e95-7429-45ce-b3a4-059e2a93c630"
 ---

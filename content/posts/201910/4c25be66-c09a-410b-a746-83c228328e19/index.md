@@ -1,9 +1,7 @@
 ---
 title: Apple Music のハードウェアアップデート
 description: 新しい商品が出た日と言うよりも、Apple Musicのハードウェア面の大きなアップデートの日だったんだな。10月30日は、と思った。
-date: '2019-10-31T13:50:22.230Z'
-categories: []
-keywords: []
+date: "2019-10-31T13:50:22.230Z"
 tags: ["airpods-pro", "beats-solo-pro", "apple-music"]
 slug: "4c25be66-c09a-410b-a746-83c228328e19"
 ---

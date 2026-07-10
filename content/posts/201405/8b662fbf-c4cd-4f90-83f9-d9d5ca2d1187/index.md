@@ -1,9 +1,6 @@
 ---
 title: 速報系のブログとメディア
-description: ''
-date: '2014-05-02T08:50:46.000Z'
-categories: []
-keywords: []
+date: "2014-05-02T08:50:46.000Z"
 tags: ["apple", "blogging"]
 slug: "8b662fbf-c4cd-4f90-83f9-d9d5ca2d1187"
 ---

@@ -1,9 +1,6 @@
 ---
-title: 'MAIDEN VOYAGE :: Salyu'
-description: ''
-date: '2010-03-25T09:43:08.000Z'
-categories: []
-keywords: []
+title: "MAIDEN VOYAGE :: Salyu"
+date: "2010-03-25T09:43:08.000Z"
 tags: ["salyu", "music", "album"]
 slug: "730ba8db-06b7-4bd5-8afc-9c66a396eae6"
 ---

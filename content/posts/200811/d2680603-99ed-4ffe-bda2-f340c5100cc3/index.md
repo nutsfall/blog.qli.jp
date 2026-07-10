@@ -1,9 +1,6 @@
 ---
 title: はてな関係をつけました
-description: ''
-date: '2008-11-21T00:53:04.000Z'
-categories: []
-keywords: []
+date: "2008-11-21T00:53:04.000Z"
 tags: ["hatena", "blogging"]
 slug: "d2680603-99ed-4ffe-bda2-f340c5100cc3"
 ---

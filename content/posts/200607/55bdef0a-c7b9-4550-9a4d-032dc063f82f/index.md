@@ -1,9 +1,6 @@
 ---
 title: ToDo管理サービスの「Remember The Milk」がSkypeに対応
-description: ''
-date: '2006-07-26T00:10:17.000Z'
-categories: []
-keywords: []
+date: "2006-07-26T00:10:17.000Z"
 tags: ["remember-the-milk", "skype", "w-zero3"]
 slug: "55bdef0a-c7b9-4550-9a4d-032dc063f82f"
 ---

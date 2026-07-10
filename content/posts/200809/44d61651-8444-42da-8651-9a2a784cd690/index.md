@@ -1,9 +1,6 @@
 ---
 title: Let’s Rockのウワサのまとめ
-description: ''
-date: '2008-09-06T15:40:39.000Z'
-categories: []
-keywords: []
+date: "2008-09-06T15:40:39.000Z"
 tags: ["apple", "ipod", "itunes"]
 slug: "44d61651-8444-42da-8651-9a2a784cd690"
 ---

@@ -1,9 +1,6 @@
 ---
 title: テーマを持つことと演じること
-description: ''
-date: '2013-06-30T20:45:30.000Z'
-categories: []
-keywords: []
+date: "2013-06-30T20:45:30.000Z"
 tags: ["blogging"]
 slug: "6bf3fa67-a4e9-4399-9977-891caac555a9"
 ---

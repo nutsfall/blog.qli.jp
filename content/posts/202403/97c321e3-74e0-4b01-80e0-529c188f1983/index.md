@@ -1,9 +1,6 @@
 ---
 title: Life on a planet with the Radio
-description: ''
-date: '2024-03-30T03:01:55.499Z'
-categories: []
-keywords: []
+date: "2024-03-30T03:01:55.499Z"
 tags: ["radiko", "book-review"]
 slug: "97c321e3-74e0-4b01-80e0-529c188f1983"
 ---

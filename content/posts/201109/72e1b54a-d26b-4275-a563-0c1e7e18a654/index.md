@@ -1,9 +1,6 @@
 ---
 title: GRD4 発表
-description: ''
-date: '2011-09-16T07:11:12.000Z'
-categories: []
-keywords: []
+date: "2011-09-16T07:11:12.000Z"
 tags: ["ricoh-grd", "photography", "camera"]
 slug: "72e1b54a-d26b-4275-a563-0c1e7e18a654"
 ---

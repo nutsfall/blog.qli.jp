@@ -1,9 +1,7 @@
 ---
 title: 久しぶりに楽しんだMr.Children Tour (Tour 2019 against all GRAVITY)
 description: Mr.Children Tour 2019 against all GAVITY 東京ドーム公演1日目（2019/5/19)にいってきました。この記事はツアー終了後（6月2日）公開されています。
-date: '2019-06-02T11:56:00.900Z'
-categories: []
-keywords: []
+date: "2019-06-02T11:56:00.900Z"
 tags: ["mr-children", "concert"]
 slug: "45bad1e5-7267-41c5-9d72-6c88a20066cb"
 ---

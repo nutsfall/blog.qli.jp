@@ -1,9 +1,7 @@
 ---
 title: Apple Vision Proにみる大企業の戦い方
 description: Apple Vision Pro を見ながら、大企業がどうやってアウトカムをつかみに行くかについて考えてみました
-date: '2024-02-10T03:01:31.373Z'
-categories: []
-keywords: []
+date: "2024-02-10T03:01:31.373Z"
 tags: ["apple-vision-pro"]
 slug: "a37c92f0-d6b2-47cc-a5d2-47e2c26d1844"
 ---

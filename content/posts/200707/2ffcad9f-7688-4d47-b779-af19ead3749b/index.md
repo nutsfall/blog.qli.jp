@@ -1,9 +1,6 @@
 ---
 title: the brilliant greenが再始動
-description: ''
-date: '2007-07-29T21:47:20.000Z'
-categories: []
-keywords: []
+date: "2007-07-29T21:47:20.000Z"
 tags: ["the-brilliant-green", "music"]
 slug: "2ffcad9f-7688-4d47-b779-af19ead3749b"
 ---

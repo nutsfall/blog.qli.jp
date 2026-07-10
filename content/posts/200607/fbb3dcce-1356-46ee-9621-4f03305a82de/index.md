@@ -1,9 +1,6 @@
 ---
 title: i d e a * i d e a — The Inbox Makeoverですっきり
-description: ''
-date: '2006-07-04T12:31:00.000Z'
-categories: []
-keywords: []
+date: "2006-07-04T12:31:00.000Z"
 tags: ["gmail", "email-management", "gtd"]
 slug: "fbb3dcce-1356-46ee-9621-4f03305a82de"
 ---

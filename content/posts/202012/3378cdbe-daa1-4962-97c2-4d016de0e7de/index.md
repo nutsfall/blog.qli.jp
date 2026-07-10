@@ -1,9 +1,7 @@
 ---
 title: 2020年の最後に添えて(アビスパ福岡編)
 description: 2020年シーズンが終わった。アビスパ福岡は、目標として掲げたJ1昇格を達成した、実りのあるシーズンでした。
-date: '2020-12-20T13:47:49.241Z'
-categories: []
-keywords: []
+date: "2020-12-20T13:47:49.241Z"
 tags: ["avispa-fukuoka", "j-league"]
 slug: "3378cdbe-daa1-4962-97c2-4d016de0e7de"
 ---

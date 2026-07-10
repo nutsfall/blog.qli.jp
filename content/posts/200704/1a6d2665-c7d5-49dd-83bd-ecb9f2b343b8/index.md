@@ -1,9 +1,6 @@
 ---
 title: Twitterはたぶん何万ドルかの損失を生んでいると思う
-description: ''
-date: '2007-04-08T16:58:30.000Z'
-categories: []
-keywords: []
+date: "2007-04-08T16:58:30.000Z"
 tags: ["twitter"]
 slug: "1a6d2665-c7d5-49dd-83bd-ecb9f2b343b8"
 ---

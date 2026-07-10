@@ -1,9 +1,6 @@
 ---
-title: 'wonderful & beautiful :: レミオロメン'
-description: ''
-date: '2007-12-22T22:03:12.000Z'
-categories: []
-keywords: []
+title: "wonderful & beautiful :: レミオロメン"
+date: "2007-12-22T22:03:12.000Z"
 tags: ["remioromen", "music"]
 slug: "9f9c2fbc-2c9e-471e-8cbe-9b20e66990e1"
 ---

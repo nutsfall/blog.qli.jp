@@ -1,9 +1,6 @@
 ---
 title: iPhoneを変更する前にApple Watchのペアリング解除が必要
-description: ''
-date: '2016-09-14T14:02:00.000Z'
-categories: []
-keywords: []
+date: "2016-09-14T14:02:00.000Z"
 tags: ["apple-watch", "iphone"]
 slug: "15eaf602-25d9-435a-b7ba-b429b1070ef9"
 ---

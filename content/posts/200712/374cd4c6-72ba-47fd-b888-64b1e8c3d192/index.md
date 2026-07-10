@@ -1,9 +1,6 @@
 ---
 title: Open Web Awardsの最終結果が発表されました
-description: ''
-date: '2007-12-25T21:44:27.000Z'
-categories: []
-keywords: []
+date: "2007-12-25T21:44:27.000Z"
 tags: ["open-web-awards", "web-services"]
 slug: "374cd4c6-72ba-47fd-b888-64b1e8c3d192"
 ---

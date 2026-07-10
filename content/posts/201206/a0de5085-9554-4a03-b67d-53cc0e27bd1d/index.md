@@ -1,9 +1,6 @@
 ---
 title: WWDC12 キーノートを間近に控えて
-description: ''
-date: '2012-06-09T08:03:05.000Z'
-categories: []
-keywords: []
+date: "2012-06-09T08:03:05.000Z"
 tags: ["wwdc", "apple", "os-x"]
 slug: "a0de5085-9554-4a03-b67d-53cc0e27bd1d"
 ---

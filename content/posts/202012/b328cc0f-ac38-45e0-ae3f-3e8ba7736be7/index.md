@@ -1,9 +1,6 @@
 ---
 title: 今年買ってよかったもの4つ(2020)
-description: ''
-date: '2020-12-20T01:29:09.598Z'
-categories: []
-keywords: []
+date: "2020-12-20T01:29:09.598Z"
 tags: ["apple", "year-in-review"]
 slug: "b328cc0f-ac38-45e0-ae3f-3e8ba7736be7"
 ---

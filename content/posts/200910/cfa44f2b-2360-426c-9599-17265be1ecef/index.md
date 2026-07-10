@@ -1,9 +1,6 @@
 ---
 title: iPhone 情報整理術 を読んだ
-description: ''
-date: '2009-10-20T08:44:53.000Z'
-categories: []
-keywords: []
+date: "2009-10-20T08:44:53.000Z"
 tags: ["book-review", "iphone", "gtd"]
 slug: "cfa44f2b-2360-426c-9599-17265be1ecef"
 ---

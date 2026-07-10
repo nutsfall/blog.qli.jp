@@ -1,9 +1,6 @@
 ---
 title: Chim↑pom x 岡本太郎
-description: ''
-date: '2013-03-31T17:01:20.000Z'
-categories: []
-keywords: []
+date: "2013-03-31T17:01:20.000Z"
 tags: ["chim-pom", "okamoto-taro", "art"]
 slug: "99695ea0-6f74-4a7d-8726-010d4a6f67cd"
 ---

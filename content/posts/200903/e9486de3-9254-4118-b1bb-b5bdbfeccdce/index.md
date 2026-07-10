@@ -1,9 +1,6 @@
 ---
 title: iPhone for everybodyがいまいち分かりにくい件について
-description: ''
-date: '2009-03-07T16:13:07.000Z'
-categories: []
-keywords: []
+date: "2009-03-07T16:13:07.000Z"
 tags: ["iphone", "softbank"]
 slug: "e9486de3-9254-4118-b1bb-b5bdbfeccdce"
 ---

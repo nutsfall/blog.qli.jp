@@ -1,9 +1,6 @@
 ---
 title: ドコモがBlackBerryを本格的に始める
-description: ''
-date: '2008-07-07T22:14:04.000Z'
-categories: []
-keywords: []
+date: "2008-07-07T22:14:04.000Z"
 tags: ["blackberry", "docomo", "iphone"]
 slug: "3ceec445-6c9e-4273-ae36-17fababc521b"
 ---

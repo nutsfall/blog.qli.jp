@@ -1,9 +1,6 @@
 ---
 title: Liquid Glassに向けたOmniFocusが進む道
-description: ''
-date: '2025-07-05T03:01:48.583Z'
-categories: []
-keywords: []
+date: "2025-07-05T03:01:48.583Z"
 tags: ["omnifocus", "ios26", "wwdc"]
 slug: "1aced6fb-809a-41ae-92e4-79150ec6608b"
 cover:

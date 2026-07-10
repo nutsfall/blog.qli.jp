@@ -1,9 +1,6 @@
 ---
 title: iPod nano/shuffle/touch, iTunes 10 with Ping
-description: ''
-date: '2010-09-02T20:25:03.000Z'
-categories: []
-keywords: []
+date: "2010-09-02T20:25:03.000Z"
 tags: ["apple", "itunes", "apple-tv"]
 slug: "8ab34e3f-1906-4cc2-ab87-14c6067bc0d4"
 ---

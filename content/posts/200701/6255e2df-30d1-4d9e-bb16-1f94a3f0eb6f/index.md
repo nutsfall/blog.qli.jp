@@ -1,9 +1,6 @@
 ---
 title: 小型ワイヤレスLAN?
-description: ''
-date: '2007-01-10T12:54:26.000Z'
-categories: []
-keywords: []
+date: "2007-01-10T12:54:26.000Z"
 tags: ["airport-express", "mylo", "wifi"]
 slug: "6255e2df-30d1-4d9e-bb16-1f94a3f0eb6f"
 ---

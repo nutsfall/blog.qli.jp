@@ -1,9 +1,6 @@
 ---
 title: ネットワークにつながる便利さ
-description: ''
-date: '2008-11-14T00:00:12.000Z'
-categories: []
-keywords: []
+date: "2008-11-14T00:00:12.000Z"
 tags: ["eye-fi", "digital-camera"]
 slug: "5734e52e-c41e-4057-8154-53503b654928"
 ---

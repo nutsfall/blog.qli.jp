@@ -2,9 +2,7 @@
 title: Beats Studio3 を気に入ってる理由
 description: iPhoneに3.5mmイヤホンジャックがなくなって以来、ワイヤレスイヤホンを使っている。いろんなワイヤレスヘッドフォンを使ってきて、いまはBeats
   Studio3を使っている。その理由を並べてみる。
-date: '2018-08-06T11:58:14.109Z'
-categories: []
-keywords: []
+date: "2018-08-06T11:58:14.109Z"
 tags: ["beats-studio3", "noise-cancelling"]
 slug: "b70cf448-824a-4937-bf4f-b0893e49db70"
 ---

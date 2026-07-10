@@ -1,9 +1,6 @@
 ---
 title: Firefox3 beta5は一般ユーザにも解禁
-description: ''
-date: '2008-03-21T15:57:53.000Z'
-categories: []
-keywords: []
+date: "2008-03-21T15:57:53.000Z"
 tags: ["firefox", "browser"]
 slug: "05356a8c-be67-4b61-a91c-9bced5349033"
 ---

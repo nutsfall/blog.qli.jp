@@ -1,9 +1,6 @@
 ---
 title: 新しいイヤホンを物色中
-description: ''
-date: '2008-05-12T09:59:44.000Z'
-categories: []
-keywords: []
+date: "2008-05-12T09:59:44.000Z"
 tags: ["audio-technica", "earphones"]
 slug: "e76235a5-3288-46e0-9fdd-52f40a2221fa"
 ---

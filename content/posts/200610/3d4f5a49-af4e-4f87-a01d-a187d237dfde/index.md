@@ -1,9 +1,6 @@
 ---
 title: myloが国内で発売されます！
-description: ''
-date: '2006-10-18T12:01:57.000Z'
-categories: []
-keywords: []
+date: "2006-10-18T12:01:57.000Z"
 tags: ["sony", "mylo", "gadget"]
 slug: "3d4f5a49-af4e-4f87-a01d-a187d237dfde"
 ---

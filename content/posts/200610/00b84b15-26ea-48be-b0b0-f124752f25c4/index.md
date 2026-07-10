@@ -1,9 +1,6 @@
 ---
 title: moo.comがskypeとキャンペーン!
-description: ''
-date: '2006-10-23T21:25:36.000Z'
-categories: []
-keywords: []
+date: "2006-10-23T21:25:36.000Z"
 tags: ["moo", "skype"]
 slug: "00b84b15-26ea-48be-b0b0-f124752f25c4"
 ---

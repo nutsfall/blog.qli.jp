@@ -1,9 +1,6 @@
 ---
 title: IS03を触ってきた ( at CEATEC JAPAN 2010 )
-description: ''
-date: '2010-10-09T23:12:02.000Z'
-categories: []
-keywords: []
+date: "2010-10-09T23:12:02.000Z"
 tags: ["ceatec", "android", "wimax"]
 slug: "fde77e51-9d3a-4477-bbf9-2f8bbc7f0ab6"
 ---

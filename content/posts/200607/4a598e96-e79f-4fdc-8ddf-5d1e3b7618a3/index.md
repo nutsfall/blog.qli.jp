@@ -1,9 +1,6 @@
 ---
 title: asahi.com：新幹線のごみ箱、２年ぶり再開へ　ＪＲ東が苦情受け�-�社会
-description: ''
-date: '2006-07-12T09:17:34.000Z'
-categories: []
-keywords: []
+date: "2006-07-12T09:17:34.000Z"
 tags: ["shinkansen", "jr-east"]
 slug: "4a598e96-e79f-4fdc-8ddf-5d1e3b7618a3"
 ---

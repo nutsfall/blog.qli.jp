@@ -1,9 +1,7 @@
 ---
 title: GRとお出かけする秋
 description: 今年は紅葉がいつもより早くきたような感覚があります。これを書いている日は一日中雨なのですが、もしかしたら雨が止んだ頃には紅葉の絨毯が広がっているのかもしれません。
-date: '2022-11-23T06:00:39.226Z'
-categories: []
-keywords: []
+date: "2022-11-23T06:00:39.226Z"
 tags: ["ricoh-gr", "photography", "instagram"]
 slug: "b4788a98-cfa0-4fc5-8d5b-8fa1708ba6cb"
 ---

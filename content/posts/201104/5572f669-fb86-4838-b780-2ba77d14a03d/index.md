@@ -1,9 +1,6 @@
 ---
 title: 一人ひとりが行動し、選択する社会へ
-description: ''
-date: '2011-04-27T23:06:55.000Z'
-categories: []
-keywords: []
+date: "2011-04-27T23:06:55.000Z"
 tags: ["ap-bank", "nuclear-energy", "politics"]
 slug: "5572f669-fb86-4838-b780-2ba77d14a03d"
 ---

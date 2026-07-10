@@ -1,9 +1,6 @@
 ---
 title: スペースグレイが増えた
-description: ''
-date: '2015-04-29T12:35:10.000Z'
-categories: []
-keywords: []
+date: "2015-04-29T12:35:10.000Z"
 tags: ["apple-watch", "macbook"]
 slug: "533642b9-e2a1-47d1-8973-9508b47f8c3d"
 ---

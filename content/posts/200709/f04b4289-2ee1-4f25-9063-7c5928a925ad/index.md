@@ -1,9 +1,6 @@
 ---
 title: 次のMacBookはアルミニウム？
-description: ''
-date: '2007-09-22T11:03:30.000Z'
-categories: []
-keywords: []
+date: "2007-09-22T11:03:30.000Z"
 tags: ["macbook", "apple", "mac-os-x-leopard"]
 slug: "f04b4289-2ee1-4f25-9063-7c5928a925ad"
 ---

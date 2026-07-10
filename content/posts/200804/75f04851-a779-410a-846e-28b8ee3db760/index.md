@@ -1,9 +1,6 @@
 ---
-title: 'Key :: 一青窈'
-description: ''
-date: '2008-04-09T21:40:57.000Z'
-categories: []
-keywords: []
+title: "Key :: 一青窈"
+date: "2008-04-09T21:40:57.000Z"
 tags: ["hitotoyo", "music"]
 slug: "75f04851-a779-410a-846e-28b8ee3db760"
 ---

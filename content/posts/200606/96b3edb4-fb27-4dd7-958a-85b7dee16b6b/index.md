@@ -1,9 +1,6 @@
 ---
 title: グーグル、待望の決済サービス「Google Checkout」を提供開始 — CNET Japan
-description: ''
-date: '2006-06-30T14:27:22.000Z'
-categories: []
-keywords: []
+date: "2006-06-30T14:27:22.000Z"
 tags: ["google-checkout", "google"]
 slug: "96b3edb4-fb27-4dd7-958a-85b7dee16b6b"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 別冊カドカワ 小林武史特集
-description: ''
-date: '2008-12-14T21:54:49.000Z'
-categories: []
-keywords: []
+date: "2008-12-14T21:54:49.000Z"
 tags: ["kobayashi-takeshi", "mr-children"]
 slug: "58cce1cc-12c8-425a-a87b-c9709969f68f"
 ---

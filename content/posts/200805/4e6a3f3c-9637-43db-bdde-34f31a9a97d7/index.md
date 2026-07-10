@@ -1,9 +1,6 @@
 ---
-title: 'アイデンティティー :: My Little Lover'
-description: ''
-date: '2008-05-02T00:06:46.000Z'
-categories: []
-keywords: []
+title: "アイデンティティー :: My Little Lover"
+date: "2008-05-02T00:06:46.000Z"
 tags: ["my-little-lover", "album-review"]
 slug: "4e6a3f3c-9637-43db-bdde-34f31a9a97d7"
 ---

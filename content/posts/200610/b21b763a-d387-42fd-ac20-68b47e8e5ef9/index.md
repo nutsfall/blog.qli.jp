@@ -1,9 +1,6 @@
 ---
 title: キヌガサ by paperboy&co
-description: ""
 date: "2006-10-08T00:15:21.000Z"
-categories: []
-keywords: []
 tags: ["kinugasa", "sns", "paperboy"]
 slug: "b21b763a-d387-42fd-ac20-68b47e8e5ef9"
 ---

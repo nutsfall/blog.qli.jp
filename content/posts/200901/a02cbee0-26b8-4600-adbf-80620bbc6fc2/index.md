@@ -1,9 +1,6 @@
 ---
 title: Internet Reality
-description: ''
-date: '2009-01-14T13:04:15.000Z'
-categories: []
-keywords: []
+date: "2009-01-14T13:04:15.000Z"
 tags: ["web2.0", "microblogging"]
 slug: "a02cbee0-26b8-4600-adbf-80620bbc6fc2"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 手帳って定義は？
-description: ""
 date: "2006-09-07T20:03:00.000Z"
-categories: []
-keywords: []
 tags: ["stationery", "rhodia"]
 slug: "5fb1e1ed-f604-46f7-a00a-23f0980f7b14"
 ---

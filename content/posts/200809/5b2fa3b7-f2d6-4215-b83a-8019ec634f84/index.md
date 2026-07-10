@@ -1,9 +1,6 @@
 ---
-title: 'HANABI : Mr.Children'
-description: ''
-date: '2008-09-14T16:50:33.000Z'
-categories: []
-keywords: []
+title: "HANABI : Mr.Children"
+date: "2008-09-14T16:50:33.000Z"
 tags: ["mr-children", "music"]
 slug: "5b2fa3b7-f2d6-4215-b83a-8019ec634f84"
 ---

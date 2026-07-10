@@ -1,9 +1,6 @@
 ---
 title: 心臓の居場所 by LEGO BIG MORL
-description: ''
-date: '2017-04-13T13:46:43.029Z'
-categories: []
-keywords: []
+date: "2017-04-13T13:46:43.029Z"
 tags: ["lego-big-morl", "album-review"]
 slug: "c48e7372-b3a4-496d-ae2c-208bf4ab0854"
 ---

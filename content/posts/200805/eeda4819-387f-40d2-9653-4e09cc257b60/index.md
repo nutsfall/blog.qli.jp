@@ -1,9 +1,6 @@
 ---
 title: eco-reso web
-description: ''
-date: '2008-05-07T23:40:01.000Z'
-categories: []
-keywords: []
+date: "2008-05-07T23:40:01.000Z"
 tags: ["ap-bank", "eco-reso", "environment"]
 slug: "eeda4819-387f-40d2-9653-4e09cc257b60"
 ---

@@ -1,9 +1,6 @@
 ---
 title: BradBerry Orchestra Reception Party
-description: ''
-date: '2009-11-07T17:46:22.000Z'
-categories: []
-keywords: []
+date: "2009-11-07T17:46:22.000Z"
 tags: ["salyu", "lego-big-morl", "live-music"]
 slug: "80369213-660f-4080-a268-5a9ef39a47f1"
 ---

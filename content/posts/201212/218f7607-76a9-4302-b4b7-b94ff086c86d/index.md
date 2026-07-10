@@ -1,9 +1,6 @@
 ---
 title: 鳥かごの中から腕時計
-description: ''
-date: '2012-12-29T11:32:50.000Z'
-categories: []
-keywords: []
+date: "2012-12-29T11:32:50.000Z"
 tags: ["cookoo-watch", "smartwatch", "kickstarter"]
 slug: "218f7607-76a9-4302-b4b7-b94ff086c86d"
 ---

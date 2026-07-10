@@ -1,9 +1,6 @@
 ---
 title: iPhoneに関するアンケートを実施します
-description: ''
-date: '2008-06-12T23:27:11.000Z'
-categories: []
-keywords: []
+date: "2008-06-12T23:27:11.000Z"
 tags: ["iphone", "survey"]
 slug: "7967a95d-c8f6-4e35-ac47-320143e95395"
 ---

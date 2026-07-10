@@ -1,9 +1,6 @@
 ---
 title: Googleリーダーにソーシャル機能を追加
-description: ''
-date: '2007-12-15T23:57:16.000Z'
-categories: []
-keywords: []
+date: "2007-12-15T23:57:16.000Z"
 tags: ["google-reader", "social-features"]
 slug: "ca05853e-f206-4f4b-8b20-c5d658e64e98"
 ---

@@ -1,9 +1,6 @@
 ---
 title: レミオロメンがiTunes Storeで販売される
-description: ''
-date: '2007-06-13T21:42:41.000Z'
-categories: []
-keywords: []
+date: "2007-06-13T21:42:41.000Z"
 tags: ["remioromen", "itunes"]
 slug: "8dba7a09-8b7a-4afe-a749-993940573cfc"
 ---

@@ -1,9 +1,7 @@
 ---
 title: Apple Musicのプレイリスト体験
 description: Apple Musicに追加された新しいMixと音楽体験の話
-date: '2024-03-23T03:02:32.904Z'
-categories: []
-keywords: []
+date: "2024-03-23T03:02:32.904Z"
 tags: ["apple-music", "takeuchi-anna"]
 slug: "d5b9e5dc-b90d-4c61-a5e6-64fa4f3c57b6"
 ---

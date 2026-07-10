@@ -1,9 +1,6 @@
 ---
 title: ついに始まったGTalk + AIMの連携
-description: ''
-date: '2007-12-05T07:54:17.000Z'
-categories: []
-keywords: []
+date: "2007-12-05T07:54:17.000Z"
 tags: ["google-talk", "aim", "gmail"]
 slug: "5f242bb2-9a54-4bed-9018-013dd17e9949"
 ---

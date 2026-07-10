@@ -1,9 +1,6 @@
 ---
 title: ロック画面のiPod演奏中曲ジャケット
-description: ''
-date: '2011-04-10T23:33:50.000Z'
-categories: []
-keywords: []
+date: "2011-04-10T23:33:50.000Z"
 tags: ["iphone", "ios", "itunes"]
 slug: "4c820dfa-34cc-4350-9ba3-6079e7c42213"
 ---

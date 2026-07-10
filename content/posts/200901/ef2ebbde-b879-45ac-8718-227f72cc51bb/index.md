@@ -1,9 +1,6 @@
 ---
 title: Thingsが正式リリース
-description: ''
-date: '2009-01-07T23:38:14.000Z'
-categories: []
-keywords: []
+date: "2009-01-07T23:38:14.000Z"
 tags: ["things", "gtd"]
 slug: "ef2ebbde-b879-45ac-8718-227f72cc51bb"
 ---

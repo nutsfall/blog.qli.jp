@@ -1,9 +1,6 @@
 ---
 title: iPhoneが持ってきたもの
-description: ''
-date: '2008-07-22T22:53:20.000Z'
-categories: []
-keywords: []
+date: "2008-07-22T22:53:20.000Z"
 tags: ["iphone", "omnifocus", "twitterrific"]
 slug: "a06543ad-647d-4494-81cf-c2e85218762b"
 ---

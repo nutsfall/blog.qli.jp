@@ -1,9 +1,6 @@
 ---
 title: Idlewildの新アルバム（タイトル、内容未定）を予約してみた
-description: ''
-date: '2009-02-17T23:40:30.000Z'
-categories: []
-keywords: []
+date: "2009-02-17T23:40:30.000Z"
 tags: ["idlewild", "music", "crowdfunding"]
 slug: "f673018c-7f8b-4ccd-93a5-7914f2754af5"
 ---

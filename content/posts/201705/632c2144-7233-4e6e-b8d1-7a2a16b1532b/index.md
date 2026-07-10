@@ -1,9 +1,7 @@
 ---
 title: 連休中に見た映画８本
 description: ずっと見たいなと思っていた映画のうちいくつかを連休を利用して見たので感想を簡単に書き記しておく
-date: '2017-05-07T02:25:20.264Z'
-categories: []
-keywords: []
+date: "2017-05-07T02:25:20.264Z"
 tags: ["japanese-film", "movie-review"]
 slug: "632c2144-7233-4e6e-b8d1-7a2a16b1532b"
 ---

@@ -1,9 +1,6 @@
 ---
 title: NAVERの利用規約再変更までがとてもはやかった･･･
-description: ''
-date: '2010-07-07T19:53:41.000Z'
-categories: []
-keywords: []
+date: "2010-07-07T19:53:41.000Z"
 tags: ["naver", "terms-of-service"]
 slug: "5badf7d4-d3e4-4e04-8600-58cf0ba8913b"
 ---

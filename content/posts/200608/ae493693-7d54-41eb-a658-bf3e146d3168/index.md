@@ -1,9 +1,6 @@
 ---
 title: Gmailが登録制に移行
-description: ''
-date: '2006-08-23T11:21:26.000Z'
-categories: []
-keywords: []
+date: "2006-08-23T11:21:26.000Z"
 tags: ["gmail"]
 slug: "ae493693-7d54-41eb-a658-bf3e146d3168"
 ---

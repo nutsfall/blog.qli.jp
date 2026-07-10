@@ -1,9 +1,6 @@
 ---
 title: Tbパワーアップ(Thunderbird 2.0 RC1)
-description: ''
-date: '2007-04-02T11:31:05.000Z'
-categories: []
-keywords: []
+date: "2007-04-02T11:31:05.000Z"
 tags: ["thunderbird", "email-client"]
 slug: "cb9e16d6-ac5e-4c89-b317-81dc1fad3b00"
 ---

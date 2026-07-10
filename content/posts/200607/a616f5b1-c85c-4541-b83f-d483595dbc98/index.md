@@ -1,9 +1,6 @@
 ---
 title: ついにMissyng sync for WM5がリリース！
-description: ''
-date: '2006-07-19T14:25:14.000Z'
-categories: []
-keywords: []
+date: "2006-07-19T14:25:14.000Z"
 tags: ["missing-sync", "w-zero3", "mac"]
 slug: "a616f5b1-c85c-4541-b83f-d483595dbc98"
 ---

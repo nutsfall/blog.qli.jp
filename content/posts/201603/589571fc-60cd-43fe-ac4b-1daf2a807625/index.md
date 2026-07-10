@@ -1,9 +1,6 @@
 ---
 title: SVODについて考えてみた
-description: ''
-date: '2016-03-25T02:27:17.000Z'
-categories: []
-keywords: []
+date: "2016-03-25T02:27:17.000Z"
 tags: ["streaming", "apple-tv"]
 slug: "589571fc-60cd-43fe-ac4b-1daf2a807625"
 ---

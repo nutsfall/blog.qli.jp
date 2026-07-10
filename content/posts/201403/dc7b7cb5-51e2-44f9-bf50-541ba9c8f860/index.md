@@ -1,9 +1,6 @@
 ---
 title: ブログサービスを調査中
-description: ""
 date: "2014-03-06T13:15:45.000Z"
-categories: []
-keywords: []
 tags: ["blogging", "ghost", "hatena-blog"]
 slug: "dc7b7cb5-51e2-44f9-bf50-541ba9c8f860"
 ---

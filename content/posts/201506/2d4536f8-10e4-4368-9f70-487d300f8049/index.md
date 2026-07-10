@@ -1,9 +1,6 @@
 ---
 title: Apple Musicの楽しみ方と期待
-description: ''
-date: '2015-06-17T12:53:23.000Z'
-categories: []
-keywords: []
+date: "2015-06-17T12:53:23.000Z"
 tags: ["apple-music", "music-streaming"]
 slug: "2d4536f8-10e4-4368-9f70-487d300f8049"
 ---

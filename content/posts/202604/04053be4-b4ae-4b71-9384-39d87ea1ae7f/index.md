@@ -5,7 +5,6 @@ slug: "04053be4-b4ae-4b71-9384-39d87ea1ae7f"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%81%99%E3%82%99%E3%81%A3%E3%81%A8%E9%9F%B3%E3%82%92%E8%81%B4%E3%81%84%E3%81%A6%E7%94%9F%E6%B4%BB%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B-7ae9d2fb513d?source=rss-21bfda6f823e------2"
 tags: ["marshall", "airpods", "music"]
-draft: false
 ---
 
 静かな時が苦手というわけではないが、基本的にずっと音を聴いて生活している。移動中、仕事中、そして、家の中でも何らかの音を聞いている。これはカフェで書いているが、まさに今音楽を聞いている。

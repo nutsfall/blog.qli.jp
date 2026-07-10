@@ -1,9 +1,6 @@
 ---
 title: 2014年に追加した楽曲たち
-description: ''
-date: '2014-12-23T01:31:48.000Z'
-categories: []
-keywords: []
+date: "2014-12-23T01:31:48.000Z"
 tags: ["live-music", "lego-big-morl", "mr-children"]
 slug: "8e888ec7-cd1c-4245-ae25-b6c102d58ce3"
 ---

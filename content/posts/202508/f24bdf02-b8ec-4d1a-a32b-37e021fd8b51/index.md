@@ -1,9 +1,6 @@
 ---
 title: OmniFocusとClaudeを2ヶ月使ってみて
-description: ''
-date: '2025-08-09T03:01:47.953Z'
-categories: []
-keywords: []
+date: "2025-08-09T03:01:47.953Z"
 tags: ["omnifocus", "claude", "mcp"]
 slug: "f24bdf02-b8ec-4d1a-a32b-37e021fd8b51"
 ---

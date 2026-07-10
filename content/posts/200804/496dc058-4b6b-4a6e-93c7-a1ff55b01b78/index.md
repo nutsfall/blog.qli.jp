@@ -1,9 +1,6 @@
 ---
 title: Javaアップデート１ for Leopard (64bit)
-description: ''
-date: '2008-04-30T10:41:27.000Z'
-categories: []
-keywords: []
+date: "2008-04-30T10:41:27.000Z"
 tags: ["java", "mac"]
 slug: "496dc058-4b6b-4a6e-93c7-a1ff55b01b78"
 ---

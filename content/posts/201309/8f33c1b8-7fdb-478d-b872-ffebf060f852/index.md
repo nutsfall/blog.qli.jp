@@ -1,9 +1,6 @@
 ---
 title: iPhone 5c/s
-description: ''
-date: '2013-09-11T21:50:26.000Z'
-categories: []
-keywords: []
+date: "2013-09-11T21:50:26.000Z"
 tags: ["iphone-5s", "iphone-5c"]
 slug: "8f33c1b8-7fdb-478d-b872-ffebf060f852"
 ---

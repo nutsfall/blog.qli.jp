@@ -1,9 +1,6 @@
 ---
 title: Remember The Milk に新しい機能が２つ
-description: ''
-date: '2007-09-17T20:19:14.000Z'
-categories: []
-keywords: []
+date: "2007-09-17T20:19:14.000Z"
 tags: ["remember-the-milk", "windows-mobile"]
 slug: "22affbeb-d3da-40e1-8609-6171c1a38c07"
 ---

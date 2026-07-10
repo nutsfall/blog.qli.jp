@@ -1,9 +1,6 @@
 ---
 title: Let’s Rock with New iPod
-description: ''
-date: '2008-09-13T15:10:08.000Z'
-categories: []
-keywords: []
+date: "2008-09-13T15:10:08.000Z"
 tags: ["ipod-nano", "apple"]
 slug: "02b005a3-1fc3-4ac8-b0c8-aebec42f242b"
 ---

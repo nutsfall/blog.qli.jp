@@ -1,9 +1,7 @@
 ---
 title: Mr.Childrenが音楽配信にやって来た
 description: Ya Ya Ya とかいいません
-date: '2018-05-10T11:08:39.993Z'
-categories: []
-keywords: []
+date: "2018-05-10T11:08:39.993Z"
 tags: ["mr-children", "apple-music", "music-streaming"]
 slug: "c1286840-f0d5-45c6-929a-8f9c5ca63a17"
 ---

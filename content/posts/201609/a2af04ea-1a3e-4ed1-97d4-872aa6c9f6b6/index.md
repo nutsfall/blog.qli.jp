@@ -1,9 +1,6 @@
 ---
 title: Apple Pay の話
-description: ''
-date: '2016-09-08T11:45:00.000Z'
-categories: []
-keywords: []
+date: "2016-09-08T11:45:00.000Z"
 tags: ["apple-pay", "suica", "mobile-payments"]
 slug: "a2af04ea-1a3e-4ed1-97d4-872aa6c9f6b6"
 ---

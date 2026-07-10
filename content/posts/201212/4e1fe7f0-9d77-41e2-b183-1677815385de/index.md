@@ -1,9 +1,6 @@
 ---
 title: "[(an imitation) blood orange]"
-description: ''
-date: '2012-12-01T18:25:32.000Z'
-categories: []
-keywords: []
+date: "2012-12-01T18:25:32.000Z"
 tags: ["mr-children", "album-review"]
 slug: "4e1fe7f0-9d77-41e2-b183-1677815385de"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ケータイのみでつかえる写真保管サービス 5個
-description: ''
-date: '2014-08-31T00:24:22.000Z'
-categories: []
-keywords: []
+date: "2014-08-31T00:24:22.000Z"
 tags: ["photo-storage", "cloud"]
 slug: "787677be-1492-4436-a06b-62843cce9dd1"
 ---

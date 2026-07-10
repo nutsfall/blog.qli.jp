@@ -1,9 +1,6 @@
 ---
 title: 思想地図β2 を読んで感じたこと
-description: ''
-date: '2011-09-20T10:44:26.000Z'
-categories: []
-keywords: []
+date: "2011-09-20T10:44:26.000Z"
 tags: ["shisochizu-beta", "book-review", "3-11"]
 slug: "5adcf97e-6da2-4ba4-9de1-7f15033c5447"
 ---

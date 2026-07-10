@@ -1,9 +1,6 @@
 ---
 title: MacBook Intel Core 2 Duo 登場
-description: ''
-date: '2006-11-09T00:51:01.000Z'
-categories: []
-keywords: []
+date: "2006-11-09T00:51:01.000Z"
 tags: ["macbook", "apple"]
 slug: "f4146cd6-af69-4ffd-87b2-5d507743e08b"
 ---

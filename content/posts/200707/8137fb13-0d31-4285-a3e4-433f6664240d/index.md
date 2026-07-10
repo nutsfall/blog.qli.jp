@@ -1,9 +1,6 @@
 ---
-title: 'GOLDEN GRAPEFRUIT :: LOVE PSYCHEDELICO'
-description: ''
-date: '2007-07-06T23:14:30.000Z'
-categories: []
-keywords: []
+title: "GOLDEN GRAPEFRUIT :: LOVE PSYCHEDELICO"
+date: "2007-07-06T23:14:30.000Z"
 tags: ["love-psychedelico", "music"]
 slug: "8137fb13-0d31-4285-a3e4-433f6664240d"
 ---

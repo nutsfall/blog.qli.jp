@@ -1,9 +1,7 @@
 ---
 title: お気に入りのもの（2018年末）
 description: いい区切りなので、使用頻度が高いものを紹介します。来年見直して変わってるもの、変わってないものどれだけ出てくるかな。
-date: '2018-12-20T12:26:49.795Z'
-categories: []
-keywords: []
+date: "2018-12-20T12:26:49.795Z"
 tags: ["omnifocus", "beats-studio3"]
 slug: "bcd773dd-bbb3-4ecd-b329-21386e6f469c"
 ---

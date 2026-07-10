@@ -1,9 +1,6 @@
 ---
 title: 次世代メールソフト Sparrow
-description: ''
-date: '2011-02-09T23:22:05.000Z'
-categories: []
-keywords: []
+date: "2011-02-09T23:22:05.000Z"
 tags: ["sparrow", "gmail"]
 slug: "f1701aac-bb32-48f6-94ab-39fd5ee1efb1"
 ---

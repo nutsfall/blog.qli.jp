@@ -1,9 +1,6 @@
 ---
 title: WWDC 2015 Keynote のざっくりまとめ
-description: ''
-date: '2015-06-09T03:17:47.000Z'
-categories: []
-keywords: []
+date: "2015-06-09T03:17:47.000Z"
 tags: ["wwdc", "apple", "apple-music"]
 slug: "c7120445-717d-411d-b209-91de4d9fc97e"
 ---

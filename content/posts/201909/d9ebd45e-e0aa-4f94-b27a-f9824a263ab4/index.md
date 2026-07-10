@@ -1,9 +1,7 @@
 ---
 title: insta360 Go で遊んでいます
 description: 最近発売になったinsta360 Goを入手したので、遊んでいます。なかなかの広角具合がまだ掴めておらず、難しい。とても広角と本体サイズの小ささにより持ち方を間違えると、指が映り込みます。
-date: '2019-09-19T14:51:35.574Z'
-categories: []
-keywords: []
+date: "2019-09-19T14:51:35.574Z"
 tags: ["insta360", "camera"]
 slug: "d9ebd45e-e0aa-4f94-b27a-f9824a263ab4"
 ---

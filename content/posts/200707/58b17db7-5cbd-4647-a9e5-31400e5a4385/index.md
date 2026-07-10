@@ -1,9 +1,6 @@
 ---
 title: Gmailの迷惑メールを報告し続ける必要がある理由
-description: ''
-date: '2007-07-26T09:02:42.000Z'
-categories: []
-keywords: []
+date: "2007-07-26T09:02:42.000Z"
 tags: ["gmail", "spam-filter"]
 slug: "58b17db7-5cbd-4647-a9e5-31400e5a4385"
 ---

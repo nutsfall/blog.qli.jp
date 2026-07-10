@@ -1,9 +1,6 @@
 ---
 title: 移行に伴うIssues
-description: ''
-date: '2008-11-15T09:56:44.000Z'
-categories: []
-keywords: []
+date: "2008-11-15T09:56:44.000Z"
 tags: ["typepad", "blog-migration", "feedburner"]
 slug: "5b08b012-ebb7-49fd-a855-ec74919f3298"
 ---

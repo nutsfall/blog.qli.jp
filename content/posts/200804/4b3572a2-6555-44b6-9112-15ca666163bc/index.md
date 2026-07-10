@@ -1,9 +1,6 @@
 ---
 title: WEBシステムにおける負荷増大の解決策はあるのか？
-description: ''
-date: '2008-04-05T21:52:51.000Z'
-categories: []
-keywords: []
+date: "2008-04-05T21:52:51.000Z"
 tags: ["web-infrastructure", "scalability"]
 slug: "4b3572a2-6555-44b6-9112-15ca666163bc"
 ---

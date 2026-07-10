@@ -1,9 +1,7 @@
 ---
 title: 音声コンテンツを持ち運ぶためのポータブルスピーカー SONOS Roam
 description: SONOS Roamを導入したのでファーストインプレッション
-date: '2021-09-11T02:15:28.551Z'
-categories: []
-keywords: []
+date: "2021-09-11T02:15:28.551Z"
 tags: ["sonos", "portable-speaker", "apple-music"]
 slug: "f6be1495-62fd-43b2-8ebd-2187811d96c4"
 ---

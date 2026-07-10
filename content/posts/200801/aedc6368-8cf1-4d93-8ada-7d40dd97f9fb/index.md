@@ -1,9 +1,6 @@
 ---
 title: Omnifocusのタスクポータビリティを解決する方法
-description: ''
-date: '2008-01-14T00:25:39.000Z'
-categories: []
-keywords: []
+date: "2008-01-14T00:25:39.000Z"
 tags: ["omnifocus", "gtd", "isync"]
 slug: "aedc6368-8cf1-4d93-8ada-7d40dd97f9fb"
 ---

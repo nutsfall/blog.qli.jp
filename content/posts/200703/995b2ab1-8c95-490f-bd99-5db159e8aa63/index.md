@@ -1,9 +1,6 @@
 ---
 title: iddyプロファイルページを作ってみた。
-description: ''
-date: '2007-03-10T21:38:12.000Z'
-categories: []
-keywords: []
+date: "2007-03-10T21:38:12.000Z"
 tags: ["iddy", "web-service"]
 slug: "995b2ab1-8c95-490f-bd99-5db159e8aa63"
 ---

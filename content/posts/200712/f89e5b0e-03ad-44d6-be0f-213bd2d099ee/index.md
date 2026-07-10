@@ -1,9 +1,6 @@
 ---
 title: 困ったら”?”に聞いてみよう
-description: ''
-date: '2007-12-18T12:56:17.000Z'
-categories: []
-keywords: []
+date: "2007-12-18T12:56:17.000Z"
 tags: ["gmail", "keyboard-shortcuts"]
 slug: "f89e5b0e-03ad-44d6-be0f-213bd2d099ee"
 ---

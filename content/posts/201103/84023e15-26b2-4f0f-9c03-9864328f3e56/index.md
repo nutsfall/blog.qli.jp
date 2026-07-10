@@ -1,9 +1,6 @@
 ---
 title: 何が変わる？何が変わらない？
-description: ''
-date: '2011-03-22T00:19:25.000Z'
-categories: []
-keywords: []
+date: "2011-03-22T00:19:25.000Z"
 tags: ["earthquake", "ap-bank", "energy"]
 slug: "84023e15-26b2-4f0f-9c03-9864328f3e56"
 ---

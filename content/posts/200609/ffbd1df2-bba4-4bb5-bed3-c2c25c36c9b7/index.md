@@ -1,9 +1,6 @@
 ---
 title: 電話が突然シャットダウンする現象について
-description: ''
-date: '2006-09-12T20:02:33.000Z'
-categories: []
-keywords: []
+date: "2006-09-12T20:02:33.000Z"
 tags: ["w-zero3"]
 slug: "ffbd1df2-bba4-4bb5-bed3-c2c25c36c9b7"
 ---

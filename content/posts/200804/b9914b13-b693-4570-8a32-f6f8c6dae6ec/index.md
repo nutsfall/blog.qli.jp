@@ -1,9 +1,6 @@
 ---
-title: 'colorhythm :: 矢井田瞳'
-description: ''
-date: '2008-04-10T06:21:15.000Z'
-categories: []
-keywords: []
+title: "colorhythm :: 矢井田瞳"
+date: "2008-04-10T06:21:15.000Z"
 tags: ["yaida-hitomi", "music"]
 slug: "b9914b13-b693-4570-8a32-f6f8c6dae6ec"
 ---

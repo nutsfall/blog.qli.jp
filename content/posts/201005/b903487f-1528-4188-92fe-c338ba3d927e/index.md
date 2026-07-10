@@ -1,9 +1,6 @@
 ---
 title: TypePadにおけるマルチバイト文字の問題
-description: ''
-date: '2010-05-05T09:29:18.000Z'
-categories: []
-keywords: []
+date: "2010-05-05T09:29:18.000Z"
 tags: ["typepad", "blogging"]
 slug: "b903487f-1528-4188-92fe-c338ba3d927e"
 ---

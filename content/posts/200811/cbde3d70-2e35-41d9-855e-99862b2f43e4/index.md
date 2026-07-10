@@ -1,9 +1,6 @@
 ---
 title: mixiが本気になった？
-description: ''
-date: '2008-11-28T00:33:14.000Z'
-categories: []
-keywords: []
+date: "2008-11-28T00:33:14.000Z"
 tags: ["mixi", "social-network"]
 slug: "cbde3d70-2e35-41d9-855e-99862b2f43e4"
 ---

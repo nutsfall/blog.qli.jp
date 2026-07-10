@@ -1,9 +1,6 @@
 ---
 title: ロックンロールだけ？
-description: ''
-date: '2009-09-11T08:21:53.000Z'
-categories: []
-keywords: []
+date: "2009-09-11T08:21:53.000Z"
 tags: ["apple", "itunes", "ipod"]
 slug: "46cce0ee-7b16-4dd3-96da-14d93bc3e9a1"
 ---

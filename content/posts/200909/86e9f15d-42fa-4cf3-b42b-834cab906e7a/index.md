@@ -1,9 +1,6 @@
 ---
 title: iTunes MusicからiTunes Mediaへ
-description: ''
-date: '2009-09-26T11:59:03.000Z'
-categories: []
-keywords: []
+date: "2009-09-26T11:59:03.000Z"
 tags: ["itunes", "apple"]
 slug: "86e9f15d-42fa-4cf3-b42b-834cab906e7a"
 ---

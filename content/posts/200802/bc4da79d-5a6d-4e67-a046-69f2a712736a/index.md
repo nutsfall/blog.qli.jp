@@ -1,9 +1,6 @@
 ---
 title: Google TalkのステータスをWEBに表示するchatback
-description: ''
-date: '2008-02-26T10:35:13.000Z'
-categories: []
-keywords: []
+date: "2008-02-26T10:35:13.000Z"
 tags: ["google-talk", "web-widget"]
 slug: "bc4da79d-5a6d-4e67-a046-69f2a712736a"
 ---

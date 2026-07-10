@@ -1,9 +1,6 @@
 ---
 title: ITmedia News：JASRAC、YouTubeに削除要請　ACCSも「対策を検討」
-description: ''
-date: '2006-07-25T17:14:12.000Z'
-categories: []
-keywords: []
+date: "2006-07-25T17:14:12.000Z"
 tags: ["youtube", "jasrac", "copyright"]
 slug: "969229d1-e8fb-4d96-af30-72d25974a418"
 ---

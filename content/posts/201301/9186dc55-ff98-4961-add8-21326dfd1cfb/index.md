@@ -1,9 +1,6 @@
 ---
 title: iOS 6.1 と iPad 4 128GB
-description: ''
-date: '2013-01-29T23:14:50.000Z'
-categories: []
-keywords: []
+date: "2013-01-29T23:14:50.000Z"
 tags: ["ios", "ipad", "apple"]
 slug: "9186dc55-ff98-4961-add8-21326dfd1cfb"
 ---

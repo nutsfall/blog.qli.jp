@@ -1,9 +1,7 @@
 ---
 title: iOS14とWatchOS7で気に入ってるところ
 description: まだ誰もApp StoreにiOS14対応アプリを正式にSubmitしてないのに、明日提供するって言い出すAppleさん
-date: '2020-09-15T18:27:26.937Z'
-categories: []
-keywords: []
+date: "2020-09-15T18:27:26.937Z"
 tags: ["ios", "watchos"]
 slug: "fd7e7259-a701-4b23-a7de-819d87174123"
 ---

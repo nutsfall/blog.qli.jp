@@ -1,9 +1,6 @@
 ---
 title: Google ヘルプグループ
-description: ""
 date: "2006-09-07T22:50:00.000Z"
-categories: []
-keywords: []
 tags: ["google"]
 slug: "5f003b98-65d9-418f-8ece-6bdd828972d4"
 ---

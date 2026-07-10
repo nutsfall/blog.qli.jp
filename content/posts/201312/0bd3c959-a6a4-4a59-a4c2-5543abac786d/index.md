@@ -1,9 +1,6 @@
 ---
-title: '映像作品 [(an imitation) blood orange] Tour #mrchildren'
-description: ''
-date: '2013-12-26T21:20:35.000Z'
-categories: []
-keywords: []
+title: "映像作品 [(an imitation) blood orange] Tour #mrchildren"
+date: "2013-12-26T21:20:35.000Z"
 tags: ["mr-children", "live-music"]
 slug: "0bd3c959-a6a4-4a59-a4c2-5543abac786d"
 ---

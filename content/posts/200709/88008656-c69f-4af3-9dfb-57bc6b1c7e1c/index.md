@@ -1,9 +1,6 @@
 ---
 title: iPodファミリーの紹介イベント
-description: ''
-date: '2007-09-13T21:39:53.000Z'
-categories: []
-keywords: []
+date: "2007-09-13T21:39:53.000Z"
 tags: ["apple", "ipod", "ipod-touch"]
 slug: "88008656-c69f-4af3-9dfb-57bc6b1c7e1c"
 ---

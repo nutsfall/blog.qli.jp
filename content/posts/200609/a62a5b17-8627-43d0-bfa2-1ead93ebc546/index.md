@@ -1,9 +1,6 @@
 ---
 title: MacBookが”断続的にシャットダウンする”症状
-description: ''
-date: '2006-09-08T00:07:00.000Z'
-categories: []
-keywords: []
+date: "2006-09-08T00:07:00.000Z"
 tags: ["macbook", "apple"]
 slug: "a62a5b17-8627-43d0-bfa2-1ead93ebc546"
 ---

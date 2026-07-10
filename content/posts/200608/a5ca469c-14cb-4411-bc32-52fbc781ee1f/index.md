@@ -1,9 +1,6 @@
 ---
 title: "彼女 :: aiko"
-description: ""
 date: "2006-08-26T23:44:00.000Z"
-categories: []
-keywords: []
 tags: ["aiko", "music", "cd"]
 slug: "a5ca469c-14cb-4411-bc32-52fbc781ee1f"
 ---

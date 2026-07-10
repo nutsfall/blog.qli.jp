@@ -5,7 +5,6 @@ slug: "c624ff00-ba9f-4da7-a4c5-2287d96d1d6e"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%E3%81%AE%E8%A9%B1-5c920c430083?source=rss-21bfda6f823e------2"
 tags: ["nogizaka46", "radio"]
-draft: false
 ---
 
 11月26日、毎週ラジオを聴いていたパーソナリティが最後の回となりました。乃木坂 46 オールナイトニッポン（乃木坂 46ANN）のパーソナリティ久保史緒里さんです。グループ卒業に伴って、グループ名を冠した番組も卒業ということになりました。

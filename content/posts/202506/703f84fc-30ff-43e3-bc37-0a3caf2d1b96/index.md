@@ -1,9 +1,6 @@
 ---
 title: テクノロジーとクリエイター
-description: ''
-date: '2025-06-28T03:01:30.425Z'
-categories: []
-keywords: []
+date: "2025-06-28T03:01:30.425Z"
 tags: ["technology", "sakurazaka46", "creators"]
 slug: "703f84fc-30ff-43e3-bc37-0a3caf2d1b96"
 ---

@@ -1,9 +1,6 @@
 ---
 title: iPhoneとケータイのみの4日間
-description: ''
-date: '2010-01-06T10:07:18.000Z'
-categories: []
-keywords: []
+date: "2010-01-06T10:07:18.000Z"
 tags: ["iphone", "mobile"]
 slug: "71a831d4-b7ce-4e82-86ae-4efc5b40ebba"
 ---

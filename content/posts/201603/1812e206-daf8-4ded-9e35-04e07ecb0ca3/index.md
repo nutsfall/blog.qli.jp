@@ -1,9 +1,7 @@
 ---
 title: ものづくりの２つのプロセス
 description: はじめに
-date: '2016-03-13T01:58:03.743Z'
-categories: []
-keywords: []
+date: "2016-03-13T01:58:03.743Z"
 tags: ["agile", "software-development"]
 slug: "1812e206-daf8-4ded-9e35-04e07ecb0ca3"
 ---

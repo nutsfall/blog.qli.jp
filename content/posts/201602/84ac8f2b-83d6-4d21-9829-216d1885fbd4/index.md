@@ -2,8 +2,6 @@
 title: リモートワークとGTDコンテキスト
 description: リモートワークのようなものを体験する機会があった。
 date: "2016-02-26T14:56:46.000Z"
-categories: []
-keywords: []
 tags: ["remote-work", "gtd", "task-management"]
 slug: "84ac8f2b-83d6-4d21-9829-216d1885fbd4"
 ---

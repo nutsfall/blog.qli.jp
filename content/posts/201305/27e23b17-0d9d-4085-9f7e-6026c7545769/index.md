@@ -1,9 +1,6 @@
 ---
 title: Tim Cookが D11で語る
-description: ''
-date: '2013-05-29T22:05:46.000Z'
-categories: []
-keywords: []
+date: "2013-05-29T22:05:46.000Z"
 tags: ["apple", "tim-cook"]
 slug: "27e23b17-0d9d-4085-9f7e-6026c7545769"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Leopardのリリースが遅くなる
-description: ''
-date: '2007-04-13T09:19:17.000Z'
-categories: []
-keywords: []
+date: "2007-04-13T09:19:17.000Z"
 tags: ["apple", "macos", "iphone"]
 slug: "5c40e02f-5f09-41fc-8590-8ece96652ce1"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 映画 阪急電車
-description: ''
-date: '2011-05-09T14:45:37.000Z'
-categories: []
-keywords: []
+date: "2011-05-09T14:45:37.000Z"
 tags: ["hankyu-railways", "film"]
 slug: "c462bc84-9314-4066-b8a8-4b6c40a8d01d"
 ---

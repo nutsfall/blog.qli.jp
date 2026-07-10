@@ -1,9 +1,6 @@
 ---
 title: Apple TV 4th Genが届いた
-description: ''
-date: '2015-10-30T14:38:09.000Z'
-categories: []
-keywords: []
+date: "2015-10-30T14:38:09.000Z"
 tags: ["apple-tv", "apple-music", "j-league"]
 slug: "691b089e-69c8-4779-a676-ce46716cd320"
 ---

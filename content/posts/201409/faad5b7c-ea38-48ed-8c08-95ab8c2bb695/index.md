@@ -1,9 +1,6 @@
 ---
 title: iPhone6 ファーストインプレッション
-description: ''
-date: '2014-09-19T01:58:47.000Z'
-categories: []
-keywords: []
+date: "2014-09-19T01:58:47.000Z"
 tags: ["iphone6", "apple-store"]
 slug: "faad5b7c-ea38-48ed-8c08-95ab8c2bb695"
 ---

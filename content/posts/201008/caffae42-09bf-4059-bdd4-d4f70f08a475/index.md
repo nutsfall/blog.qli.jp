@@ -1,9 +1,6 @@
 ---
 title: wde ex vol.12 “電子書籍の未来”
-description: ''
-date: '2010-08-12T21:04:13.000Z'
-categories: []
-keywords: []
+date: "2010-08-12T21:04:13.000Z"
 tags: ["e-books", "publishing"]
 slug: "caffae42-09bf-4059-bdd4-d4f70f08a475"
 ---

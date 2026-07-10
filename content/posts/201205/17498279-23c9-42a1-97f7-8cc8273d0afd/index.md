@@ -1,9 +1,6 @@
 ---
 title: なぜこんなに多いのか
-description: ''
-date: '2012-05-07T19:42:29.000Z'
-categories: []
-keywords: []
+date: "2012-05-07T19:42:29.000Z"
 tags: ["mr-children", "music-industry"]
 slug: "17498279-23c9-42a1-97f7-8cc8273d0afd"
 ---

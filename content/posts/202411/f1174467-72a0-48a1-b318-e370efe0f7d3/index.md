@@ -1,9 +1,6 @@
 ---
 title: "「いま」を楽しむ"
-description: ''
-date: '2024-11-02T03:02:19.832Z'
-categories: []
-keywords: []
+date: "2024-11-02T03:02:19.832Z"
 tags: ["avispa-fukuoka", "sakurazaka46", "fandom"]
 slug: "f1174467-72a0-48a1-b318-e370efe0f7d3"
 cover:

@@ -1,9 +1,6 @@
 ---
 title: iPhone7 Launch
-description: ''
-date: '2016-09-18T03:43:51.000Z'
-categories: []
-keywords: []
+date: "2016-09-18T03:43:51.000Z"
 tags: ["iphone", "apple"]
 slug: "0a258f6a-779f-4dbe-88ee-cc39ab8745e3"
 ---

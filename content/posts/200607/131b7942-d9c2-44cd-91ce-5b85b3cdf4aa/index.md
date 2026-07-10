@@ -1,9 +1,6 @@
 ---
 title: Gmailって２つ持つと面倒じゃない？
-description: ''
-date: '2006-07-29T00:05:57.000Z'
-categories: []
-keywords: []
+date: "2006-07-29T00:05:57.000Z"
 tags: ["gmail", "email-management"]
 slug: "131b7942-d9c2-44cd-91ce-5b85b3cdf4aa"
 ---

@@ -1,9 +1,6 @@
 ---
 title: MacBook Airの雑感
-description: ''
-date: '2008-03-13T23:48:14.000Z'
-categories: []
-keywords: []
+date: "2008-03-13T23:48:14.000Z"
 tags: ["macbook-air", "apple"]
 slug: "e3618fcd-babe-48a0-8327-bb9428749527"
 ---

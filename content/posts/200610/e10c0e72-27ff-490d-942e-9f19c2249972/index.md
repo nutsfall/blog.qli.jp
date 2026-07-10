@@ -1,9 +1,6 @@
 ---
 title: Good bye! Naked Conversations!
-description: ''
-date: '2006-10-25T19:36:08.000Z'
-categories: []
-keywords: []
+date: "2006-10-25T19:36:08.000Z"
 tags: ["online-identity", "mixi"]
 slug: "e10c0e72-27ff-490d-942e-9f19c2249972"
 ---

@@ -1,9 +1,7 @@
 ---
 title: 年間スケジュールを立てるための年間カレンダー
 description: このブログは7月3日に公開されています。
-date: '2021-07-02T15:03:21.849Z'
-categories: []
-keywords: []
+date: "2021-07-02T15:03:21.849Z"
 tags: ["yearly-planner", "j-league", "icloud"]
 slug: "9055982e-00d2-4771-9397-13407714aa4e"
 ---

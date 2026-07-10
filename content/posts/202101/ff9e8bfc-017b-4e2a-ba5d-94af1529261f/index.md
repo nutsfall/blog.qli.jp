@@ -1,9 +1,7 @@
 ---
 title: AirPods Max 1ヶ月レビュー
 description: AirPods Maxが発売されて1ヶ月が経った、ということで、改めてレビューを。
-date: '2021-01-17T15:00:11.958Z'
-categories: []
-keywords: []
+date: "2021-01-17T15:00:11.958Z"
 tags: ["airpods-max", "apple"]
 slug: "ff9e8bfc-017b-4e2a-ba5d-94af1529261f"
 ---

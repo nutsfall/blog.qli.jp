@@ -1,9 +1,6 @@
 ---
 title: 春フェスに行ってきた
-description: ''
-date: '2025-05-17T03:02:40.140Z'
-categories: []
-keywords: []
+date: "2025-05-17T03:02:40.140Z"
 tags: ["metrock", "music-festival", "live-music"]
 slug: "c014f08e-7b8e-45dd-a764-9278f39099bf"
 cover:

@@ -1,9 +1,6 @@
 ---
-title: 'MY SHORT STORIES : YUI'
-description: ''
-date: '2008-11-12T22:49:05.000Z'
-categories: []
-keywords: []
+title: "MY SHORT STORIES : YUI"
+date: "2008-11-12T22:49:05.000Z"
 tags: ["yui", "music"]
 slug: "84b537d9-c5fb-45c0-8010-6089e9d0f0a1"
 ---

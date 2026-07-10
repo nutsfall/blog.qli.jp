@@ -1,9 +1,6 @@
 ---
 title: タガタメ
-description: ''
-date: '2012-07-10T22:05:12.000Z'
-categories: []
-keywords: []
+date: "2012-07-10T22:05:12.000Z"
 tags: ["fukushima", "nuclear-power"]
 slug: "d2ea03e9-ea76-4161-97c1-37dca2f223f5"
 ---

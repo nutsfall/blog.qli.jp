@@ -1,9 +1,6 @@
 ---
 title: Time Capsule買わなくてもWireless Time Machine
-description: ''
-date: '2008-03-20T11:40:34.000Z'
-categories: []
-keywords: []
+date: "2008-03-20T11:40:34.000Z"
 tags: ["time-machine", "airmac-extreme"]
 slug: "1c323db1-d351-4774-87cc-add28d88a0d7"
 ---

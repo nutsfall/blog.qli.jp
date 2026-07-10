@@ -1,9 +1,6 @@
 ---
 title: TwitterとFacebookはまったく別
-description: ''
-date: '2012-02-22T00:26:31.000Z'
-categories: []
-keywords: []
+date: "2012-02-22T00:26:31.000Z"
 tags: ["twitter", "facebook", "social-media"]
 slug: "1cc1d5d8-0da0-4551-91d2-372e0f1ba9ec"
 ---

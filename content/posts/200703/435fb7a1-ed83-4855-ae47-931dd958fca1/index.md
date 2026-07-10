@@ -1,9 +1,6 @@
 ---
 title: Google Talk Gadgetがリリース
-description: ''
-date: '2007-03-15T11:15:43.000Z'
-categories: []
-keywords: []
+date: "2007-03-15T11:15:43.000Z"
 tags: ["google-talk", "google"]
 slug: "435fb7a1-ed83-4855-ae47-931dd958fca1"
 ---

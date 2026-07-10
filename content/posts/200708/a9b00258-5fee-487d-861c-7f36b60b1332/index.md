@@ -1,9 +1,6 @@
 ---
 title: BLOGのまとめ
-description: ''
-date: '2007-08-07T21:46:51.000Z'
-categories: []
-keywords: []
+date: "2007-08-07T21:46:51.000Z"
 tags: ["blogging", "web-services"]
 slug: "a9b00258-5fee-487d-861c-7f36b60b1332"
 ---

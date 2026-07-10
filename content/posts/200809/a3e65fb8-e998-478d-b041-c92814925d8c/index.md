@@ -1,9 +1,6 @@
 ---
 title: Where is Apple Push Notification Service?
-description: ''
-date: '2008-09-16T07:43:25.000Z'
-categories: []
-keywords: []
+date: "2008-09-16T07:43:25.000Z"
 tags: ["apple", "iphone", "push-notifications"]
 slug: "a3e65fb8-e998-478d-b041-c92814925d8c"
 ---

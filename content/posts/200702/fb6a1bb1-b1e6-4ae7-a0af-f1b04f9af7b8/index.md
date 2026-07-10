@@ -1,9 +1,6 @@
 ---
 title: ATH-ANC7買いました
-description: ''
-date: '2007-02-24T23:04:10.000Z'
-categories: []
-keywords: []
+date: "2007-02-24T23:04:10.000Z"
 tags: ["audio-technica", "ath-anc7"]
 slug: "fb6a1bb1-b1e6-4ae7-a0af-f1b04f9af7b8"
 ---

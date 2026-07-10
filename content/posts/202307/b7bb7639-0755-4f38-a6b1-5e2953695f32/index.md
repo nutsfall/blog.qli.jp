@@ -1,9 +1,6 @@
 ---
 title: Matterを待っていた
-description: ''
-date: '2023-07-29T03:02:01.371Z'
-categories: []
-keywords: []
+date: "2023-07-29T03:02:01.371Z"
 tags: ["smart-home", "matter", "nature-remo"]
 slug: "b7bb7639-0755-4f38-a6b1-5e2953695f32"
 ---

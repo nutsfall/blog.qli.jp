@@ -1,9 +1,6 @@
 ---
 title: OmniFocus 2 デビュー
-description: ''
-date: '2013-02-02T08:31:52.000Z'
-categories: []
-keywords: []
+date: "2013-02-02T08:31:52.000Z"
 tags: ["omnifocus", "task-management"]
 slug: "4b4695bd-caea-42ce-86ea-36cda64a5f9f"
 ---

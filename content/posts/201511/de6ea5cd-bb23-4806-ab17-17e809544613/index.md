@@ -1,9 +1,6 @@
 ---
 title: 週次レビューにマインドマップを
-description: ''
-date: '2015-11-08T14:51:38.000Z'
-categories: []
-keywords: []
+date: "2015-11-08T14:51:38.000Z"
 tags: ["omnifocus", "task-management", "mind-mapping"]
 slug: "de6ea5cd-bb23-4806-ab17-17e809544613"
 ---

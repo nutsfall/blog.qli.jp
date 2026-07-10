@@ -1,9 +1,6 @@
 ---
 title: アジャイル開発のカンバン
-description: ''
-date: '2013-09-18T20:30:24.000Z'
-categories: []
-keywords: []
+date: "2013-09-18T20:30:24.000Z"
 tags: ["agile", "kanban", "scrum"]
 slug: "6592bd80-2ed1-46e4-bef8-34c9620149ac"
 ---

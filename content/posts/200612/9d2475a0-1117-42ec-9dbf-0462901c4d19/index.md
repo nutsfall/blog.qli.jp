@@ -1,9 +1,6 @@
 ---
 title: Voxがバージョンアップ
-description: ''
-date: '2006-12-06T16:23:18.000Z'
-categories: []
-keywords: []
+date: "2006-12-06T16:23:18.000Z"
 tags: ["vox", "blogging"]
 slug: "9d2475a0-1117-42ec-9dbf-0462901c4d19"
 ---

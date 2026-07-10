@@ -1,9 +1,7 @@
 ---
 title: オレンジな泡沫サタデーナイト
 description: 4月も3分の1が終わろうとしていますが、ブログを書くのも間が空いてしまったので、3月のお話を少し。
-date: '2021-04-10T04:34:02.490Z'
-categories: []
-keywords: []
+date: "2021-04-10T04:34:02.490Z"
 tags: ["akai-koen", "apple-music"]
 slug: "2d4af430-bf12-424b-938a-1e666f3bd1ec"
 ---

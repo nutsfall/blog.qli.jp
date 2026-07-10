@@ -1,9 +1,6 @@
 ---
 title: Windowsの開発環境とmacでのPHP開発
-description: ""
 date: "2006-09-24T22:42:06.000Z"
-categories: []
-keywords: []
 tags: ["xampp", "eclipse", "php"]
 slug: "a8cbc530-f1a7-4949-8380-7ae301b58de1"
 ---

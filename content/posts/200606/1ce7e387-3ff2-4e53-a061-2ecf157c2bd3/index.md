@@ -1,9 +1,6 @@
 ---
 title: きゅーり.jp開始のご挨拶
-description: ''
-date: '2006-06-21T08:56:18.000Z'
-categories: []
-keywords: []
+date: "2006-06-21T08:56:18.000Z"
 tags: ["apple", "ap-bank", "kurkku"]
 slug: "1ce7e387-3ff2-4e53-a061-2ecf157c2bd3"
 ---

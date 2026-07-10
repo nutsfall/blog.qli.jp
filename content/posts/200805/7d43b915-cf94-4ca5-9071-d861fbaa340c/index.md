@@ -1,9 +1,6 @@
 ---
 title: Google App EngineがPreviewから脱する？
-description: ''
-date: '2008-05-28T09:46:18.000Z'
-categories: []
-keywords: []
+date: "2008-05-28T09:46:18.000Z"
 tags: ["google-app-engine", "google-io"]
 slug: "7d43b915-cf94-4ca5-9071-d861fbaa340c"
 ---

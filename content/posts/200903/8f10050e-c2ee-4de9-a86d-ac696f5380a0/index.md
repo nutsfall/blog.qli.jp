@@ -1,9 +1,6 @@
 ---
 title: "[結果報告] iPhone OS 3.0についてきいてしまおう"
-description: ''
-date: '2009-03-20T17:57:05.000Z'
-categories: []
-keywords: []
+date: "2009-03-20T17:57:05.000Z"
 tags: ["iphone", "ios"]
 slug: "8f10050e-c2ee-4de9-a86d-ac696f5380a0"
 ---

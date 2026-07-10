@@ -1,9 +1,6 @@
 ---
-title: 'これが僕らの音 ( SENSE :: Mr.Children )'
-description: ''
-date: '2010-12-01T00:02:43.000Z'
-categories: []
-keywords: []
+title: "これが僕らの音 ( SENSE :: Mr.Children )"
+date: "2010-12-01T00:02:43.000Z"
 tags: ["mr-children", "sense"]
 slug: "f233e6d7-f210-46eb-a95e-cb36ada0f9ba"
 ---

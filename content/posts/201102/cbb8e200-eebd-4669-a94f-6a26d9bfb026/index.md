@@ -1,9 +1,6 @@
 ---
 title: "“キュレーションの時代”を読んで"
-description: ''
-date: '2011-02-11T16:16:44.000Z'
-categories: []
-keywords: []
+date: "2011-02-11T16:16:44.000Z"
 tags: ["book-review", "ibooks", "foursquare"]
 slug: "cbb8e200-eebd-4669-a94f-6a26d9bfb026"
 ---

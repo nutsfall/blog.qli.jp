@@ -5,7 +5,6 @@ slug: "35f04099-9dce-4966-ba1e-368c16be47b4"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E6%B0%97%E3%81%A4%E3%82%99%E3%81%84%E3%81%9F%E3%82%8930%E6%97%A5-491b13029657?source=rss-21bfda6f823e------2"
 tags: ["music-festivals", "sakurazaka46", "nogizaka46"]
-draft: false
 cover:
   image: "cover.png"
   caption: "Green Fields, Black Headphones, and a Morning Thirty Days In"

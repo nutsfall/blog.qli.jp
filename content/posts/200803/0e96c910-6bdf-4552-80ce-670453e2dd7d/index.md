@@ -1,9 +1,6 @@
 ---
 title: 一つの記事が様々なところで論議を呼ぶ？
-description: ''
-date: '2008-03-21T16:37:55.000Z'
-categories: []
-keywords: []
+date: "2008-03-21T16:37:55.000Z"
 tags: ["friendfeed", "social-bookmarking"]
 slug: "0e96c910-6bdf-4552-80ce-670453e2dd7d"
 ---

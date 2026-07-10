@@ -1,9 +1,6 @@
 ---
 title: Googleデスクトップ日本語版がリリースされました
-description: ''
-date: '2007-09-01T09:23:08.000Z'
-categories: []
-keywords: []
+date: "2007-09-01T09:23:08.000Z"
 tags: ["google-desktop", "mac"]
 slug: "305606f1-11e2-4569-8145-f1655a7d3987"
 ---

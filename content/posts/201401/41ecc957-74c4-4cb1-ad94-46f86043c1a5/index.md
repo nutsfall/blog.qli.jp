@@ -1,9 +1,6 @@
 ---
 title: GTDのマトリックス型タスク管理システム
-description: ''
-date: '2014-01-22T12:14:15.000Z'
-categories: []
-keywords: []
+date: "2014-01-22T12:14:15.000Z"
 tags: ["gtd", "productivity", "omnifocus"]
 slug: "41ecc957-74c4-4cb1-ad94-46f86043c1a5"
 ---

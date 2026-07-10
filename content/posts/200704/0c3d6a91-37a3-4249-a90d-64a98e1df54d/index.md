@@ -1,9 +1,6 @@
 ---
 title: Googleデスクトップ Mac版登場！
-description: ""
 date: "2007-04-04T23:43:52.000Z"
-categories: []
-keywords: []
 tags: ["google-desktop", "mac"]
 slug: "0c3d6a91-37a3-4249-a90d-64a98e1df54d"
 ---

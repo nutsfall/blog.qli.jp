@@ -1,9 +1,6 @@
 ---
 title: Windows Live for Windows Mobile 5
-description: ''
-date: '2007-04-12T21:45:42.000Z'
-categories: []
-keywords: []
+date: "2007-04-12T21:45:42.000Z"
 tags: ["windows-live", "windows-mobile"]
 slug: "d5a42eeb-f2ce-43c2-8437-feb9c3de7695"
 ---

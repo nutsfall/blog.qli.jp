@@ -1,9 +1,6 @@
 ---
 title: 新しいMacBookが11月に？
-description: ''
-date: '2007-10-10T06:29:37.000Z'
-categories: []
-keywords: []
+date: "2007-10-10T06:29:37.000Z"
 tags: ["apple", "macbook"]
 slug: "adce243c-b388-4a77-a17a-fd632ee476c6"
 ---

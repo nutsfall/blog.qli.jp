@@ -1,9 +1,6 @@
 ---
 title: "“リリイシュシュ”の手法は今でも有効なのか"
-description: ''
-date: '2010-12-12T23:04:57.000Z'
-categories: []
-keywords: []
+date: "2010-12-12T23:04:57.000Z"
 tags: ["lily-chou-chou", "salyu", "bbs"]
 slug: "ade5787d-7d0a-4dcd-8608-e53595ef3101"
 ---

@@ -1,9 +1,6 @@
 ---
 title: iPod Shuffle 2Gを買ってみた
-description: ''
-date: '2006-11-06T00:40:16.000Z'
-categories: []
-keywords: []
+date: "2006-11-06T00:40:16.000Z"
 tags: ["ipod-shuffle", "apple"]
 slug: "dfc5d033-5d36-4909-9b9c-0e960e91153b"
 ---

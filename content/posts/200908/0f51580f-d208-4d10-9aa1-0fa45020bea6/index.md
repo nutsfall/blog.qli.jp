@@ -1,9 +1,6 @@
 ---
 title: Thingsが将来について言及した
-description: ''
-date: '2009-08-12T08:10:38.000Z'
-categories: []
-keywords: []
+date: "2009-08-12T08:10:38.000Z"
 tags: ["things", "gtd"]
 slug: "0f51580f-d208-4d10-9aa1-0fa45020bea6"
 ---

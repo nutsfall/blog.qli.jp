@@ -1,9 +1,7 @@
 ---
 title: au iPhone7からau iPhone 2017年モデルへの機種変更についてのまとめ
 description: 面倒なことが多いのでまとめてみた
-date: '2017-09-30T01:40:23.660Z'
-categories: []
-keywords: []
+date: "2017-09-30T01:40:23.660Z"
 tags: ["iphone", "au", "apple-pay"]
 slug: "b0bd61f1-e85a-4110-8415-c0e627f04211"
 ---

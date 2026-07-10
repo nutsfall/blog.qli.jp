@@ -1,9 +1,6 @@
 ---
-title: 'Things :: GTDに忠実なタスク管理ソフト'
-description: ''
-date: '2008-05-10T12:31:01.000Z'
-categories: []
-keywords: []
+title: "Things :: GTDに忠実なタスク管理ソフト"
+date: "2008-05-10T12:31:01.000Z"
 tags: ["things", "gtd", "task-management"]
 slug: "349bfc58-18e7-49e8-9d12-17164d04b5de"
 ---

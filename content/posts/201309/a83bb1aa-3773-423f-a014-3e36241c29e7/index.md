@@ -1,9 +1,6 @@
 ---
 title: iPhone 5s ファーストインプレッション
-description: ''
-date: '2013-09-23T21:08:34.000Z'
-categories: []
-keywords: []
+date: "2013-09-23T21:08:34.000Z"
 tags: ["iphone-5s", "touch-id"]
 slug: "a83bb1aa-3773-423f-a014-3e36241c29e7"
 ---

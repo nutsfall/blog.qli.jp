@@ -1,9 +1,6 @@
 ---
 title: iPodファミリー一新
-description: ''
-date: '2006-09-13T06:15:52.000Z'
-categories: []
-keywords: []
+date: "2006-09-13T06:15:52.000Z"
 tags: ["ipod", "apple"]
 slug: "5fb301f0-82fd-496c-b37b-3517822cb509"
 ---

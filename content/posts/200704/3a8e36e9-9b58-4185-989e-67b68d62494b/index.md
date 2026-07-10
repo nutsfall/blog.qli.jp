@@ -1,9 +1,6 @@
 ---
 title: AppleがDRMフリー販売を発表しました
-description: ''
-date: '2007-04-02T21:43:23.000Z'
-categories: []
-keywords: []
+date: "2007-04-02T21:43:23.000Z"
 tags: ["apple", "itunes", "drm"]
 slug: "3a8e36e9-9b58-4185-989e-67b68d62494b"
 ---

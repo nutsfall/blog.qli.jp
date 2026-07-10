@@ -1,9 +1,6 @@
 ---
 title: Last.fm日本語版が閉鎖です。
-description: ''
-date: '2007-11-02T22:12:30.000Z'
-categories: []
-keywords: []
+date: "2007-11-02T22:12:30.000Z"
 tags: ["last-fm", "music"]
 slug: "8c1aec8d-6a64-4520-b970-7499ef347b35"
 ---

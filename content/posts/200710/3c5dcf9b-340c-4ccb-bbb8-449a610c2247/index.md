@@ -1,9 +1,6 @@
 ---
 title: GoogleがJaikuを買収
-description: ''
-date: '2007-10-10T05:51:19.000Z'
-categories: []
-keywords: []
+date: "2007-10-10T05:51:19.000Z"
 tags: ["google", "jaiku", "twitter"]
 slug: "3c5dcf9b-340c-4ccb-bbb8-449a610c2247"
 ---

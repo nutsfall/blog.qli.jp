@@ -1,9 +1,6 @@
 ---
 title: iPodのウィルスが混入！
-description: ''
-date: '2006-10-18T08:11:11.000Z'
-categories: []
-keywords: []
+date: "2006-10-18T08:11:11.000Z"
 tags: ["ipod", "apple", "malware"]
 slug: "5541c980-a6d0-4c90-854f-e218cdc58597"
 ---

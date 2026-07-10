@@ -1,9 +1,6 @@
 ---
 title: リリース：Google Desktop 4.5 for English
-description: ''
-date: '2006-11-15T13:57:36.000Z'
-categories: []
-keywords: []
+date: "2006-11-15T13:57:36.000Z"
 tags: ["google-desktop", "windows-vista"]
 slug: "48b1b049-1ba0-4fba-b304-dd5651b92892"
 ---

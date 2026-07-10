@@ -1,9 +1,6 @@
 ---
 title: iTunes 11 が登場
-description: ''
-date: '2012-11-30T08:20:08.000Z'
-categories: []
-keywords: []
+date: "2012-11-30T08:20:08.000Z"
 tags: ["itunes", "apple"]
 slug: "2255d02d-a2ce-4b1b-b29e-b5e0b87c8755"
 ---

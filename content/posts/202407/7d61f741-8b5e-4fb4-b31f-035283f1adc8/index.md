@@ -1,9 +1,7 @@
 ---
 title: Vision Pro デモ体験記
 description: 6月28日にApple OmotesandoでVision Proを体験してきた。そのことについて記憶の限り書いてみた。
-date: '2024-07-27T11:38:37.230Z'
-categories: []
-keywords: []
+date: "2024-07-27T11:38:37.230Z"
 tags: ["apple-vision-pro", "apple"]
 slug: "7d61f741-8b5e-4fb4-b31f-035283f1adc8"
 ---

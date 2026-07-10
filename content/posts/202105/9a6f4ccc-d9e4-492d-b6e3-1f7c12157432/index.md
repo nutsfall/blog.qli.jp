@@ -1,9 +1,6 @@
 ---
 title: 新しい音楽体験が6月に — Apple Music
-description: ''
-date: '2021-05-17T13:37:21.375Z'
-categories: []
-keywords: []
+date: "2021-05-17T13:37:21.375Z"
 tags: ["apple-music", "spatial-audio"]
 slug: "9a6f4ccc-d9e4-492d-b6e3-1f7c12157432"
 ---

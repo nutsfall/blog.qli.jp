@@ -1,9 +1,6 @@
 ---
 title: マイク付きApple In EarはiPhoneでも使えるが･･･
-description: ''
-date: '2008-12-09T22:58:16.000Z'
-categories: []
-keywords: []
+date: "2008-12-09T22:58:16.000Z"
 tags: ["apple", "iphone", "headphones"]
 slug: "863d017d-8108-4b30-b39d-7ae2ec3acdbc"
 ---

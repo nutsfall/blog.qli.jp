@@ -1,9 +1,6 @@
 ---
 title: ap bank fes ’12 in つま恋 に参加してきた
-description: ''
-date: '2012-07-19T21:07:31.000Z'
-categories: []
-keywords: []
+date: "2012-07-19T21:07:31.000Z"
 tags: ["ap-bank-fes", "mr-children", "jason-mraz"]
 slug: "71dc2d35-9b72-4bb1-8130-430c2a57303d"
 ---

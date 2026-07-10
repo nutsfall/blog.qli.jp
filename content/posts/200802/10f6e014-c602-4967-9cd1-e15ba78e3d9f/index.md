@@ -1,9 +1,6 @@
 ---
 title: Mac OS X 10.5.2 アップデート
-description: ''
-date: '2008-02-12T21:42:51.000Z'
-categories: []
-keywords: []
+date: "2008-02-12T21:42:51.000Z"
 tags: ["mac-os-x", "leopard"]
 slug: "10f6e014-c602-4967-9cd1-e15ba78e3d9f"
 ---

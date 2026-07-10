@@ -1,9 +1,6 @@
 ---
 title: ブログ情報抽出とロングテール
-description: ''
-date: '2006-11-28T00:48:17.000Z'
-categories: []
-keywords: []
+date: "2006-11-28T00:48:17.000Z"
 tags: ["long-tail", "blogging"]
 slug: "f1a94331-38f4-439b-8daa-2796b55c9d3b"
 ---

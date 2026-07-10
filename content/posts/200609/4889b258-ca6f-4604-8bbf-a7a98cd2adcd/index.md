@@ -1,9 +1,6 @@
 ---
 title: ブログってなんだ？
-description: ''
-date: '2006-09-26T11:17:15.000Z'
-categories: []
-keywords: []
+date: "2006-09-26T11:17:15.000Z"
 tags: ["blogging"]
 slug: "4889b258-ca6f-4604-8bbf-a7a98cd2adcd"
 ---

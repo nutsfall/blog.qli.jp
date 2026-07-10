@@ -1,9 +1,7 @@
 ---
 title: OmniFocusは時代遅れ なのか
 description: 先日、TwitterでOmniFocusは古いという話を見かけました。それを受けて、こんなツイートを書きました。
-date: '2021-12-09T14:37:33.068Z'
-categories: []
-keywords: []
+date: "2021-12-09T14:37:33.068Z"
 tags: ["omnifocus", "gtd", "productivity"]
 slug: "4aead447-5b21-4e7a-a571-068085092070"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 相棒のレンズたち
-description: ''
-date: '2012-04-28T09:05:34.000Z'
-categories: []
-keywords: []
+date: "2012-04-28T09:05:34.000Z"
 tags: ["photography", "olympus", "m-zuiko"]
 slug: "cfe0e14a-ef2e-47b5-92c9-3fcfbdf85938"
 ---

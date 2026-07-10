@@ -1,9 +1,6 @@
 ---
 title: 音楽を再生する環境を語ってみる
-description: ''
-date: '2014-05-28T21:42:57.000Z'
-categories: []
-keywords: []
+date: "2014-05-28T21:42:57.000Z"
 tags: ["music", "itunes"]
 slug: "d5dc114e-0ced-4c1b-b9de-557b4629519a"
 ---

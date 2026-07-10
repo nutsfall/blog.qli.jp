@@ -1,9 +1,6 @@
 ---
 title: アクセス解析を久しぶりにのぞいた
-description: ""
 date: "2006-11-03T15:32:00.000Z"
-categories: []
-keywords: []
 tags: ["web-analytics", "firefox"]
 slug: "340401fc-e79c-453c-b219-62fca91c7add"
 ---

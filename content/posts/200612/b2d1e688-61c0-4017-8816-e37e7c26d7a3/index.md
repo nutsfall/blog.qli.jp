@@ -1,9 +1,6 @@
 ---
 title: Plugooプラグインをつけてみました
-description: ''
-date: '2006-12-11T00:54:27.000Z'
-categories: []
-keywords: []
+date: "2006-12-11T00:54:27.000Z"
 tags: ["plugoo", "instant-messaging", "web-tools"]
 slug: "b2d1e688-61c0-4017-8816-e37e7c26d7a3"
 ---

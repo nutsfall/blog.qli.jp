@@ -1,9 +1,6 @@
 ---
 title: Apple Watchとは何か
-description: ''
-date: '2015-03-18T13:12:53.000Z'
-categories: []
-keywords: []
+date: "2015-03-18T13:12:53.000Z"
 tags: ["apple-watch", "apple"]
 slug: "080832ff-3996-4960-bafe-1b3d54f84a7e"
 ---

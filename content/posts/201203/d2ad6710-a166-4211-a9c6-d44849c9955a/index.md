@@ -1,9 +1,6 @@
 ---
 title: au iPhone MMSの仕様が判明
-description: ''
-date: '2012-03-30T07:28:10.000Z'
-categories: []
-keywords: []
+date: "2012-03-30T07:28:10.000Z"
 tags: ["au", "iphone", "mms"]
 slug: "d2ad6710-a166-4211-a9c6-d44849c9955a"
 ---

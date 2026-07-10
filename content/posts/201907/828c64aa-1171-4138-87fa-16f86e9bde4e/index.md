@@ -1,9 +1,7 @@
 ---
 title: ワークフロー (July 2019)
 description: タスク管理まわりのワークフローをまとめておきます。ベースはGTDなのですが、そこは詳しく説明はしません。
-date: '2019-07-14T01:53:07.916Z'
-categories: []
-keywords: []
+date: "2019-07-14T01:53:07.916Z"
 tags: ["gtd", "workflow", "productivity"]
 slug: "828c64aa-1171-4138-87fa-16f86e9bde4e"
 ---

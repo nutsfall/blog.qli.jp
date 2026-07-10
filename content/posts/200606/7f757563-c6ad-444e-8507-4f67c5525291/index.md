@@ -1,9 +1,6 @@
 ---
 title: あとで読む グッズ到着しました
-description: ''
-date: '2006-06-22T19:25:29.000Z'
-categories: []
-keywords: []
+date: "2006-06-22T19:25:29.000Z"
 tags: ["stationery", "productivity"]
 slug: "7f757563-c6ad-444e-8507-4f67c5525291"
 ---

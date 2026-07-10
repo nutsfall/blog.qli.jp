@@ -1,9 +1,6 @@
 ---
 title: Gmail IMAPの挙動変更[Update]
-description: ''
-date: '2008-01-16T08:02:17.000Z'
-categories: []
-keywords: []
+date: "2008-01-16T08:02:17.000Z"
 tags: ["gmail", "imap", "iphone"]
 slug: "b41c63e2-02be-461f-adec-98c095e27564"
 ---

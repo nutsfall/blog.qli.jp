@@ -1,9 +1,6 @@
 ---
 title: ブログを書いて報酬をもらおう
-description: ''
-date: '2006-11-16T00:17:52.000Z'
-categories: []
-keywords: []
+date: "2006-11-16T00:17:52.000Z"
 tags: ["blogging", "affiliate-marketing"]
 slug: "f80ac8fe-9fc3-4507-825c-e487cf15a786"
 ---

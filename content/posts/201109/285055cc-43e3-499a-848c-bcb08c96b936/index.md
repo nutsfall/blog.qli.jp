@@ -1,9 +1,6 @@
 ---
 title: Appleがメディアイベントを開催予告
-description: ''
-date: '2011-09-28T19:36:21.000Z'
-categories: []
-keywords: []
+date: "2011-09-28T19:36:21.000Z"
 tags: ["iphone", "icloud", "ios"]
 slug: "285055cc-43e3-499a-848c-bcb08c96b936"
 ---

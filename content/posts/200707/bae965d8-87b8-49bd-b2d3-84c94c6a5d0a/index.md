@@ -1,9 +1,6 @@
 ---
-title: 'Echo Park :: advantage Lucy'
-description: ''
-date: '2007-07-28T10:22:35.000Z'
-categories: []
-keywords: []
+title: "Echo Park :: advantage Lucy"
+date: "2007-07-28T10:22:35.000Z"
 tags: ["advantage-lucy", "music"]
 slug: "bae965d8-87b8-49bd-b2d3-84c94c6a5d0a"
 ---

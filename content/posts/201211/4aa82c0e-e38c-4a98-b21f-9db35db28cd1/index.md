@@ -1,9 +1,6 @@
 ---
 title: 秋の京都へ
-description: ''
-date: '2012-11-24T22:55:33.000Z'
-categories: []
-keywords: []
+date: "2012-11-24T22:55:33.000Z"
 tags: ["kyoto", "travel", "autumn-foliage"]
 slug: "4aa82c0e-e38c-4a98-b21f-9db35db28cd1"
 ---

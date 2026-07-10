@@ -1,9 +1,6 @@
 ---
 title: オオヒダさんのインタビュー記事
-description: ''
-date: '2007-02-21T08:00:31.000Z'
-categories: []
-keywords: []
+date: "2007-02-21T08:00:31.000Z"
 tags: ["kotonoha", "interview", "web-services"]
 slug: "fd466248-4f4e-40f1-a0ef-6b1309dfc09a"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Salyu x Salyu 話したいあなたと
-description: ''
-date: '2011-10-26T00:01:58.000Z'
-categories: []
-keywords: []
+date: "2011-10-26T00:01:58.000Z"
 tags: ["salyu", "concert", "zepp-tokyo"]
 slug: "50743b4e-c7d1-4e8e-89a3-c4d2e810fd43"
 ---

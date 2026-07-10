@@ -1,9 +1,6 @@
 ---
 title: カテゴリ code を新設
-description: ''
-date: '2006-07-18T15:27:54.000Z'
-categories: []
-keywords: []
+date: "2006-07-18T15:27:54.000Z"
 tags: ["php", "programming"]
 slug: "3ed2e089-70c9-4ad9-b26a-dc38331136a5"
 ---

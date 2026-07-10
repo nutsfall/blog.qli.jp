@@ -1,9 +1,7 @@
 ---
 title: Things 3 Workflow (March 2018)
 description: 2017年5月にThings 3がリリースされて10ヶ月ほど。この辺りで、Things 3の使い方とかをスナップショット的にまとめておく。
-date: '2018-03-14T10:26:09.229Z'
-categories: []
-keywords: []
+date: "2018-03-14T10:26:09.229Z"
 tags: ["things", "productivity", "workflow"]
 slug: "ade88db2-1bc9-4fb2-9b3d-8942cd60b3bd"
 ---

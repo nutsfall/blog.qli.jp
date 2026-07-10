@@ -1,9 +1,6 @@
 ---
 title: "“芸術実行犯”を読んで"
-description: ''
-date: '2012-07-17T14:17:51.000Z'
-categories: []
-keywords: []
+date: "2012-07-17T14:17:51.000Z"
 tags: ["chim-pom", "book-review", "art"]
 slug: "607fc243-8bab-4801-9b2a-bb646d1f7a66"
 ---

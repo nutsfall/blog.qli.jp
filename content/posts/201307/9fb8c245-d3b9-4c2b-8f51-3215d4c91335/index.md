@@ -1,9 +1,6 @@
 ---
 title: コンテンツ志向デザインを考える
-description: ''
-date: '2013-07-18T20:38:12.000Z'
-categories: []
-keywords: []
+date: "2013-07-18T20:38:12.000Z"
 tags: ["flat-design", "responsive-web-design", "mobile-first"]
 slug: "9fb8c245-d3b9-4c2b-8f51-3215d4c91335"
 ---

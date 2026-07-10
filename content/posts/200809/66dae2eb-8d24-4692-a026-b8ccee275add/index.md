@@ -1,9 +1,6 @@
 ---
 title: Apple 超コンパクト USB 電源アダプタ交換プログラム
-description: ''
-date: '2008-09-23T21:56:28.000Z'
-categories: []
-keywords: []
+date: "2008-09-23T21:56:28.000Z"
 tags: ["apple", "iphone"]
 slug: "66dae2eb-8d24-4692-a026-b8ccee275add"
 ---

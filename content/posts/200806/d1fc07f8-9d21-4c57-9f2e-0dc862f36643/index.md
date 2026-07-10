@@ -1,9 +1,6 @@
 ---
 title: FormAssemblyを使ってみた
-description: ''
-date: '2008-06-19T09:56:48.000Z'
-categories: []
-keywords: []
+date: "2008-06-19T09:56:48.000Z"
 tags: ["formassembly", "survey-tools"]
 slug: "d1fc07f8-9d21-4c57-9f2e-0dc862f36643"
 ---

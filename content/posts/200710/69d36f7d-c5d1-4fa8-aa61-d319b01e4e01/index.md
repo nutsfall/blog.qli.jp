@@ -1,9 +1,6 @@
 ---
-title: 'LIBERTY :: Salyu'
-description: ''
-date: '2007-10-18T19:05:26.000Z'
-categories: []
-keywords: []
+title: "LIBERTY :: Salyu"
+date: "2007-10-18T19:05:26.000Z"
 tags: ["salyu", "music"]
 slug: "69d36f7d-c5d1-4fa8-aa61-d319b01e4e01"
 ---

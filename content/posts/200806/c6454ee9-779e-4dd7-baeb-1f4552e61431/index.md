@@ -1,9 +1,6 @@
 ---
 title: iPhone 3Gは日本の携帯電話業界を変えるか
-description: ''
-date: '2008-06-10T22:10:29.000Z'
-categories: []
-keywords: []
+date: "2008-06-10T22:10:29.000Z"
 tags: ["iphone-3g", "japan-mobile-market"]
 slug: "c6454ee9-779e-4dd7-baeb-1f4552e61431"
 ---

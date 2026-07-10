@@ -1,9 +1,6 @@
 ---
 title: iPhone for everybodyについての情報追加
-description: ''
-date: '2009-04-01T13:39:57.000Z'
-categories: []
-keywords: []
+date: "2009-04-01T13:39:57.000Z"
 tags: ["iphone", "softbank"]
 slug: "0858b6e0-dc0c-46a0-905f-3c5574c0a69d"
 ---

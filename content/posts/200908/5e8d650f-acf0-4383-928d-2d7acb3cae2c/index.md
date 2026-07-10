@@ -1,9 +1,6 @@
 ---
 title: Twitterのユーザ層ってどうなのだろう？
-description: ''
-date: '2009-08-02T12:23:48.000Z'
-categories: []
-keywords: []
+date: "2009-08-02T12:23:48.000Z"
 tags: ["twitter", "survey"]
 slug: "5e8d650f-acf0-4383-928d-2d7acb3cae2c"
 ---

@@ -1,9 +1,6 @@
 ---
 title: OmniFocus4がリリースされた
-description: ""
 date: "2023-12-18T13:30:47.075Z"
-categories: []
-keywords: []
 tags: ["omnifocus", "productivity"]
 slug: "92149fd8-c59d-4c86-a7b6-c91276db5a44"
 ---

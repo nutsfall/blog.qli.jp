@@ -1,9 +1,6 @@
 ---
 title: Eye-fiを買いました
-description: ''
-date: '2010-12-27T22:05:09.000Z'
-categories: []
-keywords: []
+date: "2010-12-27T22:05:09.000Z"
 tags: ["eye-fi", "photography"]
 slug: "801c6f21-41ad-416a-a333-a4bbada5110c"
 ---

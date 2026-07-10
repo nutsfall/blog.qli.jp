@@ -1,9 +1,6 @@
 ---
 title: nani?
-description: ''
-date: '2007-07-15T15:20:49.000Z'
-categories: []
-keywords: []
+date: "2007-07-15T15:20:49.000Z"
 tags: ["windows-ce", "mobile-device"]
 slug: "cafbc914-22c4-4cd9-956f-eada5cad5812"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Friendfeedを使ってみた
-description: ''
-date: '2008-03-05T00:00:26.000Z'
-categories: []
-keywords: []
+date: "2008-03-05T00:00:26.000Z"
 tags: ["friendfeed", "social-media"]
 slug: "2e3e83ce-3718-41c9-a74a-f956f2611178"
 ---

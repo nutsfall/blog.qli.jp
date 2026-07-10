@@ -1,9 +1,6 @@
 ---
 title: iPhone 3G memorial day!
-description: ''
-date: '2009-07-12T09:30:56.000Z'
-categories: []
-keywords: []
+date: "2009-07-12T09:30:56.000Z"
 tags: ["iphone", "gtd"]
 slug: "86c17961-f161-4b23-a9ff-33c6c1b1508a"
 ---

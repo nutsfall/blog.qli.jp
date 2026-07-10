@@ -1,9 +1,6 @@
 ---
 title: video対応skypeがついにmacにも！
-description: ''
-date: '2006-10-23T21:22:00.000Z'
-categories: []
-keywords: []
+date: "2006-10-23T21:22:00.000Z"
 tags: ["skype", "mac"]
 slug: "f9a0c326-77ad-4b65-9545-764542dee7ce"
 ---

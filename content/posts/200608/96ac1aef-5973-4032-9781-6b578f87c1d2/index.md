@@ -1,9 +1,6 @@
 ---
 title: メルマガをブログで受信するなんて
-description: ''
-date: '2006-08-28T22:00:37.000Z'
-categories: []
-keywords: []
+date: "2006-08-28T22:00:37.000Z"
 tags: ["rss", "blogging", "spam"]
 slug: "96ac1aef-5973-4032-9781-6b578f87c1d2"
 ---

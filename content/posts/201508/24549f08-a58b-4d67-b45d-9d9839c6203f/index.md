@@ -1,9 +1,6 @@
 ---
 title: Things Cloud “Nimbus”がリリースされた
-description: ''
-date: '2015-08-20T11:55:13.000Z'
-categories: []
-keywords: []
+date: "2015-08-20T11:55:13.000Z"
 tags: ["things", "task-management"]
 slug: "24549f08-a58b-4d67-b45d-9d9839c6203f"
 ---

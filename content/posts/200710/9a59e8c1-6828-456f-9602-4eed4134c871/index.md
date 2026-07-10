@@ -1,9 +1,6 @@
 ---
 title: GmailにIMAP機能がつきました。
-description: ''
-date: '2007-10-24T21:36:37.000Z'
-categories: []
-keywords: []
+date: "2007-10-24T21:36:37.000Z"
 tags: ["gmail", "imap"]
 slug: "9a59e8c1-6828-456f-9602-4eed4134c871"
 ---

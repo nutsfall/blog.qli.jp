@@ -1,9 +1,6 @@
 ---
 title: iPod nano 5Gを買ってしまった
-description: ''
-date: '2010-02-18T23:23:13.000Z'
-categories: []
-keywords: []
+date: "2010-02-18T23:23:13.000Z"
 tags: ["ipod-nano", "apple"]
 slug: "779fe559-406f-4691-88ae-1a747ccad3d7"
 ---

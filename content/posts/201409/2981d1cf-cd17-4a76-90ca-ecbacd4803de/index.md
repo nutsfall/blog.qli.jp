@@ -1,9 +1,6 @@
 ---
 title: Cookoo2 watchを使ってみた
-description: ''
-date: '2014-09-14T23:44:51.000Z'
-categories: []
-keywords: []
+date: "2014-09-14T23:44:51.000Z"
 tags: ["cookoo2", "smartwatch"]
 slug: "2981d1cf-cd17-4a76-90ca-ecbacd4803de"
 ---

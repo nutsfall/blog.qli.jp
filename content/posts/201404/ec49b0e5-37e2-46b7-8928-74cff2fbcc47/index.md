@@ -1,9 +1,6 @@
 ---
 title: Lightroom mobileが登場
-description: ''
-date: '2014-04-08T22:21:58.000Z'
-categories: []
-keywords: []
+date: "2014-04-08T22:21:58.000Z"
 tags: ["lightroom", "adobe", "icloud"]
 slug: "ec49b0e5-37e2-46b7-8928-74cff2fbcc47"
 ---

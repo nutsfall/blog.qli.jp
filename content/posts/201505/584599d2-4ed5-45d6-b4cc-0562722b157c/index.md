@@ -1,9 +1,6 @@
 ---
 title: Eye-fiカードから写真アプリまで
-description: ''
-date: '2015-05-18T21:55:34.000Z'
-categories: []
-keywords: []
+date: "2015-05-18T21:55:34.000Z"
 tags: ["eye-fi", "icloud-photo-library"]
 slug: "584599d2-4ed5-45d6-b4cc-0562722b157c"
 ---

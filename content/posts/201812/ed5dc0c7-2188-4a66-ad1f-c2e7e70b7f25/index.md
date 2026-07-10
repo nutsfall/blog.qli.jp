@@ -1,9 +1,7 @@
 ---
 title: Things のチェックリストの使いどころ
 description: Things の使い方を考える上で、興味深いツイートがCultured Codeからあったので軽くまとめる。
-date: '2018-12-25T13:20:11.599Z'
-categories: []
-keywords: []
+date: "2018-12-25T13:20:11.599Z"
 tags: ["things"]
 slug: "ed5dc0c7-2188-4a66-ad1f-c2e7e70b7f25"
 ---

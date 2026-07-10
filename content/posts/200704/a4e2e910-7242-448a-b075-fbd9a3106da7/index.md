@@ -1,9 +1,6 @@
 ---
 title: 802.11n対応AirMac Extreme買いました
-description: ''
-date: '2007-04-15T23:47:46.000Z'
-categories: []
-keywords: []
+date: "2007-04-15T23:47:46.000Z"
 tags: ["airmac-extreme", "networking"]
 slug: "a4e2e910-7242-448a-b075-fbd9a3106da7"
 ---

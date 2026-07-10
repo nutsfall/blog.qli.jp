@@ -1,9 +1,6 @@
 ---
 title: 映画 フィッシュストーリーとおと　な　　り
-description: ''
-date: '2010-10-10T07:31:00.000Z'
-categories: []
-keywords: []
+date: "2010-10-10T07:31:00.000Z"
 tags: ["film"]
 slug: "5afffd87-66f5-42f4-95a6-95696aa2ecd2"
 ---

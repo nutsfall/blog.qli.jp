@@ -2,8 +2,6 @@
 title: リゾートで働いてみた
 description: 昨年からさまざまな変化がありましたが、大きな変化のひとつが、働く場所を問わなくなったということ。ということで、先日箱根の滞在型ホテルに行ってきました。
 date: ""
-categories: []
-keywords: []
 slug: "73752a7a-faa7-463c-ba0c-5fc04f7d456e"
 draft: true
 ---

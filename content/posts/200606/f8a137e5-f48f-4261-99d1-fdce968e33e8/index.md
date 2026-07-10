@@ -1,9 +1,6 @@
 ---
-title: 'My RSS 管理人 ブログ: 会議室型メッセンジャー「フレッシュミーティング」β版を公開します'
-description: ''
-date: '2006-06-21T10:02:28.000Z'
-categories: []
-keywords: []
+title: "My RSS 管理人 ブログ: 会議室型メッセンジャー「フレッシュミーティング」β版を公開します"
+date: "2006-06-21T10:02:28.000Z"
 tags: ["freshmeeting", "web-chat", "collaboration-tools"]
 slug: "f8a137e5-f48f-4261-99d1-fdce968e33e8"
 ---

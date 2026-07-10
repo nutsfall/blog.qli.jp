@@ -1,9 +1,6 @@
 ---
 title: iPhoneアプリ Qik Video のデータ移行
-description: ''
-date: '2011-06-05T22:26:25.000Z'
-categories: []
-keywords: []
+date: "2011-06-05T22:26:25.000Z"
 tags: ["qik", "skype", "iphone"]
 slug: "085a677b-2645-4f7b-99c1-09eaebaec06b"
 ---

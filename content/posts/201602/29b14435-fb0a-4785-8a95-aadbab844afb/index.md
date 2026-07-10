@@ -1,9 +1,6 @@
 ---
 title: リモートワークとGTDコンテキスト
-description: ''
-date: '2016-02-26T14:56:46.000Z'
-categories: []
-keywords: []
+date: "2016-02-26T14:56:46.000Z"
 tags: ["remote-work", "gtd", "task-management"]
 slug: "29b14435-fb0a-4785-8a95-aadbab844afb"
 ---

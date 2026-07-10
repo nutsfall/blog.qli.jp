@@ -1,9 +1,6 @@
 ---
 title: iPhoneに.mac syncが追加される？
-description: ''
-date: '2008-03-30T09:58:06.000Z'
-categories: []
-keywords: []
+date: "2008-03-30T09:58:06.000Z"
 tags: ["iphone", "dotmac"]
 slug: "896f15b9-e68c-4ae9-a638-5ed94060e4ad"
 ---

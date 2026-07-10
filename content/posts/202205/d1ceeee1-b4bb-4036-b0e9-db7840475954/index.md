@@ -1,9 +1,7 @@
 ---
 title: プリズムの中から好きな色を見つける
 description: 5月初め、音楽フェスに出向いた。5月のフェスは何度かさいたまの方に出向くことはあったが、今回は千葉の方に行った。
-date: '2022-05-21T03:22:53.528Z'
-categories: []
-keywords: []
+date: "2022-05-21T03:22:53.528Z"
 tags: ["music-festival", "mr-children", "idol"]
 slug: "d1ceeee1-b4bb-4036-b0e9-db7840475954"
 ---

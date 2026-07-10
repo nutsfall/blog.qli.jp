@@ -1,9 +1,6 @@
 ---
 title: Things Cloud SyncにおけるFAQ
-description: ''
-date: '2011-04-19T11:00:43.000Z'
-categories: []
-keywords: []
+date: "2011-04-19T11:00:43.000Z"
 tags: ["things", "gtd", "cloud-sync"]
 slug: "1e5ac890-c795-4c97-adf5-de8b1c680920"
 ---

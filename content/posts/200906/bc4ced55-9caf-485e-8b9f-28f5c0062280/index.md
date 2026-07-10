@@ -1,9 +1,6 @@
 ---
 title: iPhone OS 3.0 を触ってみた
-description: ''
-date: '2009-06-18T05:14:26.000Z'
-categories: []
-keywords: []
+date: "2009-06-18T05:14:26.000Z"
 tags: ["iphone", "ios"]
 slug: "bc4ced55-9caf-485e-8b9f-28f5c0062280"
 ---

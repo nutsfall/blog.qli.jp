@@ -1,9 +1,6 @@
 ---
 title: myloで無線LANに接続する
-description: ''
-date: '2006-11-08T22:38:08.000Z'
-categories: []
-keywords: []
+date: "2006-11-08T22:38:08.000Z"
 tags: ["sony-mylo", "wi-fi"]
 slug: "bd76c4fd-a002-4d27-a93f-e18669d8234b"
 ---

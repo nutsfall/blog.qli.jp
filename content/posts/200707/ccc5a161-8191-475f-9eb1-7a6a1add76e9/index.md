@@ -1,9 +1,6 @@
 ---
 title: Safari on Windowsの文字化け問題
-description: ''
-date: '2007-07-10T09:21:17.000Z'
-categories: []
-keywords: []
+date: "2007-07-10T09:21:17.000Z"
 tags: ["safari", "windows"]
 slug: "ccc5a161-8191-475f-9eb1-7a6a1add76e9"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ULTRA BLUE < ON THE ROCKS
-description: ""
 date: "2006-07-01T21:59:41.000Z"
-categories: []
-keywords: []
 tags: ["utada-hikaru", "ego-wrappin"]
 slug: "8c97af0b-b896-4f82-8ae5-b1dfb1943768"
 ---

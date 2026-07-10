@@ -1,9 +1,6 @@
 ---
 title: Googleが携帯向け乗り換え案内をスタート — 東京・赤坂と福岡・赤坂で試す (MYCOMジャーナル)
-description: ''
-date: '2006-10-19T11:23:35.000Z'
-categories: []
-keywords: []
+date: "2006-10-19T11:23:35.000Z"
 tags: ["google", "transit-search", "mobile"]
 slug: "a033afef-ba66-4207-8d0b-3c9c9e9a3f99"
 ---

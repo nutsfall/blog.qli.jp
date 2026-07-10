@@ -1,9 +1,6 @@
 ---
 title: OmniFocus 2 for Mac リリース
-description: ''
-date: '2014-05-23T23:55:04.000Z'
-categories: []
-keywords: []
+date: "2014-05-23T23:55:04.000Z"
 tags: ["omnifocus", "gtd"]
 slug: "12a7a0e5-2b42-45b5-8240-bf2c8959c28b"
 ---

@@ -1,9 +1,7 @@
 ---
 title: EvernoteはPDF置き場だった
 description: いろんなアプリが登場しようとも、メモアプリというのはやっぱり人気がある。メモアプリの話題の中心にいるのは（なぜか）Evernoteだ。
-date: '2021-07-01T14:27:53.006Z'
-categories: []
-keywords: []
+date: "2021-07-01T14:27:53.006Z"
 tags: ["evernote", "note-apps", "productivity"]
 slug: "dfac10e9-fbd0-450f-8e3e-b454856c07f9"
 ---

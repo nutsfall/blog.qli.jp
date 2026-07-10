@@ -1,9 +1,6 @@
 ---
-title: '期日前投票に行こう #東京都知事選挙'
-description: ''
-date: '2014-01-31T11:25:24.097Z'
-categories: []
-keywords: []
+title: "期日前投票に行こう #東京都知事選挙"
+date: "2014-01-31T11:25:24.097Z"
 tags: ["tokyo-governor-election", "voting"]
 slug: "9840671f-3c78-4591-916f-feb82ddf17e6"
 ---

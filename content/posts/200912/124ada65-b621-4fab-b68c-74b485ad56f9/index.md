@@ -1,9 +1,6 @@
 ---
 title: 規範なき現代
-description: ''
-date: '2009-12-13T18:51:09.000Z'
-categories: []
-keywords: []
+date: "2009-12-13T18:51:09.000Z"
 tags: ["radio", "economics"]
 slug: "124ada65-b621-4fab-b68c-74b485ad56f9"
 ---

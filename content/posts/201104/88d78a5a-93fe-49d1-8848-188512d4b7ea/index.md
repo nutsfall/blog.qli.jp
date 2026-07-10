@@ -1,9 +1,6 @@
 ---
-title: 's(o)un(d)beams :: salyu x salyu'
-description: ''
-date: '2011-04-16T08:40:39.000Z'
-categories: []
-keywords: []
+title: "s(o)un(d)beams :: salyu x salyu"
+date: "2011-04-16T08:40:39.000Z"
 tags: ["salyu", "cornelius", "music"]
 slug: "88d78a5a-93fe-49d1-8848-188512d4b7ea"
 ---

@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: パラダイム : レミオロメン'
-description: ''
-date: '2007-03-15T20:23:33.000Z'
-categories: []
-keywords: []
+title: "On Vox: パラダイム : レミオロメン"
+date: "2007-03-15T20:23:33.000Z"
 tags: ["remioromen"]
 slug: "816808e8-54f2-4a80-909c-aa8108a38b64"
 ---

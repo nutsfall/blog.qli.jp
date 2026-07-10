@@ -1,9 +1,6 @@
 ---
-title: 'orbital period :: BUMP OF CHICKEN'
-description: ''
-date: '2007-12-22T22:30:50.000Z'
-categories: []
-keywords: []
+title: "orbital period :: BUMP OF CHICKEN"
+date: "2007-12-22T22:30:50.000Z"
 tags: ["bump-of-chicken", "music"]
 slug: "56c7dad5-7a47-475a-b57e-40491ed1a7be"
 ---

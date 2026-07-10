@@ -1,9 +1,6 @@
 ---
 title: あれ？どこにコメントしたっけ？
-description: ""
 date: "2006-06-23T22:27:04.000Z"
-categories: []
-keywords: []
 tags: ["blogging", "web-tools"]
 slug: "86a1ef61-9552-44f6-872f-f8c1cb46b000"
 ---

@@ -1,9 +1,6 @@
 ---
 title: CEREVO CAM発表記念パーティー
-description: ''
-date: '2009-12-14T22:08:19.000Z'
-categories: []
-keywords: []
+date: "2009-12-14T22:08:19.000Z"
 tags: ["cerevo-cam", "gadget"]
 slug: "d1f829f0-f5a5-4a06-9164-67cd385631a6"
 ---

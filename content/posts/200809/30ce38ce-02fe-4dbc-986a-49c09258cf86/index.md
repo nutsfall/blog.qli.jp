@@ -1,9 +1,6 @@
 ---
 title: Google Chromeがリリースされた
-description: ''
-date: '2008-09-04T08:48:20.000Z'
-categories: []
-keywords: []
+date: "2008-09-04T08:48:20.000Z"
 tags: ["google-chrome", "webkit", "browser"]
 slug: "30ce38ce-02fe-4dbc-986a-49c09258cf86"
 ---

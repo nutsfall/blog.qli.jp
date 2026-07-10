@@ -1,9 +1,6 @@
 ---
 title: 莫大なコミュニケーションコスト
-description: ''
-date: '2014-02-25T21:19:47.000Z'
-categories: []
-keywords: []
+date: "2014-02-25T21:19:47.000Z"
 tags: ["agile", "communication", "software-development"]
 slug: "0c297b35-6b91-4774-b54e-7ae574d71e31"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Skypeの隠しコマンド
-description: ''
-date: '2007-02-09T23:48:28.000Z'
-categories: []
-keywords: []
+date: "2007-02-09T23:48:28.000Z"
 tags: ["skype"]
 slug: "f0f31fd9-e6be-47fb-948f-12d2084a75ec"
 ---

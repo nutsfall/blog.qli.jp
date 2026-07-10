@@ -1,9 +1,6 @@
 ---
 title: web2.0と情報セキュリティとしごと術 — and “Remember the milk”
-description: ""
 date: "2006-07-08T21:39:08.000Z"
-categories: []
-keywords: []
 tags: ["gtd", "web2.0", "information-security"]
 slug: "a3f8a17d-0234-4016-84e9-5c81db9b40fa"
 ---

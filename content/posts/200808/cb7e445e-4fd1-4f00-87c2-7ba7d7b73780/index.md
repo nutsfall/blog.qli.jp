@@ -1,9 +1,6 @@
 ---
 title: pbwikiを1.0から2.0へ
-description: ''
-date: '2008-08-06T23:03:33.000Z'
-categories: []
-keywords: []
+date: "2008-08-06T23:03:33.000Z"
 tags: ["pbwiki", "wiki"]
 slug: "cb7e445e-4fd1-4f00-87c2-7ba7d7b73780"
 ---

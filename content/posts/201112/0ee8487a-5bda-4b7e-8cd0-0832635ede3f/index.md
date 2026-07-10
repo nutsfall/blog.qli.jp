@@ -1,9 +1,6 @@
 ---
 title: salyu x salyu in DOMMUNE
-description: ''
-date: '2011-12-25T01:39:56.000Z'
-categories: []
-keywords: []
+date: "2011-12-25T01:39:56.000Z"
 tags: ["salyu", "dommune", "buffalo-daughter"]
 slug: "0ee8487a-5bda-4b7e-8cd0-0832635ede3f"
 ---

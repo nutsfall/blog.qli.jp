@@ -2,8 +2,6 @@
 title: "#LEGOBIGMORL 10th Anniversary"
 description: LEGO BIG MORLの10周年イヤーは、新木場スタジオコーストの2時間のライブで終わりを告げた。
 date: "2017-03-29T12:32:11.163Z"
-categories: []
-keywords: []
 tags: ["lego-big-morl", "live-music"]
 slug: "0a4f10de-20a0-465c-8cb7-0f05777a4fc6"
 ---

@@ -1,9 +1,6 @@
 ---
 title: NINE DIRTS AND SNOW WHITE FLICKERS at Shibuya Orchard Hall by ONITSUKA Chihiro
-description: ''
-date: '2008-04-26T20:42:34.000Z'
-categories: []
-keywords: []
+date: "2008-04-26T20:42:34.000Z"
 tags: ["onitsuka-chihiro", "live-concert"]
 slug: "bb069d69-3bc6-4207-83f3-397f70b16228"
 ---

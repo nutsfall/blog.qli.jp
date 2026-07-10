@@ -1,9 +1,6 @@
 ---
 title: タスク管理アプリの選択よりも意識しておきたい話
-description: ''
-date: '2023-08-19T03:02:27.877Z'
-categories: []
-keywords: []
+date: "2023-08-19T03:02:27.877Z"
 tags: ["gtd", "productivity", "cognitive-load"]
 slug: "1c99bcd2-5e46-4045-8b22-3186a99c2b21"
 ---

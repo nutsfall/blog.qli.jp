@@ -1,9 +1,6 @@
 ---
 title: 来週は WISH2009 が開催されます
-description: ''
-date: '2009-08-16T14:49:08.000Z'
-categories: []
-keywords: []
+date: "2009-08-16T14:49:08.000Z"
 tags: ["wish2009"]
 slug: "59e04c05-d0e7-4edd-a065-e1069c3e2e79"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ユニバーサルサービスって何よ
-description: ''
-date: '2006-09-21T12:41:54.000Z'
-categories: []
-keywords: []
+date: "2006-09-21T12:41:54.000Z"
 tags: ["telecom", "ntt"]
 slug: "fbd772fa-2de4-4ea7-bb20-5196f093a744"
 ---

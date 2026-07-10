@@ -1,9 +1,6 @@
 ---
 title: タスク管理術 2007年末編
-description: ''
-date: '2007-12-18T22:53:47.000Z'
-categories: []
-keywords: []
+date: "2007-12-18T22:53:47.000Z"
 tags: ["task-management", "remember-the-milk", "gtd"]
 slug: "f3384f7e-509c-4b61-840f-f6589530a882"
 ---

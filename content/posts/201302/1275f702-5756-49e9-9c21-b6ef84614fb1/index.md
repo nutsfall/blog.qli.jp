@@ -1,9 +1,6 @@
 ---
 title: 新品のiPhone5を入手した
-description: ''
-date: '2013-02-05T22:26:11.000Z'
-categories: []
-keywords: []
+date: "2013-02-05T22:26:11.000Z"
 tags: ["iphone", "apple"]
 slug: "1275f702-5756-49e9-9c21-b6ef84614fb1"
 ---

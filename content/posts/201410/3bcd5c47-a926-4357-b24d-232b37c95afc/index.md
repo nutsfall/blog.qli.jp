@@ -1,9 +1,6 @@
 ---
 title: Things for Yosemite が登場した
-description: ''
-date: '2014-10-17T14:13:49.000Z'
-categories: []
-keywords: []
+date: "2014-10-17T14:13:49.000Z"
 tags: ["things", "macos"]
 slug: "3bcd5c47-a926-4357-b24d-232b37c95afc"
 ---

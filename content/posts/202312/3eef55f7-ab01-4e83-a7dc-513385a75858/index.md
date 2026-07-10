@@ -1,9 +1,6 @@
 ---
 title: 2023年の個人的ふりかえり 映画編
-description: ""
 date: "2023-12-30T03:02:14.409Z"
-categories: []
-keywords: []
 tags: ["movie"]
 slug: "3eef55f7-ab01-4e83-a7dc-513385a75858"
 ---

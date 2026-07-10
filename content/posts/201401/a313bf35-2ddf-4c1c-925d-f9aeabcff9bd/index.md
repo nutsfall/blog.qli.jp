@@ -1,9 +1,6 @@
 ---
 title: 乱発されるアカウント
-description: ''
-date: '2014-01-07T12:26:35.645Z'
-categories: []
-keywords: []
+date: "2014-01-07T12:26:35.645Z"
 tags: ["digital-identity", "account-security"]
 slug: "a313bf35-2ddf-4c1c-925d-f9aeabcff9bd"
 ---

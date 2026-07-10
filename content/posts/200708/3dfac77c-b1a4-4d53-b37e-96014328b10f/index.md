@@ -1,9 +1,6 @@
 ---
-title: 'HarmoNium : PhilHarmoUniQue'
-description: ''
-date: '2007-08-04T00:15:04.000Z'
-categories: []
-keywords: []
+title: "HarmoNium : PhilHarmoUniQue"
+date: "2007-08-04T00:15:04.000Z"
 tags: ["philharmonique", "oorong-records", "music"]
 slug: "3dfac77c-b1a4-4d53-b37e-96014328b10f"
 ---

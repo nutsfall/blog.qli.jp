@@ -4,8 +4,6 @@ description:
   毎年実施している、iPhone デバイスの入れ替えですが、今年は「いつものタイミング」で入手できる iPhone 8と、１ヶ月以上まで手に入るiPhone
   Xの2つという、ここ数年続いていたパターンと異なるものになりました。
 date: "2017-11-03T00:55:12.250Z"
-categories: []
-keywords: []
 tags: ["iphone", "iphone-x"]
 slug: "097d3e4f-bc84-4c10-af66-69911fe392f6"
 ---

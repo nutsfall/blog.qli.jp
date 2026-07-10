@@ -1,9 +1,6 @@
 ---
 title: FriendFeedがもりあがる
-description: ''
-date: '2008-03-15T12:17:59.000Z'
-categories: []
-keywords: []
+date: "2008-03-15T12:17:59.000Z"
 tags: ["friendfeed", "sxsw", "social-media"]
 slug: "8342b7ec-054c-4fc7-9ee4-1fdeef609e27"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 自分の Blog が母親に見つかった場合はどうすればよいですか。
-description: ''
-date: '2006-07-31T15:41:59.000Z'
-categories: []
-keywords: []
+date: "2006-07-31T15:41:59.000Z"
 tags: ["blogging", "online-privacy"]
 slug: "44085d68-8658-4ac4-aa9a-a95be9b41aa9"
 ---

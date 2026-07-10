@@ -1,9 +1,6 @@
 ---
 title: SunbirdとLightning
-description: ''
-date: '2006-10-11T14:03:39.000Z'
-categories: []
-keywords: []
+date: "2006-10-11T14:03:39.000Z"
 tags: ["sunbird", "lightning", "mozilla"]
 slug: "c5f7e85e-7659-45b1-82be-a2097bccb214"
 ---

@@ -1,9 +1,6 @@
 ---
 title: MonkeyGTD(tiddlywikiベースのGTDツール)
-description: ''
-date: '2007-02-13T12:20:57.000Z'
-categories: []
-keywords: []
+date: "2007-02-13T12:20:57.000Z"
 tags: ["gtd", "tiddlywiki"]
 slug: "0ecd0f01-d320-4749-8665-08d0a2828023"
 ---

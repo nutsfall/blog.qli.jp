@@ -1,9 +1,6 @@
 ---
 title: MacBook 海を渡る
-description: ''
-date: '2006-06-29T13:20:28.000Z'
-categories: []
-keywords: []
+date: "2006-06-29T13:20:28.000Z"
 tags: ["macbook", "apple"]
 slug: "7874c7ad-73c8-4e61-8fb1-72a36c105c06"
 ---

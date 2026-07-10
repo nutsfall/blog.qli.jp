@@ -1,9 +1,6 @@
 ---
 title: グーグル、「Blogger」をリニューアル — ベータ版を公開 — CNET Japan
-description: ''
-date: '2006-08-16T17:08:41.000Z'
-categories: []
-keywords: []
+date: "2006-08-16T17:08:41.000Z"
 tags: ["blogger", "google"]
 slug: "bdec32bc-e387-4bb7-a372-477c2a6b3704"
 ---

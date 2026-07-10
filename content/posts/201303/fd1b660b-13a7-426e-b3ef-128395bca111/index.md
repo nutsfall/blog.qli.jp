@@ -1,9 +1,6 @@
 ---
 title: ニックネーム
-description: ''
-date: '2013-03-13T23:32:11.000Z'
-categories: []
-keywords: []
+date: "2013-03-13T23:32:11.000Z"
 tags: ["online-identity", "blogging"]
 slug: "fd1b660b-13a7-426e-b3ef-128395bca111"
 ---

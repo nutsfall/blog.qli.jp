@@ -1,9 +1,6 @@
 ---
 title: JaikuのAPI KEYがリセットされた
-description: ''
-date: '2008-01-25T07:55:00.000Z'
-categories: []
-keywords: []
+date: "2008-01-25T07:55:00.000Z"
 tags: ["jaiku", "api"]
 slug: "7812b2b1-4679-4726-9835-ed3287aea18d"
 ---

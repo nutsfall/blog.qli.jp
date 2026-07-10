@@ -1,9 +1,6 @@
 ---
-title: 'HOME : Mr.Children, 茜空 : レミオロメン'
-description: ''
-date: '2007-03-15T13:04:20.000Z'
-categories: []
-keywords: []
+title: "HOME : Mr.Children, 茜空 : レミオロメン"
+date: "2007-03-15T13:04:20.000Z"
 tags: ["mr-children", "remioromen"]
 slug: "c14743e0-2d95-4d74-877e-25f93b9a31c8"
 ---

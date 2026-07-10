@@ -1,9 +1,6 @@
 ---
 title: 手帳の使い方
-description: ''
-date: '2012-12-28T11:01:55.000Z'
-categories: []
-keywords: []
+date: "2012-12-28T11:01:55.000Z"
 tags: ["hobonichi", "moleskine"]
 slug: "3b444003-c4ce-4af2-99eb-bc4eab28e89f"
 ---

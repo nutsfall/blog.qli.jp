@@ -1,9 +1,6 @@
 ---
-title: 'ALL SINGLES BEST : スガシカオ'
-description: ''
-date: '2007-03-05T00:15:39.000Z'
-categories: []
-keywords: []
+title: "ALL SINGLES BEST : スガシカオ"
+date: "2007-03-05T00:15:39.000Z"
 tags: ["suga-shikao", "music-review"]
 slug: "18a077bb-1ffa-42e0-b03a-ed78f5ebbb4e"
 ---

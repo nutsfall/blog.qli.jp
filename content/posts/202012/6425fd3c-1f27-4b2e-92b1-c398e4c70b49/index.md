@@ -1,9 +1,7 @@
 ---
 title: ギターを綺麗に聴かせてくれるヘッドフォン Major IV
 description: 新しく発売されたMarshall Major IVで Mr.Children 20枚目アルバム SOUNDTRACKSを聴きました
-date: '2020-12-05T07:24:25.942Z'
-categories: []
-keywords: []
+date: "2020-12-05T07:24:25.942Z"
 tags: ["marshall", "headphones"]
 slug: "6425fd3c-1f27-4b2e-92b1-c398e4c70b49"
 ---

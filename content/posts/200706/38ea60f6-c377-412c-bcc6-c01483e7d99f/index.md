@@ -1,9 +1,6 @@
 ---
 title: ミニブログ feecle
-description: ''
-date: '2007-06-27T21:14:38.000Z'
-categories: []
-keywords: []
+date: "2007-06-27T21:14:38.000Z"
 tags: ["feecle", "microblogging", "twitter"]
 slug: "38ea60f6-c377-412c-bcc6-c01483e7d99f"
 ---

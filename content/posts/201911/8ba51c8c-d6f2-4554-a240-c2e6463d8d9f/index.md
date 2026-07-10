@@ -1,9 +1,7 @@
 ---
 title: Beats Solo Pro は素晴らしいヘッドフォンだった（17日利用レビュー）
 description: 10月30日から17日が経過しました。
-date: '2019-11-16T14:12:59.438Z'
-categories: []
-keywords: []
+date: "2019-11-16T14:12:59.438Z"
 tags: ["beats-solo-pro", "headphones"]
 slug: "8ba51c8c-d6f2-4554-a240-c2e6463d8d9f"
 ---

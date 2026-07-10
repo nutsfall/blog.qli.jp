@@ -1,9 +1,6 @@
 ---
 title: Sony Ericsson MW600
-description: ''
-date: '2010-05-18T12:03:18.000Z'
-categories: []
-keywords: []
+date: "2010-05-18T12:03:18.000Z"
 tags: ["sony-ericsson", "bluetooth"]
 slug: "de3a2029-caf6-4195-88bf-54a1f70feaf0"
 ---

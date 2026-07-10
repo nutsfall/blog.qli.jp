@@ -1,9 +1,6 @@
 ---
 title: GTD with iPhone 勉強会をやりました
-description: ''
-date: '2009-10-31T07:35:59.000Z'
-categories: []
-keywords: []
+date: "2009-10-31T07:35:59.000Z"
 tags: ["gtd", "iphone", "meetup"]
 slug: "2b4b3f91-10d3-438f-a1a5-4589e7ce6355"
 ---

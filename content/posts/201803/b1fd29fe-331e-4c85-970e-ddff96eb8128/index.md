@@ -1,9 +1,7 @@
 ---
 title: WatchOS 4 Siri文字盤は使いやすい
 description: リリースされてしばらく経つのだけど、watchOS 4.0 で追加されたSiriの文字盤について書いておきたい。とりあえずこれが便利だという話。
-date: '2018-03-04T00:46:55.366Z'
-categories: []
-keywords: []
+date: "2018-03-04T00:46:55.366Z"
 tags: ["apple-watch", "watchos"]
 slug: "b1fd29fe-331e-4c85-970e-ddff96eb8128"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Gmailのエイリアス機能
-description: ''
-date: '2006-08-31T21:26:01.000Z'
-categories: []
-keywords: []
+date: "2006-08-31T21:26:01.000Z"
 tags: ["gmail", "email"]
 slug: "b711a8a5-445e-47e6-9560-381b22d00cd7"
 ---

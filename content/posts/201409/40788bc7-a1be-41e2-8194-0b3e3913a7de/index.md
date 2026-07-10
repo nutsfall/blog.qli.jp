@@ -1,9 +1,6 @@
 ---
 title: UXについて考えると組織論に行き着く
-description: ''
-date: '2014-09-16T14:02:31.000Z'
-categories: []
-keywords: []
+date: "2014-09-16T14:02:31.000Z"
 tags: ["ux-strategy", "organizational-design"]
 slug: "40788bc7-a1be-41e2-8194-0b3e3913a7de"
 ---

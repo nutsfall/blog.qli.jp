@@ -1,9 +1,6 @@
 ---
 title: Wordcamp Tokyoに参加して
-description: ''
-date: '2012-09-16T08:16:25.000Z'
-categories: []
-keywords: []
+date: "2012-09-16T08:16:25.000Z"
 tags: ["wordcamp", "wordpress", "php"]
 slug: "a4abeeab-b17c-4fb7-8c64-a1466c44ec1b"
 ---

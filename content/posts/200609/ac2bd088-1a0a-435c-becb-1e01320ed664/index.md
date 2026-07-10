@@ -1,9 +1,6 @@
 ---
 title: 捨てられた情報たち
-description: ''
-date: '2006-09-25T09:52:43.000Z'
-categories: []
-keywords: []
+date: "2006-09-25T09:52:43.000Z"
 tags: ["audio", "digital-analog"]
 slug: "ac2bd088-1a0a-435c-becb-1e01320ed664"
 ---

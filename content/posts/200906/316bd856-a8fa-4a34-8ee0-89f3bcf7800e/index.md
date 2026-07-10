@@ -1,9 +1,6 @@
 ---
 title: iPhone 3GS用動画投稿サイト！
-description: ''
-date: '2009-06-24T22:13:30.000Z'
-categories: []
-keywords: []
+date: "2009-06-24T22:13:30.000Z"
 tags: ["posterous", "iphone", "video-sharing"]
 slug: "316bd856-a8fa-4a34-8ee0-89f3bcf7800e"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 本当に”動画”は流行るんだろうか？
-description: ''
-date: '2009-06-18T21:09:53.000Z'
-categories: []
-keywords: []
+date: "2009-06-18T21:09:53.000Z"
 tags: ["iphone", "video", "social-media"]
 slug: "25f03193-7eab-41b5-9c09-448ac94e1900"
 ---

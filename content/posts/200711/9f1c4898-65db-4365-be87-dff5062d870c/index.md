@@ -1,9 +1,6 @@
 ---
 title: Amazonが発表した電子書籍
-description: ''
-date: '2007-11-20T23:50:02.000Z'
-categories: []
-keywords: []
+date: "2007-11-20T23:50:02.000Z"
 tags: ["kindle", "amazon", "wireless"]
 slug: "9f1c4898-65db-4365-be87-dff5062d870c"
 ---

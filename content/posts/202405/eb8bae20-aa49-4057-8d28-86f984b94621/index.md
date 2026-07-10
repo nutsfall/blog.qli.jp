@@ -2,8 +2,6 @@
 title: 今後のお知らせ
 description: 文章を書いていく場所をここから新しい場所に移していきます。
 date: "2024-05-25T08:02:28.271Z"
-categories: []
-keywords: []
 slug: "eb8bae20-aa49-4057-8d28-86f984b94621"
 draft: true
 ---

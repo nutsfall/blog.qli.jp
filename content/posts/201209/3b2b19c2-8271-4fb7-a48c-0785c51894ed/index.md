@@ -1,9 +1,6 @@
 ---
 title: yapc::asia に初参加した話
-description: ''
-date: '2012-09-30T11:15:35.000Z'
-categories: []
-keywords: []
+date: "2012-09-30T11:15:35.000Z"
 tags: ["yapc-asia", "perl", "conference"]
 slug: "3b2b19c2-8271-4fb7-a48c-0785c51894ed"
 ---

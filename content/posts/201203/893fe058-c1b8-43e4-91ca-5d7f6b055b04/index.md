@@ -1,9 +1,6 @@
 ---
 title: SparrowにおけるiCloudログイン問題
-description: ''
-date: '2012-03-22T20:18:48.000Z'
-categories: []
-keywords: []
+date: "2012-03-22T20:18:48.000Z"
 tags: ["sparrow", "icloud"]
 slug: "893fe058-c1b8-43e4-91ca-5d7f6b055b04"
 ---

@@ -1,9 +1,6 @@
 ---
 title: VOXに”Vox This”が登場しました
-description: ''
-date: '2007-07-03T21:06:56.000Z'
-categories: []
-keywords: []
+date: "2007-07-03T21:06:56.000Z"
 tags: ["vox", "blogging"]
 slug: "9b5b6e9d-b89c-4033-92d9-7f46e8f0d41e"
 ---

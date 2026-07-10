@@ -1,9 +1,6 @@
 ---
 title: iPad使用歴１ヶ月
-description: ''
-date: '2010-06-20T21:58:48.000Z'
-categories: []
-keywords: []
+date: "2010-06-20T21:58:48.000Z"
 tags: ["ipad", "apple"]
 slug: "2dce3b7b-93bb-494a-aeb5-f87fa3ff27d1"
 ---

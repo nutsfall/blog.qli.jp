@@ -1,9 +1,7 @@
 ---
 title: アクションのリストでは進捗管理はしない
 description: 最近、やるべきことを整理している中で意識していることのひとつに「アクションのリストでは進捗管理はしない」ということがある。
-date: '2019-08-12T14:35:27.168Z'
-categories: []
-keywords: []
+date: "2019-08-12T14:35:27.168Z"
 tags: ["gtd", "productivity", "omnifocus"]
 slug: "ad9a2f33-61a7-484f-a3a9-e2be3dad9eac"
 ---

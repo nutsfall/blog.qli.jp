@@ -1,9 +1,6 @@
 ---
 title: 音楽に関する寂しい出来事たち
-description: ''
-date: '2010-08-22T22:00:50.000Z'
-categories: []
-keywords: []
+date: "2010-08-22T22:00:50.000Z"
 tags: ["hmv", "gaku-mc", "music"]
 slug: "a80e8eba-e8de-446b-a273-fee8acfc46c1"
 ---

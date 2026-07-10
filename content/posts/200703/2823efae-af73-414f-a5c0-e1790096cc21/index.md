@@ -1,9 +1,6 @@
 ---
 title: 別冊カドカワ ミスチル特集
-description: ''
-date: '2007-03-20T12:31:09.000Z'
-categories: []
-keywords: []
+date: "2007-03-20T12:31:09.000Z"
 tags: ["mr-children", "magazine"]
 slug: "2823efae-af73-414f-a5c0-e1790096cc21"
 ---

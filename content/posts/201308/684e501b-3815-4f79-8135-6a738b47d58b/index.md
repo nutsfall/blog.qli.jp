@@ -1,9 +1,6 @@
 ---
 title: ブロガーサミットで感じた舞台と聴衆の距離間
-description: ''
-date: '2013-08-25T14:13:19.000Z'
-categories: []
-keywords: []
+date: "2013-08-25T14:13:19.000Z"
 tags: ["blogging", "blogger-summit"]
 slug: "684e501b-3815-4f79-8135-6a738b47d58b"
 ---

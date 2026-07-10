@@ -1,9 +1,6 @@
 ---
 title: 秋に会いに行った(南会津)
-description: ''
-date: '2012-11-01T21:38:57.000Z'
-categories: []
-keywords: []
+date: "2012-11-01T21:38:57.000Z"
 tags: ["minami-aizu", "travel", "autumn-foliage"]
 slug: "ee0cd8f7-2c10-4e6f-a4f0-eed226084df4"
 ---

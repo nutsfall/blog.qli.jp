@@ -1,9 +1,6 @@
 ---
 title: どっちのiPhoneを買うべきか
-description: ''
-date: '2012-01-14T01:07:05.000Z'
-categories: []
-keywords: []
+date: "2012-01-14T01:07:05.000Z"
 tags: ["iphone", "au", "softbank"]
 slug: "44b0fcae-c0f9-4829-858c-c41965e5b2f4"
 ---

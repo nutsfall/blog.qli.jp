@@ -1,9 +1,6 @@
 ---
 title: ヘッドフォンが増えてきたので雑記
-description: ''
-date: '2025-05-03T03:02:28.638Z'
-categories: []
-keywords: []
+date: "2025-05-03T03:02:28.638Z"
 tags: ["headphones", "sony", "marshall"]
 slug: "f3c882a3-530c-4cb6-a419-c2c6412e79b6"
 ---

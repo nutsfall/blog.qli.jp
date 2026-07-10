@@ -1,9 +1,6 @@
 ---
 title: ソーシャルブックマーク BlueDot
-description: ""
 date: "2006-11-19T23:08:35.000Z"
-categories: []
-keywords: []
 tags: ["social-bookmarking", "bluedot"]
 slug: "271fd076-7136-4e1a-80b7-3403c69a5e73"
 ---

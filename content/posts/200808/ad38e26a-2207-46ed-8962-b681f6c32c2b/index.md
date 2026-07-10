@@ -1,9 +1,6 @@
 ---
 title: はてなダイアリーがAtomに対応した
-description: ''
-date: '2008-08-29T11:58:10.000Z'
-categories: []
-keywords: []
+date: "2008-08-29T11:58:10.000Z"
 tags: ["hatena-diary", "atompub", "ecto"]
 slug: "ad38e26a-2207-46ed-8962-b681f6c32c2b"
 ---

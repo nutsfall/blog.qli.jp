@@ -1,9 +1,6 @@
 ---
 title: operaに対する思い入れ
-description: ''
-date: '2007-04-28T23:38:23.000Z'
-categories: []
-keywords: []
+date: "2007-04-28T23:38:23.000Z"
 tags: ["opera", "browser"]
 slug: "58a8f191-2844-441f-85b2-98778fd7d0fb"
 ---

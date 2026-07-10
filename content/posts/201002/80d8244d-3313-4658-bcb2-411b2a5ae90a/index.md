@@ -1,9 +1,6 @@
 ---
-title: 'ポっぷ :: 阿倍真央 / ABBOT KINNEY :: LOVE PHYCHEDELICO'
-description: ''
-date: '2010-02-28T15:57:37.000Z'
-categories: []
-keywords: []
+title: "ポっぷ :: 阿倍真央 / ABBOT KINNEY :: LOVE PHYCHEDELICO"
+date: "2010-02-28T15:57:37.000Z"
 tags: ["love-psychedelico", "abe-mao", "music"]
 slug: "80d8244d-3313-4658-bcb2-411b2a5ae90a"
 ---

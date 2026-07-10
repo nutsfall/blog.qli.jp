@@ -1,9 +1,6 @@
 ---
 title: FONとLDが提携しました
-description: ''
-date: '2008-02-05T08:11:25.000Z'
-categories: []
-keywords: []
+date: "2008-02-05T08:11:25.000Z"
 tags: ["fon", "livedoor-wireless", "wifi"]
 slug: "b52b2736-7618-42f1-be66-201d1a0c0ea8"
 ---

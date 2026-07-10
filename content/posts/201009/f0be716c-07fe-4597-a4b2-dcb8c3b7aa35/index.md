@@ -1,9 +1,6 @@
 ---
 title: Mr.Childrenの映画の話をしよう
-description: ''
-date: '2010-09-17T22:15:56.000Z'
-categories: []
-keywords: []
+date: "2010-09-17T22:15:56.000Z"
 tags: ["mr-children", "music", "film"]
 slug: "f0be716c-07fe-4597-a4b2-dcb8c3b7aa35"
 ---

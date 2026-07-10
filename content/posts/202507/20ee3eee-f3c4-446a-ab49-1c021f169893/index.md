@@ -1,9 +1,6 @@
 ---
 title: MCPとAIエージェント
-description: ''
-date: '2025-07-12T03:01:47.628Z'
-categories: []
-keywords: []
+date: "2025-07-12T03:01:47.628Z"
 tags: ["mcp", "claude", "things"]
 slug: "20ee3eee-f3c4-446a-ab49-1c021f169893"
 ---

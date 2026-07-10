@@ -1,9 +1,7 @@
 ---
 title: りんご週間（9月編）
 description: 9月第2週は、iPhone発表・予約週。ということで、来週金曜日の予定はお決まりでしょうか。
-date: '2018-09-14T11:19:00.836Z'
-categories: []
-keywords: []
+date: "2018-09-14T11:19:00.836Z"
 tags: ["apple", "iphone-xs", "omnifocus"]
 slug: "93ba23c8-81fa-424a-bf76-7c31ac67db0c"
 ---

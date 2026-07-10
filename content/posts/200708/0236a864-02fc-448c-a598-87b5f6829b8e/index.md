@@ -1,9 +1,6 @@
 ---
 title: 何が登場するのか
-description: ''
-date: '2007-08-02T22:16:43.000Z'
-categories: []
-keywords: []
+date: "2007-08-02T22:16:43.000Z"
 tags: ["apple", "mac"]
 slug: "0236a864-02fc-448c-a598-87b5f6829b8e"
 ---

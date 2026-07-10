@@ -1,9 +1,6 @@
 ---
 title: Gmailの容量が増えます
-description: ''
-date: '2007-10-12T21:20:13.000Z'
-categories: []
-keywords: []
+date: "2007-10-12T21:20:13.000Z"
 tags: ["gmail", "google"]
 slug: "55b8ff5f-28df-4af7-80be-992481096ec6"
 ---

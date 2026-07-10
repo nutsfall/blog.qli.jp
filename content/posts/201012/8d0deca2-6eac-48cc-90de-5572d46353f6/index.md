@@ -1,9 +1,6 @@
 ---
 title: IS03を1週間使ってみて感じたこと
-description: ''
-date: '2010-12-31T00:16:35.000Z'
-categories: []
-keywords: []
+date: "2010-12-31T00:16:35.000Z"
 tags: ["is03", "android"]
 slug: "8d0deca2-6eac-48cc-90de-5572d46353f6"
 ---

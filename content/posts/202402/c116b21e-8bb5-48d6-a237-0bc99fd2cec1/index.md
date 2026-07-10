@@ -1,9 +1,6 @@
 ---
 title: Evernoteが行ったプランの変更とその使い方
-description: ''
-date: '2024-02-24T03:02:03.163Z'
-categories: []
-keywords: []
+date: "2024-02-24T03:02:03.163Z"
 tags: ["evernote", "j-league"]
 slug: "c116b21e-8bb5-48d6-a237-0bc99fd2cec1"
 ---

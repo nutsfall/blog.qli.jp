@@ -1,9 +1,7 @@
 ---
 title: iPhone 3G 購入記 (16GB Black)
 description: 本当はMobileMeやら iPhone OS 2.0を入れたiPod…
-date: '2008-07-12T13:02:09.000Z'
-categories: []
-keywords: []
+date: "2008-07-12T13:02:09.000Z"
 tags: ["iphone", "softbank"]
 slug: "14557ae1-fa50-4992-ba51-271ca8b94cb6"
 ---

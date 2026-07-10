@@ -1,9 +1,6 @@
 ---
 title: Jawbone UP24 を導入
-description: ''
-date: '2014-04-01T19:55:53.000Z'
-categories: []
-keywords: []
+date: "2014-04-01T19:55:53.000Z"
 tags: ["jawbone-up24", "fitness-tracker"]
 slug: "52e3eb17-9cfa-4edc-a5ba-6f13283e661b"
 ---

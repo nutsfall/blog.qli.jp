@@ -1,9 +1,6 @@
 ---
 title: Xperia GX/SX 体験会
-description: ''
-date: '2012-06-16T21:52:52.000Z'
-categories: []
-keywords: []
+date: "2012-06-16T21:52:52.000Z"
 tags: ["xperia", "sony", "android"]
 slug: "521fcb66-8716-41db-882f-a46342168546"
 ---

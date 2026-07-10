@@ -1,9 +1,6 @@
 ---
 title: オフラインカレンダー calgoo
-description: ""
 date: "2006-08-28T08:50:35.000Z"
-categories: []
-keywords: []
 tags: ["google-calendar", "calgoo"]
 slug: "c5701fcc-25ec-4e65-af72-3b83ac479795"
 ---

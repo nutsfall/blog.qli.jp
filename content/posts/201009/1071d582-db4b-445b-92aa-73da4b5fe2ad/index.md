@@ -1,9 +1,6 @@
 ---
 title: CDの個別レビューとかは書かないようにしようかと
-description: ''
-date: '2010-09-05T18:19:32.000Z'
-categories: []
-keywords: []
+date: "2010-09-05T18:19:32.000Z"
 tags: ["salyu", "lego-big-morl", "music"]
 slug: "1071d582-db4b-445b-92aa-73da4b5fe2ad"
 ---

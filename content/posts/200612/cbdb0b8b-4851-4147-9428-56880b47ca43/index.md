@@ -1,9 +1,6 @@
 ---
 title: Google Desktop 4.5日本語版
-description: ''
-date: '2006-12-26T17:05:21.000Z'
-categories: []
-keywords: []
+date: "2006-12-26T17:05:21.000Z"
 tags: ["google-desktop", "software"]
 slug: "cbdb0b8b-4851-4147-9428-56880b47ca43"
 ---

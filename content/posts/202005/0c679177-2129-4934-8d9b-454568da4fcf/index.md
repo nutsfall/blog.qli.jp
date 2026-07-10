@@ -1,9 +1,7 @@
 ---
 title: 音楽を好きになったきっかけの曲5選
 description: たまには振り返ってみる
-date: '2020-05-18T13:13:44.775Z'
-categories: []
-keywords: []
+date: "2020-05-18T13:13:44.775Z"
 tags: ["music", "mr-children", "trf"]
 slug: "0c679177-2129-4934-8d9b-454568da4fcf"
 ---

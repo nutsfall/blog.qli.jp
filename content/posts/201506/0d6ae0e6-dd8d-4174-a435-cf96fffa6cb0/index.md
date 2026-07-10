@@ -1,9 +1,6 @@
 ---
 title: きゅーり.jp 9年目のご挨拶
-description: ''
-date: '2015-06-20T14:00:43.000Z'
-categories: []
-keywords: []
+date: "2015-06-20T14:00:43.000Z"
 tags: ["blogging"]
 slug: "0d6ae0e6-dd8d-4174-a435-cf96fffa6cb0"
 ---

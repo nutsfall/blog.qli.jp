@@ -1,9 +1,6 @@
 ---
 title: BASICって何だっけ？
-description: ''
-date: '2007-02-17T01:00:38.000Z'
-categories: []
-keywords: []
+date: "2007-02-17T01:00:38.000Z"
 tags: ["basic", "run-basic"]
 slug: "de468bac-314c-4f6c-a1bb-103b807d4dcd"
 ---

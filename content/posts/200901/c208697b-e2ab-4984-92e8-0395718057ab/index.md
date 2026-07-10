@@ -1,9 +1,6 @@
 ---
-title: '夢の蕾 : レミオロメン'
-description: ''
-date: '2009-01-21T23:25:13.000Z'
-categories: []
-keywords: []
+title: "夢の蕾 : レミオロメン"
+date: "2009-01-21T23:25:13.000Z"
 tags: ["remioromen", "music"]
 slug: "c208697b-e2ab-4984-92e8-0395718057ab"
 ---

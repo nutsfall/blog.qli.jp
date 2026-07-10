@@ -1,9 +1,7 @@
 ---
 title: シェア文化と個の文化
 description: "「リモート」「オンライン」が至るところで開催されている。音楽ライブや映画鑑賞、トークライブ、そして、仕事や教育ですら、リモートが選択肢になってきている。"
-date: '2021-07-21T01:51:48.290Z'
-categories: []
-keywords: []
+date: "2021-07-21T01:51:48.290Z"
 tags: ["remote-work", "live-music", "social-trends"]
 slug: "db67a35b-5506-4a66-b50a-2b5cc63173b8"
 ---

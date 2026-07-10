@@ -1,9 +1,6 @@
 ---
 title: Shure SE310
-description: ''
-date: '2008-08-23T20:32:05.000Z'
-categories: []
-keywords: []
+date: "2008-08-23T20:32:05.000Z"
 tags: ["shure", "earphones", "audio"]
 slug: "141a9175-e07b-4087-b252-e1062dc5636a"
 ---

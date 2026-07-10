@@ -1,9 +1,6 @@
 ---
 title: Gmail IMAPの使い心地は？
-description: ''
-date: '2007-10-31T17:49:19.000Z'
-categories: []
-keywords: []
+date: "2007-10-31T17:49:19.000Z"
 tags: ["gmail", "imap"]
 slug: "f7c58576-c06a-4b06-8f6c-9c4daea3526e"
 ---

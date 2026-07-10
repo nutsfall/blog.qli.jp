@@ -1,9 +1,6 @@
 ---
-title: 'つないで手 : 一青窈'
-description: ''
-date: '2007-10-08T13:25:39.000Z'
-categories: []
-keywords: []
+title: "つないで手 : 一青窈"
+date: "2007-10-08T13:25:39.000Z"
 tags: ["hitotoyo", "music"]
 slug: "0506d942-3939-4a74-b439-f8f0dfea0406"
 ---

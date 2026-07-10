@@ -1,9 +1,6 @@
 ---
 title: 勝ち負けはいいのです
-description: ''
-date: '2012-10-10T21:04:44.000Z'
-categories: []
-keywords: []
+date: "2012-10-10T21:04:44.000Z"
 tags: ["itunes-store", "music-distribution"]
 slug: "0dd4f7ac-4ae4-4bc0-a670-ef03be786130"
 ---

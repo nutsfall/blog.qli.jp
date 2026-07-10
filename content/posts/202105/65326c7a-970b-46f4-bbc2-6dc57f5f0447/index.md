@@ -1,9 +1,6 @@
 ---
 title: iOS14.6が配信され準備が整ったApple Musicのハイレゾ・ロスレス
-description: ''
-date: '2021-05-30T02:55:06.192Z'
-categories: []
-keywords: []
+date: "2021-05-30T02:55:06.192Z"
 tags: ["apple-music", "lossless-audio"]
 slug: "65326c7a-970b-46f4-bbc2-6dc57f5f0447"
 ---

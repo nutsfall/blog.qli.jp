@@ -1,9 +1,6 @@
 ---
 title: GmailアカウントでWindows Messenger
-description: ''
-date: '2007-12-05T00:38:46.000Z'
-categories: []
-keywords: []
+date: "2007-12-05T00:38:46.000Z"
 tags: ["gmail", "xbox-360", "windows-live"]
 slug: "2ced8030-630a-4151-8957-f1f9de1adf5e"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 誤送信いろいろ
-description: ''
-date: '2013-09-03T20:06:02.000Z'
-categories: []
-keywords: []
+date: "2013-09-03T20:06:02.000Z"
 tags: ["twitter", "email"]
 slug: "537e1d19-3a52-4110-9c63-f72978e36a1d"
 ---

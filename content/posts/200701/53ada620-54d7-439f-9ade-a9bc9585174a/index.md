@@ -1,9 +1,6 @@
 ---
 title: 嫌われ松子の一生、トリック劇場版2
-description: ''
-date: '2007-01-06T08:38:39.000Z'
-categories: []
-keywords: []
+date: "2007-01-06T08:38:39.000Z"
 tags: ["film", "blue-dragon"]
 slug: "53ada620-54d7-439f-9ade-a9bc9585174a"
 ---

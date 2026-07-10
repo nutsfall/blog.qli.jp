@@ -1,9 +1,7 @@
 ---
 title: Shokz OPENCOMMのいまさらレビュー
 description: 当たり前のように家で働くようになって、早くも3年が経った。もともとオフィス以外の場所で働くことが選択肢にあった環境ではありましたが、ここまで当たり前になるとは思わなかった。
-date: '2023-06-03T03:01:46.808Z'
-categories: []
-keywords: []
+date: "2023-06-03T03:01:46.808Z"
 tags: ["shokz", "remote-work"]
 slug: "1789e302-59f5-4b4b-bf21-1d6e17ca93e7"
 ---

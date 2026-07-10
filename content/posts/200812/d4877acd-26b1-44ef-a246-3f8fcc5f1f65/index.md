@@ -1,9 +1,6 @@
 ---
 title: はじめてのGTD ストレスフリーの整理術
-description: ''
-date: '2008-12-24T10:44:36.000Z'
-categories: []
-keywords: []
+date: "2008-12-24T10:44:36.000Z"
 tags: ["gtd", "book-review"]
 slug: "d4877acd-26b1-44ef-a246-3f8fcc5f1f65"
 ---

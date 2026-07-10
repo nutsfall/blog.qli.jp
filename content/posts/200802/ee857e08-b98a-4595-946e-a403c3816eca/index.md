@@ -1,9 +1,6 @@
 ---
 title: ectoライセンスをプレゼントします
-description: ""
 date: "2008-02-11T10:53:05.000Z"
-categories: []
-keywords: []
 tags: ["ecto", "mac"]
 slug: "ee857e08-b98a-4595-946e-a403c3816eca"
 ---

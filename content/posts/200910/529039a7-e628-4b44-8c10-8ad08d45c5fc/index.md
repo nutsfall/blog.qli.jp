@@ -1,9 +1,6 @@
 ---
-title: '世界が明日も続くなら :: GAKU-MC'
-description: ''
-date: '2009-10-29T22:02:16.000Z'
-categories: []
-keywords: []
+title: "世界が明日も続くなら :: GAKU-MC"
+date: "2009-10-29T22:02:16.000Z"
 tags: ["gaku-mc", "music"]
 slug: "529039a7-e628-4b44-8c10-8ad08d45c5fc"
 ---

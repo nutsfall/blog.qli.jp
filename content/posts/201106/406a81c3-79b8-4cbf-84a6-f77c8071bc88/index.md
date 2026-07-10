@@ -1,9 +1,6 @@
 ---
 title: iCloudは必要なものだった？
-description: ''
-date: '2011-06-26T20:11:32.000Z'
-categories: []
-keywords: []
+date: "2011-06-26T20:11:32.000Z"
 tags: ["icloud", "ios", "itunes"]
 slug: "406a81c3-79b8-4cbf-84a6-f77c8071bc88"
 ---

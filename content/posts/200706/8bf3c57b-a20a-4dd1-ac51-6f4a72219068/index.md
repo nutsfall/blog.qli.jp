@@ -1,9 +1,6 @@
 ---
 title: EAがMac用ゲームリリースを宣言
-description: ''
-date: '2007-06-13T18:02:09.000Z'
-categories: []
-keywords: []
+date: "2007-06-13T18:02:09.000Z"
 tags: ["ea", "mac-gaming", "wwdc"]
 slug: "8bf3c57b-a20a-4dd1-ac51-6f4a72219068"
 ---

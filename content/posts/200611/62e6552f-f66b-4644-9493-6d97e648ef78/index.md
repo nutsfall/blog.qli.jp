@@ -1,9 +1,6 @@
 ---
 title: mylo=my life online と clie
-description: ""
 date: "2006-11-21T00:51:50.000Z"
-categories: []
-keywords: []
 tags: ["sony-mylo", "sony-clie", "palm"]
 slug: "62e6552f-f66b-4644-9493-6d97e648ef78"
 ---

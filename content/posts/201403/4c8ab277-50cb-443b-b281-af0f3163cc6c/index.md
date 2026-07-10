@@ -1,9 +1,6 @@
 ---
 title: google now の挙動を比べてみる
-description: ''
-date: '2014-03-24T20:42:05.000Z'
-categories: []
-keywords: []
+date: "2014-03-24T20:42:05.000Z"
 tags: ["google-now", "android", "ios"]
 slug: "4c8ab277-50cb-443b-b281-af0f3163cc6c"
 ---

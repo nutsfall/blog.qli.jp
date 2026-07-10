@@ -1,9 +1,6 @@
 ---
 title: プリンセストヨトミ
-description: ''
-date: '2012-01-14T15:10:42.000Z'
-categories: []
-keywords: []
+date: "2012-01-14T15:10:42.000Z"
 tags: ["princess-toyotomi", "film", "apple-tv"]
 slug: "c44c0a48-f66a-469b-83c9-33014978d634"
 ---

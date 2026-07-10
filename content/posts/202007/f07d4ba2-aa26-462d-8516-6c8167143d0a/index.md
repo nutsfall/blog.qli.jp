@@ -1,9 +1,7 @@
 ---
 title: iOS14 PB で音楽が楽しくなった話
 description: 今年の夏も次期iOSの Public Beta が登場しています。Appleは日常使いのiPhoneに入れないでね、という警告とともに出していますが、アップデートしてしまう人が今年も多く見られるようです。夏の風物詩のようですね。
-date: '2020-07-28T10:25:21.066Z'
-categories: []
-keywords: []
+date: "2020-07-28T10:25:21.066Z"
 tags: ["ios", "apple-music", "audio-quality"]
 slug: "f07d4ba2-aa26-462d-8516-6c8167143d0a"
 ---

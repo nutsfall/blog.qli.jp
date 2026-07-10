@@ -1,9 +1,6 @@
 ---
 title: Apple Watchを20日ほど使った感想
-description: ''
-date: '2015-05-16T01:28:47.000Z'
-categories: []
-keywords: []
+date: "2015-05-16T01:28:47.000Z"
 tags: ["apple-watch", "review"]
 slug: "e690af0d-48f1-4f25-b626-a46c2e95f7c6"
 ---

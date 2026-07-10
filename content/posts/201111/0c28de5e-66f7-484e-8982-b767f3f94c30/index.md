@@ -1,9 +1,6 @@
 ---
 title: GTDコンテキストで見る、”便利になること”
-description: ''
-date: '2011-11-21T20:52:56.000Z'
-categories: []
-keywords: []
+date: "2011-11-21T20:52:56.000Z"
 tags: ["gtd", "productivity"]
 slug: "0c28de5e-66f7-484e-8982-b767f3f94c30"
 ---

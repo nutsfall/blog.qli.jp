@@ -1,9 +1,6 @@
 ---
 title: BrightkiteがPublic Betaに移行した
-description: ''
-date: '2008-12-04T07:15:16.000Z'
-categories: []
-keywords: []
+date: "2008-12-04T07:15:16.000Z"
 tags: ["brightkite", "location-based-service"]
 slug: "9204a5bc-c081-4151-b192-6e3dff3b8626"
 ---

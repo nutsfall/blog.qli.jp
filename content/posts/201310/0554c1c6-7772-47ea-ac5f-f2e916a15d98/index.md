@@ -1,9 +1,6 @@
 ---
 title: "“Apple ID パスワードの再設定方法。”メールとは何か"
-description: ''
-date: '2013-10-24T21:51:19.000Z'
-categories: []
-keywords: []
+date: "2013-10-24T21:51:19.000Z"
 tags: ["apple-id", "security", "phishing"]
 slug: "0554c1c6-7772-47ea-ac5f-f2e916a15d98"
 ---

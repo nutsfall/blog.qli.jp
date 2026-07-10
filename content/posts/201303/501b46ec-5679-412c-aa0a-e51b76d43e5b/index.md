@@ -1,9 +1,6 @@
 ---
 title: LISMO WAVE for iOS が登場
-description: ''
-date: '2013-03-04T20:28:26.000Z'
-categories: []
-keywords: []
+date: "2013-03-04T20:28:26.000Z"
 tags: ["lismo-wave", "au", "radio-streaming"]
 slug: "501b46ec-5679-412c-aa0a-e51b76d43e5b"
 ---

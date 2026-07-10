@@ -1,9 +1,6 @@
 ---
 title: Mac は Lion で終わり
-description: ''
-date: '2012-02-23T21:26:14.000Z'
-categories: []
-keywords: []
+date: "2012-02-23T21:26:14.000Z"
 tags: ["apple", "mac-os-x"]
 slug: "e2936ebb-4d4c-4dbf-8db5-32b9c8c1787e"
 ---

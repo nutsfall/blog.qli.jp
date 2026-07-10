@@ -1,9 +1,6 @@
 ---
 title: Kindle と iBooks
-description: ''
-date: '2015-01-23T15:29:20.000Z'
-categories: []
-keywords: []
+date: "2015-01-23T15:29:20.000Z"
 tags: ["kindle", "ibooks"]
 slug: "f1bd2a8d-da24-49d3-bd24-3e9d00078b4d"
 ---

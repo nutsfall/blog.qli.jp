@@ -1,9 +1,6 @@
 ---
 title: googleが地球規模の清掃活動を呼びかけます
-description: ''
-date: '2007-10-04T22:49:19.000Z'
-categories: []
-keywords: []
+date: "2007-10-04T22:49:19.000Z"
 tags: ["google", "environment"]
 slug: "69782897-81f6-496a-a3bc-a0ebdc78e835"
 ---

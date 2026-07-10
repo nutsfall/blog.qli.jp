@@ -1,9 +1,6 @@
 ---
 title: MacでWindows XPが動く
-description: ""
 date: "2006-10-31T22:30:27.000Z"
-categories: []
-keywords: []
 tags: ["apple", "boot-camp", "parallels"]
 slug: "4234c912-1692-4ce7-bbe8-dc58e3c276dd"
 ---

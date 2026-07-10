@@ -1,9 +1,6 @@
 ---
 title: myloの知名度もまだまだなのかなぁ
-description: ''
-date: '2006-12-06T23:47:52.000Z'
-categories: []
-keywords: []
+date: "2006-12-06T23:47:52.000Z"
 tags: ["sony-mylo", "gadget"]
 slug: "98fbb0f7-cf67-42ab-a03a-cc8f5ffab4ff"
 ---

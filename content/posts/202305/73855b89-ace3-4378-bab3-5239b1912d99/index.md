@@ -1,9 +1,6 @@
 ---
 title: ペンライトを振るか振らないか
-description: ''
-date: '2023-05-27T03:03:12.275Z'
-categories: []
-keywords: []
+date: "2023-05-27T03:03:12.275Z"
 tags: ["sakurazaka46", "live-concert"]
 slug: "73855b89-ace3-4378-bab3-5239b1912d99"
 ---

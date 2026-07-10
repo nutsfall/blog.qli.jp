@@ -1,9 +1,6 @@
 ---
 title: Google Desktop 5 が登場しました
-description: ''
-date: '2007-03-07T09:18:03.000Z'
-categories: []
-keywords: []
+date: "2007-03-07T09:18:03.000Z"
 tags: ["google-desktop"]
 slug: "f28b5aff-fc14-424d-8c7d-ffbc787dcc3c"
 ---

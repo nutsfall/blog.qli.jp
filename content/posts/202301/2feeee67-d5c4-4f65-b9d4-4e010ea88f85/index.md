@@ -1,9 +1,6 @@
 ---
 title: HomePodソフトウェアアップデートで音が変わった(16.3)
-description: ''
-date: '2023-01-28T02:02:45.402Z'
-categories: []
-keywords: []
+date: "2023-01-28T02:02:45.402Z"
 tags: ["homepod", "apple"]
 slug: "2feeee67-d5c4-4f65-b9d4-4e010ea88f85"
 ---

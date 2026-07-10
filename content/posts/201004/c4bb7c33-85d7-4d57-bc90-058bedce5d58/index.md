@@ -1,9 +1,6 @@
 ---
 title: iPhone OS 4 sneak peak
-description: ''
-date: '2010-04-11T09:11:51.000Z'
-categories: []
-keywords: []
+date: "2010-04-11T09:11:51.000Z"
 tags: ["iphone", "ios"]
 slug: "c4bb7c33-85d7-4d57-bc90-058bedce5d58"
 ---

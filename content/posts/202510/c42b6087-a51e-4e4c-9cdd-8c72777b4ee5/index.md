@@ -5,7 +5,6 @@ slug: "c42b6087-a51e-4e4c-9cdd-8c72777b4ee5"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E8%B5%A4%E3%81%84%E5%85%AC%E5%9C%92%E3%81%A8aooo%E3%81%AE%E8%A9%B1-44b03cc31598?source=rss-21bfda6f823e------2"
 tags: ["aooo", "music"]
-draft: false
 ---
 
 今日は 2025 年 10 月 18 日。赤い公園と Aooo の話をしようと思う。まずは赤い公園から。

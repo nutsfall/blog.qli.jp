@@ -1,9 +1,6 @@
 ---
 title: Thingsを気に入っている理由
-description: ''
-date: '2008-12-18T00:44:05.000Z'
-categories: []
-keywords: []
+date: "2008-12-18T00:44:05.000Z"
 tags: ["things", "omnifocus", "gtd"]
 slug: "49a5ec77-1447-48dd-b8d9-83568f8a7f98"
 ---

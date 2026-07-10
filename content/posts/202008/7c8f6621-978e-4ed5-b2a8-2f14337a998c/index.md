@@ -1,9 +1,7 @@
 ---
 title: 音楽再生履歴共有サービス Last.fm のイマ(Aug. 2020)
 description: Last.fmを久しぶりに使って見たので、いまどうなってるのかを共有します
-date: '2020-08-31T11:00:36.350Z'
-categories: []
-keywords: []
+date: "2020-08-31T11:00:36.350Z"
 tags: ["last-fm", "apple-music", "music-streaming"]
 slug: "7c8f6621-978e-4ed5-b2a8-2f14337a998c"
 ---

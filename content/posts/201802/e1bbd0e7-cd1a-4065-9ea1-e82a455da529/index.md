@@ -1,9 +1,7 @@
 ---
 title: 次にやるべきタスクアシスト機能
 description: いつもは Things を使ってタスクを整理しています。
-date: '2018-02-10T02:04:03.895Z'
-categories: []
-keywords: []
+date: "2018-02-10T02:04:03.895Z"
 tags: ["things", "task-management", "productivity"]
 slug: "e1bbd0e7-cd1a-4065-9ea1-e82a455da529"
 ---

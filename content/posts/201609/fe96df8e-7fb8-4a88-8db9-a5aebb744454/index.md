@@ -1,9 +1,6 @@
 ---
 title: Apple W1チップを体験した
-description: ''
-date: '2016-09-25T04:11:11.000Z'
-categories: []
-keywords: []
+date: "2016-09-25T04:11:11.000Z"
 tags: ["apple", "beats-solo3", "bluetooth"]
 slug: "fe96df8e-7fb8-4a88-8db9-a5aebb744454"
 ---

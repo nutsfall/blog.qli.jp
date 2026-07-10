@@ -1,9 +1,6 @@
 ---
 title: Remember The Milk 2.0
-description: ''
-date: '2007-11-21T00:01:27.000Z'
-categories: []
-keywords: []
+date: "2007-11-21T00:01:27.000Z"
 tags: ["remember-the-milk", "productivity"]
 slug: "67baba52-17cc-4f69-95a8-d95587a6abd5"
 ---

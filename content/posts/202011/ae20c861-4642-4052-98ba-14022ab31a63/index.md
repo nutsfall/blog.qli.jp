@@ -1,9 +1,7 @@
 ---
 title: Bose Sleepbuds 2 でスムーズな入眠を
 description: 入手しやすくなったので試してみたら、いい製品でした
-date: '2020-11-30T15:02:47.257Z'
-categories: []
-keywords: []
+date: "2020-11-30T15:02:47.257Z"
 tags: ["bose-sleepbuds", "sleep"]
 slug: "ae20c861-4642-4052-98ba-14022ab31a63"
 ---

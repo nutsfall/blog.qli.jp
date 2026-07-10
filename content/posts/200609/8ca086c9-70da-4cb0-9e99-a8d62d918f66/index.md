@@ -1,9 +1,6 @@
 ---
 title: Appleのイベントは13日未明から
-description: ""
 date: "2006-09-11T13:44:00.000Z"
-categories: []
-keywords: []
 tags: ["apple", "apple-event"]
 slug: "8ca086c9-70da-4cb0-9e99-a8d62d918f66"
 ---

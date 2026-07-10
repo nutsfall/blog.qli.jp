@@ -1,9 +1,6 @@
 ---
 title: 新しいStageと新しいWithと懐かしさ
-description: ''
-date: '2023-05-20T03:00:32.278Z'
-categories: []
-keywords: []
+date: "2023-05-20T03:00:32.278Z"
 tags: ["saito-asuka", "spitz", "fujiwara-sakura"]
 slug: "1d323115-f2a4-482b-8ce1-b8e5c86c368a"
 ---

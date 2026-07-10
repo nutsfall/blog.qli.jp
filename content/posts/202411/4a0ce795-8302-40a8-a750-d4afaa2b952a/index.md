@@ -1,9 +1,7 @@
 ---
 title: ブログ記事の書き方 2024年版
 description: 実は長い期間インターネットに文章を投稿し続けている。古いものになると自分でも文章のコピーを持っていないものもある。
-date: '2024-11-16T03:02:03.622Z'
-categories: []
-keywords: []
+date: "2024-11-16T03:02:03.622Z"
 tags: ["blogging", "ia-writer", "chatgpt"]
 slug: "4a0ce795-8302-40a8-a750-d4afaa2b952a"
 ---

@@ -1,9 +1,6 @@
 ---
 title: au wallet の使い勝手と気になるポイント
-description: ''
-date: '2014-06-08T09:05:20.000Z'
-categories: []
-keywords: []
+date: "2014-06-08T09:05:20.000Z"
 tags: ["au-wallet", "prepaid-card"]
 slug: "9aa9d98b-ddb3-4e39-8b05-df094f8b60a6"
 ---

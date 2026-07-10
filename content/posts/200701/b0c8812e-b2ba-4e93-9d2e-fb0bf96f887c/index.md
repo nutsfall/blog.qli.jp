@@ -1,9 +1,6 @@
 ---
 title: チェケラッチョ
-description: ''
-date: '2007-01-08T17:02:14.000Z'
-categories: []
-keywords: []
+date: "2007-01-08T17:02:14.000Z"
 tags: ["movie"]
 slug: "b0c8812e-b2ba-4e93-9d2e-fb0bf96f887c"
 ---

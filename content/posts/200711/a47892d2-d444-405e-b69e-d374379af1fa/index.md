@@ -1,9 +1,6 @@
 ---
-title: 'LAS VEGAS :: 鬼束ちひろ'
-description: ''
-date: '2007-11-01T22:59:16.000Z'
-categories: []
-keywords: []
+title: "LAS VEGAS :: 鬼束ちひろ"
+date: "2007-11-01T22:59:16.000Z"
 tags: ["chihiro-onitsuka", "music"]
 slug: "a47892d2-d444-405e-b69e-d374379af1fa"
 ---

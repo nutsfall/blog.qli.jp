@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: ダブルドライブ : 井上陽水奥田民生'
-description: ''
-date: '2007-02-21T23:51:21.000Z'
-categories: []
-keywords: []
+title: "On Vox: ダブルドライブ : 井上陽水奥田民生"
+date: "2007-02-21T23:51:21.000Z"
 tags: ["inoue-yosui", "okuda-tamio"]
 slug: "f04c966a-d1a7-470a-b9b6-1542e6c68bf6"
 ---

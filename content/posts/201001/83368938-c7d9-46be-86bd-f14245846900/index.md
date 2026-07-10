@@ -1,9 +1,6 @@
 ---
 title: the brilliant greenが活動再開
-description: ''
-date: '2010-01-12T23:28:37.000Z'
-categories: []
-keywords: []
+date: "2010-01-12T23:28:37.000Z"
 tags: ["the-brilliant-green", "music"]
 slug: "83368938-c7d9-46be-86bd-f14245846900"
 ---

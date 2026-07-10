@@ -1,9 +1,6 @@
 ---
 title: Firefox 3 リリース日は6月18日に決定
-description: ''
-date: '2008-06-12T11:51:03.000Z'
-categories: []
-keywords: []
+date: "2008-06-12T11:51:03.000Z"
 tags: ["firefox"]
 slug: "26e61d5e-f567-4593-960e-fb92cc9d220b"
 ---

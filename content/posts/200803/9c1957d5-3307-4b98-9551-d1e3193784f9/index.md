@@ -1,9 +1,6 @@
 ---
 title: クワイエットルームにようこそ
-description: ''
-date: '2008-03-21T22:36:18.000Z'
-categories: []
-keywords: []
+date: "2008-03-21T22:36:18.000Z"
 tags: ["quiet-room", "film"]
 slug: "9c1957d5-3307-4b98-9551-d1e3193784f9"
 ---

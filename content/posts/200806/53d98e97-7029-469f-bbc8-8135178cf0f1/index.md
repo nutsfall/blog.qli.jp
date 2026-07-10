@@ -1,9 +1,6 @@
 ---
 title: W61Sのケータイアップデート
-description: ''
-date: '2008-06-23T21:22:14.000Z'
-categories: []
-keywords: []
+date: "2008-06-23T21:22:14.000Z"
 tags: ["w61s", "au"]
 slug: "53d98e97-7029-469f-bbc8-8135178cf0f1"
 ---

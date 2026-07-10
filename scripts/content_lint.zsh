@@ -23,7 +23,7 @@ check() {
 echo "=== フロントマター ==="
 check "空 categories: []"           '^categories: \[\]'
 check "空 keywords: []"             '^keywords: \[\]'
-check "空 description"              "^description: ''"
+check "空 description"              "^description: (''|\"\")\$"
 check "date シングルクォート"       "^date: '"
 check "draft: true"                 '^draft: true'
 

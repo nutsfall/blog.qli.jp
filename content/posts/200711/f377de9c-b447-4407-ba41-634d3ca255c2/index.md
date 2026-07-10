@@ -1,9 +1,6 @@
 ---
 title: Google TalkとAIMが相互接続？
-description: ''
-date: '2007-11-13T00:28:03.000Z'
-categories: []
-keywords: []
+date: "2007-11-13T00:28:03.000Z"
 tags: ["google-talk", "aim", "instant-messaging"]
 slug: "f377de9c-b447-4407-ba41-634d3ca255c2"
 ---

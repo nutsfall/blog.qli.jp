@@ -1,9 +1,6 @@
 ---
 title: Skype for Mac 1.5 リリース！
-description: ''
-date: '2006-07-25T20:37:05.000Z'
-categories: []
-keywords: []
+date: "2006-07-25T20:37:05.000Z"
 tags: ["skype", "mac"]
 slug: "1360e0ff-6afd-4854-837b-1b22beb793f1"
 ---

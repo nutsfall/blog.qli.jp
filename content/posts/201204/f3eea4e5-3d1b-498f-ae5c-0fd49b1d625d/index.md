@@ -1,9 +1,6 @@
 ---
 title: 映画 それでもボクはやってない
-description: ''
-date: '2012-04-07T15:00:51.000Z'
-categories: []
-keywords: []
+date: "2012-04-07T15:00:51.000Z"
 tags: ["japanese-film", "apple-tv"]
 slug: "f3eea4e5-3d1b-498f-ae5c-0fd49b1d625d"
 ---

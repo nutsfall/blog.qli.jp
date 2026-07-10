@@ -1,9 +1,6 @@
 ---
 title: 3G iPhoneのうわさをかるくまとめてみた
-description: ''
-date: '2008-05-31T16:58:19.000Z'
-categories: []
-keywords: []
+date: "2008-05-31T16:58:19.000Z"
 tags: ["iphone", "apple", "docomo"]
 slug: "3779188b-8f1a-474a-8c58-ecc9513a267e"
 ---

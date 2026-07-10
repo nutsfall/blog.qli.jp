@@ -1,9 +1,6 @@
 ---
 title: WWDC 2011 キーノート
-description: ''
-date: '2011-06-07T21:16:03.000Z'
-categories: []
-keywords: []
+date: "2011-06-07T21:16:03.000Z"
 tags: ["wwdc", "icloud", "apple"]
 slug: "d2ee83c3-1220-4af8-b961-84570debcadc"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Google Calendar for mobile
-description: ''
-date: '2007-05-25T22:12:30.000Z'
-categories: []
-keywords: []
+date: "2007-05-25T22:12:30.000Z"
 tags: ["google-calendar", "mobile"]
 slug: "26f2f0a3-119e-4246-b2e5-ff7fd1ed3384"
 ---

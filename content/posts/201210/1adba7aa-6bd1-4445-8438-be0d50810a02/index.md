@@ -1,9 +1,6 @@
 ---
 title: Nexus7を1週間使ってみて
-description: ''
-date: '2012-10-07T21:49:54.000Z'
-categories: []
-keywords: []
+date: "2012-10-07T21:49:54.000Z"
 tags: ["nexus-7", "android", "pocket"]
 slug: "1adba7aa-6bd1-4445-8438-be0d50810a02"
 ---

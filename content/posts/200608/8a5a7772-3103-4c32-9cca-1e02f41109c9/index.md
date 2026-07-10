@@ -1,9 +1,6 @@
 ---
 title: GmailのFrom選択機能
-description: ''
-date: '2006-08-11T10:58:02.000Z'
-categories: []
-keywords: []
+date: "2006-08-11T10:58:02.000Z"
 tags: ["gmail", "google"]
 slug: "8a5a7772-3103-4c32-9cca-1e02f41109c9"
 ---

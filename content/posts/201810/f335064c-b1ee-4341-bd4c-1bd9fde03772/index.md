@@ -1,9 +1,7 @@
 ---
 title: Mr.Children 重力と呼吸
 description: 10月3日、Mr.Children のアルバム「重力と呼吸」が発売されました。2015年6月4日発売「REFLECTION」から2.5年ぶり、19枚目のアルバムとなった。
-date: '2018-10-14T15:07:34.342Z'
-categories: []
-keywords: []
+date: "2018-10-14T15:07:34.342Z"
 tags: ["mr-children", "music"]
 slug: "f335064c-b1ee-4341-bd4c-1bd9fde03772"
 ---

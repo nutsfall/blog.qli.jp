@@ -1,9 +1,6 @@
 ---
 title: ひとつ上のGTDを目指して
-description: ''
-date: '2010-12-01T22:15:17.000Z'
-categories: []
-keywords: []
+date: "2010-12-01T22:15:17.000Z"
 tags: ["gtd", "productivity"]
 slug: "9e38ae2a-c9dc-4e3e-8943-08601b645ab9"
 ---

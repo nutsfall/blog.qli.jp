@@ -1,9 +1,7 @@
 ---
 title: "Thingsに新しいリストが追加された\U0001F389"
 description: Cultured Code のパーソナルタスクマネージャー Things にクリスマスプレゼントが届きました。3.11のリリースです。
-date: '2019-12-16T13:40:58.795Z'
-categories: []
-keywords: []
+date: "2019-12-16T13:40:58.795Z"
 tags: ["things", "productivity"]
 slug: "9368e914-ed19-4870-9a4b-b9fc639cf344"
 ---

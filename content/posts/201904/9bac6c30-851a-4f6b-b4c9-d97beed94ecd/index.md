@@ -1,9 +1,7 @@
 ---
 title: イヤホンに求めること
 description: ４月に入って、LEGO BIG MORL “KEITH” と スガシカオ “労働なんかしないで光合成だけで生きたい” を聴きまくっています。
-date: '2019-04-23T14:40:32.843Z'
-categories: []
-keywords: []
+date: "2019-04-23T14:40:32.843Z"
 tags: ["earphones", "powerbeats-pro"]
 slug: "9bac6c30-851a-4f6b-b4c9-d97beed94ecd"
 ---

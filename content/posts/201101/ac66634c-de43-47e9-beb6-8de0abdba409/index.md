@@ -1,9 +1,6 @@
 ---
 title: Android au 65本
-description: ''
-date: '2011-01-30T14:26:19.000Z'
-categories: []
-keywords: []
+date: "2011-01-30T14:26:19.000Z"
 tags: ["android-au", "kddi", "arashi"]
 slug: "ac66634c-de43-47e9-beb6-8de0abdba409"
 ---

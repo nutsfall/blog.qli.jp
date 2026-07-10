@@ -1,9 +1,7 @@
 ---
 title: Apple Watchこそが次のiPod nanoだ
 description: 今年の夏、京都に旅に出ました。京都なので移動手段は主に新幹線やバスなどで、飛行機は使いませんでした。この旅で、Watch OS 4(beta)とAirPodsの組み合わせがとても便利でした。
-date: '2017-09-19T21:26:01.305Z'
-categories: []
-keywords: []
+date: "2017-09-19T21:26:01.305Z"
 tags: ["apple-watch", "airpods", "apple-music"]
 slug: "e048b035-be16-4868-8654-40062f9fbd36"
 ---

@@ -1,9 +1,7 @@
 ---
 title: いまごろSpotifyを使ってみたレビュー (Sep. 2020)
 description: Apple Musicをメインにしている人がSpotifyを使ってみた
-date: '2020-09-10T10:56:38.115Z'
-categories: []
-keywords: []
+date: "2020-09-10T10:56:38.115Z"
 tags: ["spotify", "apple-music"]
 slug: "f3693ec7-51be-42a7-947a-f487ee8179a0"
 ---

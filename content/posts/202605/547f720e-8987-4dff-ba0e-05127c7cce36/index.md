@@ -5,7 +5,6 @@ slug: "547f720e-8987-4dff-ba0e-05127c7cce36"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E6%9C%89%E7%B7%9A%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%81%AE%E8%A9%B1-87c405517f8a?source=rss-21bfda6f823e------2"
 tags: ["earphones", "notes"]
-draft: false
 cover:
   image: "cover.png"
   caption: "Wired Summer Nostalgia Created by Gemini"

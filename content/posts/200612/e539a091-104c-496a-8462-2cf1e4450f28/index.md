@@ -1,9 +1,6 @@
 ---
 title: Stickisを試してみた。
-description: ''
-date: '2006-12-02T11:49:44.000Z'
-categories: []
-keywords: []
+date: "2006-12-02T11:49:44.000Z"
 tags: ["stickis", "web-annotation"]
 slug: "e539a091-104c-496a-8462-2cf1e4450f28"
 ---

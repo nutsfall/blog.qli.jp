@@ -1,9 +1,6 @@
 ---
 title: iPad mini ファーストインプレッション
-description: ''
-date: '2012-11-03T22:06:24.000Z'
-categories: []
-keywords: []
+date: "2012-11-03T22:06:24.000Z"
 tags: ["ipad-mini", "apple"]
 slug: "c422be5b-a7f8-482b-9658-7fec0433a6fb"
 ---

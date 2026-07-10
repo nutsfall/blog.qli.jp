@@ -1,9 +1,6 @@
 ---
 title: Wordpress 2.1リリース!
-description: ''
-date: '2007-01-23T18:27:41.000Z'
-categories: []
-keywords: []
+date: "2007-01-23T18:27:41.000Z"
 tags: ["wordpress"]
 slug: "10b62e9b-ee08-42af-8fea-4dd71a7bd0b9"
 ---

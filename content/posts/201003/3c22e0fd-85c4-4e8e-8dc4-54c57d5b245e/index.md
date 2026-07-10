@@ -1,9 +1,6 @@
 ---
 title: auが新しいISシリーズを立ち上げ
-description: ''
-date: '2010-03-31T05:22:32.000Z'
-categories: []
-keywords: []
+date: "2010-03-31T05:22:32.000Z"
 tags: ["au", "android", "smartphone"]
 slug: "3c22e0fd-85c4-4e8e-8dc4-54c57d5b245e"
 ---

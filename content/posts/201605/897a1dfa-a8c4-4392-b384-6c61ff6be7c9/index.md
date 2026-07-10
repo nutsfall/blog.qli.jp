@@ -1,9 +1,6 @@
 ---
 title: ワイアレスを使う機会が増えた
-description: ''
-date: '2016-05-06T02:37:46.000Z'
-categories: []
-keywords: []
+date: "2016-05-06T02:37:46.000Z"
 tags: ["wireless-headphones", "audio"]
 slug: "897a1dfa-a8c4-4392-b384-6c61ff6be7c9"
 ---

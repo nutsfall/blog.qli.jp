@@ -1,9 +1,6 @@
 ---
 title: VOXのビジネスモデル
-description: ''
-date: '2007-02-26T23:17:47.000Z'
-categories: []
-keywords: []
+date: "2007-02-26T23:17:47.000Z"
 tags: ["vox", "sixapart", "amazon"]
 slug: "847963b8-4b74-4bdf-87bd-49949077008d"
 ---

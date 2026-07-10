@@ -1,9 +1,6 @@
 ---
 title: iPhone on Youtube
-description: ''
-date: '2007-06-20T23:31:36.000Z'
-categories: []
-keywords: []
+date: "2007-06-20T23:31:36.000Z"
 tags: ["iphone", "youtube", "apple"]
 slug: "83c64638-6fa0-4edc-adf3-0208e825d22f"
 ---

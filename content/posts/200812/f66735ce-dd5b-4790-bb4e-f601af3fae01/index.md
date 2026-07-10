@@ -1,9 +1,6 @@
 ---
 title: iTunes Plusは順調に増えている？
-description: ''
-date: '2008-12-28T23:23:24.000Z'
-categories: []
-keywords: []
+date: "2008-12-28T23:23:24.000Z"
 tags: ["itunes", "apple"]
 slug: "f66735ce-dd5b-4790-bb4e-f601af3fae01"
 ---

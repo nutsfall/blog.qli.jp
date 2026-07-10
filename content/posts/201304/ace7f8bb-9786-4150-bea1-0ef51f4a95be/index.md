@@ -1,9 +1,6 @@
 ---
 title: ブログとFacebookとTwitter
-description: ''
-date: '2013-04-06T21:35:34.000Z'
-categories: []
-keywords: []
+date: "2013-04-06T21:35:34.000Z"
 tags: ["blogging", "social-media"]
 slug: "ace7f8bb-9786-4150-bea1-0ef51f4a95be"
 ---

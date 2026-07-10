@@ -1,9 +1,6 @@
 ---
-title: 'Apple Pay: Two weeks impression in Japan'
-description: ''
-date: '2016-11-06T01:56:30.000Z'
-categories: []
-keywords: []
+title: "Apple Pay: Two weeks impression in Japan"
+date: "2016-11-06T01:56:30.000Z"
 tags: ["apple-pay", "suica", "mobile-payments"]
 slug: "7b129bac-9081-4c07-948d-9e49e2ffcd96"
 ---

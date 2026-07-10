@@ -1,9 +1,6 @@
 ---
 title: Skype2.7 beta for macがリリースされました
-description: ''
-date: '2007-08-15T23:08:17.000Z'
-categories: []
-keywords: []
+date: "2007-08-15T23:08:17.000Z"
 tags: ["skype", "mac"]
 slug: "d415ab18-ca72-4051-a092-8b46cfd4a194"
 ---

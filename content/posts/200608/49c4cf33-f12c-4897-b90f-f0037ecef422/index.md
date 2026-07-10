@@ -1,9 +1,6 @@
 ---
 title: check*padが使いやすくなりました
-description: ''
-date: '2006-08-05T20:11:19.000Z'
-categories: []
-keywords: []
+date: "2006-08-05T20:11:19.000Z"
 tags: ["checkpad", "task-management"]
 slug: "49c4cf33-f12c-4897-b90f-f0037ecef422"
 ---

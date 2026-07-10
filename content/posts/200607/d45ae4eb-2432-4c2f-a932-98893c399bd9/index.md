@@ -1,9 +1,6 @@
 ---
 title: W-ZERO3[es]をきっかけにモバイルについて禅問答してみる
-description: ''
-date: '2006-07-13T12:48:02.000Z'
-categories: []
-keywords: []
+date: "2006-07-13T12:48:02.000Z"
 tags: ["w-zero3", "windows-mobile"]
 slug: "d45ae4eb-2432-4c2f-a932-98893c399bd9"
 ---

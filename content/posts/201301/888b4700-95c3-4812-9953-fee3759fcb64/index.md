@@ -1,9 +1,6 @@
 ---
 title: 映画 ストロベリーナイト
-description: ''
-date: '2013-01-26T23:53:56.000Z'
-categories: []
-keywords: []
+date: "2013-01-26T23:53:56.000Z"
 tags: ["strawberry-night", "film", "honda-tetsuya"]
 slug: "888b4700-95c3-4812-9953-fee3759fcb64"
 ---

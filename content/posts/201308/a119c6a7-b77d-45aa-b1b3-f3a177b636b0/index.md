@@ -1,9 +1,6 @@
 ---
 title: Waiting forの実装
-description: ''
-date: '2013-08-18T15:48:03.000Z'
-categories: []
-keywords: []
+date: "2013-08-18T15:48:03.000Z"
 tags: ["gtd", "omnifocus", "task-management"]
 slug: "a119c6a7-b77d-45aa-b1b3-f3a177b636b0"
 ---

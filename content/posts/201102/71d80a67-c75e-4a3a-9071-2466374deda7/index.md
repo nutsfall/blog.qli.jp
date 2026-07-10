@@ -1,9 +1,6 @@
 ---
 title: ローカルな情報を、もっと
-description: ''
-date: '2011-02-14T23:39:40.000Z'
-categories: []
-keywords: []
+date: "2011-02-14T23:39:40.000Z"
 tags: ["geo-media", "local-information"]
 slug: "71d80a67-c75e-4a3a-9071-2466374deda7"
 ---

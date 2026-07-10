@@ -1,9 +1,6 @@
 ---
 title: Hats Off To The Buskers, Costello Music, These Things Move In Threes
-description: ''
-date: '2007-05-27T21:20:34.000Z'
-categories: []
-keywords: []
+date: "2007-05-27T21:20:34.000Z"
 tags: ["uk-rock", "music"]
 slug: "b7374f40-6559-4e34-8a7f-4b6e6458120b"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ">写真でわかるGTD（初回編） (1/4)"
-description: ""
 date: "2006-07-06T10:59:58.000Z"
-categories: []
-keywords: []
 tags: ["gtd", "productivity", "task-management"]
 slug: "8f388ccf-f8b8-4649-b7e7-186335393f7f"
 ---

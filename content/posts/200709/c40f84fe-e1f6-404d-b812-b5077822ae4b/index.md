@@ -1,9 +1,6 @@
 ---
 title: iPod Touch使用日誌
-description: ''
-date: '2007-09-30T15:03:47.000Z'
-categories: []
-keywords: []
+date: "2007-09-30T15:03:47.000Z"
 tags: ["ipod-touch", "last-fm", "wifi"]
 slug: "c40f84fe-e1f6-404d-b812-b5077822ae4b"
 ---

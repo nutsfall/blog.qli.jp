@@ -1,9 +1,6 @@
 ---
 title: パスワードもあちら側に置いてしまう
-description: ''
-date: '2007-01-06T00:55:45.000Z'
-categories: []
-keywords: []
+date: "2007-01-06T00:55:45.000Z"
 tags: ["password-manager", "saas"]
 slug: "b301da14-258a-4b3a-8a2e-d98fc5775d30"
 ---

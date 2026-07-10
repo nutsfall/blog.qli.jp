@@ -1,9 +1,6 @@
 ---
 title: windows デスクトップサーチがネットワークに対応
-description: ''
-date: '2007-02-21T18:16:29.000Z'
-categories: []
-keywords: []
+date: "2007-02-21T18:16:29.000Z"
 tags: ["windows-desktop-search"]
 slug: "a5355d1e-4e8c-4c1c-ac91-d0389214adb7"
 ---

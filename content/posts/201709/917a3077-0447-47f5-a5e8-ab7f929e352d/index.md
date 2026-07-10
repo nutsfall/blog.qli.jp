@@ -2,9 +2,7 @@
 title: Thingsの日本語Siriコマンド一覧
 description: iOS11のリリースに合わせて、Things 3.2がリリースされました。これはiOS11への対応のバージョンとなりますが、特にSiri
   IntegratedとDrag & Drop の対応がメインとなります。なお、Things for Mac 3.2はHigh…
-date: '2017-09-20T15:19:36.581Z'
-categories: []
-keywords: []
+date: "2017-09-20T15:19:36.581Z"
 tags: ["things", "siri", "ios"]
 slug: "917a3077-0447-47f5-a5e8-ab7f929e352d"
 ---

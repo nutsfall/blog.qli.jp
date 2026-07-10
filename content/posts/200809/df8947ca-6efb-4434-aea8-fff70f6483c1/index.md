@@ -1,9 +1,6 @@
 ---
 title: ThingsにWEB版が出来ていた
-description: ''
-date: '2008-09-04T12:48:39.000Z'
-categories: []
-keywords: []
+date: "2008-09-04T12:48:39.000Z"
 tags: ["things", "gtd", "task-management"]
 slug: "df8947ca-6efb-4434-aea8-fff70f6483c1"
 ---

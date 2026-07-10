@@ -1,9 +1,6 @@
 ---
 title: 仕事量コントロール
-description: ''
-date: '2015-11-28T03:52:45.000Z'
-categories: []
-keywords: []
+date: "2015-11-28T03:52:45.000Z"
 tags: ["productivity", "project-management"]
 slug: "8300d0be-98de-441a-8aaf-20e9dfe20a17"
 ---

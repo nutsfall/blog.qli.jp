@@ -1,9 +1,6 @@
 ---
 title: UP by Jawboneを導入した
-description: ''
-date: '2013-04-30T22:58:17.000Z'
-categories: []
-keywords: []
+date: "2013-04-30T22:58:17.000Z"
 tags: ["jawbone-up", "lifelogging", "fitness-tracker"]
 slug: "a84d5c96-498d-461c-8cab-c7d542f6a48b"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Gmailが大きく変わる？
-description: ''
-date: '2007-10-30T18:35:33.000Z'
-categories: []
-keywords: []
+date: "2007-10-30T18:35:33.000Z"
 tags: ["gmail"]
 slug: "e7cc2eb0-a8a7-46b3-b01c-b87cf246d8d6"
 ---

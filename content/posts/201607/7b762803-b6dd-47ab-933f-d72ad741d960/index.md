@@ -2,9 +2,7 @@
 title: それは大地を唄う
 description: Yen Town Bandは、1995年初めてのアルバム"MONTAGE"をリリースした。それは映画「スワロウテイル」で出てくる通り、まさに西洋なのか東洋なのかわからない、もはやボーダレスな
   3rd Culture Musicだった。
-date: '2016-07-20T14:22:37.470Z'
-categories: []
-keywords: []
+date: "2016-07-20T14:22:37.470Z"
 tags: ["yen-town-band", "music"]
 slug: "7b762803-b6dd-47ab-933f-d72ad741d960"
 ---

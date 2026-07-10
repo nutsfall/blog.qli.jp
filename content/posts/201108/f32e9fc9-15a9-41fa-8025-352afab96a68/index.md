@@ -1,9 +1,6 @@
 ---
 title: どちらを使うかはデバイス次第
-description: ''
-date: '2011-08-06T09:49:30.000Z'
-categories: []
-keywords: []
+date: "2011-08-06T09:49:30.000Z"
 tags: ["gmail", "icloud", "ios"]
 slug: "f32e9fc9-15a9-41fa-8025-352afab96a68"
 ---

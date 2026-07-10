@@ -1,9 +1,6 @@
 ---
 title: REFLECTION {Naked} by Mr.Children
-description: ''
-date: '2015-06-03T15:18:54.000Z'
-categories: []
-keywords: []
+date: "2015-06-03T15:18:54.000Z"
 tags: ["mr-children", "music"]
 slug: "228b7c3a-4709-4cb8-a609-8c053db28665"
 ---

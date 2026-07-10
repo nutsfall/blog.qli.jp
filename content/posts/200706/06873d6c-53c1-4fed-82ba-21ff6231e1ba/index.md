@@ -1,9 +1,6 @@
 ---
 title: Growlに対応したTwitterrific
-description: ''
-date: '2007-06-28T18:12:10.000Z'
-categories: []
-keywords: []
+date: "2007-06-28T18:12:10.000Z"
 tags: ["twitterrific", "mac", "twitter"]
 slug: "06873d6c-53c1-4fed-82ba-21ff6231e1ba"
 ---

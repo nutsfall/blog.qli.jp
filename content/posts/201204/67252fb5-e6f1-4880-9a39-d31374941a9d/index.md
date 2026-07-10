@@ -1,9 +1,6 @@
 ---
 title: 世界を変えるということ
-description: ''
-date: '2012-04-07T09:38:04.000Z'
-categories: []
-keywords: []
+date: "2012-04-07T09:38:04.000Z"
 tags: ["agile", "lean-startup"]
 slug: "67252fb5-e6f1-4880-9a39-d31374941a9d"
 ---

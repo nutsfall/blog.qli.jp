@@ -1,9 +1,6 @@
 ---
 title: MacBook Proポータブル機
-description: ''
-date: '2007-07-12T00:21:10.000Z'
-categories: []
-keywords: []
+date: "2007-07-12T00:21:10.000Z"
 tags: ["apple", "macbook-pro"]
 slug: "974237e2-654b-413a-afad-563df00f6454"
 ---

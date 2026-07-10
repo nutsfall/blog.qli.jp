@@ -1,9 +1,6 @@
 ---
 title: Things3のチェックリストの使い道
-description: ''
-date: '2017-05-19T15:01:07.603Z'
-categories: []
-keywords: []
+date: "2017-05-19T15:01:07.603Z"
 tags: ["things3", "task-management"]
 slug: "b7d4de16-9c9d-4699-9d7f-8ba6e4a912da"
 ---

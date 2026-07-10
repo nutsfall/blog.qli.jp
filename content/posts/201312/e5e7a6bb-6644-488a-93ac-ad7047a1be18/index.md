@@ -1,9 +1,6 @@
 ---
 title: 特定秘密保護法成立を取り巻く状況で感じた違和感
-description: ''
-date: '2013-12-06T23:37:09.000Z'
-categories: []
-keywords: []
+date: "2013-12-06T23:37:09.000Z"
 tags: ["japanese-politics", "state-secrecy-law"]
 slug: "e5e7a6bb-6644-488a-93ac-ad7047a1be18"
 ---

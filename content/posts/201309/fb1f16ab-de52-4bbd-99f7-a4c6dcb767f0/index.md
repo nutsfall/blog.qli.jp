@@ -1,9 +1,6 @@
 ---
 title: 新しいiPhoneが近づいてきた
-description: ''
-date: '2013-09-07T09:20:56.000Z'
-categories: []
-keywords: []
+date: "2013-09-07T09:20:56.000Z"
 tags: ["iphone", "ntt-docomo"]
 slug: "fb1f16ab-de52-4bbd-99f7-a4c6dcb767f0"
 ---

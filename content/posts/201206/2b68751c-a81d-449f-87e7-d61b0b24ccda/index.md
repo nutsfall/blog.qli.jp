@@ -1,9 +1,6 @@
 ---
 title: 6月21日
-description: ''
-date: '2012-06-20T23:26:03.000Z'
-categories: []
-keywords: []
+date: "2012-06-20T23:26:03.000Z"
 tags: ["blogging"]
 slug: "2b68751c-a81d-449f-87e7-d61b0b24ccda"
 ---

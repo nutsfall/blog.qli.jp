@@ -1,9 +1,7 @@
 ---
 title: ずっと音楽を垂れ流している
 description: 2015年にサービスインしたApple Music。New Music Mix、Favorites…
-date: '2018-02-17T06:44:56.214Z'
-categories: []
-keywords: []
+date: "2018-02-17T06:44:56.214Z"
 tags: ["apple-music", "smart-speaker", "music-streaming"]
 slug: "dee1efe2-e694-4ee2-ae34-e17cd4d5f3a0"
 ---

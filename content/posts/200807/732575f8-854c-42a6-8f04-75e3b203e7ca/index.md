@@ -1,9 +1,6 @@
 ---
-title: '位置情報SNSは盛り上がるか : brightkite.com'
-description: ''
-date: '2008-07-28T22:17:02.000Z'
-categories: []
-keywords: []
+title: "位置情報SNSは盛り上がるか : brightkite.com"
+date: "2008-07-28T22:17:02.000Z"
 tags: ["brightkite", "location-based-social", "microblogging"]
 slug: "732575f8-854c-42a6-8f04-75e3b203e7ca"
 ---

@@ -1,9 +1,6 @@
 ---
 title: InternetExplorer6を使うのは即刻停止してください
-description: ''
-date: '2008-03-26T12:01:16.000Z'
-categories: []
-keywords: []
+date: "2008-03-26T12:01:16.000Z"
 tags: ["internet-explorer", "web-browsers"]
 slug: "33e23610-9413-40e7-b46c-0c7ddfd897b8"
 ---

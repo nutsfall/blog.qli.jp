@@ -1,9 +1,6 @@
 ---
 title: デスクトップ時間が減ってきた
-description: ''
-date: '2012-11-19T21:47:40.000Z'
-categories: []
-keywords: []
+date: "2012-11-19T21:47:40.000Z"
 tags: ["ios", "macbook"]
 slug: "fa8b928d-cdee-4fdb-8d6b-e81d40bed50b"
 ---

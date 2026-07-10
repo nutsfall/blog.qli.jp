@@ -1,9 +1,6 @@
 ---
-title: '生命力 :: チャットモンチー'
-description: ''
-date: '2007-10-24T22:47:56.000Z'
-categories: []
-keywords: []
+title: "生命力 :: チャットモンチー"
+date: "2007-10-24T22:47:56.000Z"
 tags: ["chatmonchy", "music"]
 slug: "d4b922d9-23c0-4fc2-a8d5-fb9ad7f058b6"
 ---

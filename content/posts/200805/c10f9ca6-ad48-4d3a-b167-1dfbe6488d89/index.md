@@ -1,9 +1,6 @@
 ---
 title: Google Sitesが個人向けに公開されました
-description: ''
-date: '2008-05-22T14:21:44.000Z'
-categories: []
-keywords: []
+date: "2008-05-22T14:21:44.000Z"
 tags: ["google-sites"]
 slug: "c10f9ca6-ad48-4d3a-b167-1dfbe6488d89"
 ---

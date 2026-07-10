@@ -1,9 +1,6 @@
 ---
 title: JaikuとDodgeBallの事実上の凍結
-description: ""
 date: "2009-01-15T13:56:37.000Z"
-categories: []
-keywords: []
 tags: ["jaiku", "dodgeball", "google"]
 slug: "0716ff42-85c4-4dd6-b9a4-4e52a030ec64"
 ---

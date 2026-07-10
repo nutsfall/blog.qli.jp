@@ -1,9 +1,6 @@
 ---
 title: 7th
-description: ''
-date: '2013-06-21T07:42:49.000Z'
-categories: []
-keywords: []
+date: "2013-06-21T07:42:49.000Z"
 tags: ["blogging"]
 slug: "d6d24c60-6df9-4135-ae4e-628f003e3e92"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ITmedia Biz.ID：GTDに役立つトリガーリスト
-description: ''
-date: '2006-07-14T15:04:28.000Z'
-categories: []
-keywords: []
+date: "2006-07-14T15:04:28.000Z"
 tags: ["gtd", "remember-the-milk"]
 slug: "bbd94961-dedc-4191-bdb2-9bea0909d93b"
 ---

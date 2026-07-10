@@ -1,9 +1,7 @@
 ---
 title: 1st anniversary AirPods
 description: AirPodsが“勇気”を持って発売されたのがちょうど1年前、2016年12月13日。発売されて1年が経ちました。
-date: '2017-12-12T21:06:01.611Z'
-categories: []
-keywords: []
+date: "2017-12-12T21:06:01.611Z"
 tags: ["airpods", "beats"]
 slug: "0a7043e4-b99b-435d-87b2-5ab08ca044ab"
 ---

@@ -1,9 +1,6 @@
 ---
 title: MacBook Black(CoreDuo)でWindows Vistaを動作させてみた(on VMware Fusion)
-description: ''
-date: '2008-01-06T12:17:30.000Z'
-categories: []
-keywords: []
+date: "2008-01-06T12:17:30.000Z"
 tags: ["vmware-fusion", "windows-vista", "macbook"]
 slug: "b04acf91-5083-4950-a0ab-eb8c58f71e67"
 ---

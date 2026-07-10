@@ -1,9 +1,6 @@
 ---
 title: Please call me [kju:li].jp
-description: ''
-date: '2009-03-14T08:53:05.000Z'
-categories: []
-keywords: []
+date: "2009-03-14T08:53:05.000Z"
 tags: ["blogging"]
 slug: "a4655db7-a194-46e8-9328-c4f601943cd4"
 ---

@@ -1,9 +1,6 @@
 ---
 title: iPod Shuffle 2GBモデルが追加
-description: ''
-date: '2008-02-20T07:58:01.000Z'
-categories: []
-keywords: []
+date: "2008-02-20T07:58:01.000Z"
 tags: ["apple", "ipod-shuffle"]
 slug: "fb73e265-061f-4d37-9c6d-c5c5b851f04c"
 ---

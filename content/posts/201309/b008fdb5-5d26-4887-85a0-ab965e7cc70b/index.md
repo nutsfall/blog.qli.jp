@@ -1,9 +1,6 @@
 ---
 title: 映画 風立ちぬ
-description: ''
-date: '2013-09-24T10:16:16.000Z'
-categories: []
-keywords: []
+date: "2013-09-24T10:16:16.000Z"
 tags: ["kaze-tachinu", "studio-ghibli"]
 slug: "b008fdb5-5d26-4887-85a0-ab965e7cc70b"
 ---

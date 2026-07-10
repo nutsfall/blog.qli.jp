@@ -1,9 +1,6 @@
 ---
 title: ヘッドフォンがつくる好みの音
-description: ''
-date: '2023-08-12T03:01:48.871Z'
-categories: []
-keywords: []
+date: "2023-08-12T03:01:48.871Z"
 tags: ["airpods-pro", "headphones"]
 slug: "18f26aec-ceb7-49c8-9acf-d02bc290ff3a"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Appleが教科書を再定義
-description: ''
-date: '2012-01-21T11:37:35.000Z'
-categories: []
-keywords: []
+date: "2012-01-21T11:37:35.000Z"
 tags: ["apple", "ibooks", "e-textbook"]
 slug: "6fd298a4-394b-4939-82e0-cb55118ac2a8"
 ---

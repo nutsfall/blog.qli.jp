@@ -1,9 +1,6 @@
 ---
 title: iPhone OS without Flash
-description: ''
-date: '2010-02-02T09:40:15.000Z'
-categories: []
-keywords: []
+date: "2010-02-02T09:40:15.000Z"
 tags: ["iphone-os", "flash", "apple"]
 slug: "952bfaa4-f426-473e-b41d-a19a6b83b026"
 ---

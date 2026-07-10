@@ -1,9 +1,6 @@
 ---
 title: G9 by iida ファーストインプレッション
-description: ''
-date: '2009-04-17T22:19:56.000Z'
-categories: []
-keywords: []
+date: "2009-04-17T22:19:56.000Z"
 tags: ["iida-g9", "au"]
 slug: "beb958eb-d4f7-4919-a249-44d36fe8dca6"
 ---

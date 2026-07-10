@@ -1,9 +1,6 @@
 ---
 title: 続報：AirMacExtreme(7.2.1)におけるUSB接続ディスクの問題
-description: ""
 date: "2008-03-01T18:53:03.000Z"
-categories: []
-keywords: []
 tags: ["airport-extreme", "apple", "mac"]
 slug: "54068de6-d040-4e81-b481-1f409553cc0b"
 ---

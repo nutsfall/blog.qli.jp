@@ -1,9 +1,6 @@
 ---
 title: ユーザ辞書プロセスの暴走
-description: ''
-date: '2014-04-12T09:00:40.000Z'
-categories: []
-keywords: []
+date: "2014-04-12T09:00:40.000Z"
 tags: ["os-x-mavericks", "performance"]
 slug: "53d2ec3d-a986-4987-82cb-0f493565b4a9"
 ---

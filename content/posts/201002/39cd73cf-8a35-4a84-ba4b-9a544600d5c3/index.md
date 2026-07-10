@@ -1,9 +1,6 @@
 ---
 title: iPadはiPadだ
-description: ''
-date: '2010-02-04T09:22:59.000Z'
-categories: []
-keywords: []
+date: "2010-02-04T09:22:59.000Z"
 tags: ["ipad", "apple"]
 slug: "39cd73cf-8a35-4a84-ba4b-9a544600d5c3"
 ---

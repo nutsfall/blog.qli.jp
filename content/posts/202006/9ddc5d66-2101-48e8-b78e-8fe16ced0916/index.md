@@ -1,9 +1,7 @@
 ---
 title: WWDC20に期待したいこと
 description: 今年こそ期待したいWatchOSのアップデート
-date: '2020-06-17T11:15:32.156Z'
-categories: []
-keywords: []
+date: "2020-06-17T11:15:32.156Z"
 tags: ["wwdc", "watchos", "omnifocus"]
 slug: "9ddc5d66-2101-48e8-b78e-8fe16ced0916"
 ---

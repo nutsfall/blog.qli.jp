@@ -1,9 +1,7 @@
 ---
 title: シーンによって使い分けるツール
 description: タスクの倉庫はひとつにまとめるべきだというのが、定石だったりはしますが、最近、プライベートとビジネスという2つのシーンでツールを使い分けています。
-date: '2021-08-19T14:09:30.280Z'
-categories: []
-keywords: []
+date: "2021-08-19T14:09:30.280Z"
 tags: ["things", "omnifocus", "productivity"]
 slug: "f6ec8d84-daf0-44a4-90d2-673e882a515c"
 ---

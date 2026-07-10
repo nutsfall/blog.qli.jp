@@ -1,9 +1,6 @@
 ---
 title: タスクは４つのステータスを持つ
-description: ''
-date: '2016-03-21T03:15:45.000Z'
-categories: []
-keywords: []
+date: "2016-03-21T03:15:45.000Z"
 tags: ["task-management", "gtd"]
 slug: "6a910d40-528e-4a72-80cd-5cfa3e8bc195"
 ---

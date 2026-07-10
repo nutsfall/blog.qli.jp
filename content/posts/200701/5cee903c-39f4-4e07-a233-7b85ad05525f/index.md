@@ -1,9 +1,6 @@
 ---
 title: 9(nine)
-description: ''
-date: '2007-01-15T21:13:03.000Z'
-categories: []
-keywords: []
+date: "2007-01-15T21:13:03.000Z"
 tags: ["9nine", "w-zero3", "mobile"]
 slug: "5cee903c-39f4-4e07-a233-7b85ad05525f"
 ---

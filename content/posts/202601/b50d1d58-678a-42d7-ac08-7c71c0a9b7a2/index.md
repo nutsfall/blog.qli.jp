@@ -5,7 +5,6 @@ slug: "b50d1d58-678a-42d7-ac08-7c71c0a9b7a2"
 source: "medium"
 original_url: "https://medium.com/@hiro/things%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-jan-2026-bdc98833edc1?source=rss-21bfda6f823e------2"
 tags: ["things", "productivity"]
-draft: false
 ---
 
 自分のスナップショットのつもりで、毎年年初に「自分の"タスク管理」についてまとめています。年初に目標を立てることも多いと思いますが、手帳だったりカレンダーだったりが一新される時期でもあり、合わせて自分の仕事環境について見直す機会もあるかもしれません。

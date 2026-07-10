@@ -1,9 +1,6 @@
 ---
 title: スマートフォンと決済サービス
-description: ''
-date: '2010-01-09T14:56:06.000Z'
-categories: []
-keywords: []
+date: "2010-01-09T14:56:06.000Z"
 tags: ["smartphone", "mobile-payment"]
 slug: "1a9bd970-0b9d-4f4b-99db-e7ba426228ff"
 ---

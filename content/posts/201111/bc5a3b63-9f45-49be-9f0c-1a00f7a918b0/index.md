@@ -1,9 +1,6 @@
 ---
 title: Flipboard が 500px に対応した
-description: ''
-date: '2011-11-24T22:07:07.000Z'
-categories: []
-keywords: []
+date: "2011-11-24T22:07:07.000Z"
 tags: ["flipboard", "500px"]
 slug: "bc5a3b63-9f45-49be-9f0c-1a00f7a918b0"
 ---

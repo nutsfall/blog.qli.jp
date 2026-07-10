@@ -1,9 +1,6 @@
 ---
 title: ATH-ANC3を買いました
-description: ""
 date: "2008-02-23T16:42:13.000Z"
-categories: []
-keywords: []
 tags: ["audio-technica", "noise-canceling"]
 slug: "ed083d31-fb44-4be4-968a-d287683dd7a1"
 ---

@@ -1,9 +1,6 @@
 ---
 title: brightkite for iPhone
-description: ''
-date: '2008-10-21T13:04:48.000Z'
-categories: []
-keywords: []
+date: "2008-10-21T13:04:48.000Z"
 tags: ["brightkite", "iphone", "location"]
 slug: "1fe2e345-3ca4-448b-b3c4-499201f83496"
 ---

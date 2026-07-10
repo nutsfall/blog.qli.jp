@@ -1,9 +1,6 @@
 ---
 title: iPhone OS 2.2で絵文字を使う条件
-description: ''
-date: '2008-11-21T23:25:13.000Z'
-categories: []
-keywords: []
+date: "2008-11-21T23:25:13.000Z"
 tags: ["iphone", "emoji", "softbank"]
 slug: "f71553dc-8f7b-416a-85a2-7b1c31140074"
 ---

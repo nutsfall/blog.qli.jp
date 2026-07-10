@@ -1,9 +1,6 @@
 ---
 title: OmniFocusはクールなGTDツール
-description: ''
-date: '2007-06-06T23:16:29.000Z'
-categories: []
-keywords: []
+date: "2007-06-06T23:16:29.000Z"
 tags: ["omnifocus", "gtd", "productivity"]
 slug: "b0a8c368-227e-46fe-9aaa-9a476a7c7452"
 ---

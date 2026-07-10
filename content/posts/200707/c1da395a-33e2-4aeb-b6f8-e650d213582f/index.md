@@ -1,9 +1,6 @@
 ---
 title: OEM提供を始めたGmail
-description: ''
-date: '2007-07-24T16:17:04.000Z'
-categories: []
-keywords: []
+date: "2007-07-24T16:17:04.000Z"
 tags: ["gmail", "google"]
 slug: "c1da395a-33e2-4aeb-b6f8-e650d213582f"
 ---

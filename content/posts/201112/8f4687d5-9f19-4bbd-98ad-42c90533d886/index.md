@@ -1,9 +1,6 @@
 ---
 title: au iPhone CM 「もっとつながりを」
-description: ''
-date: '2011-12-29T09:05:59.000Z'
-categories: []
-keywords: []
+date: "2011-12-29T09:05:59.000Z"
 tags: ["au", "iphone", "advertising"]
 slug: "8f4687d5-9f19-4bbd-98ad-42c90533d886"
 ---

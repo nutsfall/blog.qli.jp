@@ -1,9 +1,6 @@
 ---
 title: Twitter 社会論を読みました
-description: ''
-date: '2009-11-23T22:19:07.000Z'
-categories: []
-keywords: []
+date: "2009-11-23T22:19:07.000Z"
 tags: ["twitter", "book-review"]
 slug: "33ad7a90-b5cc-4e27-81bb-2768a12f472c"
 ---

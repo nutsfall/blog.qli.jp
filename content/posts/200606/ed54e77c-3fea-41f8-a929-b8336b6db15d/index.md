@@ -1,9 +1,6 @@
 ---
 title: "> TypePad1.8の新機能"
-description: ""
 date: "2006-06-22T11:32:00.000Z"
-categories: []
-keywords: []
 tags: ["typepad"]
 slug: "ed54e77c-3fea-41f8-a929-b8336b6db15d"
 ---

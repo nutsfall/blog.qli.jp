@@ -1,9 +1,6 @@
 ---
 title: "#on_lab キックオフイベントに行ってきた"
-description: ''
-date: '2010-04-30T08:30:16.000Z'
-categories: []
-keywords: []
+date: "2010-04-30T08:30:16.000Z"
 tags: ["open-network-lab", "twitter", "startup"]
 slug: "1f9826eb-0345-4dd6-8c5c-b0316b087073"
 ---

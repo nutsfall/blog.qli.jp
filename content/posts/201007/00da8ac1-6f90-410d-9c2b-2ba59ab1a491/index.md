@@ -1,9 +1,6 @@
 ---
-title: 'Blue Daisy :: the brilliant green'
-description: ''
-date: '2010-07-01T08:42:15.000Z'
-categories: []
-keywords: []
+title: "Blue Daisy :: the brilliant green"
+date: "2010-07-01T08:42:15.000Z"
 tags: ["the-brilliant-green", "music"]
 slug: "00da8ac1-6f90-410d-9c2b-2ba59ab1a491"
 ---

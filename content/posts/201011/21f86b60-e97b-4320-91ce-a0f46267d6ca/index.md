@@ -1,9 +1,6 @@
 ---
 title: 未来型サバイバル音楽論 を読了した
-description: ''
-date: '2010-11-20T18:53:16.000Z'
-categories: []
-keywords: []
+date: "2010-11-20T18:53:16.000Z"
 tags: ["book-review", "music-industry"]
 slug: "21f86b60-e97b-4320-91ce-a0f46267d6ca"
 ---

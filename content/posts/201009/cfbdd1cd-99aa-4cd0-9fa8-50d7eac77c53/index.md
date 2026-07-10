@@ -1,9 +1,6 @@
 ---
 title: iTunes Ping
-description: ''
-date: '2010-09-03T06:53:03.000Z'
-categories: []
-keywords: []
+date: "2010-09-03T06:53:03.000Z"
 tags: ["itunes-ping", "apple"]
 slug: "cfbdd1cd-99aa-4cd0-9fa8-50d7eac77c53"
 ---

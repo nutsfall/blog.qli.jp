@@ -1,9 +1,6 @@
 ---
 title: 環境にいいこととはいったい何か
-description: ''
-date: '2008-02-16T01:00:57.000Z'
-categories: []
-keywords: []
+date: "2008-02-16T01:00:57.000Z"
 tags: ["environment", "biofuel"]
 slug: "aec1bb6d-896a-42cc-9e62-853d3ad79c1f"
 ---

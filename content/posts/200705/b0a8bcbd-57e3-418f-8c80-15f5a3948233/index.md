@@ -1,9 +1,6 @@
 ---
-title: '蛍 / RUN :: レミオロメン'
-description: ''
-date: '2007-05-12T10:12:31.000Z'
-categories: []
-keywords: []
+title: "蛍 / RUN :: レミオロメン"
+date: "2007-05-12T10:12:31.000Z"
 tags: ["remioromen", "music"]
 slug: "b0a8bcbd-57e3-418f-8c80-15f5a3948233"
 ---

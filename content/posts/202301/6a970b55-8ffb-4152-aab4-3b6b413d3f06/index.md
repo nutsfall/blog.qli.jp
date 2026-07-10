@@ -1,9 +1,6 @@
 ---
 title: 持ち歩くガジェットバッグの中身
-description: ''
-date: '2023-01-21T09:21:12.918Z'
-categories: []
-keywords: []
+date: "2023-01-21T09:21:12.918Z"
 tags: ["gadgets", "edc"]
 slug: "6a970b55-8ffb-4152-aab4-3b6b413d3f06"
 ---

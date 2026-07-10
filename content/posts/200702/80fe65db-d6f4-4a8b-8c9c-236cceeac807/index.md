@@ -1,9 +1,6 @@
 ---
 title: Skype Pro 発表
-description: ''
-date: '2007-02-20T23:34:55.000Z'
-categories: []
-keywords: []
+date: "2007-02-20T23:34:55.000Z"
 tags: ["skype"]
 slug: "80fe65db-d6f4-4a8b-8c9c-236cceeac807"
 ---

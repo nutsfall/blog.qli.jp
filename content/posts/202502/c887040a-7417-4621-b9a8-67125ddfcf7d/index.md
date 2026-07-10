@@ -1,9 +1,6 @@
 ---
 title: "「好き」と「良い」"
-description: ''
-date: '2025-02-15T03:01:39.720Z'
-categories: []
-keywords: []
+date: "2025-02-15T03:01:39.720Z"
 tags: ["twitter", "fandom"]
 slug: "c887040a-7417-4621-b9a8-67125ddfcf7d"
 ---

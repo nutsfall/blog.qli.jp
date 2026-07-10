@@ -1,9 +1,6 @@
 ---
 title: COOKOO Watchのファームウェアをアップデートした
-description: ''
-date: '2014-03-22T00:52:11.000Z'
-categories: []
-keywords: []
+date: "2014-03-22T00:52:11.000Z"
 tags: ["cookoo-watch", "wearables", "firmware"]
 slug: "1f0e2508-9021-416d-9bd5-36c50fa71bba"
 ---

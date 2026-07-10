@@ -1,9 +1,6 @@
 ---
 title: iOS 5 がくる前にやっておくべきこと
-description: ''
-date: '2011-10-11T20:14:24.000Z'
-categories: []
-keywords: []
+date: "2011-10-11T20:14:24.000Z"
 tags: ["ios-5", "icloud", "apple"]
 slug: "8b0c3e98-a9df-4a4c-9cdb-a4c14b404f34"
 ---

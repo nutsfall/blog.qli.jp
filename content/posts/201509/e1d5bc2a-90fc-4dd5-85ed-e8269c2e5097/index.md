@@ -1,9 +1,6 @@
 ---
 title: iPhone 6s Launch と ファーストインプレッション
-description: ''
-date: '2015-09-27T01:16:14.000Z'
-categories: []
-keywords: []
+date: "2015-09-27T01:16:14.000Z"
 tags: ["iphone-6s", "apple"]
 slug: "e1d5bc2a-90fc-4dd5-85ed-e8269c2e5097"
 ---

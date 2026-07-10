@@ -1,9 +1,7 @@
 ---
 title: 未来へのエントランスにはモンスターが棲んでいた
 description: Mr.Children 30周年をお祝いするツアー「半世紀へのエントランス」はとても楽しかったので、会場ごとに変わるセットリストを見てみた
-date: '2022-06-19T08:22:58.707Z'
-categories: []
-keywords: []
+date: "2022-06-19T08:22:58.707Z"
 tags: ["mr-children", "live-concert"]
 slug: "4852fd46-41ab-4142-99c9-3e6b2c228925"
 ---

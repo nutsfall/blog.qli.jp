@@ -1,9 +1,6 @@
 ---
 title: Atomic Floyd HiDefDrum
-description: ''
-date: '2009-12-19T22:25:54.000Z'
-categories: []
-keywords: []
+date: "2009-12-19T22:25:54.000Z"
 tags: ["atomic-floyd", "earphones"]
 slug: "c32d4c11-7dd5-4d31-bdb0-54d724e812c4"
 ---

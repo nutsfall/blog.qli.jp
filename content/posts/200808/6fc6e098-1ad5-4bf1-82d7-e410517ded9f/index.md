@@ -1,9 +1,6 @@
 ---
 title: OmniFocus for iPhone
-description: ''
-date: '2008-08-09T15:10:05.000Z'
-categories: []
-keywords: []
+date: "2008-08-09T15:10:05.000Z"
 tags: ["omnifocus", "gtd", "iphone"]
 slug: "6fc6e098-1ad5-4bf1-82d7-e410517ded9f"
 ---

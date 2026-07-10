@@ -1,9 +1,6 @@
 ---
 title: OmniFocusで定番の3つのパースペクティブ
-description: ''
-date: '2023-03-18T04:46:28.930Z'
-categories: []
-keywords: []
+date: "2023-03-18T04:46:28.930Z"
 tags: ["omnifocus", "gtd", "productivity"]
 slug: "f2fc43b4-4ee7-432b-935d-9a5da03b110f"
 ---

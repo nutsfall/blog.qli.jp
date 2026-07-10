@@ -1,9 +1,6 @@
 ---
 title: ExpressCard/34 アダプタ WS008HA 発売
-description: ''
-date: '2006-11-16T09:58:06.000Z'
-categories: []
-keywords: []
+date: "2006-11-16T09:58:06.000Z"
 tags: ["willcom", "expresscard"]
 slug: "ef4828d3-6090-46b3-a5e7-a7b3a0af415d"
 ---

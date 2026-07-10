@@ -1,9 +1,6 @@
 ---
 title: ThreadsはInstagramの再発明だと思う
-description: ''
-date: '2023-07-08T03:02:21.315Z'
-categories: []
-keywords: []
+date: "2023-07-08T03:02:21.315Z"
 tags: ["threads", "social-media", "activitypub"]
 slug: "a1aed150-c051-432f-b783-9215aca478b3"
 ---

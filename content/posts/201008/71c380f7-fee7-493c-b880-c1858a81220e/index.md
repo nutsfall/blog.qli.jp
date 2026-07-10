@@ -1,9 +1,6 @@
 ---
 title: Freitag F23 iPad Sleeve を購入
-description: ''
-date: '2010-08-08T14:00:31.000Z'
-categories: []
-keywords: []
+date: "2010-08-08T14:00:31.000Z"
 tags: ["freitag", "ipad"]
 slug: "71c380f7-fee7-493c-b880-c1858a81220e"
 ---

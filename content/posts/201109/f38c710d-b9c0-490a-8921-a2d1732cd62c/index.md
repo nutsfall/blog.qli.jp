@@ -1,9 +1,6 @@
 ---
 title: SENSE パーティ は続いていく
-description: ''
-date: '2011-09-26T20:54:29.000Z'
-categories: []
-keywords: []
+date: "2011-09-26T20:54:29.000Z"
 tags: ["mr-children", "concert"]
 slug: "f38c710d-b9c0-490a-8921-a2d1732cd62c"
 ---

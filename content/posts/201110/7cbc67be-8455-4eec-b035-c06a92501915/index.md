@@ -1,9 +1,6 @@
 ---
 title: iPhoneに語りかけよう
-description: ''
-date: '2011-10-05T20:04:08.000Z'
-categories: []
-keywords: []
+date: "2011-10-05T20:04:08.000Z"
 tags: ["iphone-4s", "siri", "ios"]
 slug: "7cbc67be-8455-4eec-b035-c06a92501915"
 ---

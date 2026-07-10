@@ -1,9 +1,6 @@
 ---
 title: ブロガーとプロの記事の書き方
-description: ''
-date: '2009-06-20T16:23:02.000Z'
-categories: []
-keywords: []
+date: "2009-06-20T16:23:02.000Z"
 tags: ["blogging", "event"]
 slug: "8d51a63b-dfcd-4a75-9431-eec8c28944c8"
 ---

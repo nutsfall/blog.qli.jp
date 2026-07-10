@@ -5,7 +5,6 @@ slug: "2833b210-7287-46cb-9ccd-84d5ee684e2b"
 source: "medium"
 original_url: "https://medium.com/@hiro/ai%E3%81%A8%E9%80%B1%E6%AC%A1%E3%83%AC%E3%83%92%E3%82%99%E3%83%A5%E3%83%BC-deb66728949a?source=rss-21bfda6f823e------2"
 tags: ["productivity", "weekly-review", "claude"]
-draft: false
 cover:
   image: "cover.png"
   caption: "A Quiet Dialogue with AI"

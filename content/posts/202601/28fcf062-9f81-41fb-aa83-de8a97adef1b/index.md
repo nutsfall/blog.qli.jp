@@ -5,7 +5,6 @@ slug: "28fcf062-9f81-41fb-aa83-de8a97adef1b"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E6%98%A0%E7%94%BB%E3%81%AE%E9%9B%91%E8%A8%98-2026%E5%B9%B41%E6%9C%88-db14c7a3bc31?source=rss-21bfda6f823e------2"
 tags: ["movies"]
-draft: false
 ---
 
 それほどたくさん映画を見る方ではないという自信だけはあるので、1ヶ月に3本も映画を見ることは珍しい。今月見た映画はどれも公開を楽しみに待っていた映画だった。

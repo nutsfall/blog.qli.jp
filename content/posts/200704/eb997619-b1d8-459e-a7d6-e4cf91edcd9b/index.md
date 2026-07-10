@@ -1,9 +1,6 @@
 ---
 title: TwitterはSNS? ミニブログ?
-description: ''
-date: '2007-04-28T12:44:55.000Z'
-categories: []
-keywords: []
+date: "2007-04-28T12:44:55.000Z"
 tags: ["twitter", "social-media"]
 slug: "eb997619-b1d8-459e-a7d6-e4cf91edcd9b"
 ---

@@ -1,9 +1,6 @@
 ---
 title: MobileMeからiCloudへの移行アナウンス
-description: ''
-date: '2011-06-25T08:49:09.000Z'
-categories: []
-keywords: []
+date: "2011-06-25T08:49:09.000Z"
 tags: ["mobileme", "icloud"]
 slug: "e5c4a430-8f7a-4fcd-ab59-29d9556d118d"
 ---

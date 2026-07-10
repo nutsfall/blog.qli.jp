@@ -1,9 +1,6 @@
 ---
 title: MacBook Airのシングルコア化問題
-description: ''
-date: '2008-07-24T21:35:32.000Z'
-categories: []
-keywords: []
+date: "2008-07-24T21:35:32.000Z"
 tags: ["macbook-air", "mobileme"]
 slug: "6934b4f1-57df-4dd9-9821-a4070f7b812b"
 ---

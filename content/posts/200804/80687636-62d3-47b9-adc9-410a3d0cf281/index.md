@@ -1,9 +1,6 @@
 ---
-title: 'I LOVED YESTERDAY :: YUI'
-description: ''
-date: '2008-04-15T21:37:16.000Z'
-categories: []
-keywords: []
+title: "I LOVED YESTERDAY :: YUI"
+date: "2008-04-15T21:37:16.000Z"
 tags: ["yui", "music"]
 slug: "80687636-62d3-47b9-adc9-410a3d0cf281"
 ---

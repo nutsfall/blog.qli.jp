@@ -1,9 +1,6 @@
 ---
 title: ユニバーサル受信トレイがMobileMailに？？
-description: ''
-date: '2010-03-24T09:23:59.000Z'
-categories: []
-keywords: []
+date: "2010-03-24T09:23:59.000Z"
 tags: ["iphone", "email", "ios"]
 slug: "54d855e2-6642-4146-92de-d72f5398efb0"
 ---

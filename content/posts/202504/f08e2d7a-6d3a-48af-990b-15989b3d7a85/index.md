@@ -1,9 +1,6 @@
 ---
 title: HomePodのサウンドアップデート
-description: ''
-date: '2025-04-05T03:02:12.315Z'
-categories: []
-keywords: []
+date: "2025-04-05T03:02:12.315Z"
 tags: ["homepod", "apple-intelligence", "ios"]
 slug: "f08e2d7a-6d3a-48af-990b-15989b3d7a85"
 cover:

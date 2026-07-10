@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: アンフェア the movie'
-description: ''
-date: '2007-03-17T12:02:57.000Z'
-categories: []
-keywords: []
+title: "On Vox: アンフェア the movie"
+date: "2007-03-17T12:02:57.000Z"
 tags: ["unfair", "movie"]
 slug: "bd1c9448-d384-4849-b69d-02b72c268c5c"
 ---

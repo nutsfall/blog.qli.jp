@@ -1,9 +1,6 @@
 ---
 title: カウントダウンパーティ
-description: ''
-date: '2012-01-04T22:57:52.000Z'
-categories: []
-keywords: []
+date: "2012-01-04T22:57:52.000Z"
 tags: ["live-music", "new-years-eve", "salyu"]
 slug: "b57dcf35-5542-4446-b90a-bfa3bca24b47"
 ---

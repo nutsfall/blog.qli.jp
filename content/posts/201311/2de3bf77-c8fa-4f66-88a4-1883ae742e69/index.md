@@ -1,9 +1,6 @@
 ---
 title: もうブログは時代遅れかもしれない
-description: ''
-date: '2013-11-01T02:58:16.992Z'
-categories: []
-keywords: []
+date: "2013-11-01T02:58:16.992Z"
 tags: ["blogging"]
 slug: "2de3bf77-c8fa-4f66-88a4-1883ae742e69"
 ---

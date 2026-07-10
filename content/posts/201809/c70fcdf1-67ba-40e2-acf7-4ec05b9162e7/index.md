@@ -1,9 +1,7 @@
 ---
 title: iOS12 でよく使う機能
 description: 明日にはリリースされているということなので、しばらくBetaを使ってきてよく使う新機能をまとめてみる
-date: '2018-09-17T03:37:31.111Z'
-categories: []
-keywords: []
+date: "2018-09-17T03:37:31.111Z"
 tags: ["ios12", "siri-shortcuts"]
 slug: "c70fcdf1-67ba-40e2-acf7-4ec05b9162e7"
 ---

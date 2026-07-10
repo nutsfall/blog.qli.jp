@@ -1,9 +1,6 @@
 ---
 title: 2006年の総括(web編)
-description: ''
-date: '2006-12-30T11:57:20.000Z'
-categories: []
-keywords: []
+date: "2006-12-30T11:57:20.000Z"
 tags: ["web2.0", "feedpath", "year-in-review"]
 slug: "564e4fc4-1b22-44ee-9b84-c8bd2fd97c99"
 ---

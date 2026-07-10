@@ -1,9 +1,6 @@
 ---
 title: MacBook Air 11インチ (Mid 2012) を購入
-description: ''
-date: '2012-06-30T15:24:08.000Z'
-categories: []
-keywords: []
+date: "2012-06-30T15:24:08.000Z"
 tags: ["macbook-air", "apple"]
 slug: "05c3927b-bf24-45a1-8364-6d1a0aed1323"
 ---

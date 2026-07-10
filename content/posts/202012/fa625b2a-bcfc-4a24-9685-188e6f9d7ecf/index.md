@@ -1,10 +1,8 @@
 ---
-title: 'リマインダーと状況把握 / #OmniFocus と #Things'
+title: "リマインダーと状況把握 / #OmniFocus と #Things"
 description: このブログを書いている時点ではやるべきことを整理・まとめ・行動するために、OmniFocus というアプリを使っています。同時にやるべきことを整理するアプリとして、
   Things…
-date: '2020-12-11T11:00:26.795Z'
-categories: []
-keywords: []
+date: "2020-12-11T11:00:26.795Z"
 tags: ["omnifocus", "things", "task-management"]
 slug: "fa625b2a-bcfc-4a24-9685-188e6f9d7ecf"
 ---

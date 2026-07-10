@@ -1,9 +1,6 @@
 ---
 title: MobileMe 新カレンダーがベータ版を脱出し、CalDAVベースへ
-description: ''
-date: '2010-10-15T06:27:20.000Z'
-categories: []
-keywords: []
+date: "2010-10-15T06:27:20.000Z"
 tags: ["mobileme", "apple"]
 slug: "20dd7ceb-87f4-476f-917e-1a4202fc98c5"
 ---

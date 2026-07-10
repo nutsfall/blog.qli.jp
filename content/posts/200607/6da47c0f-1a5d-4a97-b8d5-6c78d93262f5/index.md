@@ -1,9 +1,6 @@
 ---
-title: 'Six Apart — TypePad news: サーバーメンテナンスのお知らせ（7月13日）'
-description: ''
-date: '2006-07-10T14:57:04.000Z'
-categories: []
-keywords: []
+title: "Six Apart — TypePad news: サーバーメンテナンスのお知らせ（7月13日）"
+date: "2006-07-10T14:57:04.000Z"
 tags: ["typepad"]
 slug: "6da47c0f-1a5d-4a97-b8d5-6c78d93262f5"
 ---

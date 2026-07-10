@@ -1,9 +1,6 @@
 ---
 title: OmniFocusと生成AIで見える新しい日常
-description: ''
-date: '2025-06-07T03:02:09.377Z'
-categories: []
-keywords: []
+date: "2025-06-07T03:02:09.377Z"
 tags: ["omnifocus", "ai", "productivity"]
 slug: "94064d93-721d-4541-b5a6-e86039de398e"
 cover:

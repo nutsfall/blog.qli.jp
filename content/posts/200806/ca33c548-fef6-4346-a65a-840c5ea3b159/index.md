@@ -1,9 +1,6 @@
 ---
 title: iPhone 3GのSoftbankのサービス内容が明らかに
-description: ''
-date: '2008-06-23T16:03:13.000Z'
-categories: []
-keywords: []
+date: "2008-06-23T16:03:13.000Z"
 tags: ["iphone-3g", "softbank"]
 slug: "ca33c548-fef6-4346-a65a-840c5ea3b159"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Tb2 beta2がリリース（日本語版含む)
-description: ''
-date: '2007-01-24T11:57:32.000Z'
-categories: []
-keywords: []
+date: "2007-01-24T11:57:32.000Z"
 tags: ["thunderbird", "mozilla"]
 slug: "5dffb81a-5d5c-4d95-b43b-9bee68f39a69"
 ---

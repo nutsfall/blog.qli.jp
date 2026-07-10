@@ -2,8 +2,6 @@
 title: 理想の タスクシステム に必要なこと、４つ
 description: 新しい刺激を受けると新しい何かを考え始めるもので、Todoistを使ってみて、タスクシステム についていろいろ考えたので書いてみる。
 date: "2016-04-05T12:28:52.000Z"
-categories: []
-keywords: []
 tags: ["task-management", "productivity"]
 slug: "2a7ee198-ed2c-4484-b874-199aed5b5376"
 ---

@@ -1,9 +1,7 @@
 ---
 title: iPhone 14 Pro を使ってみて
 description: iPhone 14 Pro を使って約1日が経ちました。気づいたことが多々ありました。ここ数年、Appleのハードウェアはすんなりと切り替えられることが多く、気づいたことが多いのは久しぶりなのではないかと思います。
-date: '2022-09-17T01:20:15.008Z'
-categories: []
-keywords: []
+date: "2022-09-17T01:20:15.008Z"
 tags: ["iphone-14-pro", "dynamic-island", "apple"]
 slug: "4e7c05c2-d1ab-4306-9276-a50f0e92ad9c"
 ---

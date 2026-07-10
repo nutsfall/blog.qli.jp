@@ -1,9 +1,6 @@
 ---
 title: New iMac Arrived
-description: ''
-date: '2008-04-30T09:36:26.000Z'
-categories: []
-keywords: []
+date: "2008-04-30T09:36:26.000Z"
 tags: ["imac", "apple"]
 slug: "5fb2ccfd-f6b2-482d-834e-ed6fb61c265b"
 ---

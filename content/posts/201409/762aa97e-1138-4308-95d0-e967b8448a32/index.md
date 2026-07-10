@@ -1,9 +1,6 @@
 ---
 title: Amazon が日本円で購入できるようになっていた
-description: ''
-date: '2014-09-08T13:21:28.000Z'
-categories: []
-keywords: []
+date: "2014-09-08T13:21:28.000Z"
 tags: ["amazon", "comply"]
 slug: "762aa97e-1138-4308-95d0-e967b8448a32"
 ---

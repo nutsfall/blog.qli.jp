@@ -1,9 +1,6 @@
 ---
-title: '旅立ちの唄 :: Mr.Children'
-description: ''
-date: '2007-11-02T22:52:56.000Z'
-categories: []
-keywords: []
+title: "旅立ちの唄 :: Mr.Children"
+date: "2007-11-02T22:52:56.000Z"
 tags: ["mr-children", "music"]
 slug: "e8899218-a5b9-45bb-90b9-f74a79ca144a"
 ---

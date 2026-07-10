@@ -1,9 +1,6 @@
 ---
-title: '2009年を振り返る #1'
-description: ''
-date: '2009-12-30T10:36:05.000Z'
-categories: []
-keywords: []
+title: "2009年を振り返る #1"
+date: "2009-12-30T10:36:05.000Z"
 tags: ["music", "salyu", "mr-children"]
 slug: "2502454f-9985-4d4d-8359-306fb867fac1"
 ---

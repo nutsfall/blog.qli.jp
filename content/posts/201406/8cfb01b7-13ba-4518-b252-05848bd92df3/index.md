@@ -1,9 +1,6 @@
 ---
 title: GithubKaigi はとてもいいイベント
-description: ''
-date: '2014-06-03T00:38:05.000Z'
-categories: []
-keywords: []
+date: "2014-06-03T00:38:05.000Z"
 tags: ["github", "developer-events"]
 slug: "8cfb01b7-13ba-4518-b252-05848bd92df3"
 ---

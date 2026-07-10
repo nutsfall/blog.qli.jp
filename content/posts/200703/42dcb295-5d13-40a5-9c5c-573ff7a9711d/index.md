@@ -1,9 +1,6 @@
 ---
 title: Lycos が戻ってくる？
-description: ""
 date: "2007-03-15T23:31:18.000Z"
-categories: []
-keywords: []
 tags: ["lycos", "web-services"]
 slug: "42dcb295-5d13-40a5-9c5c-573ff7a9711d"
 ---

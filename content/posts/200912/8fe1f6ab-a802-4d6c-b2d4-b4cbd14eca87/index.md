@@ -1,9 +1,6 @@
 ---
 title: SleepCycleに睡眠時間ログ機能
-description: ''
-date: '2009-12-05T09:42:03.000Z'
-categories: []
-keywords: []
+date: "2009-12-05T09:42:03.000Z"
 tags: ["sleep-cycle", "iphone"]
 slug: "8fe1f6ab-a802-4d6c-b2d4-b4cbd14eca87"
 ---

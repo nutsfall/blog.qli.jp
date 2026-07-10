@@ -1,9 +1,6 @@
 ---
 title: 2020年の最後に添えて(映画編)
-description: ''
-date: '2020-12-28T04:20:09.513Z'
-categories: []
-keywords: []
+date: "2020-12-28T04:20:09.513Z"
 tags: ["film", "year-in-review"]
 slug: "3fc01953-93c8-4aea-aacc-cdd0b06f80e5"
 ---

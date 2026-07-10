@@ -1,9 +1,6 @@
 ---
 title: AirPods Maxは一体誰のものか
-description: ''
-date: '2025-04-26T03:02:30.126Z'
-categories: []
-keywords: []
+date: "2025-04-26T03:02:30.126Z"
 tags: ["airpods-max", "apple"]
 slug: "c851c060-ce50-446e-9d1a-57e0cc7d13ca"
 ---

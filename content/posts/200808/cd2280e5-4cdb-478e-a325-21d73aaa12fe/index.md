@@ -1,9 +1,6 @@
 ---
 title: どっちのプロフィールサービスが人気なの？
-description: ''
-date: '2008-08-18T23:54:14.000Z'
-categories: []
-keywords: []
+date: "2008-08-18T23:54:14.000Z"
 tags: ["iddy", "profile-services"]
 slug: "cd2280e5-4cdb-478e-a325-21d73aaa12fe"
 ---

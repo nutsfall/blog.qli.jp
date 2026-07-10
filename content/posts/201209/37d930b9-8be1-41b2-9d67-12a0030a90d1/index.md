@@ -1,9 +1,6 @@
 ---
 title: "“ローカル”にフォーカスした地図 — iOS6"
-description: ''
-date: '2012-09-20T03:48:11.000Z'
-categories: []
-keywords: []
+date: "2012-09-20T03:48:11.000Z"
 tags: ["ios", "apple-maps"]
 slug: "37d930b9-8be1-41b2-9d67-12a0030a90d1"
 ---

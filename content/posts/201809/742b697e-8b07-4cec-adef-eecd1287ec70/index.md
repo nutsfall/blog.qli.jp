@@ -1,9 +1,7 @@
 ---
 title: 毎日のルーティーン(Oct. 2018)
 description: OF3がiOS, Macともに無事にリリースされたということで、タスクの管理の方法周りについてまとめておく。
-date: '2018-09-27T10:36:17.657Z'
-categories: []
-keywords: []
+date: "2018-09-27T10:36:17.657Z"
 tags: ["omnifocus", "task-management", "things"]
 slug: "742b697e-8b07-4cec-adef-eecd1287ec70"
 ---

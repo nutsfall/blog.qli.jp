@@ -1,9 +1,6 @@
 ---
 title: 同じページを見ている同士で井戸端会議
-description: ''
-date: '2007-04-11T05:24:53.000Z'
-categories: []
-keywords: []
+date: "2007-04-11T05:24:53.000Z"
 tags: ["weblin", "social-web"]
 slug: "f7d891a4-2ed2-4d90-b3f7-d92e1850a990"
 ---

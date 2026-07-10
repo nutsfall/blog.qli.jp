@@ -1,9 +1,6 @@
 ---
 title: ThunderbirdはMozillaから離れる
-description: ''
-date: '2007-09-18T18:40:10.000Z'
-categories: []
-keywords: []
+date: "2007-09-18T18:40:10.000Z"
 tags: ["thunderbird", "mozilla"]
 slug: "0c283d5c-fad7-4af4-a88e-b82ecf3b8529"
 ---

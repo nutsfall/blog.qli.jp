@@ -1,9 +1,6 @@
 ---
 title: ソフトウェアアーキテクトが知るべき97のこと を読み終えた
-description: ''
-date: '2009-10-12T10:24:23.000Z'
-categories: []
-keywords: []
+date: "2009-10-12T10:24:23.000Z"
 tags: ["book-review", "software-architecture"]
 slug: "a4044890-7046-45fa-8282-ccddb488f982"
 ---

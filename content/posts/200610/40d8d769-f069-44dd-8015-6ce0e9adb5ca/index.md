@@ -1,9 +1,6 @@
 ---
 title: メトロに乗って
-description: ''
-date: '2006-10-22T03:06:19.000Z'
-categories: []
-keywords: []
+date: "2006-10-22T03:06:19.000Z"
 tags: ["film", "salyu"]
 slug: "40d8d769-f069-44dd-8015-6ce0e9adb5ca"
 ---

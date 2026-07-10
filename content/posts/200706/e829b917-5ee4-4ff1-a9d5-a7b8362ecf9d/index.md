@@ -1,9 +1,6 @@
 ---
 title: Advanced w-zero3[es]をさわってみた
-description: ''
-date: '2007-06-30T21:09:27.000Z'
-categories: []
-keywords: []
+date: "2007-06-30T21:09:27.000Z"
 tags: ["advanced-w-zero3", "windows-mobile"]
 slug: "e829b917-5ee4-4ff1-a9d5-a7b8362ecf9d"
 ---

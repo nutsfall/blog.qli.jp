@@ -1,9 +1,6 @@
 ---
 title: IS12Tを体験してみた
-description: ''
-date: '2011-07-31T21:26:21.000Z'
-categories: []
-keywords: []
+date: "2011-07-31T21:26:21.000Z"
 tags: ["windows-phone", "is12t"]
 slug: "5d0e4b5b-3254-4434-bca4-6a574003aa1b"
 ---

@@ -1,9 +1,6 @@
 ---
 title: CHEESE CAKE に出会う
-description: ''
-date: '2013-02-27T23:28:50.000Z'
-categories: []
-keywords: []
+date: "2013-02-27T23:28:50.000Z"
 tags: ["cheese-cake", "music"]
 slug: "c903941f-f6b1-4860-9e46-d6bfb69df80b"
 ---

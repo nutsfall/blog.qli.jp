@@ -1,9 +1,6 @@
 ---
 title: いよいよ始まる正面衝突
-description: ''
-date: '2012-06-28T06:35:52.000Z'
-categories: []
-keywords: []
+date: "2012-06-28T06:35:52.000Z"
 tags: ["google-io", "ios", "facebook"]
 slug: "c7b4e902-7691-4a32-8f6d-6c15bfa99b3a"
 ---

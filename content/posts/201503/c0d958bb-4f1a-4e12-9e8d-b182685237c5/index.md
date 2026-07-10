@@ -1,9 +1,6 @@
 ---
 title: Apple Watch対応アプリがリリース
-description: ''
-date: '2015-03-27T00:01:36.000Z'
-categories: []
-keywords: []
+date: "2015-03-27T00:01:36.000Z"
 tags: ["apple-watch", "ios-apps"]
 slug: "c0d958bb-4f1a-4e12-9e8d-b182685237c5"
 ---

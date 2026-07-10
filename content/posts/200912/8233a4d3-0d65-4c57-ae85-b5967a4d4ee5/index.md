@@ -1,9 +1,6 @@
 ---
 title: WEB学会シンポジウムに参加した
-description: ''
-date: '2009-12-07T22:20:57.000Z'
-categories: []
-keywords: []
+date: "2009-12-07T22:20:57.000Z"
 tags: ["web-symposium", "data-mining"]
 slug: "8233a4d3-0d65-4c57-ae85-b5967a4d4ee5"
 ---

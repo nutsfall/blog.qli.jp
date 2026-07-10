@@ -1,9 +1,6 @@
 ---
 title: W-OAMのW-SIMがでました
-description: ''
-date: '2006-10-18T12:11:29.000Z'
-categories: []
-keywords: []
+date: "2006-10-18T12:11:29.000Z"
 tags: ["willcom", "w-sim", "mobile"]
 slug: "3405609f-6f6b-4603-9473-f15969969b27"
 ---

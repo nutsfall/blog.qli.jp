@@ -1,9 +1,6 @@
 ---
 title: ていねいに
-description: ''
-date: '2023-04-01T03:02:27.810Z'
-categories: []
-keywords: []
+date: "2023-04-01T03:02:27.810Z"
 tags: ["radio", "radiko", "yamazaki-rena"]
 slug: "4e1317df-bd40-43f2-8593-d686ea57cecf"
 ---

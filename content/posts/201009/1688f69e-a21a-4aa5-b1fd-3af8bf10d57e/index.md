@@ -1,9 +1,6 @@
 ---
 title: RSSリーダーとiPad
-description: ''
-date: '2010-09-18T23:40:41.000Z'
-categories: []
-keywords: []
+date: "2010-09-18T23:40:41.000Z"
 tags: ["rss", "ipad"]
 slug: "1688f69e-a21a-4aa5-b1fd-3af8bf10d57e"
 ---

@@ -1,9 +1,7 @@
 ---
-title: 'HKT48の #劇はじ を見て'
-description: 'HKT48がイチからオンライン演劇をつくりあげた企画 #劇はじ に触れて感想をまとめました'
-date: '2021-03-03T15:06:27.379Z'
-categories: []
-keywords: []
+title: "HKT48の #劇はじ を見て"
+description: "HKT48がイチからオンライン演劇をつくりあげた企画 #劇はじ に触れて感想をまとめました"
+date: "2021-03-03T15:06:27.379Z"
 tags: ["hkt48", "online-theater"]
 slug: "fe8fbc33-b0d0-4672-a408-9cbfba30581e"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 見た目の美しさか、機能性か。両立は？
-description: ''
-date: '2006-07-31T08:40:31.000Z'
-categories: []
-keywords: []
+date: "2006-07-31T08:40:31.000Z"
 tags: ["safari", "firefox", "browser"]
 slug: "80bcfa2f-3c73-4050-ab65-739abbe191ef"
 ---

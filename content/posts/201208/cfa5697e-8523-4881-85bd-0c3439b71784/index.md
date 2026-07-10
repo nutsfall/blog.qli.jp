@@ -1,9 +1,6 @@
 ---
 title: ようこそ、Things 2
-description: ''
-date: '2012-08-09T20:32:22.000Z'
-categories: []
-keywords: []
+date: "2012-08-09T20:32:22.000Z"
 tags: ["things", "productivity"]
 slug: "cfa5697e-8523-4881-85bd-0c3439b71784"
 ---

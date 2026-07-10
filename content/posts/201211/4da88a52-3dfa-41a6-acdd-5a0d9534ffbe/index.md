@@ -1,9 +1,6 @@
 ---
 title: Eye-fi PRO X2 16GBを購入
-description: ''
-date: '2012-11-16T22:18:28.000Z'
-categories: []
-keywords: []
+date: "2012-11-16T22:18:28.000Z"
 tags: ["eye-fi", "photography"]
 slug: "4da88a52-3dfa-41a6-acdd-5a0d9534ffbe"
 ---

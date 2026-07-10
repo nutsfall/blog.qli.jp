@@ -1,9 +1,6 @@
 ---
 title: MobileMeからやっと届いた完了メール
-description: ''
-date: '2008-07-17T09:28:51.000Z'
-categories: []
-keywords: []
+date: "2008-07-17T09:28:51.000Z"
 tags: ["mobileme", "apple"]
 slug: "0a7c2d11-b4ad-4bc0-af8c-d76b2b18f919"
 ---

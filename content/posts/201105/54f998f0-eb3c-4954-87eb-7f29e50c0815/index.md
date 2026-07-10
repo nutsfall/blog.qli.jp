@@ -1,9 +1,6 @@
 ---
 title: トマト！トマト！トマト！
-description: ''
-date: '2011-05-26T22:34:44.000Z'
-categories: []
-keywords: []
+date: "2011-05-26T22:34:44.000Z"
 tags: ["pomodoro", "productivity", "twitter"]
 slug: "54f998f0-eb3c-4954-87eb-7f29e50c0815"
 ---

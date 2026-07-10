@@ -1,9 +1,6 @@
 ---
-title: 'Stating Over :: Elephant Kashimashi'
-description: ''
-date: '2008-02-02T01:36:06.000Z'
-categories: []
-keywords: []
+title: "Stating Over :: Elephant Kashimashi"
+date: "2008-02-02T01:36:06.000Z"
 tags: ["elephant-kashimashi", "music"]
 slug: "f9f26770-90b0-4a10-afc6-ef94a47a5d59"
 ---

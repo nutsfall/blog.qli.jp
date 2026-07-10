@@ -1,9 +1,6 @@
 ---
 title: Skype for mac がリビジョンアップしてました
-description: ''
-date: '2006-08-27T00:47:03.000Z'
-categories: []
-keywords: []
+date: "2006-08-27T00:47:03.000Z"
 tags: ["skype"]
 slug: "ea9ec153-87a4-42da-bf3e-904d5f071f59"
 ---

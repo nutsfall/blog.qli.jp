@@ -1,9 +1,6 @@
 ---
 title: タスクの発生から実行までをまとめてみた
-description: ''
-date: '2008-02-03T15:23:19.000Z'
-categories: []
-keywords: []
+date: "2008-02-03T15:23:19.000Z"
 tags: ["task-management", "productivity", "rtm"]
 slug: "5668c1eb-b6d4-4cbd-a2ac-e1d18b16fa6c"
 ---

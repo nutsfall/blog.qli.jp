@@ -1,9 +1,6 @@
 ---
 title: iPhone 日本発売が熱を帯びてきた
-description: ''
-date: '2008-05-25T12:55:21.000Z'
-categories: []
-keywords: []
+date: "2008-05-25T12:55:21.000Z"
 tags: ["iphone", "apple"]
 slug: "57938f30-c52f-4be4-bf77-e4abeb150f9b"
 ---

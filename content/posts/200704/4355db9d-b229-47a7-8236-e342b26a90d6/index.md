@@ -1,9 +1,6 @@
 ---
 title: del.icio.usのFirefoxプラグイン
-description: ''
-date: '2007-04-06T08:13:16.000Z'
-categories: []
-keywords: []
+date: "2007-04-06T08:13:16.000Z"
 tags: ["del.icio.us", "firefox"]
 slug: "4355db9d-b229-47a7-8236-e342b26a90d6"
 ---

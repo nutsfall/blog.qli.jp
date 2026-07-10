@@ -1,9 +1,6 @@
 ---
 title: TypePadの容量と転送量が増えました
-description: ''
-date: '2007-11-16T00:53:19.000Z'
-categories: []
-keywords: []
+date: "2007-11-16T00:53:19.000Z"
 tags: ["typepad", "blogging"]
 slug: "05854a8c-99a2-489a-8e17-545f44037c3f"
 ---

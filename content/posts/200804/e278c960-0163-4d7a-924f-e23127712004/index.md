@@ -1,9 +1,6 @@
 ---
 title: Evernoteを試してみた
-description: ''
-date: '2008-04-05T00:23:22.000Z'
-categories: []
-keywords: []
+date: "2008-04-05T00:23:22.000Z"
 tags: ["evernote"]
 slug: "e278c960-0163-4d7a-924f-e23127712004"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Gmail IMAPは快適です。
-description: ''
-date: '2007-11-30T23:00:03.000Z'
-categories: []
-keywords: []
+date: "2007-11-30T23:00:03.000Z"
 tags: ["gmail", "imap"]
 slug: "cad7f6a3-e079-4ba1-bce0-340781b12673"
 ---

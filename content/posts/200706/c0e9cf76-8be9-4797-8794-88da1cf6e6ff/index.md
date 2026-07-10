@@ -1,9 +1,6 @@
 ---
 title: RTM日本語ブログ始まる！
-description: ''
-date: '2007-06-04T12:32:41.000Z'
-categories: []
-keywords: []
+date: "2007-06-04T12:32:41.000Z"
 tags: ["remember-the-milk", "gtd"]
 slug: "c0e9cf76-8be9-4797-8794-88da1cf6e6ff"
 ---

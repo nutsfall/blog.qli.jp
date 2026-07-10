@@ -1,9 +1,6 @@
 ---
-title: 'Six Apart — Movable Type News: Movable Type 3.3 正式リリース'
-description: ''
-date: '2006-06-28T21:36:24.000Z'
-categories: []
-keywords: []
+title: "Six Apart — Movable Type News: Movable Type 3.3 正式リリース"
+date: "2006-06-28T21:36:24.000Z"
 tags: ["movable-type", "cms"]
 slug: "a273d310-898d-45ec-87d5-c03a65484a2b"
 ---

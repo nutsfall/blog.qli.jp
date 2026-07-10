@@ -1,9 +1,6 @@
 ---
-title: 'Wake up!Wake up!Wake up! : the pillows'
-description: ''
-date: '2007-05-04T09:44:48.000Z'
-categories: []
-keywords: []
+title: "Wake up!Wake up!Wake up! : the pillows"
+date: "2007-05-04T09:44:48.000Z"
 tags: ["the-pillows", "music"]
 slug: "7937bcb2-2d3c-4b10-a1bb-bc50d6d488d6"
 ---

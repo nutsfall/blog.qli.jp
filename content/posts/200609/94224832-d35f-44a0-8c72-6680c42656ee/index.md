@@ -1,9 +1,6 @@
 ---
 title: "(この)ブログの信頼度"
-description: ""
 date: "2006-09-06T17:10:00.000Z"
-categories: []
-keywords: []
 tags: ["blogging", "feedburner", "rss"]
 slug: "94224832-d35f-44a0-8c72-6680c42656ee"
 ---

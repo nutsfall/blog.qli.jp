@@ -1,9 +1,6 @@
 ---
-title: 'merkmal : salyu'
-description: ''
-date: '2008-11-29T22:39:46.000Z'
-categories: []
-keywords: []
+title: "merkmal : salyu"
+date: "2008-11-29T22:39:46.000Z"
 tags: ["salyu", "music"]
 slug: "5f3a8c88-1f82-45ba-b889-ab02cd3839f2"
 ---

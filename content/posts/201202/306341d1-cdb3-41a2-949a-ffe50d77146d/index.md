@@ -1,9 +1,6 @@
 ---
 title: Appleが3月にメディアイベントを開催
-description: ''
-date: '2012-02-29T10:52:48.000Z'
-categories: []
-keywords: []
+date: "2012-02-29T10:52:48.000Z"
 tags: ["apple", "ipad", "ios"]
 slug: "306341d1-cdb3-41a2-949a-ffe50d77146d"
 ---

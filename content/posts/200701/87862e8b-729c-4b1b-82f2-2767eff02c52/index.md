@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: 幸福な食卓'
-description: ''
-date: '2007-01-27T17:50:46.000Z'
-categories: []
-keywords: []
+title: "On Vox: 幸福な食卓"
+date: "2007-01-27T17:50:46.000Z"
 tags: ["mr-children", "movie"]
 slug: "87862e8b-729c-4b1b-82f2-2767eff02c52"
 ---

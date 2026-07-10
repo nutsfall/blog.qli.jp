@@ -1,9 +1,6 @@
 ---
 title: Mr.Children in 紅白歌合戦
-description: ''
-date: '2009-01-01T20:02:33.000Z'
-categories: []
-keywords: []
+date: "2009-01-01T20:02:33.000Z"
 tags: ["mr-children", "kohaku"]
 slug: "2bbde0dd-952d-4635-aa36-9262e317ca00"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 映画 奇跡
-description: ''
-date: '2011-06-26T10:40:12.000Z'
-categories: []
-keywords: []
+date: "2011-06-26T10:40:12.000Z"
 tags: ["film", "quruli"]
 slug: "d8c6e9a4-642f-4120-8637-d98a309c4694"
 ---

@@ -1,9 +1,6 @@
 ---
-title: 'いろいろありすぎた2013シーズン #avispa'
-description: ''
-date: '2013-11-25T13:00:16.000Z'
-categories: []
-keywords: []
+title: "いろいろありすぎた2013シーズン #avispa"
+date: "2013-11-25T13:00:16.000Z"
 tags: ["avispa-fukuoka", "j-league"]
 slug: "78fb82dc-3dfe-4356-af2b-23b13c703019"
 ---

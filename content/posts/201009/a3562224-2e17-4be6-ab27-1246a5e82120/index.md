@@ -1,9 +1,6 @@
 ---
 title: MobileMe iDiskを使い始めた iWork for iPad
-description: ''
-date: '2010-09-25T10:54:38.000Z'
-categories: []
-keywords: []
+date: "2010-09-25T10:54:38.000Z"
 tags: ["ipad", "iwork", "mobileme"]
 slug: "a3562224-2e17-4be6-ab27-1246a5e82120"
 ---

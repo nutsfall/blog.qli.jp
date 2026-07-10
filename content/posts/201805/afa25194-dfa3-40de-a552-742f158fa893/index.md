@@ -1,9 +1,7 @@
 ---
 title: OmniFocusの活用フロー３つ
 description: OmniFocusは柔軟性のあるツールらしく、いろんなフローで使ってる方がいるようなので、それらをまとめてメモ
-date: '2018-05-14T12:39:23.689Z'
-categories: []
-keywords: []
+date: "2018-05-14T12:39:23.689Z"
 tags: ["omnifocus", "gtd"]
 slug: "afa25194-dfa3-40de-a552-742f158fa893"
 ---

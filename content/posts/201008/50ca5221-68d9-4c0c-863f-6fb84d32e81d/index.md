@@ -1,9 +1,6 @@
 ---
 title: Twitterの非公式RTユーザへ気をつけて欲しいこと
-description: ''
-date: '2010-08-25T19:54:33.000Z'
-categories: []
-keywords: []
+date: "2010-08-25T19:54:33.000Z"
 tags: ["twitter", "retweet-etiquette"]
 slug: "50ca5221-68d9-4c0c-863f-6fb84d32e81d"
 ---

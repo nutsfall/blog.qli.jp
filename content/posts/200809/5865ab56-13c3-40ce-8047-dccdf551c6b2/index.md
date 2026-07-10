@@ -1,9 +1,6 @@
 ---
 title: ベストアルバム、ソロアルバム
-description: ''
-date: '2008-09-23T09:50:23.000Z'
-categories: []
-keywords: []
+date: "2008-09-23T09:50:23.000Z"
 tags: ["salyu", "lily-chou-chou"]
 slug: "5865ab56-13c3-40ce-8047-dccdf551c6b2"
 ---

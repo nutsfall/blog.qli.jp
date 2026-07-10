@@ -1,9 +1,6 @@
 ---
 title: iPhoneの登場が変えたもの
-description: ''
-date: '2007-07-03T22:07:54.000Z'
-categories: []
-keywords: []
+date: "2007-07-03T22:07:54.000Z"
 tags: ["iphone", "apple", "itunes"]
 slug: "81789490-c565-4645-96e3-80588d47d98c"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Apple Store Shibuya Renewal
-description: ''
-date: '2006-11-27T18:09:23.000Z'
-categories: []
-keywords: []
+date: "2006-11-27T18:09:23.000Z"
 tags: ["apple", "apple-store-shibuya"]
 slug: "62c36ebf-568a-4168-8a86-b72c7d9bbf50"
 ---

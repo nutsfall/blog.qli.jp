@@ -1,9 +1,6 @@
 ---
 title: It’s Apple’s Creation
-description: ''
-date: '2010-01-28T06:05:15.000Z'
-categories: []
-keywords: []
+date: "2010-01-28T06:05:15.000Z"
 tags: ["ipad", "apple"]
 slug: "103c9d80-f3e8-4f4d-bd26-c8fced1c3353"
 ---

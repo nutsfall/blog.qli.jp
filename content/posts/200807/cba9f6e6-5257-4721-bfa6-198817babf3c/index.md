@@ -1,9 +1,6 @@
 ---
 title: "[結果報告]iPhoneの購入はどうしますか？"
-description: ''
-date: '2008-07-04T14:54:28.000Z'
-categories: []
-keywords: []
+date: "2008-07-04T14:54:28.000Z"
 tags: ["iphone", "softbank"]
 slug: "cba9f6e6-5257-4721-bfa6-198817babf3c"
 ---

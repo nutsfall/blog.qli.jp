@@ -1,9 +1,6 @@
 ---
 title: QuietPoint試用レビューがありました
-description: ''
-date: '2007-01-25T09:03:36.000Z'
-categories: []
-keywords: []
+date: "2007-01-25T09:03:36.000Z"
 tags: ["audio-technica", "headphones", "noise-canceling"]
 slug: "3c48ec71-a192-4ad0-83ec-08e3fb861439"
 ---

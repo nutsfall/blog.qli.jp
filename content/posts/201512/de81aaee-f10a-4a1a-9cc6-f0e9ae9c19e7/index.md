@@ -1,9 +1,6 @@
 ---
 title: 2015年の音楽
-description: ''
-date: '2015-12-23T09:27:00.000Z'
-categories: []
-keywords: []
+date: "2015-12-23T09:27:00.000Z"
 tags: ["music", "apple-music", "mr-children"]
 slug: "de81aaee-f10a-4a1a-9cc6-f0e9ae9c19e7"
 ---

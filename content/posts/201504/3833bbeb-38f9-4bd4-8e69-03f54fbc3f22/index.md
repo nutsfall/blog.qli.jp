@@ -1,9 +1,6 @@
 ---
 title: Apple WatchとMacBookを本格使用開始
-description: ''
-date: '2015-04-30T11:00:28.000Z'
-categories: []
-keywords: []
+date: "2015-04-30T11:00:28.000Z"
 tags: ["apple-watch", "macbook"]
 slug: "3833bbeb-38f9-4bd4-8e69-03f54fbc3f22"
 ---

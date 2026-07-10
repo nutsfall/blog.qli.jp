@@ -1,9 +1,6 @@
 ---
 title: remember the milk と check*pad
-description: ''
-date: '2006-08-23T08:39:34.000Z'
-categories: []
-keywords: []
+date: "2006-08-23T08:39:34.000Z"
 tags: ["remember-the-milk", "checkpad", "gtd"]
 slug: "b43f67f3-eae4-441f-9a15-13a4e627869b"
 ---

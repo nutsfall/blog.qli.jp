@@ -1,9 +1,6 @@
 ---
 title: 音楽情報が飛び込んできた
-description: ''
-date: '2007-11-07T22:56:39.000Z'
-categories: []
-keywords: []
+date: "2007-11-07T22:56:39.000Z"
 tags: ["the-brilliant-green", "bank-band", "music"]
 slug: "e39c68fc-2317-449d-b8c2-fcd2e376e0ac"
 ---

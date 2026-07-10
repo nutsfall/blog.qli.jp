@@ -1,9 +1,6 @@
 ---
 title: iPhone 5 を購入した
-description: ''
-date: '2012-09-21T21:11:39.000Z'
-categories: []
-keywords: []
+date: "2012-09-21T21:11:39.000Z"
 tags: ["iphone-5", "apple", "au"]
 slug: "d3525235-e2a6-4ebf-8b35-94b13c327c79"
 ---

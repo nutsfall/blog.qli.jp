@@ -1,9 +1,6 @@
 ---
 title: Skype Proが日本で開始
-description: ''
-date: '2007-06-09T14:43:44.000Z'
-categories: []
-keywords: []
+date: "2007-06-09T14:43:44.000Z"
 tags: ["skype", "voip"]
 slug: "2a26b34f-0b0a-4b8c-b096-846467df099b"
 ---

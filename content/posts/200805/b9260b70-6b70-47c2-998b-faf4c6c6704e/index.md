@@ -1,9 +1,6 @@
 ---
 title: サードパーティに影響を与えそうなMac OS X 10.5.3
-description: ''
-date: '2008-05-29T09:25:03.000Z'
-categories: []
-keywords: []
+date: "2008-05-29T09:25:03.000Z"
 tags: ["mac-os-x", "spanning-sync", "address-book"]
 slug: "b9260b70-6b70-47c2-998b-faf4c6c6704e"
 ---

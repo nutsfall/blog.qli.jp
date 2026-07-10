@@ -1,9 +1,6 @@
 ---
 title: Atomic Floyd miniDarts を買いました
-description: ''
-date: '2010-11-07T20:35:31.000Z'
-categories: []
-keywords: []
+date: "2010-11-07T20:35:31.000Z"
 tags: ["atomic-floyd", "earphones", "salyu"]
 slug: "06c5c3ff-7725-4587-9da0-8d084da4450d"
 ---

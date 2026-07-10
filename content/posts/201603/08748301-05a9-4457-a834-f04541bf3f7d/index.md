@@ -1,9 +1,6 @@
 ---
 title: 黒いミラネーゼループを買ってみた
-description: ''
-date: '2016-03-23T14:38:37.000Z'
-categories: []
-keywords: []
+date: "2016-03-23T14:38:37.000Z"
 tags: ["apple-watch", "apple"]
 slug: "08748301-05a9-4457-a834-f04541bf3f7d"
 ---

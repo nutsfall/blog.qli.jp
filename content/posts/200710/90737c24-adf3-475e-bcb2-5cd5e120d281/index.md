@@ -1,9 +1,6 @@
 ---
 title: mac nanoって何？
-description: ''
-date: '2007-10-09T13:35:34.000Z'
-categories: []
-keywords: []
+date: "2007-10-09T13:35:34.000Z"
 tags: ["apple", "mac-mini"]
 slug: "90737c24-adf3-475e-bcb2-5cd5e120d281"
 ---

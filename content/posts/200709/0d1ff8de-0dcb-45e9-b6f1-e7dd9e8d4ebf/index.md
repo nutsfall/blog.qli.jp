@@ -1,9 +1,6 @@
 ---
 title: Google ReaderがGoogle リーダーになりました。
-description: ''
-date: '2007-09-18T14:10:45.000Z'
-categories: []
-keywords: []
+date: "2007-09-18T14:10:45.000Z"
 tags: ["google-reader", "localization"]
 slug: "0d1ff8de-0dcb-45e9-b6f1-e7dd9e8d4ebf"
 ---

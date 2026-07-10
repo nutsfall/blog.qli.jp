@@ -1,9 +1,6 @@
 ---
 title: iMac ( 21.5" Late 2009 ) を買いました
-description: ''
-date: '2009-11-01T13:51:40.000Z'
-categories: []
-keywords: []
+date: "2009-11-01T13:51:40.000Z"
 tags: ["imac", "apple"]
 slug: "ddcabb63-51c2-4780-b9ac-cae6073d4038"
 ---

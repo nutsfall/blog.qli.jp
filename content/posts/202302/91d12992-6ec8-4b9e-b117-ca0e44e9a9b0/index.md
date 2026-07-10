@@ -1,9 +1,6 @@
 ---
 title: HomePod 2nd Generation ファーストインプレッション
-description: ''
-date: '2023-02-04T03:09:35.576Z'
-categories: []
-keywords: []
+date: "2023-02-04T03:09:35.576Z"
 tags: ["homepod", "apple", "audio"]
 slug: "91d12992-6ec8-4b9e-b117-ca0e44e9a9b0"
 ---

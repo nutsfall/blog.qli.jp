@@ -1,9 +1,6 @@
 ---
 title: 大企業とソーシャルメディア、マスメディア
-description: ''
-date: '2010-03-02T10:00:28.000Z'
-categories: []
-keywords: []
+date: "2010-03-02T10:00:28.000Z"
 tags: ["twitter", "social-media"]
 slug: "9c2596d9-a15f-4865-8674-34b1e5465467"
 ---

@@ -1,9 +1,6 @@
 ---
 title: W61S ファーストインプレッション
-description: ''
-date: '2008-05-05T22:13:38.000Z'
-categories: []
-keywords: []
+date: "2008-05-05T22:13:38.000Z"
 tags: ["w61s", "au", "mobile-phone"]
 slug: "dea62669-2b14-42db-9164-33fd00bcbb61"
 ---

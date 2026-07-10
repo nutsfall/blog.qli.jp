@@ -1,9 +1,6 @@
 ---
 title: 技術的なプラクティスの関連性
-description: ''
-date: '2012-04-25T19:39:49.000Z'
-categories: []
-keywords: []
+date: "2012-04-25T19:39:49.000Z"
 tags: ["tdd", "continuous-integration", "extreme-programming"]
 slug: "25378413-deca-401c-97f8-e11f0ff5d1be"
 ---

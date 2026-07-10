@@ -1,9 +1,6 @@
 ---
 title: Instapaperに共有機能が追加
-description: ''
-date: '2011-03-19T12:52:56.000Z'
-categories: []
-keywords: []
+date: "2011-03-19T12:52:56.000Z"
 tags: ["instapaper", "productivity"]
 slug: "725fbce7-458a-4eaa-88d4-01b2fb170a5d"
 ---

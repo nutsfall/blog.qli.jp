@@ -1,9 +1,6 @@
 ---
 title: Blurが久々の新曲をフリーダウンロードで公開
-description: ''
-date: '2010-04-22T08:51:37.000Z'
-categories: []
-keywords: []
+date: "2010-04-22T08:51:37.000Z"
 tags: ["blur", "music", "record-store-day"]
 slug: "cafb210e-f7de-4426-8f63-61453769346f"
 ---

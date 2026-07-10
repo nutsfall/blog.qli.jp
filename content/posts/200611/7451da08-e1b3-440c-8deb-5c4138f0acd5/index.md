@@ -1,9 +1,6 @@
 ---
 title: 情報系ツールをひとまとめに
-description: ''
-date: '2006-11-10T00:07:32.000Z'
-categories: []
-keywords: []
+date: "2006-11-10T00:07:32.000Z"
 tags: ["macbook", "parallels-desktop", "windows-vista"]
 slug: "7451da08-e1b3-440c-8deb-5c4138f0acd5"
 ---

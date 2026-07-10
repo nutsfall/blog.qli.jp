@@ -2,8 +2,6 @@
 title: Things のクイック検索強化でできるようになったこと
 description: Things 3.11 リリース直後、新しいリストが追加された記事を書きました。
 date: "2020-01-11T03:30:49.625Z"
-categories: []
-keywords: []
 tags: ["things", "productivity"]
 slug: "291d7a97-6509-439c-8d39-b143ce67d49d"
 ---

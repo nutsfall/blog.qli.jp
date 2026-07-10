@@ -1,9 +1,6 @@
 ---
 title: The Inbox Makeoverっていろいろいい感じ
-description: ""
 date: "2006-07-05T00:21:54.000Z"
-categories: []
-keywords: []
 tags: ["thunderbird", "email-management"]
 slug: "efac0db9-d025-4a0f-9e92-15c6a8422181"
 ---

@@ -1,9 +1,6 @@
 ---
 title: WWDC 2006 Keynote speech
-description: ''
-date: '2006-08-08T07:40:52.000Z'
-categories: []
-keywords: []
+date: "2006-08-08T07:40:52.000Z"
 tags: ["wwdc", "apple", "mac-os-x"]
 slug: "3b52581b-b1a6-44d0-8e9d-1da549305223"
 ---

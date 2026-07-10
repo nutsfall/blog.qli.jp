@@ -1,9 +1,6 @@
 ---
 title: 次世代のOmniFocusが発表された
-description: ''
-date: '2021-05-11T12:40:06.078Z'
-categories: []
-keywords: []
+date: "2021-05-11T12:40:06.078Z"
 tags: ["omnifocus", "productivity"]
 slug: "c98e4585-85d7-4218-8f79-d743df38a623"
 ---

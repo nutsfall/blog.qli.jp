@@ -1,9 +1,6 @@
 ---
 title: このブログのカテゴリを聞いてみよう（ABA2009にも投票しよう）
-description: ''
-date: '2010-01-27T09:05:45.000Z'
-categories: []
-keywords: []
+date: "2010-01-27T09:05:45.000Z"
 tags: ["blogging", "alpha-blogger-award"]
 slug: "f238266f-5cf9-45cb-adb2-ffbe11dcd374"
 ---

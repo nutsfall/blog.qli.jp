@@ -1,9 +1,6 @@
 ---
 title: デジタルネイティブ
-description: ''
-date: '2008-11-16T12:42:28.000Z'
-categories: []
-keywords: []
+date: "2008-11-16T12:42:28.000Z"
 tags: ["digital-native", "nhk", "twitter"]
 slug: "192c0862-1af5-4154-8c1f-4dc1d8ec24a9"
 ---

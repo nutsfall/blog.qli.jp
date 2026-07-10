@@ -1,9 +1,6 @@
 ---
 title: INFOBAR A02を購入
-description: ''
-date: '2013-03-02T13:30:53.000Z'
-categories: []
-keywords: []
+date: "2013-03-02T13:30:53.000Z"
 tags: ["infobar-a02", "au", "android"]
 slug: "60428c84-b982-4015-a7e3-a4d4a9c81d75"
 ---

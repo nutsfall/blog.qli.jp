@@ -1,9 +1,6 @@
 ---
 title: Remember the milk 交流会 in 東京！
-description: ''
-date: '2008-01-24T00:23:20.000Z'
-categories: []
-keywords: []
+date: "2008-01-24T00:23:20.000Z"
 tags: ["remember-the-milk", "meetup"]
 slug: "0df31095-130a-430d-b42c-21ea03854c4b"
 ---

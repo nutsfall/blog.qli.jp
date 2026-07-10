@@ -1,9 +1,6 @@
 ---
 title: iPhone 3G ファーストインプレッション
-description: ''
-date: '2008-07-12T21:41:27.000Z'
-categories: []
-keywords: []
+date: "2008-07-12T21:41:27.000Z"
 tags: ["iphone", "ipod-touch"]
 slug: "bd9afd42-4d68-4893-9d14-30a67a03043c"
 ---

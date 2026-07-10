@@ -5,7 +5,6 @@ slug: "5011485f-fdba-4792-aec9-e4983459dffc"
 source: "medium"
 original_url: "https://medium.com/@hiro/2025%E5%B9%B4%E3%81%AE%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A-%E9%9F%B3%E6%A5%BD%E7%B7%A8-c58e15148222?source=rss-21bfda6f823e------2"
 tags: ["year-in-review", "music"]
-draft: false
 ---
 
 今年もたくさんの音楽を楽しませてもらいました。その中から自分の目線で印象的だったものをまとめていきます。

@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: myloファンミーティングに行ってきました'
-description: ''
-date: '2007-03-24T22:07:24.000Z'
-categories: []
-keywords: []
+title: "On Vox: myloファンミーティングに行ってきました"
+date: "2007-03-24T22:07:24.000Z"
 tags: ["mylo", "sony", "fan-event"]
 slug: "057249aa-8cf6-4872-ad7c-f31eb323bda6"
 ---

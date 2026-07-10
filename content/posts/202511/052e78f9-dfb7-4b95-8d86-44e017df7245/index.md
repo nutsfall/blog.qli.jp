@@ -5,7 +5,6 @@ slug: "052e78f9-dfb7-4b95-8d86-44e017df7245"
 source: "medium"
 original_url: "https://medium.com/@hiro/hugo%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-502122b20da7?source=rss-21bfda6f823e------2"
 tags: ["notes"]
-draft: false
 ---
 
 Hugo を触り始めた。Hugo というのは Markdown で書いた記事を HTML の静的サイトに変換してくれるツールで、データはテキストで置いてある。

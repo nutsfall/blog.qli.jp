@@ -1,9 +1,6 @@
 ---
 title: MacBook Proのアップデートが近い？
-description: ''
-date: '2008-01-21T00:45:34.000Z'
-categories: []
-keywords: []
+date: "2008-01-21T00:45:34.000Z"
 tags: ["macbook-pro", "apple"]
 slug: "165a686b-a05f-4075-abbd-6385937f7adb"
 ---

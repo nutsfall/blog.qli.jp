@@ -1,9 +1,6 @@
 ---
 title: apbank fes ’08 DVD
-description: ''
-date: '2009-03-03T00:31:38.000Z'
-categories: []
-keywords: []
+date: "2009-03-03T00:31:38.000Z"
 tags: ["ap-bank-fes", "music-festival"]
 slug: "255bcf89-40d4-4522-8778-eb01a84c5d94"
 ---

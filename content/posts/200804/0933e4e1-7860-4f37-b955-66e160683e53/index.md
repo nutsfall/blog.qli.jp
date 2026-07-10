@@ -1,9 +1,6 @@
 ---
-title: 'DRM, No Life : no more DRMs'
-description: ''
-date: '2008-04-03T22:54:20.000Z'
-categories: []
-keywords: []
+title: "DRM, No Life : no more DRMs"
+date: "2008-04-03T22:54:20.000Z"
 tags: ["drm", "copyright", "music"]
 slug: "0933e4e1-7860-4f37-b955-66e160683e53"
 ---

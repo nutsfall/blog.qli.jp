@@ -1,9 +1,6 @@
 ---
 title: そんなに口コミが信頼できない？
-description: ''
-date: '2006-09-02T11:09:48.000Z'
-categories: []
-keywords: []
+date: "2006-09-02T11:09:48.000Z"
 tags: ["blogging", "word-of-mouth"]
 slug: "aee5b02b-5e6c-474e-bb99-f51507432f0b"
 ---

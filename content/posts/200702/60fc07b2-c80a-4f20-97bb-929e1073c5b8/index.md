@@ -1,9 +1,6 @@
 ---
 title: 出先で聴いた音楽の履歴もきちんと残す(Last.fm with iScrobbler)
-description: ''
-date: '2007-02-11T02:30:44.000Z'
-categories: []
-keywords: []
+date: "2007-02-11T02:30:44.000Z"
 tags: ["last-fm", "iscrobbler"]
 slug: "60fc07b2-c80a-4f20-97bb-929e1073c5b8"
 ---

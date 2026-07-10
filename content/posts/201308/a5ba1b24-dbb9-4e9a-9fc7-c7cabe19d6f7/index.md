@@ -1,9 +1,6 @@
 ---
 title: 岩井映画のロケ地に行ってきた
-description: ''
-date: '2013-08-16T22:20:05.000Z'
-categories: []
-keywords: []
+date: "2013-08-16T22:20:05.000Z"
 tags: ["iwai-shunji", "film-location", "travel"]
 slug: "a5ba1b24-dbb9-4e9a-9fc7-c7cabe19d6f7"
 ---

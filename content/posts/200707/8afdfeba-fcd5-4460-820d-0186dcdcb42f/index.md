@@ -1,9 +1,6 @@
 ---
-title: 'Fables :: Immaculate Machine'
-description: ''
-date: '2007-07-02T22:27:09.000Z'
-categories: []
-keywords: []
+title: "Fables :: Immaculate Machine"
+date: "2007-07-02T22:27:09.000Z"
 tags: ["immaculate-machine", "music"]
 slug: "8afdfeba-fcd5-4460-820d-0186dcdcb42f"
 ---

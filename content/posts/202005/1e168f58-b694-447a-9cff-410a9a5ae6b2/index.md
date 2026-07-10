@@ -1,9 +1,7 @@
 ---
-title: 'レビュー : Magic Keyboard for iPad Pro'
+title: "レビュー : Magic Keyboard for iPad Pro"
 description: 突然発表されたMagic Keyboard for iPad Pro がやっと手に入ったのでしばらく使ってみた
-date: '2020-05-16T11:52:58.940Z'
-categories: []
-keywords: []
+date: "2020-05-16T11:52:58.940Z"
 tags: ["magic-keyboard", "ipad-pro"]
 slug: "1e168f58-b694-447a-9cff-410a9a5ae6b2"
 ---

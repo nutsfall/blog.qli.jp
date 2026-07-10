@@ -1,9 +1,6 @@
 ---
 title: iPhone6sを予約した
-description: ''
-date: '2015-09-13T00:28:54.000Z'
-categories: []
-keywords: []
+date: "2015-09-13T00:28:54.000Z"
 tags: ["iphone-6s"]
 slug: "1f00c070-5c27-4457-925f-a0224e6d1c28"
 ---

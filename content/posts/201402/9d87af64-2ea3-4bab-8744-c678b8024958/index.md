@@ -1,9 +1,6 @@
 ---
 title: Remote を読んだ感想
-description: ''
-date: '2014-02-02T21:15:41.000Z'
-categories: []
-keywords: []
+date: "2014-02-02T21:15:41.000Z"
 tags: ["remote-work", "book-review", "37signals"]
 slug: "9d87af64-2ea3-4bab-8744-c678b8024958"
 ---

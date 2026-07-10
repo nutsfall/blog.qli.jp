@@ -1,9 +1,6 @@
 ---
 title: Googleのcookie有効期間
-description: ''
-date: '2007-07-17T07:59:16.000Z'
-categories: []
-keywords: []
+date: "2007-07-17T07:59:16.000Z"
 tags: ["google", "privacy"]
 slug: "5a0743ef-c787-46cf-8205-75889f0409ce"
 ---

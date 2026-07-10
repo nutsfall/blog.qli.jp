@@ -1,9 +1,6 @@
 ---
 title: Vista Home EditionがMac上で動かせるようになる？
-description: ''
-date: '2008-01-23T00:08:44.000Z'
-categories: []
-keywords: []
+date: "2008-01-23T00:08:44.000Z"
 tags: ["windows-vista", "virtualization"]
 slug: "8dc9cd51-991d-434d-878c-59022d5277b6"
 ---

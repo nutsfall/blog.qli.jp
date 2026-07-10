@@ -1,9 +1,7 @@
 ---
 title: ギターがかっこよく鳴る完全ワイヤレスイヤフォン Marshall Motif A.N.C.
 description: Motif は”モチーフ”です
-date: '2022-08-09T12:30:45.968Z'
-categories: []
-keywords: []
+date: "2022-08-09T12:30:45.968Z"
 tags: ["marshall", "earphones", "noise-cancelling"]
 slug: "6868e0bb-40e1-4ddb-8a38-7d87f8d7aeb3"
 ---

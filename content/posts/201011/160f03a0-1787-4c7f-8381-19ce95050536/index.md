@@ -1,9 +1,6 @@
 ---
 title: iPhoneのホームボタンがきかなくなる
-description: ''
-date: '2010-11-22T21:16:50.000Z'
-categories: []
-keywords: []
+date: "2010-11-22T21:16:50.000Z"
 tags: ["iphone", "ios"]
 slug: "160f03a0-1787-4c7f-8381-19ce95050536"
 ---

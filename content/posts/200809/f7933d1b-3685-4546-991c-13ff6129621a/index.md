@@ -1,9 +1,6 @@
 ---
 title: あなたの送ったreplyが他の人にも届いてしまう
-description: ''
-date: '2008-09-17T09:09:48.000Z'
-categories: []
-keywords: []
+date: "2008-09-17T09:09:48.000Z"
 tags: ["twitter", "privacy"]
 slug: "f7933d1b-3685-4546-991c-13ff6129621a"
 ---

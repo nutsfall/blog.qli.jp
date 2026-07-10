@@ -1,9 +1,6 @@
 ---
 title: Microsoft + PHPのコラボレーション？
-description: ''
-date: '2006-11-01T08:47:42.000Z'
-categories: []
-keywords: []
+date: "2006-11-01T08:47:42.000Z"
 tags: ["microsoft", "php"]
 slug: "31921e69-a30d-4ece-9e4c-f718833fdd6d"
 ---

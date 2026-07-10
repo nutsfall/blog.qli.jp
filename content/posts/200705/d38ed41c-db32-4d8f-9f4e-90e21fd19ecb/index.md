@@ -1,9 +1,6 @@
 ---
 title: 手軽なメモを残せるWEBサービスとは？
-description: ''
-date: '2007-05-13T23:17:54.000Z'
-categories: []
-keywords: []
+date: "2007-05-13T23:17:54.000Z"
 tags: ["web-services", "productivity"]
 slug: "d38ed41c-db32-4d8f-9f4e-90e21fd19ecb"
 ---

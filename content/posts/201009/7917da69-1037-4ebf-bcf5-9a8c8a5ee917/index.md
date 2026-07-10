@@ -1,9 +1,6 @@
 ---
 title: iPod nano 6th Generation を買ってきた
-description: ''
-date: '2010-09-09T21:29:55.000Z'
-categories: []
-keywords: []
+date: "2010-09-09T21:29:55.000Z"
 tags: ["ipod-nano", "apple"]
 slug: "7917da69-1037-4ebf-bcf5-9a8c8a5ee917"
 ---

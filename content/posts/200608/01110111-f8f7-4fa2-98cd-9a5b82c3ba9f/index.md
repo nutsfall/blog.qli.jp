@@ -1,9 +1,6 @@
 ---
 title: W-ZERO3[es]入手後レポート
-description: ''
-date: '2006-08-13T22:52:06.000Z'
-categories: []
-keywords: []
+date: "2006-08-13T22:52:06.000Z"
 tags: ["w-zero3", "windows-mobile", "phs"]
 slug: "01110111-f8f7-4fa2-98cd-9a5b82c3ba9f"
 ---

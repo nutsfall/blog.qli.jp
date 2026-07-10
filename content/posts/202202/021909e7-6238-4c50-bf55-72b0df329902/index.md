@@ -1,9 +1,7 @@
 ---
 title: ドラクエをやってた話
 description: 気づいたらとても久しぶりにドラクエをやってました。
-date: '2022-02-02T13:45:41.946Z'
-categories: []
-keywords: []
+date: "2022-02-02T13:45:41.946Z"
 tags: ["dragon-quest"]
 slug: "021909e7-6238-4c50-bf55-72b0df329902"
 ---

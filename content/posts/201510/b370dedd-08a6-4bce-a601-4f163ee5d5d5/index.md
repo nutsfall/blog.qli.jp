@@ -1,9 +1,6 @@
 ---
 title: いよいよ
-description: ''
-date: '2015-10-17T02:33:20.000Z'
-categories: []
-keywords: []
+date: "2015-10-17T02:33:20.000Z"
 tags: ["apple-tv", "ipad-pro"]
 slug: "b370dedd-08a6-4bce-a601-4f163ee5d5d5"
 ---

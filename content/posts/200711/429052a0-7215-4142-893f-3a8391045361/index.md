@@ -1,9 +1,6 @@
 ---
 title: FeedBurnerパブリッシャーバズでご紹介いただきました。
-description: ''
-date: '2007-11-27T22:38:39.000Z'
-categories: []
-keywords: []
+date: "2007-11-27T22:38:39.000Z"
 tags: ["feedburner", "blogging"]
 slug: "429052a0-7215-4142-893f-3a8391045361"
 ---

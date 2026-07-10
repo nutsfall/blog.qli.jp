@@ -1,9 +1,6 @@
 ---
 title: The Coop のFlockからのコメント
-description: ''
-date: '2007-04-05T11:19:05.000Z'
-categories: []
-keywords: []
+date: "2007-04-05T11:19:05.000Z"
 tags: ["flock", "firefox"]
 slug: "af4ac139-f7ff-48ed-a4a9-a9125f7d4818"
 ---

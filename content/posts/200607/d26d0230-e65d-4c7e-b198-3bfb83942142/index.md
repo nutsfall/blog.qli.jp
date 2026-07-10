@@ -1,9 +1,6 @@
 ---
 title: "to U : bank band with salyu"
-description: ""
 date: "2006-07-26T09:37:00.000Z"
-categories: []
-keywords: []
 tags: ["bank-band", "salyu", "j-pop"]
 slug: "d26d0230-e65d-4c7e-b198-3bfb83942142"
 ---

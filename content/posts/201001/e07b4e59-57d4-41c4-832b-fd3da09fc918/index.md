@@ -1,9 +1,6 @@
 ---
 title: Appleが Google Voice的なサービスを始める？
-description: ''
-date: '2010-01-19T09:22:25.000Z'
-categories: []
-keywords: []
+date: "2010-01-19T09:22:25.000Z"
 tags: ["apple", "google-voice", "iphone"]
 slug: "e07b4e59-57d4-41c4-832b-fd3da09fc918"
 ---

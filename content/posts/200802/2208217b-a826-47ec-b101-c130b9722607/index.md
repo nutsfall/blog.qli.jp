@@ -1,9 +1,6 @@
 ---
 title: Gmailの絵文字がauから使えるようになった。
-description: ""
 date: "2008-02-21T21:25:39.000Z"
-categories: []
-keywords: []
 tags: ["gmail", "au", "emoji"]
 slug: "2208217b-a826-47ec-b101-c130b9722607"
 ---

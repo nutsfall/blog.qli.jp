@@ -1,9 +1,7 @@
 ---
 title: 2017年のアビスパ福岡
 description: まだ最終戦が残ってるんだけど、ざっと書いておきたい。
-date: '2017-11-14T11:33:22.266Z'
-categories: []
-keywords: []
+date: "2017-11-14T11:33:22.266Z"
 tags: ["avispa-fukuoka", "j-league"]
 slug: "b84d814b-b3f8-41aa-b5e4-b9caac88b768"
 ---

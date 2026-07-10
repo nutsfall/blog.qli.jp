@@ -1,9 +1,6 @@
 ---
 title: au wallet を持ち歩かなくなった理由
-description: ''
-date: '2014-12-03T15:44:49.000Z'
-categories: []
-keywords: []
+date: "2014-12-03T15:44:49.000Z"
 tags: ["au-wallet", "mobile-payment"]
 slug: "0a322f8c-0d8d-4af2-8129-fdc33622a18f"
 ---

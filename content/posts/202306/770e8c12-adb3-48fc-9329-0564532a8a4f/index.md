@@ -1,9 +1,6 @@
 ---
 title: いったん外に出してみる
-description: ''
-date: '2023-06-10T03:01:54.002Z'
-categories: []
-keywords: []
+date: "2023-06-10T03:01:54.002Z"
 tags: ["productivity", "gtd"]
 slug: "770e8c12-adb3-48fc-9329-0564532a8a4f"
 ---

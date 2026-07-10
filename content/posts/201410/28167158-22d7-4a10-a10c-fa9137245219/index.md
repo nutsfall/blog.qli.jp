@@ -1,9 +1,6 @@
 ---
 title: 要求通りにちゃんとうごくものをとどける、ということ
-description: ''
-date: '2014-10-19T01:31:58.000Z'
-categories: []
-keywords: []
+date: "2014-10-19T01:31:58.000Z"
 tags: ["product-development", "agile"]
 slug: "28167158-22d7-4a10-a10c-fa9137245219"
 ---

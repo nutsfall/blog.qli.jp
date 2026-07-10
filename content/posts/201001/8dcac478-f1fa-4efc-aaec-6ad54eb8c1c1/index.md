@@ -1,9 +1,6 @@
 ---
 title: 映画 ゴールデンスランバーを見てきた
-description: ''
-date: '2010-01-31T04:07:00.000Z'
-categories: []
-keywords: []
+date: "2010-01-31T04:07:00.000Z"
 tags: ["golden-slumber", "isaka-kotaro", "film"]
 slug: "8dcac478-f1fa-4efc-aaec-6ad54eb8c1c1"
 ---

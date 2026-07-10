@@ -1,9 +1,6 @@
 ---
 title: iPad mini 登場
-description: ''
-date: '2012-10-24T03:55:52.000Z'
-categories: []
-keywords: []
+date: "2012-10-24T03:55:52.000Z"
 tags: ["ipad-mini", "apple"]
 slug: "986f972b-bbf0-434e-91d8-39abc97e3295"
 ---

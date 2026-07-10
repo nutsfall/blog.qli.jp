@@ -1,9 +1,6 @@
 ---
 title: Apple新商品発表会
-description: ''
-date: '2007-08-08T08:26:48.000Z'
-categories: []
-keywords: []
+date: "2007-08-08T08:26:48.000Z"
 tags: ["apple", "imac", "iwork"]
 slug: "7a86dcb5-a242-417a-b53f-516e848dfa16"
 ---

@@ -1,9 +1,6 @@
 ---
 title: MailFetcherが日本語にも追加
-description: ''
-date: '2007-03-29T18:49:27.000Z'
-categories: []
-keywords: []
+date: "2007-03-29T18:49:27.000Z"
 tags: ["gmail", "google"]
 slug: "5032e1bd-2884-4535-978b-57375913c909"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Mac Powerに小林さんのインタビュー
-description: ''
-date: '2007-03-04T17:50:22.000Z'
-categories: []
-keywords: []
+date: "2007-03-04T17:50:22.000Z"
 tags: ["mac-power", "kobayashi-takeshi", "ap-bank"]
 slug: "578d70c1-dd57-43d6-83c7-5c32dfb37091"
 ---

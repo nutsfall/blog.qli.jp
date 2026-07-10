@@ -1,9 +1,6 @@
 ---
 title: Pownceがサービス停止を表明
-description: ''
-date: '2008-12-02T08:53:01.000Z'
-categories: []
-keywords: []
+date: "2008-12-02T08:53:01.000Z"
 tags: ["pownce", "six-apart", "microblogging"]
 slug: "2b3d34dc-dc88-4747-acac-5aff3c3526c7"
 ---

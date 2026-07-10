@@ -1,9 +1,6 @@
 ---
 title: Typepad japanがリニューアル！
-description: ''
-date: '2006-11-16T18:21:01.000Z'
-categories: []
-keywords: []
+date: "2006-11-16T18:21:01.000Z"
 tags: ["typepad", "technorati"]
 slug: "5194a861-0ff5-41db-82b7-c678f69973b0"
 ---

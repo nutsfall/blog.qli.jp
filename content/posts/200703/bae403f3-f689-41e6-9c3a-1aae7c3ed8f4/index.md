@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: 読み逃げ！'
-description: ''
-date: '2007-03-17T12:18:32.000Z'
-categories: []
-keywords: []
+title: "On Vox: 読み逃げ！"
+date: "2007-03-17T12:18:32.000Z"
 tags: ["mixi", "social-media"]
 slug: "bae403f3-f689-41e6-9c3a-1aae7c3ed8f4"
 ---

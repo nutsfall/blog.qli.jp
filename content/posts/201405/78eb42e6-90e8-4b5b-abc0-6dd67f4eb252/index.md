@@ -1,9 +1,6 @@
 ---
-title: '日本語訳: Getting Started with Things'
-description: ''
-date: '2014-05-18T22:38:02.000Z'
-categories: []
-keywords: []
+title: "日本語訳: Getting Started with Things"
+date: "2014-05-18T22:38:02.000Z"
 tags: ["things", "gtd"]
 slug: "78eb42e6-90e8-4b5b-abc0-6dd67f4eb252"
 ---

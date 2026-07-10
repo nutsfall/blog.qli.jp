@@ -1,9 +1,7 @@
 ---
 title: Trelloを使い始めた話
 description: プロダクティビティ環境 （タスク管理という言葉が嫌いなのでこちらで）に、Trelloを導入したので、その辺りを書き留めておく。
-date: '2019-02-09T01:20:44.629Z'
-categories: []
-keywords: []
+date: "2019-02-09T01:20:44.629Z"
 tags: ["trello", "productivity", "kanban"]
 slug: "a58a1745-81dd-4e02-812f-65d9df3c52b0"
 ---

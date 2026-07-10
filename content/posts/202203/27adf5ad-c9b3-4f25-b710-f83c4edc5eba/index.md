@@ -1,9 +1,7 @@
 ---
 title: きっかけ
 description: あなたが好きなものは何ですか？そして、それを好きになったきっかけは何でしょう？
-date: '2022-03-05T04:35:54.215Z'
-categories: []
-keywords: []
+date: "2022-03-05T04:35:54.215Z"
 tags: ["japan-soccer", "dazn", "world-cup"]
 slug: "27adf5ad-c9b3-4f25-b710-f83c4edc5eba"
 ---

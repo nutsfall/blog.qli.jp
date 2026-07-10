@@ -1,9 +1,6 @@
 ---
 title: Appleが本当にタブレットをだすのか？
-description: ''
-date: '2009-04-29T09:17:21.000Z'
-categories: []
-keywords: []
+date: "2009-04-29T09:17:21.000Z"
 tags: ["apple", "verizon"]
 slug: "3b1fc192-54bc-4cf7-9a1a-107f773a84b3"
 ---

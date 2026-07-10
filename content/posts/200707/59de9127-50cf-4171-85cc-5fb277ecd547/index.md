@@ -1,9 +1,6 @@
 ---
 title: デジカメ DSC-T100
-description: ''
-date: '2007-07-02T00:23:36.000Z'
-categories: []
-keywords: []
+date: "2007-07-02T00:23:36.000Z"
 tags: ["sony", "digital-camera"]
 slug: "59de9127-50cf-4171-85cc-5fb277ecd547"
 ---

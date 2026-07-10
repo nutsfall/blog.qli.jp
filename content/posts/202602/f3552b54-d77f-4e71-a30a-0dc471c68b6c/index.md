@@ -5,7 +5,6 @@ slug: "f3552b54-d77f-4e71-a30a-0dc471c68b6c"
 source: "medium"
 original_url: "https://medium.com/@hiro/iphone-air-5%E3%83%B6%E6%9C%88%E5%BE%8C%E3%83%AC%E3%83%92%E3%82%99%E3%83%A5%E3%83%BC-de7905a84be5?source=rss-21bfda6f823e------2"
 tags: ["apple", "airiphone"]
-draft: false
 ---
 
 iPhoneの新しいカテゴリ製品、iPhone Airを使い始めて5ヶ月経ったということで、改めて感想をまとめたいと思います。iPhone Airに満足し過ぎていて、こういう感想をまとめる時ってどういう観点で書くか非常に困るので、Claudeに30問の質問を考えてもらいました。

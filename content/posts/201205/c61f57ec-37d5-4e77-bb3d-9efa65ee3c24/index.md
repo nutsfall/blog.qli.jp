@@ -1,9 +1,6 @@
 ---
 title: ブログデザインを変更した
-description: ''
-date: '2012-05-23T22:18:16.000Z'
-categories: []
-keywords: []
+date: "2012-05-23T22:18:16.000Z"
 tags: ["wordpress", "responsive-design"]
 slug: "c61f57ec-37d5-4e77-bb3d-9efa65ee3c24"
 ---

@@ -1,9 +1,6 @@
 ---
 title: The iPad Pro (touch)
-description: ''
-date: '2015-11-12T13:17:50.000Z'
-categories: []
-keywords: []
+date: "2015-11-12T13:17:50.000Z"
 tags: ["ipad-pro", "apple-pencil"]
 slug: "acadbaf6-5e89-41d6-bd53-faf097928e66"
 ---

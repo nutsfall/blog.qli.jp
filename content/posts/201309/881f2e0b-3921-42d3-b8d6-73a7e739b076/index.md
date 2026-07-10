@@ -1,9 +1,6 @@
 ---
 title: 新しいiOSの裏で起こっていること
-description: ''
-date: '2013-09-13T23:11:36.000Z'
-categories: []
-keywords: []
+date: "2013-09-13T23:11:36.000Z"
 tags: ["ios", "wwdc", "apple"]
 slug: "881f2e0b-3921-42d3-b8d6-73a7e739b076"
 ---

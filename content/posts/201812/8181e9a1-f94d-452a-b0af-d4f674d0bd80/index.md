@@ -1,9 +1,6 @@
 ---
 title: 2018年の映画を振り返ってみる
-description: ''
-date: '2018-12-28T00:56:35.997Z'
-categories: []
-keywords: []
+date: "2018-12-28T00:56:35.997Z"
 tags: ["movies"]
 slug: "8181e9a1-f94d-452a-b0af-d4f674d0bd80"
 ---

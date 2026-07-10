@@ -1,9 +1,6 @@
 ---
 title: AARRR!
-description: ''
-date: '2013-10-08T20:07:08.000Z'
-categories: []
-keywords: []
+date: "2013-10-08T20:07:08.000Z"
 tags: ["aarrr", "lean-analytics", "product-management"]
 slug: "f7d625a4-7223-4326-ad93-11a9c35afad7"
 ---

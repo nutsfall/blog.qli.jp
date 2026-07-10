@@ -1,9 +1,6 @@
 ---
 title: Twitterで感じること雑記
-description: ''
-date: '2009-11-30T10:08:32.000Z'
-categories: []
-keywords: []
+date: "2009-11-30T10:08:32.000Z"
 tags: ["twitter", "social-media"]
 slug: "d23cafaf-fc81-4b55-9b40-a25b958689ad"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Sixapart “安全にVoxを使うには” を公開
-description: ''
-date: '2006-10-27T16:48:01.000Z'
-categories: []
-keywords: []
+date: "2006-10-27T16:48:01.000Z"
 tags: ["vox", "privacy"]
 slug: "f5532ee5-a130-461a-b681-9495f8845c80"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ご無沙汰です
-description: ""
 date: "2006-07-18T09:21:00.000Z"
-categories: []
-keywords: []
 tags: ["microformats", "feedpath", "movable-type"]
 slug: "4736dbda-3596-40ef-9d34-41b7296060ba"
 ---

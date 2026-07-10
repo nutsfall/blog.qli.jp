@@ -1,9 +1,6 @@
 ---
 title: やったことを自分の身にするために
-description: ''
-date: '2012-03-23T21:05:28.000Z'
-categories: []
-keywords: []
+date: "2012-03-23T21:05:28.000Z"
 tags: ["blogging", "twitter"]
 slug: "4046783b-f7ca-47a9-9509-f1b074039cca"
 ---

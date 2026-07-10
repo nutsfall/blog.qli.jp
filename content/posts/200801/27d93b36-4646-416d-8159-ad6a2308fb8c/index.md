@@ -1,9 +1,6 @@
 ---
 title: 実物見る前のfirst impression
-description: ''
-date: '2008-01-16T04:17:16.000Z'
-categories: []
-keywords: []
+date: "2008-01-16T04:17:16.000Z"
 tags: ["macbook-air", "apple"]
 slug: "27d93b36-4646-416d-8159-ad6a2308fb8c"
 ---

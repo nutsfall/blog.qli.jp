@@ -1,9 +1,6 @@
 ---
 title: iPhone4の感想とiPhone4後のiPad
-description: ''
-date: '2010-06-28T21:20:54.000Z'
-categories: []
-keywords: []
+date: "2010-06-28T21:20:54.000Z"
 tags: ["iphone-4", "ipad"]
 slug: "8e34cec3-7049-4da1-baa8-4b9d31f8c061"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Things に”システム”を移行した理由
-description: ''
-date: '2010-05-07T08:27:13.000Z'
-categories: []
-keywords: []
+date: "2010-05-07T08:27:13.000Z"
 tags: ["things", "omnifocus", "gtd"]
 slug: "5466eb91-8edd-447e-bae7-904fb0d3020c"
 ---

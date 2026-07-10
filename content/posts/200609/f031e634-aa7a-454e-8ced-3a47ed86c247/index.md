@@ -1,9 +1,6 @@
 ---
 title: ヤフー!ウェジットが公開。
-description: ''
-date: '2006-09-04T18:35:26.000Z'
-categories: []
-keywords: []
+date: "2006-09-04T18:35:26.000Z"
 tags: ["yahoo-widget", "dashboard"]
 slug: "f031e634-aa7a-454e-8ced-3a47ed86c247"
 ---

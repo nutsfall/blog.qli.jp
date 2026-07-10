@@ -1,9 +1,6 @@
 ---
 title: Macbookの新しいファームウェアが登場
-description: ''
-date: '2006-10-27T07:45:44.000Z'
-categories: []
-keywords: []
+date: "2006-10-27T07:45:44.000Z"
 tags: ["macbook", "firmware"]
 slug: "551f48b3-39bc-44f7-83c1-02678217184f"
 ---

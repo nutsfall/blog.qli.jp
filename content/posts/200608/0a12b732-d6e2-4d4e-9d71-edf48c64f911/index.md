@@ -1,9 +1,6 @@
 ---
 title: フュージョン解体？
-description: ''
-date: '2006-08-04T09:29:21.000Z'
-categories: []
-keywords: []
+date: "2006-08-04T09:29:21.000Z"
 tags: ["kddi", "skype", "telecom"]
 slug: "0a12b732-d6e2-4d4e-9d71-edf48c64f911"
 ---

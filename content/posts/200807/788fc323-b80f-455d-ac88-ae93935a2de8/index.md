@@ -1,9 +1,6 @@
 ---
 title: 3番目のマイクロブログ
-description: ''
-date: '2008-07-03T12:54:39.000Z'
-categories: []
-keywords: []
+date: "2008-07-03T12:54:39.000Z"
 tags: ["microblogging", "twitter", "wassr"]
 slug: "788fc323-b80f-455d-ac88-ae93935a2de8"
 ---

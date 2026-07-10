@@ -1,9 +1,6 @@
 ---
 title: Flip4Mac UB版
-description: ''
-date: '2006-07-28T14:28:11.000Z'
-categories: []
-keywords: []
+date: "2006-07-28T14:28:11.000Z"
 tags: ["flip4mac", "intel-mac"]
 slug: "72e92784-1dde-4122-90c6-692cbb50c17f"
 ---

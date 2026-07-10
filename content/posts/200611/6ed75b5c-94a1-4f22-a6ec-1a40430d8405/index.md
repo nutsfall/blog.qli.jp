@@ -1,9 +1,6 @@
 ---
 title: GTDについて原則を見直す — GTD原理主義？
-description: ""
 date: "2006-11-07T23:00:22.000Z"
-categories: []
-keywords: []
 tags: ["gtd", "productivity"]
 slug: "6ed75b5c-94a1-4f22-a6ec-1a40430d8405"
 ---

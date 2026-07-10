@@ -1,9 +1,6 @@
 ---
 title: Flock 1.0のリリース目標が決定
-description: ''
-date: '2006-08-07T23:28:24.000Z'
-categories: []
-keywords: []
+date: "2006-08-07T23:28:24.000Z"
 tags: ["flock", "browser"]
 slug: "b243b552-5b13-4d66-a22f-89467fba3893"
 ---

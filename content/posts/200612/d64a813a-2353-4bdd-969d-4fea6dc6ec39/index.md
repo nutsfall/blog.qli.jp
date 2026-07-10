@@ -1,9 +1,6 @@
 ---
 title: 安定してきたタスク管理
-description: ''
-date: '2006-12-09T23:12:51.000Z'
-categories: []
-keywords: []
+date: "2006-12-09T23:12:51.000Z"
 tags: ["task-management", "gtd", "hobonichi"]
 slug: "d64a813a-2353-4bdd-969d-4fea6dc6ec39"
 ---

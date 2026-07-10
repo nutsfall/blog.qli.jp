@@ -1,9 +1,6 @@
 ---
 title: moo.com with skype やっと届きました
-description: ''
-date: '2006-11-13T21:26:59.000Z'
-categories: []
-keywords: []
+date: "2006-11-13T21:26:59.000Z"
 tags: ["moo", "skype"]
 slug: "edbf8fb4-a2e0-4466-9fd1-33b13fa8a866"
 ---

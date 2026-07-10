@@ -1,9 +1,6 @@
 ---
 title: todoistのsmart re-schedule
-description: ''
-date: '2016-12-02T23:08:00.000Z'
-categories: []
-keywords: []
+date: "2016-12-02T23:08:00.000Z"
 tags: ["todoist", "gtd", "productivity"]
 slug: "4e0944ca-50bc-451f-82c9-1076b73120f1"
 ---

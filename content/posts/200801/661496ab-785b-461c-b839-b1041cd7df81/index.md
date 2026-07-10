@@ -1,9 +1,6 @@
 ---
 title: OmniFocus 1.0 がリリースされました。
-description: ''
-date: '2008-01-09T22:32:20.000Z'
-categories: []
-keywords: []
+date: "2008-01-09T22:32:20.000Z"
 tags: ["omnifocus", "productivity"]
 slug: "661496ab-785b-461c-b839-b1041cd7df81"
 ---

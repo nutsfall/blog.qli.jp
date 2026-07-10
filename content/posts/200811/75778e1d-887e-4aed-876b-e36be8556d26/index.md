@@ -1,9 +1,6 @@
 ---
 title: "Tomorrow Knows Yesterday :: Sotte Bosse"
-description: ""
 date: "2008-11-23T10:54:29.000Z"
-categories: []
-keywords: []
 tags: ["last-fm", "sotte-bosse", "music-discovery"]
 slug: "75778e1d-887e-4aed-876b-e36be8556d26"
 ---

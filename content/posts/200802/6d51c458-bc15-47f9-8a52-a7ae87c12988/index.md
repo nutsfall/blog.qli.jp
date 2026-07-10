@@ -1,9 +1,6 @@
 ---
 title: MacBook Airの足音
-description: ''
-date: '2008-02-03T09:59:29.000Z'
-categories: []
-keywords: []
+date: "2008-02-03T09:59:29.000Z"
 tags: ["macbook-air", "apple"]
 slug: "6d51c458-bc15-47f9-8a52-a7ae87c12988"
 ---

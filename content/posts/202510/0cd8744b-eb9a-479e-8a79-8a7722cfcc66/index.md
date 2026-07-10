@@ -5,7 +5,6 @@ tags: ["iphone-air", "airpods-pro", "apple"]
 slug: "0cd8744b-eb9a-479e-8a79-8a7722cfcc66"
 source: "medium"
 original_url: "https://medium.com/@hiro/iphone-air%E3%81%A8airpods-pro-3%E3%81%AE22%E6%97%A5%E9%96%93-9eb14b3d8962?source=rss-21bfda6f823e------2"
-draft: false
 ---
 
 iPhone Air と AirPods Pro 3 を使い始めて、10 月 11 日で 22 日間になりました。というわけで、ここまでじっくり使ってきた感想を書いていきます。この期間の間に飛行機を使って移動する機会があったので、そこでの体験を中心に書いていきます。

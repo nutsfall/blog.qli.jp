@@ -1,9 +1,6 @@
 ---
 title: やっぱり出たモノ系ソーシャル
-description: ''
-date: '2006-12-01T21:39:18.000Z'
-categories: []
-keywords: []
+date: "2006-12-01T21:39:18.000Z"
 tags: ["social-bookmarking", "wishlist"]
 slug: "497d31cb-d605-4e5f-9503-2d2d7dd58a45"
 ---

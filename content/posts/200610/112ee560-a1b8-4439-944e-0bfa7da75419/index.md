@@ -1,9 +1,6 @@
 ---
 title: Firefox 2.0 RC3 for macを使う
-description: ""
 date: "2006-10-24T22:00:19.000Z"
-categories: []
-keywords: []
 tags: ["firefox"]
 slug: "112ee560-a1b8-4439-944e-0bfa7da75419"
 ---

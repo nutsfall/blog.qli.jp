@@ -5,7 +5,6 @@ slug: "9b7d68be-651c-4205-b974-4e20fc72318e"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E7%99%BE%E5%B9%B4%E6%A7%8B%E6%83%B3%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%99%E3%81%B8%E3%81%AE%E9%9B%91%E8%A8%98-d3fbf9f9b9c6?source=rss-21bfda6f823e------2"
 tags: ["football", "j-league"]
-draft: false
 ---
 
 2月6日いよいよ百年構想リーグが始まりました。100年抗争リーグではありません。百年構想リーグです。

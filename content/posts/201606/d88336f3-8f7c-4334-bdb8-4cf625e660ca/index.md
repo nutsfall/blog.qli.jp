@@ -1,9 +1,6 @@
 ---
 title: Exolensを使ってみました
-description: ''
-date: '2016-06-26T02:18:00.000Z'
-categories: []
-keywords: []
+date: "2016-06-26T02:18:00.000Z"
 tags: ["exolens", "zeiss", "iphone-photography"]
 slug: "d88336f3-8f7c-4334-bdb8-4cf625e660ca"
 ---

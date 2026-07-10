@@ -1,9 +1,6 @@
 ---
 title: COOKOO Watchと過ごした２週間
-description: ''
-date: '2013-01-10T21:23:17.000Z'
-categories: []
-keywords: []
+date: "2013-01-10T21:23:17.000Z"
 tags: ["cookoo-watch", "smartwatch"]
 slug: "0971dd7d-9dd3-420c-8643-60392e46a8ff"
 ---

@@ -1,9 +1,6 @@
 ---
-title: 'BEST SOFTWARE WRITING :: Joel Spolsky'
-description: ''
-date: '2008-03-17T18:42:48.000Z'
-categories: []
-keywords: []
+title: "BEST SOFTWARE WRITING :: Joel Spolsky"
+date: "2008-03-17T18:42:48.000Z"
 tags: ["book-review", "joel-spolsky", "agile"]
 slug: "d655e6ab-7dfd-44e7-b3a2-f982d902bf28"
 ---

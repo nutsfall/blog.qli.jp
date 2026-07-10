@@ -1,9 +1,6 @@
 ---
 title: 最近使っているアプリを書き出してみた(Oct 2013)
-description: ''
-date: '2013-10-13T09:40:24.000Z'
-categories: []
-keywords: []
+date: "2013-10-13T09:40:24.000Z"
 tags: ["iphone", "ios", "apps"]
 slug: "eeede14c-9b3e-41ea-819b-a54bdd70c083"
 ---

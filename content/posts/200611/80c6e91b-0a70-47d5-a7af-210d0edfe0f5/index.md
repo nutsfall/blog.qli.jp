@@ -1,9 +1,6 @@
 ---
 title: mylo白日本でも登場
-description: ''
-date: '2006-11-29T22:23:02.000Z'
-categories: []
-keywords: []
+date: "2006-11-29T22:23:02.000Z"
 tags: ["sony-mylo"]
 slug: "80c6e91b-0a70-47d5-a7af-210d0edfe0f5"
 ---

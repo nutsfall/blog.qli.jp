@@ -1,9 +1,6 @@
 ---
 title: ココログの53時間後の切り戻し
-description: ''
-date: '2006-12-08T00:46:27.000Z'
-categories: []
-keywords: []
+date: "2006-12-08T00:46:27.000Z"
 tags: ["cocolog", "database"]
 slug: "584ef9d5-4465-47e5-8086-d461145f586b"
 ---

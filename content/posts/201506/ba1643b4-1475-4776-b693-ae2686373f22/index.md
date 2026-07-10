@@ -1,9 +1,6 @@
 ---
 title: アジャイル開発チームの中のデザイナーに求められること
-description: ''
-date: '2015-06-24T13:08:15.000Z'
-categories: []
-keywords: []
+date: "2015-06-24T13:08:15.000Z"
 tags: ["agile", "ux-design"]
 slug: "ba1643b4-1475-4776-b693-ae2686373f22"
 ---

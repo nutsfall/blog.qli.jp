@@ -1,9 +1,6 @@
 ---
-title: 'きゅーり.jp: Feed problem'
-description: ''
-date: '2007-03-15T20:32:33.000Z'
-categories: []
-keywords: []
+title: "きゅーり.jp: Feed problem"
+date: "2007-03-15T20:32:33.000Z"
 tags: ["feedburner", "typepad", "vox"]
 slug: "d7bc01e5-7f5a-4e12-9db4-59de5db16206"
 ---

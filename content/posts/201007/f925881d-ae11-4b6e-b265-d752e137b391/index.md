@@ -1,9 +1,6 @@
 ---
 title: Bumperには古いタイプのDockケーブルがささりません
-description: ''
-date: '2010-07-05T22:25:03.000Z'
-categories: []
-keywords: []
+date: "2010-07-05T22:25:03.000Z"
 tags: ["iphone-4", "apple", "accessories"]
 slug: "f925881d-ae11-4b6e-b265-d752e137b391"
 ---

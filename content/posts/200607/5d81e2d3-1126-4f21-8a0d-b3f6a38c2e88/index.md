@@ -1,9 +1,6 @@
 ---
 title: microsoftの大転換
-description: ''
-date: '2006-07-28T12:07:50.000Z'
-categories: []
-keywords: []
+date: "2006-07-28T12:07:50.000Z"
 tags: ["microsoft", "saas"]
 slug: "5d81e2d3-1126-4f21-8a0d-b3f6a38c2e88"
 ---

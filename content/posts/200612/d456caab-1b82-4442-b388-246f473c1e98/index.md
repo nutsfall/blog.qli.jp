@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: akko : My Little Lover'
-description: ''
-date: '2006-12-09T13:12:32.000Z'
-categories: []
-keywords: []
+title: "On Vox: akko : My Little Lover"
+date: "2006-12-09T13:12:32.000Z"
 tags: ["my-little-lover", "music"]
 slug: "d456caab-1b82-4442-b388-246f473c1e98"
 ---

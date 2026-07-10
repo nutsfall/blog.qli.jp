@@ -1,9 +1,6 @@
 ---
 title: salyu x salyu in Thailand
-description: ''
-date: '2012-12-13T21:45:14.000Z'
-categories: []
-keywords: []
+date: "2012-12-13T21:45:14.000Z"
 tags: ["salyu-x-salyu", "live-music"]
 slug: "32f8dba1-e339-4ddd-98c6-82bd8b29417d"
 ---

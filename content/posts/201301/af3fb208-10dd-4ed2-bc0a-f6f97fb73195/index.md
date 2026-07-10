@@ -1,9 +1,6 @@
 ---
 title: Things 2 の使い方(ver 201301)
-description: ''
-date: '2013-01-30T23:51:48.000Z'
-categories: []
-keywords: []
+date: "2013-01-30T23:51:48.000Z"
 tags: ["things", "task-management", "gtd"]
 slug: "af3fb208-10dd-4ed2-bc0a-f6f97fb73195"
 ---

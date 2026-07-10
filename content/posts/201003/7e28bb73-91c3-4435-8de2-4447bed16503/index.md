@@ -1,9 +1,6 @@
 ---
 title: 情熱プログラマー
-description: ''
-date: '2010-03-08T23:06:48.000Z'
-categories: []
-keywords: []
+date: "2010-03-08T23:06:48.000Z"
 tags: ["book-review", "programming", "career"]
 slug: "7e28bb73-91c3-4435-8de2-4447bed16503"
 ---

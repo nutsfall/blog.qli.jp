@@ -1,9 +1,6 @@
 ---
 title: あなたのポケットに Pocket を
-description: ''
-date: '2012-04-24T21:51:56.000Z'
-categories: []
-keywords: []
+date: "2012-04-24T21:51:56.000Z"
 tags: ["pocket", "ios"]
 slug: "02df894a-190b-437b-85ed-8d7950ec09ef"
 ---

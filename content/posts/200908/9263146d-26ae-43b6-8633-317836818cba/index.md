@@ -1,9 +1,6 @@
 ---
 title: Mac OS X 10.6 Snow Leopard Available This Friday and iPod Family
-description: ''
-date: '2009-08-25T21:35:24.000Z'
-categories: []
-keywords: []
+date: "2009-08-25T21:35:24.000Z"
 tags: ["apple", "snow-leopard", "ipod"]
 slug: "9263146d-26ae-43b6-8633-317836818cba"
 ---

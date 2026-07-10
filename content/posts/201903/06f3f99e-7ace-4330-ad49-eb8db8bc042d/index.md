@@ -1,9 +1,7 @@
 ---
 title: アクションマネジメントは人の数以上にある
 description: 今朝のツイートについて言葉足らずだなと思ったので、補足。
-date: '2019-03-29T00:31:24.772Z'
-categories: []
-keywords: []
+date: "2019-03-29T00:31:24.772Z"
 tags: ["gtd", "productivity"]
 slug: "06f3f99e-7ace-4330-ad49-eb8db8bc042d"
 ---

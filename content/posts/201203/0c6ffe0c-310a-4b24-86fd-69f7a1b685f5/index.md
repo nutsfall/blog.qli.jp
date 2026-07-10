@@ -1,9 +1,6 @@
 ---
 title: リンダ リンダ リンダ
-description: ''
-date: '2012-03-03T14:16:07.000Z'
-categories: []
-keywords: []
+date: "2012-03-03T14:16:07.000Z"
 tags: ["linda-linda-linda", "itunes"]
 slug: "0c6ffe0c-310a-4b24-86fd-69f7a1b685f5"
 ---

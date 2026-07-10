@@ -1,9 +1,6 @@
 ---
 title: ブログ = ?
-description: ''
-date: '2006-07-18T10:04:07.000Z'
-categories: []
-keywords: []
+date: "2006-07-18T10:04:07.000Z"
 tags: ["blogging"]
 slug: "7adff494-6333-4753-86ac-ae7f7c3e0f85"
 ---

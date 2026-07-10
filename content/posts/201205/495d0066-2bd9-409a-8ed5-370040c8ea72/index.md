@@ -1,9 +1,6 @@
 ---
 title: 一日の最後に残るものは (End of the day)
-description: ''
-date: '2012-05-06T11:35:10.000Z'
-categories: []
-keywords: []
+date: "2012-05-06T11:35:10.000Z"
 tags: ["mr-children", "music"]
 slug: "495d0066-2bd9-409a-8ed5-370040c8ea72"
 ---

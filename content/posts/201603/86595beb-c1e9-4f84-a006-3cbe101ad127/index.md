@@ -1,9 +1,6 @@
 ---
 title: Todoistを使ってみた
-description: ''
-date: '2016-03-19T00:51:38.000Z'
-categories: []
-keywords: []
+date: "2016-03-19T00:51:38.000Z"
 tags: ["todoist", "task-management"]
 slug: "86595beb-c1e9-4f84-a006-3cbe101ad127"
 ---

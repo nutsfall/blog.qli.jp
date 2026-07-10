@@ -1,9 +1,6 @@
 ---
 title: GTDのつまづき
-description: ''
-date: '2008-12-28T13:54:46.000Z'
-categories: []
-keywords: []
+date: "2008-12-28T13:54:46.000Z"
 tags: ["gtd", "omnifocus"]
 slug: "4c31843e-4fd4-4223-9bbb-379baf7e6d79"
 ---

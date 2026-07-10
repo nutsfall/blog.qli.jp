@@ -2,8 +2,6 @@
 title: 2022年の音楽と映画をまとめて
 description: 2022年ももうすぐ終わりということで今年の音楽・映画体験をまとめました
 date: "2022-12-25T02:41:19.730Z"
-categories: []
-keywords: []
 slug: "c7d39248-adee-4879-bf60-bbd19fa6c993"
 tags: ["music", "movie"]
 cover:

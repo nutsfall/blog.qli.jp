@@ -1,9 +1,6 @@
 ---
-title: 'はるまついぶき : bank band'
-description: ''
-date: '2007-09-01T10:13:16.000Z'
-categories: []
-keywords: []
+title: "はるまついぶき : bank band"
+date: "2007-09-01T10:13:16.000Z"
 tags: ["bank-band", "ap-bank"]
 slug: "b5e25879-eb53-4cc1-aa71-800cf3b6758f"
 ---

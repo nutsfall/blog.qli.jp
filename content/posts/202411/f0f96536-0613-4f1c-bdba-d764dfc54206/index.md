@@ -1,9 +1,7 @@
 ---
 title: 音楽の楽しみ方とヒットチャート
 description: "「ビルボードジャパンの挑戦 ヒットチャート解体新書」を読んで感じたことを実体験とともに書きました"
-date: '2024-11-30T03:02:16.323Z'
-categories: []
-keywords: []
+date: "2024-11-30T03:02:16.323Z"
 tags: ["music", "billboard-japan", "sakurazaka46"]
 slug: "f0f96536-0613-4f1c-bdba-d764dfc54206"
 cover:

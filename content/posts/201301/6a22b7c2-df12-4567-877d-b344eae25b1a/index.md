@@ -1,9 +1,6 @@
 ---
 title: iPad の使い道
-description: ''
-date: '2013-01-23T22:55:00.000Z'
-categories: []
-keywords: []
+date: "2013-01-23T22:55:00.000Z"
 tags: ["ipad-mini", "flipboard", "pocket"]
 slug: "6a22b7c2-df12-4567-877d-b344eae25b1a"
 ---

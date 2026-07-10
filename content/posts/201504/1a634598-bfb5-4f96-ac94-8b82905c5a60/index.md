@@ -1,9 +1,6 @@
 ---
 title: Pre-ordered Apple Watch and MacBook
-description: ''
-date: '2015-04-11T13:52:24.000Z'
-categories: []
-keywords: []
+date: "2015-04-11T13:52:24.000Z"
 tags: ["apple-watch", "macbook"]
 slug: "1a634598-bfb5-4f96-ac94-8b82905c5a60"
 ---

@@ -1,9 +1,6 @@
 ---
 title: J1リーグ折り返し アビスパ福岡の立ち位置を考える
-description: ''
-date: '2023-06-17T03:02:11.354Z'
-categories: []
-keywords: []
+date: "2023-06-17T03:02:11.354Z"
 tags: ["j-league", "avispa-fukuoka"]
 slug: "e1b69dea-c3b5-49ed-97bf-099467c7b151"
 ---

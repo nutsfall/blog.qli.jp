@@ -1,9 +1,6 @@
 ---
 title: "#XBOXReveal XBOX ONE が発表された"
-description: ''
-date: '2013-05-22T21:44:22.000Z'
-categories: []
-keywords: []
+date: "2013-05-22T21:44:22.000Z"
 tags: ["xbox"]
 slug: "21d8421f-9c4b-4f4a-9df2-6117595c4716"
 ---

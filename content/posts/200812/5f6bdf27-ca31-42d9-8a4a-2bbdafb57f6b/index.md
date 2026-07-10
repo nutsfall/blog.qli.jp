@@ -1,9 +1,6 @@
 ---
 title: 続・Apple In-Ear Headphone
-description: ''
-date: '2008-12-21T10:46:39.000Z'
-categories: []
-keywords: []
+date: "2008-12-21T10:46:39.000Z"
 tags: ["apple-in-ear-headphones"]
 slug: "5f6bdf27-ca31-42d9-8a4a-2bbdafb57f6b"
 ---

@@ -1,9 +1,7 @@
 ---
 title: 新しいiPhoneに乗り換える時の注意点 Oct. 2020
 description: スムーズに機種変更を済ませて、新しい生活を
-date: '2020-10-22T05:13:56.621Z'
-categories: []
-keywords: []
+date: "2020-10-22T05:13:56.621Z"
 tags: ["iphone", "device-migration"]
 slug: "fdf9fdd8-52d3-48fe-acfe-c9946fd02a68"
 ---

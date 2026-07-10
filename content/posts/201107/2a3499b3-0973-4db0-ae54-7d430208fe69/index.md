@@ -1,9 +1,6 @@
 ---
 title: apbank fes ’11 参加を通じて
-description: ''
-date: '2011-07-19T13:15:42.000Z'
-categories: []
-keywords: []
+date: "2011-07-19T13:15:42.000Z"
 tags: ["ap-bank-fes", "music-festival", "environment"]
 slug: "2a3499b3-0973-4db0-ae54-7d430208fe69"
 ---

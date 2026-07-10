@@ -1,9 +1,6 @@
 ---
 title: SafariのGmailでの不調はfixされたらしい
-description: ''
-date: '2008-03-31T10:28:20.000Z'
-categories: []
-keywords: []
+date: "2008-03-31T10:28:20.000Z"
 tags: ["safari", "gmail", "webkit"]
 slug: "ff3572a9-4ac3-49f5-9ff0-b14e21d6ec89"
 ---

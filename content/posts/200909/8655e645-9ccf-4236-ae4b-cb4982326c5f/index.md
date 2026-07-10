@@ -1,9 +1,6 @@
 ---
 title: blog action day 09に参加します
-description: ''
-date: '2009-09-25T07:39:51.000Z'
-categories: []
-keywords: []
+date: "2009-09-25T07:39:51.000Z"
 tags: ["blog-action-day", "climate-change"]
 slug: "8655e645-9ccf-4236-ae4b-cb4982326c5f"
 ---

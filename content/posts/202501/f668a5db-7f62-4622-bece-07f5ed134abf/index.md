@@ -1,9 +1,6 @@
 ---
 title: 好きな音楽と聞かれている音楽
-description: ''
-date: '2025-01-11T03:01:57.397Z'
-categories: []
-keywords: []
+date: "2025-01-11T03:01:57.397Z"
 tags: ["billboard-japan", "j-pop"]
 slug: "f668a5db-7f62-4622-bece-07f5ed134abf"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Google+の使い方を模索中
-description: ''
-date: '2011-08-11T21:11:58.000Z'
-categories: []
-keywords: []
+date: "2011-08-11T21:11:58.000Z"
 tags: ["google-plus", "social-media", "twitter"]
 slug: "98be14c4-663b-4b32-8e55-7fefb67561e1"
 ---

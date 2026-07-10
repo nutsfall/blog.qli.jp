@@ -1,9 +1,6 @@
 ---
 title: Gmailでビデオチャット
-description: ''
-date: '2008-11-12T10:02:23.000Z'
-categories: []
-keywords: []
+date: "2008-11-12T10:02:23.000Z"
 tags: ["gmail", "google"]
 slug: "c0bc5d9a-45a9-498b-8cfb-63c6b55fce99"
 ---

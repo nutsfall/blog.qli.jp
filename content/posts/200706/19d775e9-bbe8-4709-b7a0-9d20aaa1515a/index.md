@@ -1,9 +1,6 @@
 ---
 title: ATOK 2007 for Mac 発売日決定
-description: ''
-date: '2007-06-06T08:46:09.000Z'
-categories: []
-keywords: []
+date: "2007-06-06T08:46:09.000Z"
 tags: ["atok", "mac"]
 slug: "19d775e9-bbe8-4709-b7a0-9d20aaa1515a"
 ---

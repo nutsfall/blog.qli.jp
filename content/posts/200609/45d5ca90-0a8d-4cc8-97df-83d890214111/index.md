@@ -1,9 +1,6 @@
 ---
 title: "Progress :: kokua"
-description: ""
 date: "2006-09-21T20:39:00.000Z"
-categories: []
-keywords: []
 tags: ["kokua", "music"]
 slug: "45d5ca90-0a8d-4cc8-97df-83d890214111"
 ---

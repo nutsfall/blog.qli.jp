@@ -1,9 +1,6 @@
 ---
-title: '442'
-description: ''
-date: '2025-05-31T03:02:28.547Z'
-categories: []
-keywords: []
+title: "442"
+date: "2025-05-31T03:02:28.547Z"
 tags: ["tomoo", "live-music"]
 slug: "03dcd46c-06b9-4aeb-8a7d-16adcf768468"
 ---

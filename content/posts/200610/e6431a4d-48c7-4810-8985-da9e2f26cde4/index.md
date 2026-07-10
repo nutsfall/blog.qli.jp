@@ -1,9 +1,6 @@
 ---
 title: IE7正式版リリース！
-description: ''
-date: '2006-10-19T09:17:19.000Z'
-categories: []
-keywords: []
+date: "2006-10-19T09:17:19.000Z"
 tags: ["ie7", "web-browser"]
 slug: "e6431a4d-48c7-4810-8985-da9e2f26cde4"
 ---

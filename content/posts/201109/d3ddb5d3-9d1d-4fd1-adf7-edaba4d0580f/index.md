@@ -1,9 +1,6 @@
 ---
 title: 実名とニックネーム
-description: ''
-date: '2011-09-23T08:08:57.000Z'
-categories: []
-keywords: []
+date: "2011-09-23T08:08:57.000Z"
 tags: ["online-identity", "social-media"]
 slug: "d3ddb5d3-9d1d-4fd1-adf7-edaba4d0580f"
 ---

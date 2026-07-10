@@ -1,9 +1,6 @@
 ---
 title: FOOTMARKに行ってきました！
-description: ''
-date: '2007-12-13T00:32:00.000Z'
-categories: []
-keywords: []
+date: "2007-12-13T00:32:00.000Z"
 tags: ["salyu", "gaku-mc", "live-music"]
 slug: "6749a522-c8ea-4977-8b42-e9df5e7d17c2"
 ---

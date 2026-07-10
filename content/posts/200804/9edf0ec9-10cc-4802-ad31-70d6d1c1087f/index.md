@@ -1,9 +1,6 @@
 ---
 title: JaikuがGoogle App Engineの最初のアプリとしてリリースされる
-description: ''
-date: '2008-04-08T11:40:34.000Z'
-categories: []
-keywords: []
+date: "2008-04-08T11:40:34.000Z"
 tags: ["google-app-engine", "jaiku"]
 slug: "9edf0ec9-10cc-4802-ad31-70d6d1c1087f"
 ---

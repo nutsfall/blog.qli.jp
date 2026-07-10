@@ -1,9 +1,6 @@
 ---
 title: いろんなものを０にする
-description: ''
-date: '2016-06-12T03:24:18.000Z'
-categories: []
-keywords: []
+date: "2016-06-12T03:24:18.000Z"
 tags: ["productivity", "inbox-zero", "task-management"]
 slug: "19f1d44a-2098-42b9-bd89-fa5fe00f952c"
 ---

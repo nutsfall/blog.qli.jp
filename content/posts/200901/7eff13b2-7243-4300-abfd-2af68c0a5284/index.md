@@ -1,9 +1,6 @@
 ---
 title: 情報ダイエットを行うこと
-description: ''
-date: '2009-01-03T22:07:44.000Z'
-categories: []
-keywords: []
+date: "2009-01-03T22:07:44.000Z"
 tags: ["productivity", "book-review"]
 slug: "7eff13b2-7243-4300-abfd-2af68c0a5284"
 ---

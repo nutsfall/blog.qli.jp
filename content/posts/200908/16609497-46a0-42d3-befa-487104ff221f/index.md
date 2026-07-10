@@ -1,9 +1,6 @@
 ---
-title: '溢れる :: lego big morl'
-description: ''
-date: '2009-08-08T22:21:32.000Z'
-categories: []
-keywords: []
+title: "溢れる :: lego big morl"
+date: "2009-08-08T22:21:32.000Z"
 tags: ["lego-big-morl", "music"]
 slug: "16609497-46a0-42d3-befa-487104ff221f"
 ---

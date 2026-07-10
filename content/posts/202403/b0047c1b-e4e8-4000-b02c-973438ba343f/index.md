@@ -1,9 +1,7 @@
 ---
 title: "「続きと始まり」と、そして今日"
 description: 今読み進めている小説について。3.11についても強く触れている内容なので、いま紹介したいと思いました。
-date: '2024-03-16T03:02:27.285Z'
-categories: []
-keywords: []
+date: "2024-03-16T03:02:27.285Z"
 tags: ["shibasaki-tomoka", "apple-books"]
 slug: "b0047c1b-e4e8-4000-b02c-973438ba343f"
 ---

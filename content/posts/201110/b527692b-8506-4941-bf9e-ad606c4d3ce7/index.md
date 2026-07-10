@@ -1,9 +1,6 @@
 ---
 title: au iPhoneを1日使ってみて
-description: ''
-date: '2011-10-16T09:18:49.000Z'
-categories: []
-keywords: []
+date: "2011-10-16T09:18:49.000Z"
 tags: ["iphone-4s", "au", "xperia"]
 slug: "b527692b-8506-4941-bf9e-ad606c4d3ce7"
 ---

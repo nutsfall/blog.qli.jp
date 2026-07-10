@@ -1,9 +1,6 @@
 ---
 title: iPhone 3GSのnike+でワークアウトしてみた
-description: ''
-date: '2009-07-12T22:26:04.000Z'
-categories: []
-keywords: []
+date: "2009-07-12T22:26:04.000Z"
 tags: ["iphone-3gs", "nike-plus", "running"]
 slug: "a341d6e7-db82-4b4c-83bc-7937fc1513c9"
 ---

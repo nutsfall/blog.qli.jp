@@ -1,9 +1,7 @@
 ---
 title: 2社から見る飛行機搭乗チケット問題の解決方法
 description: これをユーザーストーリーで書くと
-date: '2015-12-23T00:39:05.251Z'
-categories: []
-keywords: []
+date: "2015-12-23T00:39:05.251Z"
 tags: ["jal", "ana", "apple-wallet"]
 slug: "466ea836-6d69-4b69-a738-6500f101e353"
 ---

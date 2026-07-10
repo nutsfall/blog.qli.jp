@@ -1,9 +1,6 @@
 ---
 title: my room with lingr
-description: ''
-date: '2007-09-27T22:10:39.000Z'
-categories: []
-keywords: []
+date: "2007-09-27T22:10:39.000Z"
 tags: ["lingr", "chat"]
 slug: "7b1bb3b6-dd1d-47af-8c7c-2750b1e73f64"
 ---

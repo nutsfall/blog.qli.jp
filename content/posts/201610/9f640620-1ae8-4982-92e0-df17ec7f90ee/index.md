@@ -1,9 +1,7 @@
 ---
 title: 固定時間で価値を最大化させるゲーム
-description: '"長すぎる労働時間"をテーマにした議論が続いているので少し書いておく。'
-date: '2016-10-08T01:08:26.010Z'
-categories: []
-keywords: []
+description: "\"長すぎる労働時間\"をテーマにした議論が続いているので少し書いておく。"
+date: "2016-10-08T01:08:26.010Z"
 tags: ["agile", "scrum", "productivity"]
 slug: "9f640620-1ae8-4982-92e0-df17ec7f90ee"
 ---

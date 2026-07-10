@@ -1,9 +1,6 @@
 ---
 title: Google Sync (そして、spanning sync)
-description: ""
 date: "2009-02-10T09:29:46.000Z"
-categories: []
-keywords: []
 tags: ["google-sync", "google-calendar"]
 slug: "df932cce-c135-44c9-a530-b3304fc6c46f"
 ---

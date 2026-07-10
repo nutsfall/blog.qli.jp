@@ -1,9 +1,6 @@
 ---
 title: the Inbox Makeover with Mail Act-on
-description: ''
-date: '2009-09-19T23:09:24.000Z'
-categories: []
-keywords: []
+date: "2009-09-19T23:09:24.000Z"
 tags: ["mail-act-on", "gtd"]
 slug: "9da65167-4f82-4673-bab7-2b9a3925168e"
 ---

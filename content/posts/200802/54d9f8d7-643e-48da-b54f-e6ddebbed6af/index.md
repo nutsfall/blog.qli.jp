@@ -1,9 +1,6 @@
 ---
 title: iPhone SDKに関する何かが語られるイベント
-description: ''
-date: '2008-02-28T07:58:16.000Z'
-categories: []
-keywords: []
+date: "2008-02-28T07:58:16.000Z"
 tags: ["iphone", "sdk", "apple"]
 slug: "54d9f8d7-643e-48da-b54f-e6ddebbed6af"
 ---

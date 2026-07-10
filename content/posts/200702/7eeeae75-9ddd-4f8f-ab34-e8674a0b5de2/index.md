@@ -1,9 +1,6 @@
 ---
 title: Getting Things Done with Remeber the Milk
-description: ''
-date: '2007-02-13T11:58:34.000Z'
-categories: []
-keywords: []
+date: "2007-02-13T11:58:34.000Z"
 tags: ["gtd", "remember-the-milk"]
 slug: "7eeeae75-9ddd-4f8f-ab34-e8674a0b5de2"
 ---

@@ -1,9 +1,6 @@
 ---
 title: iPod Touch (4th gen) を買いました
-description: ''
-date: '2011-11-24T21:36:42.000Z'
-categories: []
-keywords: []
+date: "2011-11-24T21:36:42.000Z"
 tags: ["ipod-touch", "ios"]
 slug: "12d7e2eb-18eb-4c27-ab0a-da67de9dfecd"
 ---

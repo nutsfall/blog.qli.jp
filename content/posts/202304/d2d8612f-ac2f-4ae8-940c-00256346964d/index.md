@@ -1,9 +1,6 @@
 ---
 title: 発売からもうすぐ2年のiPad miniを手に入れた
-description: ''
-date: '2023-04-29T03:01:50.889Z'
-categories: []
-keywords: []
+date: "2023-04-29T03:01:50.889Z"
 tags: ["ipad-mini", "apple"]
 slug: "d2d8612f-ac2f-4ae8-940c-00256346964d"
 ---

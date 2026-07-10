@@ -1,9 +1,7 @@
 ---
 title: 積み重なる2分間
 description: リバー、流れないでよ を見てきました
-date: '2023-07-01T03:02:36.602Z'
-categories: []
-keywords: []
+date: "2023-07-01T03:02:36.602Z"
 tags: ["film", "time-loop"]
 slug: "2917e85e-3c61-4454-8788-6c18787f0aff"
 ---

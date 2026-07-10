@@ -1,9 +1,6 @@
 ---
 title: Things の自然言語入力を見てみる
-description: ''
-date: '2023-02-13T14:42:50.810Z'
-categories: []
-keywords: []
+date: "2023-02-13T14:42:50.810Z"
 tags: ["things", "productivity"]
 slug: "4e60ad12-65fb-48c6-a46a-c5a7c7c0506c"
 ---

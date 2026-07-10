@@ -1,9 +1,6 @@
 ---
 title: Hello, Ghost
-description: ''
-date: '2014-08-21T09:00:23.000Z'
-categories: []
-keywords: []
+date: "2014-08-21T09:00:23.000Z"
 tags: ["ghost", "blogging"]
 slug: "12dc8983-55b1-4af6-9b97-fd41eaafe225"
 ---

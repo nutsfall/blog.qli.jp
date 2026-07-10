@@ -1,9 +1,6 @@
 ---
 title: "#NHK による LINE の報道について"
-description: ''
-date: '2012-12-22T22:35:58.000Z'
-categories: []
-keywords: []
+date: "2012-12-22T22:35:58.000Z"
 tags: ["line", "nhk"]
 slug: "08e6187e-91a4-4501-b5d4-54f0750ebd13"
 ---

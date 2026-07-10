@@ -5,7 +5,6 @@ slug: "288df7e0-f380-4675-8f79-a38ae660c0f8"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E4%BB%95%E4%BA%8B%E3%81%AE%E7%92%B0%E5%A2%83%E3%82%92%E8%A6%8B%E7%9B%B4%E3%81%97%E3%81%9F-90e8ec1cd38c?source=rss-21bfda6f823e------2"
 tags: ["productivity"]
-draft: false
 ---
 
 忙しい人ほどたくさんの todo を持っています。そして、忙しい人ほどたくさんの todo を頭の中に抱えがちです。それをノートやホワイトボードに書き出すことで、つまり外部化することで、客観的に全体像を観察することができ、落ち着くことができます。

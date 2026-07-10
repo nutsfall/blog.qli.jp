@@ -1,9 +1,6 @@
 ---
 title: タイヨウのうた
-description: ''
-date: '2006-11-25T09:46:17.000Z'
-categories: []
-keywords: []
+date: "2006-11-25T09:46:17.000Z"
 tags: ["taiyou-no-uta", "yui"]
 slug: "92964cc1-5287-4efd-b7db-60e4943ef5c7"
 ---

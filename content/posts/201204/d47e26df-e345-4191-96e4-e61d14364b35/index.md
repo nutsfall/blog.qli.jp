@@ -1,9 +1,6 @@
 ---
 title: MMSがau iPhoneに
-description: ''
-date: '2012-04-14T08:59:51.000Z'
-categories: []
-keywords: []
+date: "2012-04-14T08:59:51.000Z"
 tags: ["au", "iphone", "mms"]
 slug: "d47e26df-e345-4191-96e4-e61d14364b35"
 ---

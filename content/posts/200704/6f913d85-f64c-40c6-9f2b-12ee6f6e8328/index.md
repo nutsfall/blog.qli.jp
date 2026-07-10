@@ -1,9 +1,6 @@
 ---
 title: Santa Rosaがいよいよ立ち上がる
-description: ''
-date: '2007-04-24T08:49:49.000Z'
-categories: []
-keywords: []
+date: "2007-04-24T08:49:49.000Z"
 tags: ["intel", "macbook"]
 slug: "6f913d85-f64c-40c6-9f2b-12ee6f6e8328"
 ---

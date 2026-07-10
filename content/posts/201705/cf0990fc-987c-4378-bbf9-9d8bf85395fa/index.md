@@ -1,9 +1,7 @@
 ---
 title: Things3 がついにリリースされた
 description: Finally!
-date: '2017-05-18T15:05:16.216Z'
-categories: []
-keywords: []
+date: "2017-05-18T15:05:16.216Z"
 tags: ["things3"]
 slug: "cf0990fc-987c-4378-bbf9-9d8bf85395fa"
 ---

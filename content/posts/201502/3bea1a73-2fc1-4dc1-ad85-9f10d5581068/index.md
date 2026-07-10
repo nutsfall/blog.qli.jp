@@ -1,9 +1,6 @@
 ---
 title: 写真 for OS X がもうすぐ
-description: ''
-date: '2015-02-06T02:47:09.000Z'
-categories: []
-keywords: []
+date: "2015-02-06T02:47:09.000Z"
 tags: ["apple", "macos"]
 slug: "3bea1a73-2fc1-4dc1-ad85-9f10d5581068"
 ---

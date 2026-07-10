@@ -1,9 +1,6 @@
 ---
 title: ソーシャルグラフと多面性
-description: ''
-date: '2010-12-11T12:32:02.000Z'
-categories: []
-keywords: []
+date: "2010-12-11T12:32:02.000Z"
 tags: ["mixi", "social-graph"]
 slug: "6884267a-cec5-47e2-843e-816990c7b51e"
 ---

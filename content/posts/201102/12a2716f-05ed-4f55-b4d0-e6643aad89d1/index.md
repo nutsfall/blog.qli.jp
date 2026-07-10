@@ -1,9 +1,6 @@
 ---
 title: ４人のSalyuさん (ただのともだち Music Mixer)
-description: ''
-date: '2011-02-10T21:02:04.000Z'
-categories: []
-keywords: []
+date: "2011-02-10T21:02:04.000Z"
 tags: ["salyu", "music", "google-chrome"]
 slug: "12a2716f-05ed-4f55-b4d0-e6643aad89d1"
 ---

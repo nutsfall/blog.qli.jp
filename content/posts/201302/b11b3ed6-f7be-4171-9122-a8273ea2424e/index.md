@@ -1,9 +1,6 @@
 ---
 title: WM3800R のリモート起動
-description: ''
-date: '2013-02-16T22:11:43.000Z'
-categories: []
-keywords: []
+date: "2013-02-16T22:11:43.000Z"
 tags: ["wimax", "wm3800r"]
 slug: "b11b3ed6-f7be-4171-9122-a8273ea2424e"
 ---

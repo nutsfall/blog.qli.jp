@@ -1,9 +1,6 @@
 ---
 title: ANAのPassbookを体験した
-description: ''
-date: '2015-01-04T15:27:48.000Z'
-categories: []
-keywords: []
+date: "2015-01-04T15:27:48.000Z"
 tags: ["ana", "passbook"]
 slug: "aff77c63-3e9f-4234-9576-dcdb634390df"
 ---

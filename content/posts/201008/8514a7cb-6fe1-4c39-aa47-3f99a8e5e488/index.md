@@ -1,9 +1,6 @@
 ---
 title: OhLife を試す
-description: ''
-date: '2010-08-21T07:53:56.000Z'
-categories: []
-keywords: []
+date: "2010-08-21T07:53:56.000Z"
 tags: ["ohlife", "journaling"]
 slug: "8514a7cb-6fe1-4c39-aa47-3f99a8e5e488"
 ---

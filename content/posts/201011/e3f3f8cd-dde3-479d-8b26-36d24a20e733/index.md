@@ -1,9 +1,6 @@
 ---
 title: 自分のドメインで短縮URLを作る (bit.ly pro)
-description: ''
-date: '2010-11-30T21:45:00.000Z'
-categories: []
-keywords: []
+date: "2010-11-30T21:45:00.000Z"
 tags: ["bit.ly", "url-shortener", "twitter"]
 slug: "e3f3f8cd-dde3-479d-8b26-36d24a20e733"
 ---

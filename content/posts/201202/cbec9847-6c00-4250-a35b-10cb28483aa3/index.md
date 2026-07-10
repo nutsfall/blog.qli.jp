@@ -1,9 +1,6 @@
 ---
 title: WM3600Rを使い始めた
-description: ''
-date: '2012-02-07T20:49:23.000Z'
-categories: []
-keywords: []
+date: "2012-02-07T20:49:23.000Z"
 tags: ["wimax", "mobile-router"]
 slug: "cbec9847-6c00-4250-a35b-10cb28483aa3"
 ---

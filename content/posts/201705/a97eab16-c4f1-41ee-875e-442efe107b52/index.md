@@ -1,9 +1,7 @@
 ---
 title: mastodonについて自分なりに整理してみる
 description: mastodonブームみたいな状態も少し落ち着いてきたようなので、自分なりの考えみたいなものを書き留めておきたい
-date: '2017-05-06T07:15:22.883Z'
-categories: []
-keywords: []
+date: "2017-05-06T07:15:22.883Z"
 tags: ["mastodon", "fediverse"]
 slug: "a97eab16-c4f1-41ee-875e-442efe107b52"
 ---

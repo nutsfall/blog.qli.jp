@@ -1,9 +1,6 @@
 ---
 title: brightkiteのtwitter投稿がジオタギング対応に
-description: ''
-date: '2009-12-13T10:41:39.000Z'
-categories: []
-keywords: []
+date: "2009-12-13T10:41:39.000Z"
 tags: ["twitter", "geotagging", "brightkite"]
 slug: "3c18e4ed-8669-4550-bbe3-03c5d6a98f74"
 ---

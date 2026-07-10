@@ -1,9 +1,6 @@
 ---
 title: rmilkでの複数タスクメール登録法
-description: ''
-date: '2006-10-02T10:11:13.000Z'
-categories: []
-keywords: []
+date: "2006-10-02T10:11:13.000Z"
 tags: ["remember-the-milk", "gtd"]
 slug: "225cbcb5-4af1-4055-bc57-f6e81aca30cf"
 ---

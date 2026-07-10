@@ -1,9 +1,6 @@
 ---
 title: Huluと今後の動画の世界
-description: ''
-date: '2015-08-31T13:50:03.000Z'
-categories: []
-keywords: []
+date: "2015-08-31T13:50:03.000Z"
 tags: ["hulu", "netflix", "video-streaming"]
 slug: "a87ddf56-769b-4b87-94f5-154b3d61d693"
 ---

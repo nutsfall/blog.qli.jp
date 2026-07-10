@@ -1,9 +1,7 @@
 ---
 title: やること整理法(End of 2017)
 description: 年末ということで今の”やることの整理方法”を書いておくことにした
-date: '2017-12-30T14:01:00.506Z'
-categories: []
-keywords: []
+date: "2017-12-30T14:01:00.506Z"
 tags: ["task-management", "gtd", "things"]
 slug: "c90faf06-8c73-42f2-94c9-f183c408f0cd"
 ---

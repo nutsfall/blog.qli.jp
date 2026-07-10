@@ -1,9 +1,6 @@
 ---
 title: アジャイルって勘違いされている気がする
-description: ''
-date: '2010-02-12T22:19:45.000Z'
-categories: []
-keywords: []
+date: "2010-02-12T22:19:45.000Z"
 tags: ["agile", "software-development"]
 slug: "2714a8c1-a930-457b-ab39-b0951621230e"
 ---

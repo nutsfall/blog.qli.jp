@@ -1,9 +1,6 @@
 ---
 title: Google ReaderのShared機能が強化されました
-description: ''
-date: '2008-05-06T08:47:43.000Z'
-categories: []
-keywords: []
+date: "2008-05-06T08:47:43.000Z"
 tags: ["google-reader"]
 slug: "b95bae2c-755a-4dd8-9cb6-4c39688d6150"
 ---

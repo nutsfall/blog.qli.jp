@@ -1,9 +1,6 @@
 ---
 title: Jaikuブーム？
-description: ''
-date: '2007-05-18T08:35:40.000Z'
-categories: []
-keywords: []
+date: "2007-05-18T08:35:40.000Z"
 tags: ["jaiku", "twitter"]
 slug: "1b334ef0-05b5-4ef3-85e2-01d343d13d94"
 ---

@@ -1,9 +1,6 @@
 ---
 title: New Facebook Message と ケータイ文化
-description: ''
-date: '2010-11-17T00:51:02.000Z'
-categories: []
-keywords: []
+date: "2010-11-17T00:51:02.000Z"
 tags: ["facebook", "messaging"]
 slug: "e0a78ced-6328-4f9d-89a5-da345a0c20e5"
 ---

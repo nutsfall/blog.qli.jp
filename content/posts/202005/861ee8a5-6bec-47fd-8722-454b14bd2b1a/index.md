@@ -1,9 +1,7 @@
 ---
 title: 2020年5月末の雑記
 description: 考えていることをつらつらと書いてみる
-date: '2020-05-25T10:45:12.552Z'
-categories: []
-keywords: []
+date: "2020-05-25T10:45:12.552Z"
 tags: ["covid-19", "remote-work"]
 slug: "861ee8a5-6bec-47fd-8722-454b14bd2b1a"
 ---

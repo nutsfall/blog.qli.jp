@@ -1,9 +1,6 @@
 ---
 title: PHPマッシュアップの参考書籍
-description: ''
-date: '2006-11-27T00:20:01.000Z'
-categories: []
-keywords: []
+date: "2006-11-27T00:20:01.000Z"
 tags: ["php", "web-api", "mashup"]
 slug: "96bcd553-e771-4568-b557-a505efbfe1e8"
 ---

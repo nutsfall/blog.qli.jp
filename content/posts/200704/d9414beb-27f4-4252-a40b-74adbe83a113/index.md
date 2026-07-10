@@ -1,9 +1,6 @@
 ---
 title: Leopard登場の”春”にMacBookの更新はあるのか？
-description: ''
-date: '2007-04-02T22:30:46.000Z'
-categories: []
-keywords: []
+date: "2007-04-02T22:30:46.000Z"
 tags: ["macbook", "apple", "leopard"]
 slug: "d9414beb-27f4-4252-a40b-74adbe83a113"
 ---

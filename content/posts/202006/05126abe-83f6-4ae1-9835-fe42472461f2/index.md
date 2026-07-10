@@ -1,9 +1,7 @@
 ---
 title: macOS Big Sur はiOS時代のmacOS
 description: WWDC20の最中ですね。WWDCはいつも多くのセッションがありますが、今年は物理的な制約がなくなったせいか、いつもよりもセッション数が多い感覚があります。
-date: '2020-06-24T08:53:28.285Z'
-categories: []
-keywords: []
+date: "2020-06-24T08:53:28.285Z"
 tags: ["macos-big-sur", "apple-silicon", "wwdc"]
 slug: "05126abe-83f6-4ae1-9835-fe42472461f2"
 ---

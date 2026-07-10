@@ -1,9 +1,6 @@
 ---
 title: Gmail 2.0が日本語についに来た！
-description: ''
-date: '2008-04-29T10:53:00.000Z'
-categories: []
-keywords: []
+date: "2008-04-29T10:53:00.000Z"
 tags: ["gmail"]
 slug: "a75cd174-bb19-40ff-b79c-d63146796a2b"
 ---

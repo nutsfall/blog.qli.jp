@@ -1,9 +1,6 @@
 ---
 title: Salyu 2夜ライブ
-description: ''
-date: '2012-02-02T23:36:57.000Z'
-categories: []
-keywords: []
+date: "2012-02-02T23:36:57.000Z"
 tags: ["salyu", "live-music"]
 slug: "df5f9cb5-038e-45df-a026-c769434a5933"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 位置情報系プロキシー的サービス Check.in
-description: ''
-date: '2010-03-27T16:24:43.000Z'
-categories: []
-keywords: []
+date: "2010-03-27T16:24:43.000Z"
 tags: ["location-services", "foursquare", "check-in"]
 slug: "0c0cd7b9-fd64-484b-a254-887cd244742d"
 ---

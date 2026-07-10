@@ -1,9 +1,6 @@
 ---
 title: フィッシュアイで遊んでみた
-description: ''
-date: '2014-07-20T22:11:22.000Z'
-categories: []
-keywords: []
+date: "2014-07-20T22:11:22.000Z"
 tags: ["photography", "olympus", "fisheye"]
 slug: "a3a77097-1798-43f9-9c43-7e356a762184"
 ---

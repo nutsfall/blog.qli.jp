@@ -1,9 +1,7 @@
 ---
 title: OmniFocusで気になるところ２つ
 description: あまり特定のプロダクトについて気になるポイントをあげるのは好みではないのですが、OmniFocusの他のポイントは素晴らしいがゆえにどうしても個人的にひっかかっているポイントがあるので取り上げます。
-date: '2019-08-01T11:51:07.416Z'
-categories: []
-keywords: []
+date: "2019-08-01T11:51:07.416Z"
 tags: ["omnifocus", "apple-watch", "productivity"]
 slug: "f9f7dcae-d07f-4a21-878c-1b2ec1de8b65"
 ---

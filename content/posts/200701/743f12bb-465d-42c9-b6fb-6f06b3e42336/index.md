@@ -1,9 +1,6 @@
 ---
 title: iTunesで演奏している音楽を各方面にインプットする
-description: ''
-date: '2007-01-11T12:19:41.000Z'
-categories: []
-keywords: []
+date: "2007-01-11T12:19:41.000Z"
 tags: ["last-fm", "itunes", "skype"]
 slug: "743f12bb-465d-42c9-b6fb-6f06b3e42336"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 浴びるほど情報を受け取る
-description: ""
 date: "2006-08-09T11:05:00.000Z"
-categories: []
-keywords: []
 tags: ["rss", "gtd", "task-management"]
 slug: "ccf4c569-24a5-43e6-91dd-18c7477f8f56"
 ---

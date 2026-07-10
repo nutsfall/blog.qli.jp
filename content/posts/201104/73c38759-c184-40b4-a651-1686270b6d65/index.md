@@ -1,9 +1,6 @@
 ---
 title: IS03 Froyo アップデート
-description: ''
-date: '2011-04-18T23:05:47.000Z'
-categories: []
-keywords: []
+date: "2011-04-18T23:05:47.000Z"
 tags: ["android", "is03"]
 slug: "73c38759-c184-40b4-a651-1686270b6d65"
 ---

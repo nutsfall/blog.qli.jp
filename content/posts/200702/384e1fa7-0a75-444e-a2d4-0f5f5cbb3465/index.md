@@ -1,9 +1,6 @@
 ---
 title: Inflame Casting(07/02/02)を聞いて。
-description: ''
-date: '2007-02-04T02:39:12.000Z'
-categories: []
-keywords: []
+date: "2007-02-04T02:39:12.000Z"
 tags: ["podcast", "web-design"]
 slug: "384e1fa7-0a75-444e-a2d4-0f5f5cbb3465"
 ---

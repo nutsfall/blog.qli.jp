@@ -1,9 +1,6 @@
 ---
 title: seesmicを使ってみた
-description: ''
-date: '2008-01-23T23:56:33.000Z'
-categories: []
-keywords: []
+date: "2008-01-23T23:56:33.000Z"
 tags: ["seesmic", "twitter", "web-service"]
 slug: "a88c9d80-f521-48a4-a123-1877e93d8cb0"
 ---

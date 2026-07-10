@@ -1,9 +1,7 @@
 ---
 title: OmniFocus3 で実現できる新しいワークフロー
 description: OmniFocus 3 for iOSには、細かいですが、簡単に特定のタグを脱着できる機能がつきました。
-date: '2018-05-30T02:51:02.457Z'
-categories: []
-keywords: []
+date: "2018-05-30T02:51:02.457Z"
 tags: ["omnifocus", "productivity", "gtd"]
 slug: "0d26f92f-0cea-4b39-bc77-3b1cea89a8f5"
 ---

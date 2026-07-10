@@ -1,9 +1,7 @@
 ---
 title: Getting Productive with Things 日本語版
 description: Things3のリリースに合わせて、使い方のドキュメントが公開されました。勝手訳しておきます。日本語らしい文章に近づけるために意訳しているところもあります。オリジナルはこちらです。
-date: '2017-05-20T02:20:51.669Z'
-categories: []
-keywords: []
+date: "2017-05-20T02:20:51.669Z"
 tags: ["things", "productivity", "gtd"]
 slug: "373dbb15-685e-4fad-a8dd-e8634e6f7b9a"
 ---

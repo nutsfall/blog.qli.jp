@@ -1,9 +1,6 @@
 ---
 title: Amazon Web Serviceを使ってみた
-description: ''
-date: '2009-02-06T23:56:54.000Z'
-categories: []
-keywords: []
+date: "2009-02-06T23:56:54.000Z"
 tags: ["aws", "amazon-ec2", "amazon-s3"]
 slug: "26738fd9-393b-4821-b665-b1c2af67484b"
 ---

@@ -1,9 +1,6 @@
 ---
-title: '風のクロマ : レミオロメン'
-description: ''
-date: '2008-10-31T22:32:59.000Z'
-categories: []
-keywords: []
+title: "風のクロマ : レミオロメン"
+date: "2008-10-31T22:32:59.000Z"
 tags: ["remioromen", "music"]
 slug: "ec10b058-46dd-40a8-a368-e26e40acd059"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Apple In-Ear Headphones
-description: ''
-date: '2008-12-18T22:25:08.000Z'
-categories: []
-keywords: []
+date: "2008-12-18T22:25:08.000Z"
 tags: ["apple-in-ear-headphones", "shure"]
 slug: "4e656b86-22b5-4994-a4e4-e7b5835fe5a7"
 ---

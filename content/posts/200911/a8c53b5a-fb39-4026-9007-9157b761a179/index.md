@@ -1,9 +1,6 @@
 ---
 title: Web Directions East 09
-description: ''
-date: '2009-11-15T13:42:31.000Z'
-categories: []
-keywords: []
+date: "2009-11-15T13:42:31.000Z"
 tags: ["web-directions-east", "conference"]
 slug: "a8c53b5a-fb39-4026-9007-9157b761a179"
 ---

@@ -1,9 +1,6 @@
 ---
 title: "“次の #LINE “ に添えて"
-description: ''
-date: '2012-07-03T21:06:43.000Z'
-categories: []
-keywords: []
+date: "2012-07-03T21:06:43.000Z"
 tags: ["line", "naver"]
 slug: "ecc090fd-1052-40fe-a48e-557c3c1775e6"
 ---

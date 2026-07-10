@@ -1,9 +1,6 @@
 ---
 title: American Airlinesが機内WiFiサービスを
-description: ''
-date: '2007-08-03T08:54:17.000Z'
-categories: []
-keywords: []
+date: "2007-08-03T08:54:17.000Z"
 tags: ["american-airlines", "in-flight-wifi"]
 slug: "c4573b3a-432b-482e-8eee-c214f880eadd"
 ---

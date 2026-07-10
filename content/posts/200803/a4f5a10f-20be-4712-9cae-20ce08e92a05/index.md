@@ -1,9 +1,6 @@
 ---
 title: ATH-ANC3で音が劇的に変化した
-description: ''
-date: '2008-03-31T22:47:58.000Z'
-categories: []
-keywords: []
+date: "2008-03-31T22:47:58.000Z"
 tags: ["audio-technica", "noise-canceling-headphones"]
 slug: "a4f5a10f-20be-4712-9cae-20ce08e92a05"
 ---

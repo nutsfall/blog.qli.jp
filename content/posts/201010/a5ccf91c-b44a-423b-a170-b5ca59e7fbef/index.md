@@ -1,9 +1,6 @@
 ---
 title: Facebookがようやく日本でも始まってきた
-description: ''
-date: '2010-10-16T10:13:25.000Z'
-categories: []
-keywords: []
+date: "2010-10-16T10:13:25.000Z"
 tags: ["facebook", "social-media"]
 slug: "a5ccf91c-b44a-423b-a170-b5ca59e7fbef"
 ---

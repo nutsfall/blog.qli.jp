@@ -1,9 +1,6 @@
 ---
 title: 久しぶりにfeedpath
-description: ""
 date: "2007-04-04T10:23:00.000Z"
-categories: []
-keywords: []
 tags: ["feedpath", "google-reader"]
 slug: "2aca6e46-2191-4d29-9a34-ff604cc6a3e8"
 ---

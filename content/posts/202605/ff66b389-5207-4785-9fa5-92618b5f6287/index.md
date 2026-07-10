@@ -8,7 +8,6 @@ tags: ["vlog", "journaling"]
 cover:
   image: "cover.png"
   caption: "The big picture, The nitty-gritty"
-draft: false
 ---
 
 よく聞いているラジオのテーマが日記でした。出演者は物書きをしている方が多く、その番組の話題も、いわゆる紙ノートにペンで記す日記の話に終始していました。話の中では、デジタルを冷笑しながら否定するような場面もありました。そういう話を聞きながら、ふと頭に浮かんだのはvlogでした。

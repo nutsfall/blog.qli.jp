@@ -1,9 +1,6 @@
 ---
 title: 使えるブックマークサービス pookmark Airlines
-description: ""
 date: "2006-10-05T22:34:02.000Z"
-categories: []
-keywords: []
 tags: ["pookmark-airlines", "social-bookmarking"]
 slug: "3c5c3b4a-f7ce-4b1b-86ea-f25eb0990441"
 ---

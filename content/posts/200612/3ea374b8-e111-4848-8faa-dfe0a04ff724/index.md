@@ -1,9 +1,6 @@
 ---
 title: Skype 3.0 for Windows 正式版リリース
-description: ''
-date: '2006-12-14T00:17:59.000Z'
-categories: []
-keywords: []
+date: "2006-12-14T00:17:59.000Z"
 tags: ["skype"]
 slug: "3ea374b8-e111-4848-8faa-dfe0a04ff724"
 ---

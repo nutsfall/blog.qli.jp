@@ -1,9 +1,6 @@
 ---
 title: Leopard 雑感
-description: ''
-date: '2007-10-27T15:30:54.000Z'
-categories: []
-keywords: []
+date: "2007-10-27T15:30:54.000Z"
 tags: ["macos", "macbook"]
 slug: "96e4bdc7-4d71-472d-b806-520802633868"
 ---

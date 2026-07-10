@@ -1,9 +1,6 @@
 ---
 title: アジャイルとデザインとコミュニケーション
-description: ''
-date: '2015-05-05T13:30:31.000Z'
-categories: []
-keywords: []
+date: "2015-05-05T13:30:31.000Z"
 tags: ["agile", "ux", "scrum"]
 slug: "342a5fe8-3b85-4cd0-a647-7f056b7637e2"
 ---

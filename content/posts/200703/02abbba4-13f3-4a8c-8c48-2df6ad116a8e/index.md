@@ -1,9 +1,6 @@
 ---
-title: 'Fool on the planet : the pillows'
-description: ''
-date: '2007-03-05T00:10:33.000Z'
-categories: []
-keywords: []
+title: "Fool on the planet : the pillows"
+date: "2007-03-05T00:10:33.000Z"
 tags: ["the-pillows", "music-review"]
 slug: "02abbba4-13f3-4a8c-8c48-2df6ad116a8e"
 ---

@@ -1,9 +1,7 @@
 ---
 title: Apple Watch 7 をどこで使うか
 description: Apple Watch Series 7 の発売直後にMacBook Proがフルパワー全開！してしまったのもあり、導入から数日経ってしまいました。
-date: '2021-10-20T10:46:34.365Z'
-categories: []
-keywords: []
+date: "2021-10-20T10:46:34.365Z"
 tags: ["apple-watch"]
 slug: "c70c1d0c-11e9-45fb-a60e-66c9f0733895"
 ---

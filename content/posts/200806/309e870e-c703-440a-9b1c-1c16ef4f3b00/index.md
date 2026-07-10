@@ -1,9 +1,6 @@
 ---
-title: '優しい響き :: PhilHarmoUniQue'
-description: ''
-date: '2008-06-07T15:55:41.000Z'
-categories: []
-keywords: []
+title: "優しい響き :: PhilHarmoUniQue"
+date: "2008-06-07T15:55:41.000Z"
 tags: ["philharmonique", "music"]
 slug: "309e870e-c703-440a-9b1c-1c16ef4f3b00"
 ---

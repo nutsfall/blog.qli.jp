@@ -1,9 +1,6 @@
 ---
 title: Appleユーザーの憂鬱
-description: ''
-date: '2012-06-14T21:34:13.000Z'
-categories: []
-keywords: []
+date: "2012-06-14T21:34:13.000Z"
 tags: ["apple", "macbook-pro"]
 slug: "d9d4a82d-3e57-48ae-974c-54d2e82ef9ab"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 便利なUI
-description: ''
-date: '2006-10-03T10:48:28.000Z'
-categories: []
-keywords: []
+date: "2006-10-03T10:48:28.000Z"
 tags: ["remember-the-milk", "google-reader"]
 slug: "d6a7a3d5-e749-48e9-8786-44ec6b4685b1"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Buzzが意外と面白い
-description: ''
-date: '2010-02-17T10:27:59.000Z'
-categories: []
-keywords: []
+date: "2010-02-17T10:27:59.000Z"
 tags: ["google-buzz", "social-media"]
 slug: "e5aa9e5a-b346-43ac-9313-38f8b106093c"
 ---

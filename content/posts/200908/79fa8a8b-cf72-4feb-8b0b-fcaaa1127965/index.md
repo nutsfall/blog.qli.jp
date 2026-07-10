@@ -1,9 +1,6 @@
 ---
 title: "#WISH09 で感じたプレゼンテクニック"
-description: ''
-date: '2009-08-25T08:19:42.000Z'
-categories: []
-keywords: []
+date: "2009-08-25T08:19:42.000Z"
 tags: ["wish2009", "presentation"]
 slug: "79fa8a8b-cf72-4feb-8b0b-fcaaa1127965"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 6つのレベルのGTD勉強会
-description: ''
-date: '2011-04-02T10:48:25.000Z'
-categories: []
-keywords: []
+date: "2011-04-02T10:48:25.000Z"
 tags: ["gtd", "productivity", "agile"]
 slug: "a3f16a71-02d1-4eca-b50f-0aaf07ce5ac5"
 ---

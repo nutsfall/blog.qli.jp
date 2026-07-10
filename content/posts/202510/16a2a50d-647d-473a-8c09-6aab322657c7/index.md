@@ -5,7 +5,6 @@ tags: ["things-app", "task-management", "apple-intelligence"]
 slug: "16a2a50d-647d-473a-8c09-6aab322657c7"
 source: "medium"
 original_url: "https://medium.com/@hiro/things-app%E3%81%AEinbox%E3%82%92%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B-2e831224db25?source=rss-21bfda6f823e------2"
-draft: false
 ---
 
 本題に入る前に。これから Things という名前のアプリの話をします。Things ってアプリ名は一般用語なので、Things.app と表現しようと思います。ちなみに Things.app は公式 Bluesky アカウントのアカウント名でもあります（[@things.app](https://bsky.app/profile/things.app)）。

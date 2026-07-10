@@ -1,9 +1,6 @@
 ---
 title: googleパーソナライズ日本語版にタブが追加
-description: ''
-date: '2006-10-27T14:05:14.000Z'
-categories: []
-keywords: []
+date: "2006-10-27T14:05:14.000Z"
 tags: ["google", "personalized-homepage"]
 slug: "a36c0b4c-10b4-4306-9ddb-7db1a65b9a10"
 ---

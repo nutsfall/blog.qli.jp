@@ -1,9 +1,6 @@
 ---
 title: オーガニックコットンＴシャツを買いました
-description: ''
-date: '2008-05-20T21:13:20.000Z'
-categories: []
-keywords: []
+date: "2008-05-20T21:13:20.000Z"
 tags: ["organic-cotton", "kurkku", "fashion"]
 slug: "1dc4ccca-0ab4-4123-9e71-5f023ba131b8"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 界隈ごとにアカウントを作る
-description: ''
-date: '2023-09-09T03:01:48.268Z'
-categories: []
-keywords: []
+date: "2023-09-09T03:01:48.268Z"
 tags: ["twitter", "online-community"]
 slug: "6801c67d-24f6-437d-991b-f7761a74d555"
 ---

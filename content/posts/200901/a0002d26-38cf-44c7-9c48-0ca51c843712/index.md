@@ -1,9 +1,6 @@
 ---
 title: VAIO Type P, Palm Pre, Windows 7
-description: ''
-date: '2009-01-10T19:07:42.000Z'
-categories: []
-keywords: []
+date: "2009-01-10T19:07:42.000Z"
 tags: ["vaio", "palm-pre", "windows-7"]
 slug: "a0002d26-38cf-44c7-9c48-0ca51c843712"
 ---

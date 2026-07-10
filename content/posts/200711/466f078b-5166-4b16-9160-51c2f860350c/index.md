@@ -1,9 +1,6 @@
 ---
-title: 'Re: Google Gadgetがwidgetになる？'
-description: ''
-date: '2007-11-29T22:53:54.000Z'
-categories: []
-keywords: []
+title: "Re: Google Gadgetがwidgetになる？"
+date: "2007-11-29T22:53:54.000Z"
 tags: ["google", "mac", "dashboard"]
 slug: "466f078b-5166-4b16-9160-51c2f860350c"
 ---

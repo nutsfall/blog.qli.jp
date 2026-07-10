@@ -1,9 +1,6 @@
 ---
 title: 石の文化と木の文化
-description: ''
-date: '2015-03-22T12:14:09.000Z'
-categories: []
-keywords: []
+date: "2015-03-22T12:14:09.000Z"
 tags: ["japanese-culture", "architecture"]
 slug: "47e07f66-e745-4729-b5ea-fd82f9849993"
 ---

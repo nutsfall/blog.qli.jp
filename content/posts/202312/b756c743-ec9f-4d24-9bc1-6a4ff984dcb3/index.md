@@ -1,9 +1,6 @@
 ---
 title: 毎週記事を書くということ
-description: ''
-date: '2023-12-16T03:02:01.290Z'
-categories: []
-keywords: []
+date: "2023-12-16T03:02:01.290Z"
 tags: ["medium", "blogging"]
 slug: "b756c743-ec9f-4d24-9bc1-6a4ff984dcb3"
 ---

@@ -1,9 +1,7 @@
 ---
 title: 音楽で感じる夏
 description: 夏フェスに行ってきました。いく予定もなかったのですが、いろんな条件が重なって、1日だけ参加することにしたのです。
-date: '2024-08-10T11:29:57.398Z'
-categories: []
-keywords: []
+date: "2024-08-10T11:29:57.398Z"
 tags: ["music-festival", "summer", "sun-care"]
 slug: "747f70d4-3cdc-4d90-9a33-b14e67ef7adf"
 cover:

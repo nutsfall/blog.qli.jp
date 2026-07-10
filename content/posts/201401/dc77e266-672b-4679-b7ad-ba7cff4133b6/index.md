@@ -1,9 +1,6 @@
 ---
 title: バッテリーを著しく消費するアプリケーション
-description: ''
-date: '2014-01-21T00:17:22.000Z'
-categories: []
-keywords: []
+date: "2014-01-21T00:17:22.000Z"
 tags: ["fitbit", "iphone", "battery"]
 slug: "dc77e266-672b-4679-b7ad-ba7cff4133b6"
 ---

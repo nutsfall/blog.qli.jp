@@ -1,9 +1,6 @@
 ---
 title: OmniFocusを本格的に使い出して気づいたこと
-description: ''
-date: '2008-03-13T23:58:14.000Z'
-categories: []
-keywords: []
+date: "2008-03-13T23:58:14.000Z"
 tags: ["omnifocus", "task-management"]
 slug: "6c567d13-cf71-4966-ae8f-40a68697da92"
 ---

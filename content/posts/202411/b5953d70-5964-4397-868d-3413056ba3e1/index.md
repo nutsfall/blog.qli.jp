@@ -1,9 +1,7 @@
 ---
 title: iPad Pro M4 (11インチ) 6ヶ月使ってみてどう？
 description: iPad Pro M4 (11インチ)をお迎えしてから約半年が経った。もちろん、毎日使っている。今の使い方をまとめてみた。
-date: '2024-11-23T03:02:10.880Z'
-categories: []
-keywords: []
+date: "2024-11-23T03:02:10.880Z"
 tags: ["ipad-pro", "apple"]
 slug: "b5953d70-5964-4397-868d-3413056ba3e1"
 ---

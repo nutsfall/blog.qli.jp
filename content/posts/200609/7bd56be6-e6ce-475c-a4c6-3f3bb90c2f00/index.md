@@ -1,9 +1,6 @@
 ---
 title: Skype day for mac user
-description: ''
-date: '2006-09-20T23:04:04.000Z'
-categories: []
-keywords: []
+date: "2006-09-20T23:04:04.000Z"
 tags: ["skype", "mac"]
 slug: "7bd56be6-e6ce-475c-a4c6-3f3bb90c2f00"
 ---

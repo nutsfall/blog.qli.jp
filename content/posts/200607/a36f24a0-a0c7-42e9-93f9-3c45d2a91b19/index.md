@@ -1,9 +1,6 @@
 ---
-title: 'モバイル編集部、ただいま取材中: esにいろいろ驚いた1日 [ITmedia D Blog]'
-description: ''
-date: '2006-07-06T14:35:32.000Z'
-categories: []
-keywords: []
+title: "モバイル編集部、ただいま取材中: esにいろいろ驚いた1日 [ITmedia D Blog]"
+date: "2006-07-06T14:35:32.000Z"
 tags: ["w-zero3", "windows-mobile"]
 slug: "a36f24a0-a0c7-42e9-93f9-3c45d2a91b19"
 ---

@@ -1,9 +1,6 @@
 ---
 title: なぜ13インチを選んだか
-description: ''
-date: '2010-10-23T00:15:43.000Z'
-categories: []
-keywords: []
+date: "2010-10-23T00:15:43.000Z"
 tags: ["macbook-air", "apple"]
 slug: "11cff967-a163-4b10-b6c2-d481a799f320"
 ---

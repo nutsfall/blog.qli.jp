@@ -1,9 +1,6 @@
 ---
 title: UP by Jawboneで食事の記録を入れてみた
-description: ''
-date: '2013-05-10T20:47:40.000Z'
-categories: []
-keywords: []
+date: "2013-05-10T20:47:40.000Z"
 tags: ["jawbone-up", "fitness-tracking"]
 slug: "8ad3eaa9-be75-4318-906d-d516fdefdee8"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Google App Engineとは何か？
-description: ''
-date: '2008-04-08T12:35:34.000Z'
-categories: []
-keywords: []
+date: "2008-04-08T12:35:34.000Z"
 tags: ["google-app-engine", "python"]
 slug: "348226b3-38b1-4fce-bf44-dcf7d3db0404"
 ---

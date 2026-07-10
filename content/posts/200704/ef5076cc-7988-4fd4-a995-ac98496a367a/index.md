@@ -1,9 +1,6 @@
 ---
 title: 都知事選挙
-description: ''
-date: '2007-04-08T23:16:50.000Z'
-categories: []
-keywords: []
+date: "2007-04-08T23:16:50.000Z"
 tags: ["tokyo-governor-election"]
 slug: "ef5076cc-7988-4fd4-a995-ac98496a367a"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Parrot Zik 2.0 ファーストインプレッション
-description: ''
-date: '2014-11-18T22:56:47.000Z'
-categories: []
-keywords: []
+date: "2014-11-18T22:56:47.000Z"
 tags: ["parrot-zik", "headphones"]
 slug: "a94ea232-5c0f-4514-9657-03fd7b1a95e2"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 後発組 GTDツール The Hit List
-description: ''
-date: '2009-08-19T08:01:26.000Z'
-categories: []
-keywords: []
+date: "2009-08-19T08:01:26.000Z"
 tags: ["gtd", "the-hit-list"]
 slug: "790baf8d-d746-4abc-a7be-bcfeb97314b1"
 ---

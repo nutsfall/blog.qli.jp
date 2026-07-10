@@ -1,9 +1,6 @@
 ---
 title: Appleが語り尽くせないほど語った
-description: ''
-date: '2013-10-23T20:28:23.000Z'
-categories: []
-keywords: []
+date: "2013-10-23T20:28:23.000Z"
 tags: ["apple", "ipad", "os-x"]
 slug: "bf4ab6dd-8f79-4da0-88da-7b1657111257"
 ---

@@ -1,9 +1,6 @@
 ---
 title: au HOME SPOT CUBE
-description: ''
-date: '2012-05-05T22:36:36.000Z'
-categories: []
-keywords: []
+date: "2012-05-05T22:36:36.000Z"
 tags: ["au", "wi-fi"]
 slug: "3bd71cbe-179c-40ef-a17c-abf00c7d3227"
 ---

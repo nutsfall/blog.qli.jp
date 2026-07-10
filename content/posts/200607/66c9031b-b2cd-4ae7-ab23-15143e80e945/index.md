@@ -1,9 +1,6 @@
 ---
 title: "> Armchair travel with Google Pack"
-description: ""
 date: "2006-07-06T12:38:00.000Z"
-categories: []
-keywords: []
 tags: ["google-pack"]
 slug: "66c9031b-b2cd-4ae7-ab23-15143e80e945"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 星に簡単に手が届くとは思っていない。でも欲しい。
-description: ''
-date: '2023-11-02T08:39:09.956Z'
-categories: []
-keywords: []
+date: "2023-11-02T08:39:09.956Z"
 tags: ["avispa-fukuoka", "j-league", "levain-cup"]
 slug: "76575499-c7c4-4acc-a02b-678d0ef1f3e6"
 ---

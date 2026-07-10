@@ -1,9 +1,6 @@
 ---
 title: Tb2 beta2を意図せず常用してみた
-description: ''
-date: '2007-01-26T14:58:07.000Z'
-categories: []
-keywords: []
+date: "2007-01-26T14:58:07.000Z"
 tags: ["thunderbird"]
 slug: "d54901d2-dbdf-4dfe-82e1-b18b567ffe3e"
 ---

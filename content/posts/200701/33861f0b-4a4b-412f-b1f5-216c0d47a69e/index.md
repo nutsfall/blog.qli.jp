@@ -1,9 +1,6 @@
 ---
-title: 'On Vox: BESTYO : Hitotoyo'
-description: ''
-date: '2007-01-08T22:38:10.000Z'
-categories: []
-keywords: []
+title: "On Vox: BESTYO : Hitotoyo"
+date: "2007-01-08T22:38:10.000Z"
 tags: ["hitotoyo", "music"]
 slug: "33861f0b-4a4b-412f-b1f5-216c0d47a69e"
 ---

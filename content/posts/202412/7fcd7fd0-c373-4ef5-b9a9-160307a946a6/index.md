@@ -2,8 +2,6 @@
 title: 2024年のふりかえり — 音楽編
 description: 今年もたくさんの音楽に出会うことができた。その中から、今年の音楽の中で個人的なハイライトをまとめて置く。
 date: "2024-12-21T03:02:07.968Z"
-categories: []
-keywords: []
 slug: "7fcd7fd0-c373-4ef5-b9a9-160307a946a6"
 tags: ["music", "year-in-review"]
 cover:

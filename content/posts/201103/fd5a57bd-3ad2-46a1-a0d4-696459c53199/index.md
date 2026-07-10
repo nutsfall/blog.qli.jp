@@ -1,9 +1,6 @@
 ---
 title: 東北地方太平洋沖地震にふれて
-description: ''
-date: '2011-03-17T12:03:29.000Z'
-categories: []
-keywords: []
+date: "2011-03-17T12:03:29.000Z"
 tags: ["earthquake", "tohoku"]
 slug: "fd5a57bd-3ad2-46a1-a0d4-696459c53199"
 ---

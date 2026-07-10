@@ -1,9 +1,6 @@
 ---
 title: 絶望の国の幸福な若者たち
-description: ''
-date: '2012-03-21T21:13:15.000Z'
-categories: []
-keywords: []
+date: "2012-03-21T21:13:15.000Z"
 tags: ["book-review", "sociology"]
 slug: "6bbbf761-92c1-42ac-8b25-a0cd500768e1"
 ---

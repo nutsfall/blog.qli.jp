@@ -1,9 +1,6 @@
 ---
 title: LISMO unlimited が iPhone をサポート
-description: ''
-date: '2012-05-11T20:46:09.000Z'
-categories: []
-keywords: []
+date: "2012-05-11T20:46:09.000Z"
 tags: ["lismo", "kddi", "music-streaming"]
 slug: "de995413-cd02-49ff-8997-2702f27257c7"
 ---

@@ -1,9 +1,6 @@
 ---
-title: 'B-SIDE :: Mr.Children'
-description: ''
-date: '2007-05-09T23:00:04.000Z'
-categories: []
-keywords: []
+title: "B-SIDE :: Mr.Children"
+date: "2007-05-09T23:00:04.000Z"
 tags: ["mr-children", "music"]
 slug: "012748e5-b3f2-4fd0-831f-a7ca562c446e"
 ---

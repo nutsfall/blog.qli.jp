@@ -1,9 +1,6 @@
 ---
 title: GTDにおけるユビキタスキャプチャのTips
-description: ''
-date: '2008-01-06T13:45:25.000Z'
-categories: []
-keywords: []
+date: "2008-01-06T13:45:25.000Z"
 tags: ["gtd", "ubiquitous-capture", "productivity"]
 slug: "b20d73e9-370f-492b-92e6-b904a8822efd"
 ---

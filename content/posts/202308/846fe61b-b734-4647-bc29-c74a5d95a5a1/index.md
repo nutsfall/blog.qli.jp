@@ -1,9 +1,6 @@
 ---
 title: iPhone の端子がUSB-Cになると変わるもの・変わらないもの
-description: ''
-date: '2023-08-26T03:02:25.567Z'
-categories: []
-keywords: []
+date: "2023-08-26T03:02:25.567Z"
 tags: ["iphone", "usb-c", "apple"]
 slug: "846fe61b-b734-4647-bc29-c74a5d95a5a1"
 ---

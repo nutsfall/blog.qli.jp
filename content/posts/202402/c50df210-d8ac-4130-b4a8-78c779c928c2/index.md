@@ -1,9 +1,7 @@
 ---
 title: Apple製品の充電環境の整理と更新
 description: Lightning端子が出てくる機会が減りました
-date: '2024-02-03T03:01:42.904Z'
-categories: []
-keywords: []
+date: "2024-02-03T03:01:42.904Z"
 tags: ["belkin", "magsafe", "airpods-pro"]
 slug: "c50df210-d8ac-4130-b4a8-78c779c928c2"
 ---

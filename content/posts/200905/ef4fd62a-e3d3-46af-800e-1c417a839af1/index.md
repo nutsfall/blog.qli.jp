@@ -1,9 +1,6 @@
 ---
 title: アイデアを管理するためのアプリとサービス
-description: ''
-date: '2009-05-30T08:51:19.000Z'
-categories: []
-keywords: []
+date: "2009-05-30T08:51:19.000Z"
 tags: ["productivity", "task-management", "gtd"]
 slug: "ef4fd62a-e3d3-46af-800e-1c417a839af1"
 ---

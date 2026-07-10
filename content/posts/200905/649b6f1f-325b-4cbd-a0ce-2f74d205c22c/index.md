@@ -1,9 +1,6 @@
 ---
 title: Mac OS X 10.5.7 リリース
-description: ''
-date: '2009-05-13T08:23:03.000Z'
-categories: []
-keywords: []
+date: "2009-05-13T08:23:03.000Z"
 tags: ["mac-os-x", "iphone-os"]
 slug: "649b6f1f-325b-4cbd-a0ce-2f74d205c22c"
 ---

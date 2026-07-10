@@ -1,9 +1,6 @@
 ---
 title: Advantage Lucy LIVE at CLUB QUE
-description: ''
-date: '2009-12-23T23:08:23.000Z'
-categories: []
-keywords: []
+date: "2009-12-23T23:08:23.000Z"
 tags: ["advantage-lucy", "live-music"]
 slug: "762a8d89-679e-4f91-be16-c1ec4722af74"
 ---

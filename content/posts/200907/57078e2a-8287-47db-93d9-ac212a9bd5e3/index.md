@@ -1,9 +1,6 @@
 ---
 title: GoogleがChrome OS を発表した
-description: ''
-date: '2009-07-09T12:59:51.000Z'
-categories: []
-keywords: []
+date: "2009-07-09T12:59:51.000Z"
 tags: ["google-chrome-os"]
 slug: "57078e2a-8287-47db-93d9-ac212a9bd5e3"
 ---

@@ -1,9 +1,6 @@
 ---
 title: safari 4 public beta for OS X
-description: ''
-date: '2009-02-24T23:41:30.000Z'
-categories: []
-keywords: []
+date: "2009-02-24T23:41:30.000Z"
 tags: ["safari", "browser"]
 slug: "1423b337-99d1-4d5b-8634-4aa211cb86f8"
 ---

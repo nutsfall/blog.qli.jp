@@ -1,9 +1,6 @@
 ---
 title: iPad Airを買いました
-description: ''
-date: '2013-11-03T23:38:10.000Z'
-categories: []
-keywords: []
+date: "2013-11-03T23:38:10.000Z"
 tags: ["ipad-air", "apple"]
 slug: "cb02c575-041a-4146-88fd-8914aa23ac92"
 ---

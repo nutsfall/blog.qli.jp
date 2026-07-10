@@ -1,9 +1,6 @@
 ---
 title: iPhone やめました をよんで
-description: ''
-date: '2009-12-27T11:12:18.000Z'
-categories: []
-keywords: []
+date: "2009-12-27T11:12:18.000Z"
 tags: ["iphone", "au"]
 slug: "b414ef09-463f-4226-abe9-086dc76f790a"
 ---

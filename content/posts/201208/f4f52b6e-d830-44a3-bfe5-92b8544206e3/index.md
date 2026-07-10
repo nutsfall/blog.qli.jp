@@ -1,9 +1,6 @@
 ---
 title: 作り出された Apple vs Googleの構図
-description: ''
-date: '2012-08-07T08:34:50.000Z'
-categories: []
-keywords: []
+date: "2012-08-07T08:34:50.000Z"
 tags: ["apple", "google", "ios"]
 slug: "f4f52b6e-d830-44a3-bfe5-92b8544206e3"
 ---

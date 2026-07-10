@@ -1,9 +1,6 @@
 ---
 title: ウェブ人間論読みました
-description: ''
-date: '2006-12-25T22:17:09.000Z'
-categories: []
-keywords: []
+date: "2006-12-25T22:17:09.000Z"
 tags: ["web2.0", "book-review"]
 slug: "3b718152-0e2f-4b0c-995c-6c6a14727f1b"
 ---

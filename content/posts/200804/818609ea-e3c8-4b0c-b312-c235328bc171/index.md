@@ -1,9 +1,6 @@
 ---
-title: 'タイム :: Yeux.'
-description: ''
-date: '2008-04-27T23:19:35.000Z'
-categories: []
-keywords: []
+title: "タイム :: Yeux."
+date: "2008-04-27T23:19:35.000Z"
 tags: ["yeux", "music"]
 slug: "818609ea-e3c8-4b0c-b312-c235328bc171"
 ---

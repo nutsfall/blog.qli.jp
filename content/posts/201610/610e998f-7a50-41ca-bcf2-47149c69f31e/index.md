@@ -1,9 +1,6 @@
 ---
 title: 焼芋の季節の林檎と西瓜
-description: ''
-date: '2016-10-29T00:20:00.000Z'
-categories: []
-keywords: []
+date: "2016-10-29T00:20:00.000Z"
 tags: ["apple", "j-league", "fifa17"]
 slug: "610e998f-7a50-41ca-bcf2-47149c69f31e"
 ---

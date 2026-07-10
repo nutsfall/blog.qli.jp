@@ -1,9 +1,6 @@
 ---
 title: GoogleがSaaSを開始
-description: ''
-date: '2007-02-22T17:51:50.000Z'
-categories: []
-keywords: []
+date: "2007-02-22T17:51:50.000Z"
 tags: ["google", "saas"]
 slug: "7e3c36d0-5242-48d2-adfd-a97cdb3dfb0f"
 ---

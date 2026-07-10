@@ -1,9 +1,6 @@
 ---
 title: ベスト盤を考えてみる（Mr.Childrenがかつて出した3枚のCDを通じて）
-description: ''
-date: '2010-10-25T19:44:27.000Z'
-categories: []
-keywords: []
+date: "2010-10-25T19:44:27.000Z"
 tags: ["mr-children", "music"]
 slug: "08a42b11-c3bd-45aa-b1f6-28e2115b194a"
 ---

@@ -19,12 +19,14 @@
 - [x] インポート処理側で除去するようにし、今後の流入を止める
   - GitHub Actions 側（medium-import.yml 内の変換処理）は 2026-03-31 のコミット 96afbd6 で対応済みだった。今回 process_new_posts.rb にも除去処理を追加し二重の保険とした
 
-### Phase 2: フロントマター正規化
+### Phase 2: フロントマター正規化（完了）
 
-- [ ] 空の `categories: []` / `keywords: []` を削除（1832件）
-- [ ] 空の `description: ''` を削除（1386件）
-- [ ] YAMLクォートスタイル統一（シングル1658件 vs ダブル216件）
-- [ ] 新旧スキーマの統一（`source:` / `original_url:` 持ち42件と旧スキーマの整合）
+- [x] 空の `categories: []` / `keywords: []` を削除（各1832件）
+- [x] 空の `description` を削除（1534件。`''` 1386 + `""` 148）
+- [x] 冗長な `draft: false` を削除（42件）
+- [x] YAMLクォートスタイル統一（date 1658 / title 115 / description 5 をダブルクォート化）
+- スクリプト: `scripts/frontmatter_normalizer.rb`（本文バイト不変・YAML意味等価をアサート済み）
+- 新旧スキーマの `source:` / `original_url:` の差は残置（旧記事の元URLは復元不能。「保留 / 要決定」参照）
 
 ### Phase 3: リンク形式の正規化
 
@@ -57,3 +59,5 @@
 ## 未分類の発見
 
 （作業中に見つかった新しい課題をここに追記する）
+
+- Phase 2 で発見: 値ありの `description`（299件）の大半が本文冒頭の文とほぼ完全一致している（Mediumのsubtitle由来）。重複を削除するか、要約として活かすか要検討

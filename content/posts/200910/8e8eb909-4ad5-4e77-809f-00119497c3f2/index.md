@@ -1,9 +1,6 @@
 ---
 title: Things と OmniFocus ( 43Folders )
-description: ''
-date: '2009-10-27T09:38:41.000Z'
-categories: []
-keywords: []
+date: "2009-10-27T09:38:41.000Z"
 tags: ["gtd", "omnifocus", "things"]
 slug: "8e8eb909-4ad5-4e77-809f-00119497c3f2"
 ---

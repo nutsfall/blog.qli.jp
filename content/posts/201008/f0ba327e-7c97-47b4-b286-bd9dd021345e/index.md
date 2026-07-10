@@ -1,9 +1,6 @@
 ---
 title: とうきょう
-description: ''
-date: '2010-08-05T22:10:08.000Z'
-categories: []
-keywords: []
+date: "2010-08-05T22:10:08.000Z"
 tags: ["music", "mr-children", "kururi"]
 slug: "f0ba327e-7c97-47b4-b286-bd9dd021345e"
 ---

@@ -1,9 +1,6 @@
 ---
-title: 'Mr.Children HOME — in the field — : Mr.Children'
-description: ''
-date: '2008-08-14T21:49:37.000Z'
-categories: []
-keywords: []
+title: "Mr.Children HOME — in the field — : Mr.Children"
+date: "2008-08-14T21:49:37.000Z"
 tags: ["mr-children", "live-dvd"]
 slug: "8f856a05-18ff-4c52-aa9a-bda00e452883"
 ---

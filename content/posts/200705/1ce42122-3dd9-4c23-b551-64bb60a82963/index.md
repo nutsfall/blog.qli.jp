@@ -1,9 +1,6 @@
 ---
 title: iGoogle がリリース
-description: ''
-date: '2007-05-01T12:17:45.000Z'
-categories: []
-keywords: []
+date: "2007-05-01T12:17:45.000Z"
 tags: ["igoogle", "google"]
 slug: "1ce42122-3dd9-4c23-b551-64bb60a82963"
 ---

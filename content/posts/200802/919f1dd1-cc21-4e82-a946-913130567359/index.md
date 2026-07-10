@@ -1,9 +1,6 @@
 ---
 title: NetScapeユーザのための移行ガイド
-description: ''
-date: '2008-02-01T22:23:32.000Z'
-categories: []
-keywords: []
+date: "2008-02-01T22:23:32.000Z"
 tags: ["netscape", "firefox", "browser-migration"]
 slug: "919f1dd1-cc21-4e82-a946-913130567359"
 ---

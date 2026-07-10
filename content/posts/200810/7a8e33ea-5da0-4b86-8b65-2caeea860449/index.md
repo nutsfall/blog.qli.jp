@@ -1,9 +1,6 @@
 ---
 title: GTD Free
-description: ''
-date: '2008-10-28T22:50:07.000Z'
-categories: []
-keywords: []
+date: "2008-10-28T22:50:07.000Z"
 tags: ["gtd", "lifehacker"]
 slug: "7a8e33ea-5da0-4b86-8b65-2caeea860449"
 ---

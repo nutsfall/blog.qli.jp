@@ -1,9 +1,6 @@
 ---
 title: coComment日本語版が登場しました
-description: ""
 date: "2006-11-21T10:26:01.000Z"
-categories: []
-keywords: []
 tags: ["cocomment", "web-services"]
 slug: "c19b76ec-fff0-4940-9716-394173a544b5"
 ---

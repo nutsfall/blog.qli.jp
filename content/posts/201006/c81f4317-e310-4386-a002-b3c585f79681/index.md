@@ -1,9 +1,6 @@
 ---
 title: Pocket wifiを入手しました
-description: ''
-date: '2010-06-05T13:33:46.000Z'
-categories: []
-keywords: []
+date: "2010-06-05T13:33:46.000Z"
 tags: ["pocket-wifi", "softbank"]
 slug: "c81f4317-e310-4386-a002-b3c585f79681"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 使っているツール・サービス(2017年1月)
-description: ''
-date: '2017-01-08T03:26:03.901Z'
-categories: []
-keywords: []
+date: "2017-01-08T03:26:03.901Z"
 tags: ["productivity", "omnifocus", "tools"]
 slug: "64b7b3a7-5c8a-4698-bf41-d3cf65ee719a"
 ---

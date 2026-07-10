@@ -1,9 +1,6 @@
 ---
 title: Twitが窓の杜金賞を受賞されました
-description: ''
-date: '2007-12-21T22:12:11.000Z'
-categories: []
-keywords: []
+date: "2007-12-21T22:12:11.000Z"
 tags: ["twitter", "twit"]
 slug: "784b84e4-c6f1-4380-8227-c227dd0244ff"
 ---

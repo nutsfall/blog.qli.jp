@@ -1,9 +1,6 @@
 ---
 title: "“Gran Paradiso”リリース"
-description: ''
-date: '2006-12-11T16:21:49.000Z'
-categories: []
-keywords: []
+date: "2006-12-11T16:21:49.000Z"
 tags: ["firefox"]
 slug: "42ba3043-31b1-4eab-a6fd-4ee3ea82b2c8"
 ---

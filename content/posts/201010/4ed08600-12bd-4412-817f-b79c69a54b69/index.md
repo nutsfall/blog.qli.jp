@@ -1,9 +1,6 @@
 ---
 title: Appleが”Back to the Mac”イベントを20日に開催
-description: ''
-date: '2010-10-14T06:58:52.000Z'
-categories: []
-keywords: []
+date: "2010-10-14T06:58:52.000Z"
 tags: ["apple", "macos"]
 slug: "4ed08600-12bd-4412-817f-b79c69a54b69"
 ---

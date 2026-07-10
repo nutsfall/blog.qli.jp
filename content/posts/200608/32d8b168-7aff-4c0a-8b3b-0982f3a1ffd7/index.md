@@ -1,9 +1,6 @@
 ---
 title: VOXのつながる機能
-description: ''
-date: '2006-08-29T11:21:10.000Z'
-categories: []
-keywords: []
+date: "2006-08-29T11:21:10.000Z"
 tags: ["vox", "social-networking"]
 slug: "32d8b168-7aff-4c0a-8b3b-0982f3a1ffd7"
 ---

@@ -1,9 +1,6 @@
 ---
 title: アンフェア the movie
-description: ''
-date: '2011-09-20T07:36:29.000Z'
-categories: []
-keywords: []
+date: "2011-09-20T07:36:29.000Z"
 tags: ["unfair", "film"]
 slug: "303128ef-05d2-4b9e-a15f-363412fc2672"
 ---

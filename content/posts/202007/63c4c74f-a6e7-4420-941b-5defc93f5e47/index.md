@@ -1,9 +1,7 @@
 ---
 title: BasecampがHEYで解決したい課題とは
 description: Basecampが用意している HEYのTour featuresをきちんと読んでおこうと思いまして。だったらついでにブログに雑にまとめていこうと、そういう趣旨の記事です。
-date: '2020-07-07T13:22:52.425Z'
-categories: []
-keywords: []
+date: "2020-07-07T13:22:52.425Z"
 tags: ["hey", "email", "basecamp"]
 slug: "63c4c74f-a6e7-4420-941b-5defc93f5e47"
 ---

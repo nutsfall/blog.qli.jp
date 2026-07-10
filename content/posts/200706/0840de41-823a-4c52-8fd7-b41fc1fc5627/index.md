@@ -1,9 +1,6 @@
 ---
 title: new MBP
-description: ''
-date: '2007-06-05T21:25:48.000Z'
-categories: []
-keywords: []
+date: "2007-06-05T21:25:48.000Z"
 tags: ["macbook-pro", "apple"]
 slug: "0840de41-823a-4c52-8fd7-b41fc1fc5627"
 ---

@@ -1,9 +1,6 @@
 ---
 title: "[アンケート]あなたとあなたの周りのWEB環境について"
-description: ''
-date: '2007-10-11T23:08:45.000Z'
-categories: []
-keywords: []
+date: "2007-10-11T23:08:45.000Z"
 tags: ["web-services", "survey"]
 slug: "97ffa8f6-2cde-43c3-a95e-b00fa06d36ba"
 ---

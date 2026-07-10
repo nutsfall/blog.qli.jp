@@ -1,9 +1,6 @@
 ---
 title: Twitter as a Service
-description: ''
-date: '2009-10-09T08:11:06.000Z'
-categories: []
-keywords: []
+date: "2009-10-09T08:11:06.000Z"
 tags: ["twitter", "decentralization"]
 slug: "1a9f05ce-b439-43b4-8743-d8a98d275aeb"
 ---

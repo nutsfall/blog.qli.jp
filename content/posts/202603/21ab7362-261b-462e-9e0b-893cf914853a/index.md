@@ -5,7 +5,6 @@ slug: "21ab7362-261b-462e-9e0b-893cf914853a"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E7%9C%9F%E3%81%A3%E7%99%BD%E3%81%AA%E3%83%95%E3%82%9A%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%86%E3%82%99%E3%83%8F%E3%82%99%E3%82%A4%E3%82%B9-24fde426b915?source=rss-21bfda6f823e------2"
 tags: ["apple", "ipod-shuffle"]
-draft: false
 ---
 
 最初のAppleデバイスはiPod Shuffleだった。長細くて白い、プラスティックで作られたそれは、下部に切り込みが入ってて、それを外すとUSB-A端子があらわれた。それをPCに指すと充電と同時に音楽の同期が行われる。

@@ -1,9 +1,6 @@
 ---
 title: OS X Lionが発売された
-description: ''
-date: '2011-07-23T10:38:29.000Z'
-categories: []
-keywords: []
+date: "2011-07-23T10:38:29.000Z"
 tags: ["os-x-lion", "macos"]
 slug: "b09ffa45-b805-4df5-9a77-b25f49eca547"
 ---

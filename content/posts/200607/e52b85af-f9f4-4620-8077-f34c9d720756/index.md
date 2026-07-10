@@ -1,9 +1,6 @@
 ---
 title: W-ZERO3[es]購入休止
-description: ""
 date: "2006-07-23T16:21:00.000Z"
-categories: []
-keywords: []
 tags: ["w-zero3", "willcom"]
 slug: "e52b85af-f9f4-4620-8077-f34c9d720756"
 ---

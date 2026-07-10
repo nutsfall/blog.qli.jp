@@ -1,9 +1,6 @@
 ---
 title: i d e a * i d e a — GTD徹底研究会！
-description: ''
-date: '2006-07-27T16:18:39.000Z'
-categories: []
-keywords: []
+date: "2006-07-27T16:18:39.000Z"
 tags: ["gtd", "productivity"]
 slug: "b25d1de3-186d-4610-974d-fc5c244f7d2f"
 ---

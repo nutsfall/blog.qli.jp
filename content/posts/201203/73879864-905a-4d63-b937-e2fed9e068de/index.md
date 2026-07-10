@@ -1,9 +1,6 @@
 ---
 title: AppleTVとiPad
-description: ''
-date: '2012-03-17T23:18:09.000Z'
-categories: []
-keywords: []
+date: "2012-03-17T23:18:09.000Z"
 tags: ["ipad", "apple-tv"]
 slug: "73879864-905a-4d63-b937-e2fed9e068de"
 ---

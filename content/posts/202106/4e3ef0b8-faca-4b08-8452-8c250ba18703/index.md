@@ -1,9 +1,7 @@
 ---
 title: ヘッドフォン T3–01 インプレッション
 description: Apple Musicにロスレスがきて、Work From Home している間、ONKYO DA-10 を使って音楽を聴きまくっているのですが、もっといい音で聴きたくなりました。
-date: '2021-06-24T11:13:05.512Z'
-categories: []
-keywords: []
+date: "2021-06-24T11:13:05.512Z"
 tags: ["headphones", "apple-music"]
 slug: "4e3ef0b8-faca-4b08-8452-8c250ba18703"
 ---

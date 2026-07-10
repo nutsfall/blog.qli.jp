@@ -1,9 +1,6 @@
 ---
 title: feedpathの法人向け事業がついに公に
-description: ''
-date: '2006-07-14T16:50:11.000Z'
-categories: []
-keywords: []
+date: "2006-07-14T16:50:11.000Z"
 tags: ["feedpath", "web2.0", "enterprise"]
 slug: "c2ff3585-e1ec-4d36-bb6e-b77dae67a34d"
 ---

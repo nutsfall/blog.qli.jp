@@ -1,9 +1,6 @@
 ---
 title: Google Latitudeを使ってみて
-description: ''
-date: '2010-12-30T00:41:11.000Z'
-categories: []
-keywords: []
+date: "2010-12-30T00:41:11.000Z"
 tags: ["google-latitude", "location-sharing"]
 slug: "4a7ef89e-9848-4f05-b78f-1687dc1672ec"
 ---

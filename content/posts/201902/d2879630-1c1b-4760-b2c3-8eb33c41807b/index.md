@@ -1,9 +1,7 @@
 ---
 title: 2019シーズンのアビスパ想定
 description: 楽しみすぎるので、これまでにあった情報をもとに想定してみた。まだ生で見ていないので、当たったらいいな。
-date: '2019-02-22T00:40:54.917Z'
-categories: []
-keywords: []
+date: "2019-02-22T00:40:54.917Z"
 tags: ["avispa-fukuoka", "j-league", "soccer-tactics"]
 slug: "d2879630-1c1b-4760-b2c3-8eb33c41807b"
 ---

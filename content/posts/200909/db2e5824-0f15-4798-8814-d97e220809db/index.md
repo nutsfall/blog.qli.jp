@@ -1,9 +1,6 @@
 ---
 title: タスク分解とSOV型
-description: ''
-date: '2009-09-27T11:46:54.000Z'
-categories: []
-keywords: []
+date: "2009-09-27T11:46:54.000Z"
 tags: ["gtd", "omnifocus", "things"]
 slug: "db2e5824-0f15-4798-8814-d97e220809db"
 ---

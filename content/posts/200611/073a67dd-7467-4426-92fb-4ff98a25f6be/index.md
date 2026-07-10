@@ -1,9 +1,6 @@
 ---
 title: 技術的なメモ日誌
-description: ''
-date: '2006-11-14T10:23:01.000Z'
-categories: []
-keywords: []
+date: "2006-11-14T10:23:01.000Z"
 tags: ["blogging", "tech-notes"]
 slug: "073a67dd-7467-4426-92fb-4ff98a25f6be"
 ---

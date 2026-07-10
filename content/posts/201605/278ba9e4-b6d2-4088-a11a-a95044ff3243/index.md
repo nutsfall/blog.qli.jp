@@ -1,9 +1,6 @@
 ---
 title: Todoistのベストプラクティス
-description: ''
-date: '2016-05-02T03:58:42.000Z'
-categories: []
-keywords: []
+date: "2016-05-02T03:58:42.000Z"
 tags: ["todoist", "gtd", "task-management"]
 slug: "278ba9e4-b6d2-4088-a11a-a95044ff3243"
 ---

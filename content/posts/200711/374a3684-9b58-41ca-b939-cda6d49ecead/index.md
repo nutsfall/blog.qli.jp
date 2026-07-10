@@ -1,9 +1,6 @@
 ---
-title: 'iris :: Salyu'
-description: ''
-date: '2007-11-27T22:28:49.000Z'
-categories: []
-keywords: []
+title: "iris :: Salyu"
+date: "2007-11-27T22:28:49.000Z"
 tags: ["salyu", "music"]
 slug: "374a3684-9b58-41ca-b939-cda6d49ecead"
 ---

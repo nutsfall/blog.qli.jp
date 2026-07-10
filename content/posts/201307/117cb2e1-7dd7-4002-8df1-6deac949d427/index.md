@@ -1,9 +1,6 @@
 ---
 title: websig vol.33 に参加した
-description: ''
-date: '2013-07-08T20:14:26.000Z'
-categories: []
-keywords: []
+date: "2013-07-08T20:14:26.000Z"
 tags: ["mobile-ui", "ux-design", "websig"]
 slug: "117cb2e1-7dd7-4002-8df1-6deac949d427"
 ---

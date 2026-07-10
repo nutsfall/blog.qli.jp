@@ -1,9 +1,6 @@
 ---
 title: iPhone 3GSの新機能使っていますか？
-description: ''
-date: '2009-08-03T21:17:27.000Z'
-categories: []
-keywords: []
+date: "2009-08-03T21:17:27.000Z"
 tags: ["iphone-3gs"]
 slug: "0ee7e7a5-bd23-4eaf-9423-7a79ce6ada15"
 ---

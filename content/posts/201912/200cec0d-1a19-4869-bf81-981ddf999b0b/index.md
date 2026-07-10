@@ -2,9 +2,7 @@
 title: 2019年の音楽たち
 description: 2019年は音楽視聴環境のアップデートの年だった。待ち望んでいたHomePod、そして、Beats Solo Pro、AirPods Pro
   が日本で発売された。
-date: '2019-12-21T05:45:34.847Z'
-categories: []
-keywords: []
+date: "2019-12-21T05:45:34.847Z"
 tags: ["music", "apple"]
 slug: "200cec0d-1a19-4869-bf81-981ddf999b0b"
 ---

@@ -1,9 +1,6 @@
 ---
 title: iphone6を予約した
-description: ''
-date: '2014-09-12T09:07:18.000Z'
-categories: []
-keywords: []
+date: "2014-09-12T09:07:18.000Z"
 tags: ["iphone6", "apple-store"]
 slug: "94afebd6-eba8-47da-bc87-fc83eb06476e"
 ---

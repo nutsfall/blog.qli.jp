@@ -1,9 +1,7 @@
 ---
 title: iPad Pro と AppleTV 4Kのファーストインプレッション
 description: セットアップも終わったので、簡単にファーストインプレッションです。
-date: '2021-05-24T11:18:09.612Z'
-categories: []
-keywords: []
+date: "2021-05-24T11:18:09.612Z"
 tags: ["ipad-pro", "apple-tv"]
 slug: "9d1317b8-1bf1-44cd-b0c4-84d56c2faa97"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Google ブログ検索　でました
-description: ''
-date: '2006-10-19T15:35:15.000Z'
-categories: []
-keywords: []
+date: "2006-10-19T15:35:15.000Z"
 tags: ["google", "blog-search"]
 slug: "766d75a1-5e5e-4030-a2dd-115d1dba07bf"
 ---

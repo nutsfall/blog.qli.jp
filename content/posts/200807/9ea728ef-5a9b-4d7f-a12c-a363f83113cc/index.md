@@ -1,9 +1,6 @@
 ---
 title: iPhone 3GにはPC/Macが必要です
-description: ''
-date: '2008-07-02T13:18:34.000Z'
-categories: []
-keywords: []
+date: "2008-07-02T13:18:34.000Z"
 tags: ["iphone", "apple", "softbank"]
 slug: "9ea728ef-5a9b-4d7f-a12c-a363f83113cc"
 ---

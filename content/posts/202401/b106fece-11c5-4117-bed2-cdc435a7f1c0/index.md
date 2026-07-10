@@ -1,9 +1,7 @@
 ---
 title: 音楽とオツマミ
 description: YOASOBIがApple Musicで展開していたYOASOBI’s OtsumamiというPodcastと、その感想について
-date: '2024-01-20T03:01:38.446Z'
-categories: []
-keywords: []
+date: "2024-01-20T03:01:38.446Z"
 tags: ["yoasobi", "apple-music", "podcast"]
 slug: "b106fece-11c5-4117-bed2-cdc435a7f1c0"
 ---

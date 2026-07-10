@@ -1,9 +1,6 @@
 ---
 title: Google Readerに新機能が追加！
-description: ''
-date: '2007-05-31T08:40:17.000Z'
-categories: []
-keywords: []
+date: "2007-05-31T08:40:17.000Z"
 tags: ["google-reader", "google-gears"]
 slug: "791e9fb5-9336-412d-8cca-4083454cc01e"
 ---

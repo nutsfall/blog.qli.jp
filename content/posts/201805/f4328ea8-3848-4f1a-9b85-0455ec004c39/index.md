@@ -1,9 +1,7 @@
 ---
 title: OmniFocus 3.0 for iOS の発売日が5月30日にセットされた
 description: タイトルが全てです
-date: '2018-05-03T00:10:42.527Z'
-categories: []
-keywords: []
+date: "2018-05-03T00:10:42.527Z"
 tags: ["omnifocus", "gtd"]
 slug: "f4328ea8-3848-4f1a-9b85-0455ec004c39"
 ---

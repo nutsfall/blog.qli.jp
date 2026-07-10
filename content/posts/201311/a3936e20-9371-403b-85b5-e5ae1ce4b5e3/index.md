@@ -1,9 +1,6 @@
 ---
 title: iPad Air を使ってみて
-description: ''
-date: '2013-11-12T21:04:17.000Z'
-categories: []
-keywords: []
+date: "2013-11-12T21:04:17.000Z"
 tags: ["ipad-air", "apple"]
 slug: "a3936e20-9371-403b-85b5-e5ae1ce4b5e3"
 ---

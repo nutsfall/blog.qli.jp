@@ -1,9 +1,6 @@
 ---
 title: ASPモデルに適さない(?)情報
-description: ""
 date: "2006-08-28T11:26:00.000Z"
-categories: []
-keywords: []
 tags: ["web2.0", "saas", "itunes"]
 slug: "2113c807-4547-48f0-851f-09a0f78778a5"
 ---

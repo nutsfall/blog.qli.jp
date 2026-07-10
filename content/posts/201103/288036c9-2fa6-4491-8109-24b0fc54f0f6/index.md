@@ -1,9 +1,6 @@
 ---
-title: 'Yuck : Yuck'
-description: ''
-date: '2011-03-08T22:18:36.000Z'
-categories: []
-keywords: []
+title: "Yuck : Yuck"
+date: "2011-03-08T22:18:36.000Z"
 tags: ["yuck", "indie-rock", "music"]
 slug: "288036c9-2fa6-4491-8109-24b0fc54f0f6"
 ---

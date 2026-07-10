@@ -1,9 +1,7 @@
 ---
 title: MediumとGhost
 description: 昨年末、Mediumが公式アカウントの日本語コンテンツを投稿してからというもの、これまで日本語圏からは見えてこなかった、Mediumの開発スピードが著しい。最近ではようやくiOSアプリから記事を書くことができるようになった（iPad版、横向きで使えるようになって欲しい）
-date: '2015-03-21T02:24:55.456Z'
-categories: []
-keywords: []
+date: "2015-03-21T02:24:55.456Z"
 tags: ["medium", "ghost"]
 slug: "19b01159-3cc2-4f83-a0b1-5fd26f08557b"
 ---

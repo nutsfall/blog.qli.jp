@@ -1,9 +1,6 @@
 ---
 title: モバツイ本を読みました
-description: ''
-date: '2012-01-31T22:06:20.000Z'
-categories: []
-keywords: []
+date: "2012-01-31T22:06:20.000Z"
 tags: ["mobatwi", "book-review", "web-service"]
 slug: "6438179a-200b-4436-9ce9-9bbfad963a94"
 ---

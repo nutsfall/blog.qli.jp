@@ -1,9 +1,6 @@
 ---
-title: '秘密 :: aiko'
-description: ''
-date: '2008-04-10T11:08:39.000Z'
-categories: []
-keywords: []
+title: "秘密 :: aiko"
+date: "2008-04-10T11:08:39.000Z"
 tags: ["aiko", "music"]
 slug: "abf22aff-f9fe-4968-81c7-c7fcecd197cf"
 ---

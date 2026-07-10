@@ -1,9 +1,6 @@
 ---
 title: Skype大障害の詳細が報告されました
-description: ''
-date: '2007-08-20T19:08:29.000Z'
-categories: []
-keywords: []
+date: "2007-08-20T19:08:29.000Z"
 tags: ["skype", "outage", "p2p"]
 slug: "e40a5efc-ca05-4318-b18b-2910cec62c48"
 ---

@@ -5,7 +5,6 @@ slug: "0f3b116c-faf7-44fc-b0a7-44b85fa189af"
 source: "medium"
 original_url: "https://medium.com/@hiro/h2%E3%83%81%E3%83%83%E3%83%95%E3%82%9A%E3%82%92%E3%82%AA%E3%83%BC%E3%83%8F%E3%82%99%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%A6%E3%82%99-78c10259e341?source=rss-21bfda6f823e------2"
 tags: ["apple", "airpods-max"]
-draft: false
 ---
 
 AirPods Max 2 を購入した。

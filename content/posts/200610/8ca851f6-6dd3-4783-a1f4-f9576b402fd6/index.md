@@ -1,9 +1,6 @@
 ---
 title: Vox 正式オープン!
-description: ''
-date: '2006-10-26T20:38:07.000Z'
-categories: []
-keywords: []
+date: "2006-10-26T20:38:07.000Z"
 tags: ["vox", "sixapart"]
 slug: "8ca851f6-6dd3-4783-a1f4-f9576b402fd6"
 ---

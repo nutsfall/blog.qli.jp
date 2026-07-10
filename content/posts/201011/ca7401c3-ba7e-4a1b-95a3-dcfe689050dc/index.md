@@ -1,9 +1,6 @@
 ---
 title: iPad, a half year
-description: ''
-date: '2010-11-12T20:54:00.000Z'
-categories: []
-keywords: []
+date: "2010-11-12T20:54:00.000Z"
 tags: ["ipad", "apple-tv", "itunes"]
 slug: "ca7401c3-ba7e-4a1b-95a3-dcfe689050dc"
 ---

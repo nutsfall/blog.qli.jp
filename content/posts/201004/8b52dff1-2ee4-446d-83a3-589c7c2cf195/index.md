@@ -1,9 +1,6 @@
 ---
-title: 'BABY : aiko'
-description: ''
-date: '2010-04-21T08:19:47.000Z'
-categories: []
-keywords: []
+title: "BABY : aiko"
+date: "2010-04-21T08:19:47.000Z"
 tags: ["aiko", "music"]
 slug: "8b52dff1-2ee4-446d-83a3-589c7c2cf195"
 ---

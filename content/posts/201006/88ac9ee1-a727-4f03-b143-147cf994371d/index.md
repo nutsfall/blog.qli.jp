@@ -1,9 +1,6 @@
 ---
 title: iPhone 4を買いました
-description: ''
-date: '2010-06-25T08:41:47.000Z'
-categories: []
-keywords: []
+date: "2010-06-25T08:41:47.000Z"
 tags: ["iphone-4", "apple-store"]
 slug: "88ac9ee1-a727-4f03-b143-147cf994371d"
 ---

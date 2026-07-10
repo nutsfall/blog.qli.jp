@@ -1,9 +1,7 @@
 ---
 title: iPad Pro M4 1ヶ月使用レビュー
 description: iPad Pro 11インチ M4 を受け取って、1ヶ月（ともう少し）が過ぎました。今の状況を簡単にメモしておきます。
-date: '2024-06-29T11:43:14.561Z'
-categories: []
-keywords: []
+date: "2024-06-29T11:43:14.561Z"
 tags: ["ipad-pro", "apple"]
 slug: "26b72245-a759-46ad-a517-5d3e3602a307"
 ---

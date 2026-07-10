@@ -1,9 +1,6 @@
 ---
 title: ecto3 日本語版がダウンロード可能です。
-description: ""
 date: "2008-02-23T22:36:32.000Z"
-categories: []
-keywords: []
 tags: ["ecto", "blogging-software", "localization"]
 slug: "88bab900-5443-4a4c-a557-27ff34558fd9"
 ---

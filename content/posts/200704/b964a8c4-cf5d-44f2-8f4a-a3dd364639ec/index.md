@@ -1,9 +1,6 @@
 ---
 title: モバイルGmail　開始
-description: ''
-date: '2007-04-10T11:17:14.000Z'
-categories: []
-keywords: []
+date: "2007-04-10T11:17:14.000Z"
 tags: ["gmail", "mobile"]
 slug: "b964a8c4-cf5d-44f2-8f4a-a3dd364639ec"
 ---

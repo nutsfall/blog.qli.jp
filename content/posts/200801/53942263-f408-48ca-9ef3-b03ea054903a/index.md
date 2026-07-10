@@ -1,9 +1,6 @@
 ---
-title: '街を見下ろす丘 :: エレファントカシマシ'
-description: ''
-date: '2008-01-20T01:35:47.000Z'
-categories: []
-keywords: []
+title: "街を見下ろす丘 :: エレファントカシマシ"
+date: "2008-01-20T01:35:47.000Z"
 tags: ["elephant-kashimashi", "music"]
 slug: "53942263-f408-48ca-9ef3-b03ea054903a"
 ---

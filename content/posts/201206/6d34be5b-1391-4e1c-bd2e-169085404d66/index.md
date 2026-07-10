@@ -1,9 +1,6 @@
 ---
 title: ブロガーのあり方
-description: ''
-date: '2012-06-21T21:57:45.000Z'
-categories: []
-keywords: []
+date: "2012-06-21T21:57:45.000Z"
 tags: ["blogging"]
 slug: "6d34be5b-1391-4e1c-bd2e-169085404d66"
 ---

@@ -1,9 +1,6 @@
 ---
 title: apbank fes ‘07
-description: ''
-date: '2008-01-20T15:29:02.000Z'
-categories: []
-keywords: []
+date: "2008-01-20T15:29:02.000Z"
 tags: ["ap-bank-fes", "mr-children"]
 slug: "9e8df831-d1ec-47f4-8948-0b67775ed3c9"
 ---

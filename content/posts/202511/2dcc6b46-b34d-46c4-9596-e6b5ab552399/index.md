@@ -5,7 +5,6 @@ slug: "2dcc6b46-b34d-46c4-9596-e6b5ab552399"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E5%BC%B7%E7%BE%85%E3%82%92%E8%A1%8C%E3%81%8F-bee9d9d1e48d?source=rss-21bfda6f823e------2"
 tags: ["trip"]
-draft: false
 ---
 
 秋の旅行として強羅に行ってきました。強羅は箱根観光の出発地、箱根湯本から箱根登山鉄道に乗った終着地点にあります。早雲山へ向かうケーブルカーの路線沿線の地域です。

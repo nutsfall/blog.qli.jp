@@ -1,9 +1,6 @@
 ---
 title: i d e a * i d e a — ゼロスピンドル！（VAIO type Uを見てきたよの巻）
-description: ''
-date: '2006-06-30T11:19:56.000Z'
-categories: []
-keywords: []
+date: "2006-06-30T11:19:56.000Z"
 tags: ["vaio", "sony"]
 slug: "d0648d2a-62c2-4421-ba84-303c5fd76302"
 ---

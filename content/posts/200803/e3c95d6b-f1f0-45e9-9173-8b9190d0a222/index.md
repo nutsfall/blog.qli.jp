@@ -1,9 +1,6 @@
 ---
 title: 有料WEBサービスって使ってますか？
-description: ''
-date: '2008-03-26T22:35:49.000Z'
-categories: []
-keywords: []
+date: "2008-03-26T22:35:49.000Z"
 tags: ["web-services", "last-fm"]
 slug: "e3c95d6b-f1f0-45e9-9173-8b9190d0a222"
 ---

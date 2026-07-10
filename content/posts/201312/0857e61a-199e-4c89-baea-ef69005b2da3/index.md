@@ -1,9 +1,6 @@
 ---
 title: MDR-1Rmk2を買いました
-description: ''
-date: '2013-12-09T21:43:33.000Z'
-categories: []
-keywords: []
+date: "2013-12-09T21:43:33.000Z"
 tags: ["sony", "headphones", "salyu"]
 slug: "0857e61a-199e-4c89-baea-ef69005b2da3"
 ---

@@ -1,9 +1,6 @@
 ---
 title: MobileMe登場がアナウンス
-description: ''
-date: '2008-07-08T10:53:58.000Z'
-categories: []
-keywords: []
+date: "2008-07-08T10:53:58.000Z"
 tags: ["mobileme", "apple"]
 slug: "c75fc2b3-c830-46c5-88f9-35a0ac31d289"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ペプシキューカンバー発売
-description: ''
-date: '2007-06-12T20:46:06.000Z'
-categories: []
-keywords: []
+date: "2007-06-12T20:46:06.000Z"
 tags: ["pepsi", "food-and-drink"]
 slug: "2ae81999-512e-4e9f-b55d-06f4d3c18df0"
 ---

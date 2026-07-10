@@ -1,9 +1,6 @@
 ---
 title: 日本を変える「知」を読んだ
-description: ''
-date: '2010-02-07T21:58:58.000Z'
-categories: []
-keywords: []
+date: "2010-02-07T21:58:58.000Z"
 tags: ["book-review"]
 slug: "62b00938-c1cf-46be-92ae-4bad73aec62c"
 ---

@@ -1,9 +1,6 @@
 ---
 title: メディア的な選挙活動
-description: ''
-date: '2014-02-09T20:30:52.000Z'
-categories: []
-keywords: []
+date: "2014-02-09T20:30:52.000Z"
 tags: ["tokyo-election", "politics"]
 slug: "1ec4f222-c3db-4c2c-8c8d-55a6e979da99"
 ---

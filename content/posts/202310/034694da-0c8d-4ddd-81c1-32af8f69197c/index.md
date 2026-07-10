@@ -1,9 +1,6 @@
 ---
 title: あの日を覚えている
-description: ''
-date: '2023-10-21T03:02:37.473Z'
-categories: []
-keywords: []
+date: "2023-10-21T03:02:37.473Z"
 tags: ["all-night-nippon", "theater"]
 slug: "034694da-0c8d-4ddd-81c1-32af8f69197c"
 ---

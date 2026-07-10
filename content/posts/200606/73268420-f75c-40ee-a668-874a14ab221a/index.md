@@ -1,9 +1,6 @@
 ---
 title: 標準のイヤフォンなんて付けてられるか！
-description: ""
 date: "2006-06-27T20:41:10.000Z"
-categories: []
-keywords: []
 tags: ["audio-technica", "ipod", "earphones"]
 slug: "73268420-f75c-40ee-a668-874a14ab221a"
 ---

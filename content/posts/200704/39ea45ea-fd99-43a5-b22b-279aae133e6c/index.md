@@ -1,9 +1,6 @@
 ---
-title: 'The Best Damn Thing :: Avril Lavigne'
-description: ''
-date: '2007-04-18T21:39:18.000Z'
-categories: []
-keywords: []
+title: "The Best Damn Thing :: Avril Lavigne"
+date: "2007-04-18T21:39:18.000Z"
 tags: ["avril-lavigne", "itunes"]
 slug: "39ea45ea-fd99-43a5-b22b-279aae133e6c"
 ---

@@ -2,9 +2,7 @@
 title: Appleの分かりにくい音楽サービスの用語まとめ
 description: HomePodが発表から2年経過して日本で登場するということで、Apple Musicへの感度も高まってるのかなと思います。ただApple
   Musicは分かりやすいサービスではなく、そのためにガッカリ体験から批判するかたも根強くいます。
-date: '2019-08-21T11:12:52.315Z'
-categories: []
-keywords: []
+date: "2019-08-21T11:12:52.315Z"
 tags: ["apple-music", "itunes"]
 slug: "4cdbfc50-a205-4d0f-9686-eacae790e2f1"
 ---

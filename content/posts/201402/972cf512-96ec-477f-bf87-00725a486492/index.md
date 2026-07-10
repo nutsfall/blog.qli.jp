@@ -1,9 +1,6 @@
 ---
 title: Adobe Revel を使う
-description: ''
-date: '2014-02-22T23:21:09.000Z'
-categories: []
-keywords: []
+date: "2014-02-22T23:21:09.000Z"
 tags: ["adobe-revel", "photo-management"]
 slug: "972cf512-96ec-477f-bf87-00725a486492"
 ---

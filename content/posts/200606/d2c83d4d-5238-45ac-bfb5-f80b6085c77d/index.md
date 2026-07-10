@@ -1,9 +1,6 @@
 ---
 title: メディアとしてのブログと、日記としてのブログ
-description: ''
-date: '2006-06-30T11:33:11.000Z'
-categories: []
-keywords: []
+date: "2006-06-30T11:33:11.000Z"
 tags: ["blogging"]
 slug: "d2c83d4d-5238-45ac-bfb5-f80b6085c77d"
 ---

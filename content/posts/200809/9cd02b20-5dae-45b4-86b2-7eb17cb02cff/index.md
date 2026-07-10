@@ -1,9 +1,6 @@
 ---
 title: グーグーだって猫である
-description: ''
-date: '2008-09-16T23:19:36.000Z'
-categories: []
-keywords: []
+date: "2008-09-16T23:19:36.000Z"
 tags: ["film", "gugu-the-cat"]
 slug: "9cd02b20-5dae-45b4-86b2-7eb17cb02cff"
 ---

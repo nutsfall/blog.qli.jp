@@ -1,9 +1,6 @@
 ---
 title: ドコモからiPhoneが出るということ
-description: ''
-date: '2013-09-12T10:55:05.000Z'
-categories: []
-keywords: []
+date: "2013-09-12T10:55:05.000Z"
 tags: ["iphone", "ntt-docomo"]
 slug: "80488728-5604-4ff6-9017-ef0e8635c0ac"
 ---

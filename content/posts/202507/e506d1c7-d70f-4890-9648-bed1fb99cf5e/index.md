@@ -1,9 +1,6 @@
 ---
 title: それぞれの人がそれぞれの情報を持っている
-description: ''
-date: '2025-07-19T03:01:53.196Z'
-categories: []
-keywords: []
+date: "2025-07-19T03:01:53.196Z"
 tags: ["fan-culture", "entertainment"]
 slug: "e506d1c7-d70f-4890-9648-bed1fb99cf5e"
 ---

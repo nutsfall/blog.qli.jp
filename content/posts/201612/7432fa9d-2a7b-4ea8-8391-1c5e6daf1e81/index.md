@@ -1,9 +1,7 @@
 ---
 title: AirPodsのファーストインプレッション
 description: TwitterでAirPodsが発売されているニュースを見てすぐに注文したAirPodsが届いたのが12月19日。なんとかクリスマスには間に合った格好だ。12月19日にはApple…
-date: '2016-12-20T11:15:21.444Z'
-categories: []
-keywords: []
+date: "2016-12-20T11:15:21.444Z"
 tags: ["airpods", "apple"]
 slug: "7432fa9d-2a7b-4ea8-8391-1c5e6daf1e81"
 ---

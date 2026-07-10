@@ -4,8 +4,6 @@ description:
   10代の頃に聞いた音楽は人生のプレイリストになるという話がある。自分のプレイリストには、innocent world(Mr.Children)
   が入っている。「いつの日も この胸に 流れてる…
 date: "2024-04-27T03:01:31.735Z"
-categories: []
-keywords: []
 tags: ["mr-children", "fan-site"]
 slug: "693c2a5a-409f-488f-a904-52d6755aa92d"
 cover:

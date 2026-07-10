@@ -1,9 +1,6 @@
 ---
 title: "#devsumi 2014 に行ってきました"
-description: ''
-date: '2014-02-14T20:49:18.000Z'
-categories: []
-keywords: []
+date: "2014-02-14T20:49:18.000Z"
 tags: ["developers-summit", "conference"]
 slug: "61138e99-dc75-4a57-b872-ec1bdddce569"
 ---

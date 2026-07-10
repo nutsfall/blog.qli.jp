@@ -1,9 +1,6 @@
 ---
 title: iTunes Match の日本提供は当分先のこと
-description: ''
-date: '2011-11-15T21:12:49.000Z'
-categories: []
-keywords: []
+date: "2011-11-15T21:12:49.000Z"
 tags: ["itunes-match", "apple"]
 slug: "64c4293d-dcb3-41e1-b299-7c19ddb1e06b"
 ---

@@ -5,7 +5,6 @@ slug: "83840c03-bdff-49e6-9739-96239c1ae855"
 source: "medium"
 original_url: "https://medium.com/@hiro/yba-beyond-a4a0f12fa4fc?source=rss-21bfda6f823e------2"
 tags: ["notes"]
-draft: false
 ---
 
 国立新美術館で開催されている「テート美術館 － YBA&BEYOND 世界を変えた90s 英国アート」を見てきました。UKのサッチャー首相辞任からの90年代について、アート作品とともに振り返る美術展。

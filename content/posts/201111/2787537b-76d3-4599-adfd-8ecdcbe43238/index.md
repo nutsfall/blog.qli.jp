@@ -1,9 +1,6 @@
 ---
 title: 明星和楽というイベントがすごい
-description: ''
-date: '2011-11-10T23:17:58.000Z'
-categories: []
-keywords: []
+date: "2011-11-10T23:17:58.000Z"
 tags: ["myojo-waraku", "fukuoka"]
 slug: "2787537b-76d3-4599-adfd-8ecdcbe43238"
 ---

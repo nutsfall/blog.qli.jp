@@ -1,9 +1,6 @@
 ---
 title: リアルとリアル
-description: ''
-date: '2009-03-05T23:50:18.000Z'
-categories: []
-keywords: []
+date: "2009-03-05T23:50:18.000Z"
 tags: ["mobile", "social-media"]
 slug: "cfadb115-cfe5-4ac6-9b12-8ff174efd0dd"
 ---

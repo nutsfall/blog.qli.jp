@@ -1,9 +1,6 @@
 ---
 title: iPhoneの不思議なトラブル
-description: ''
-date: '2009-12-07T12:59:11.000Z'
-categories: []
-keywords: []
+date: "2009-12-07T12:59:11.000Z"
 tags: ["iphone", "bug"]
 slug: "5dbc9e1a-b051-49b0-95ad-5dddaa67693c"
 ---

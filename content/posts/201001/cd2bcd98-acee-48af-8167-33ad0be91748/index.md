@@ -1,9 +1,6 @@
 ---
 title: creationとは何か？
-description: ''
-date: '2010-01-27T08:45:45.000Z'
-categories: []
-keywords: []
+date: "2010-01-27T08:45:45.000Z"
 tags: ["apple", "ipad"]
 slug: "cd2bcd98-acee-48af-8167-33ad0be91748"
 ---

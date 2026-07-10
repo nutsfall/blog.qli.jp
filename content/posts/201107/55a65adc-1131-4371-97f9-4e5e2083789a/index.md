@@ -1,9 +1,6 @@
 ---
 title: Things Cloud Sync の状況がアップされました
-description: ''
-date: '2011-07-21T23:06:18.000Z'
-categories: []
-keywords: []
+date: "2011-07-21T23:06:18.000Z"
 tags: ["things", "cloud-sync", "gtd"]
 slug: "55a65adc-1131-4371-97f9-4e5e2083789a"
 ---

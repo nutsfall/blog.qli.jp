@@ -1,9 +1,7 @@
 ---
 title: 週１で実施する個人のふりかえり
 description: 新しいやり方を始めて2ヶ月ほど経ちました
-date: '2021-04-20T10:11:04.169Z'
-categories: []
-keywords: []
+date: "2021-04-20T10:11:04.169Z"
 tags: ["things", "weekly-review"]
 slug: "0d1a6589-518b-4bf7-b0bd-684833c7ec07"
 ---

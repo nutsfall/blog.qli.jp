@@ -1,9 +1,6 @@
 ---
-title: 'CAN’T BUY MY LOVE : YUI'
-description: ''
-date: '2007-04-05T22:08:29.000Z'
-categories: []
-keywords: []
+title: "CAN’T BUY MY LOVE : YUI"
+date: "2007-04-05T22:08:29.000Z"
 tags: ["yui", "music"]
 slug: "39a132ea-7c59-4da0-b0e4-535531f65acf"
 ---

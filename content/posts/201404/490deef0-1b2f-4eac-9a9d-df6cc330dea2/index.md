@@ -1,9 +1,6 @@
 ---
 title: 本 「行動観察」の基本 を読んで
-description: ''
-date: '2014-04-29T09:15:36.000Z'
-categories: []
-keywords: []
+date: "2014-04-29T09:15:36.000Z"
 tags: ["book-review", "user-research"]
 slug: "490deef0-1b2f-4eac-9a9d-df6cc330dea2"
 ---

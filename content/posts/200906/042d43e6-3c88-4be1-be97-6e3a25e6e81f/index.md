@@ -1,9 +1,6 @@
 ---
-title: '魂のゆくえ :: くるり'
-description: ''
-date: '2009-06-13T22:33:43.000Z'
-categories: []
-keywords: []
+title: "魂のゆくえ :: くるり"
+date: "2009-06-13T22:33:43.000Z"
 tags: ["quruli", "album-review"]
 slug: "042d43e6-3c88-4be1-be97-6e3a25e6e81f"
 ---

@@ -1,9 +1,6 @@
 ---
 title: 次は 写真 の番だ
-description: ''
-date: '2014-06-22T20:07:26.000Z'
-categories: []
-keywords: []
+date: "2014-06-22T20:07:26.000Z"
 tags: ["icloud-photos", "wwdc", "adobe-lightroom"]
 slug: "8e0c9473-71c0-425f-b5eb-d09ed387d750"
 ---

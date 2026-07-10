@@ -1,9 +1,6 @@
 ---
 title: ノイキャンヘッドフォンを新調した
-description: ''
-date: '2009-07-18T12:20:08.000Z'
-categories: []
-keywords: []
+date: "2009-07-18T12:20:08.000Z"
 tags: ["headphones", "monster-beats"]
 slug: "48e804a0-e6c7-40f4-ba29-c81286e0eb18"
 ---

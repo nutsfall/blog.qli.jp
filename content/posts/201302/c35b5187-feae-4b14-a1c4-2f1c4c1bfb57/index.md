@@ -1,9 +1,6 @@
 ---
 title: OmniFocus 1 の使い方 (ver 201302)
-description: ''
-date: '2013-02-13T22:07:17.000Z'
-categories: []
-keywords: []
+date: "2013-02-13T22:07:17.000Z"
 tags: ["omnifocus", "task-management", "gtd"]
 slug: "c35b5187-feae-4b14-a1c4-2f1c4c1bfb57"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Back to the Mac
-description: ''
-date: '2010-10-21T09:50:34.000Z'
-categories: []
-keywords: []
+date: "2010-10-21T09:50:34.000Z"
 tags: ["apple", "macos"]
 slug: "1d50d7e0-2a00-4ee2-97d7-8d2a51abe0dc"
 ---

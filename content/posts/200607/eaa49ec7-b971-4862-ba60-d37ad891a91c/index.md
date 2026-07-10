@@ -1,9 +1,6 @@
 ---
 title: My Little Lover Re-born
-description: ""
 date: "2006-07-29T17:37:35.000Z"
-categories: []
-keywords: []
 tags: ["my-little-lover", "j-pop"]
 slug: "eaa49ec7-b971-4862-ba60-d37ad891a91c"
 ---

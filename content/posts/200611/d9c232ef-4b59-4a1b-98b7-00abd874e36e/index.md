@@ -1,9 +1,6 @@
 ---
 title: Google Calendar with rmilk
-description: ''
-date: '2006-11-28T21:35:39.000Z'
-categories: []
-keywords: []
+date: "2006-11-28T21:35:39.000Z"
 tags: ["google-calendar", "remember-the-milk"]
 slug: "d9c232ef-4b59-4a1b-98b7-00abd874e36e"
 ---

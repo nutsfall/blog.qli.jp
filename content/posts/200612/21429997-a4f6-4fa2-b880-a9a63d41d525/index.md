@@ -1,9 +1,6 @@
 ---
 title: Skype Night Live！開催
-description: ''
-date: '2006-12-05T21:37:14.000Z'
-categories: []
-keywords: []
+date: "2006-12-05T21:37:14.000Z"
 tags: ["skype", "apple-store"]
 slug: "21429997-a4f6-4fa2-b880-a9a63d41d525"
 ---

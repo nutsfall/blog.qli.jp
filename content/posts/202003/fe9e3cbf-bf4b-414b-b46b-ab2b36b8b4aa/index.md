@@ -1,9 +1,7 @@
 ---
 title: プロダクティビティワークフロー (March 2020)
 description: 突然のWork from homeで仕事環境が変わった方も多いと思いますし、新生活の季節でもあるので、記録がわりに自分のProductivityの環境を紹介します。
-date: '2020-03-17T14:15:04.813Z'
-categories: []
-keywords: []
+date: "2020-03-17T14:15:04.813Z"
 tags: ["productivity", "things", "work-from-home"]
 slug: "fe9e3cbf-bf4b-414b-b46b-ab2b36b8b4aa"
 ---

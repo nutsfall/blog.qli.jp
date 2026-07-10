@@ -1,9 +1,6 @@
 ---
 title: 没頭すること
-description: ''
-date: '2024-05-18T03:02:07.098Z'
-categories: []
-keywords: []
+date: "2024-05-18T03:02:07.098Z"
 tags: ["film", "avispa-fukuoka", "cafe"]
 slug: "336f6ea3-0e8c-4507-b98d-9c10577d1e15"
 ---

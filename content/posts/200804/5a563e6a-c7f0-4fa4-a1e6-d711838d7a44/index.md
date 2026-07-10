@@ -1,9 +1,6 @@
 ---
 title: WEBサービスで知り合った人同士で作れるアドレス帳 Ripplex
-description: ''
-date: '2008-04-30T21:00:33.000Z'
-categories: []
-keywords: []
+date: "2008-04-30T21:00:33.000Z"
 tags: ["ripplex", "address-book"]
 slug: "5a563e6a-c7f0-4fa4-a1e6-d711838d7a44"
 ---

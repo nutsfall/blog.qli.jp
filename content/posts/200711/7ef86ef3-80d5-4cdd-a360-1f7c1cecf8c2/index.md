@@ -1,9 +1,6 @@
 ---
 title: GoogleがSNS共通SPIを発表
-description: ''
-date: '2007-11-02T22:27:50.000Z'
-categories: []
-keywords: []
+date: "2007-11-02T22:27:50.000Z"
 tags: ["google", "opensocial", "sns"]
 slug: "7ef86ef3-80d5-4cdd-a360-1f7c1cecf8c2"
 ---

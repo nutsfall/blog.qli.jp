@@ -1,9 +1,6 @@
 ---
 title: MacBook Airが即購入とならない理由
-description: ''
-date: '2008-01-17T23:24:50.000Z'
-categories: []
-keywords: []
+date: "2008-01-17T23:24:50.000Z"
 tags: ["macbook-air", "apple"]
 slug: "3faf1c2c-3a34-445a-b4ed-9757349e2c49"
 ---

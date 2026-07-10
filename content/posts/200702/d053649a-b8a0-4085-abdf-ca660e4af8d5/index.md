@@ -1,9 +1,6 @@
 ---
 title: 多く変更が施されたWindows Vista
-description: ''
-date: '2007-02-15T21:47:11.000Z'
-categories: []
-keywords: []
+date: "2007-02-15T21:47:11.000Z"
 tags: ["windows-vista", "xampp"]
 slug: "d053649a-b8a0-4085-abdf-ca660e4af8d5"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Things on Watch OS 2 が気持ちいい
-description: ""
 date: "2015-11-21T12:15:00.000Z"
-categories: []
-keywords: []
 tags: ["things", "watchos"]
 slug: "8c028877-ad28-4ea8-a68e-f2995497c4e4"
 ---

@@ -1,9 +1,6 @@
 ---
 title: シングルCDはKPIになり得るのか
-description: ''
-date: '2014-11-15T00:17:10.000Z'
-categories: []
-keywords: []
+date: "2014-11-15T00:17:10.000Z"
 tags: ["mr-children", "music-industry"]
 slug: "21288662-3ebc-47ad-afa2-674a7ccecda7"
 ---

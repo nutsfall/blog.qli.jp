@@ -1,9 +1,6 @@
 ---
 title: Thunderbird 2.0 b1がリリースされました
-description: ''
-date: '2006-12-14T12:26:33.000Z'
-categories: []
-keywords: []
+date: "2006-12-14T12:26:33.000Z"
 tags: ["thunderbird", "mozilla"]
 slug: "847c573e-676f-499a-89f5-50000517dba4"
 ---

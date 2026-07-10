@@ -1,9 +1,6 @@
 ---
 title: あわせて読みたい
-description: ''
-date: '2007-06-13T10:32:11.000Z'
-categories: []
-keywords: []
+date: "2007-06-13T10:32:11.000Z"
 tags: ["awasete-yomitai", "web-service"]
 slug: "51c6bd2a-1478-401f-8ad7-282c05450fe3"
 ---

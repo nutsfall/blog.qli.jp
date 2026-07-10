@@ -1,9 +1,6 @@
 ---
 title: 誰とでもトークできるようになったGoogle Talk
-description: ''
-date: '2006-09-29T10:44:57.000Z'
-categories: []
-keywords: []
+date: "2006-09-29T10:44:57.000Z"
 tags: ["google-talk", "blackberry"]
 slug: "fb1f0156-594e-4c88-b73e-3c1befb11b16"
 ---

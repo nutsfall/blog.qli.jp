@@ -1,9 +1,6 @@
 ---
 title: Things 1.0 のリリース日が決定
-description: ''
-date: '2008-10-06T13:08:49.000Z'
-categories: []
-keywords: []
+date: "2008-10-06T13:08:49.000Z"
 tags: ["things", "gtd", "macworld"]
 slug: "bcc36678-ea37-4809-840f-4e0ff3f01f0c"
 ---

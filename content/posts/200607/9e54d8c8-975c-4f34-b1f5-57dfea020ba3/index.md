@@ -1,9 +1,6 @@
 ---
 title: IM戦争決着へ？
-description: ''
-date: '2006-07-13T14:42:22.000Z'
-categories: []
-keywords: []
+date: "2006-07-13T14:42:22.000Z"
 tags: ["instant-messaging", "yahoo-messenger", "windows-live-messenger"]
 slug: "9e54d8c8-975c-4f34-b1f5-57dfea020ba3"
 ---

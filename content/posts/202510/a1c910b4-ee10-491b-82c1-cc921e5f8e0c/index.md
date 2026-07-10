@@ -5,7 +5,6 @@ slug: "a1c910b4-ee10-491b-82c1-cc921e5f8e0c"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E6%9D%B1%E4%BA%AC%E3%81%AF%E5%A4%9C%E3%81%AE6%E6%99%82-41d90627bd10?source=rss-21bfda6f823e------2"
 tags: ["notes"]
-draft: false
 ---
 
 子どもの頃、あれは小学生の頃でした。友だちの家に毎日のように遊びに行ってました。遊びに行っているといっても、やるのはテレビゲームだった。公園に遊びに行かない子どもというフレーズがあるけど、そもそもの第1世代は自分くらいの世代だと思う。

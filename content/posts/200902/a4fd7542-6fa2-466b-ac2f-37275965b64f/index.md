@@ -1,9 +1,6 @@
 ---
 title: チームでGTDを
-description: ''
-date: '2009-02-05T00:06:02.000Z'
-categories: []
-keywords: []
+date: "2009-02-05T00:06:02.000Z"
 tags: ["gtd", "scrum"]
 slug: "a4fd7542-6fa2-466b-ac2f-37275965b64f"
 ---

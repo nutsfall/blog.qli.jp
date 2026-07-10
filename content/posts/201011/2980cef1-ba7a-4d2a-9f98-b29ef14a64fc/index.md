@@ -1,9 +1,6 @@
 ---
 title: Twitterリテラシーを考える
-description: ''
-date: '2010-11-27T12:24:08.000Z'
-categories: []
-keywords: []
+date: "2010-11-27T12:24:08.000Z"
 tags: ["mr-children", "twitter"]
 slug: "2980cef1-ba7a-4d2a-9f98-b29ef14a64fc"
 ---

@@ -1,9 +1,6 @@
 ---
 title: iPhone 3G Sを予約してきた
-description: ''
-date: '2009-06-20T16:33:02.000Z'
-categories: []
-keywords: []
+date: "2009-06-20T16:33:02.000Z"
 tags: ["iphone", "apple"]
 slug: "6627c130-a771-452f-9864-be4b9416a36b"
 ---

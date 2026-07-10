@@ -1,9 +1,6 @@
 ---
 title: NTT DoCoMo → NTT docomo
-description: ''
-date: '2008-04-18T22:29:05.000Z'
-categories: []
-keywords: []
+date: "2008-04-18T22:29:05.000Z"
 tags: ["ntt-docomo", "iphone"]
 slug: "a1d2ed00-c28f-4895-b611-87ad187a77c6"
 ---

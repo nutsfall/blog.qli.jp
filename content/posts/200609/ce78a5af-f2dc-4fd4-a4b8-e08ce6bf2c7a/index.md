@@ -1,9 +1,6 @@
 ---
 title: Google Readerが大幅にバージョンアップ
-description: ''
-date: '2006-09-29T09:13:21.000Z'
-categories: []
-keywords: []
+date: "2006-09-29T09:13:21.000Z"
 tags: ["google-reader", "rss"]
 slug: "ce78a5af-f2dc-4fd4-a4b8-e08ce6bf2c7a"
 ---

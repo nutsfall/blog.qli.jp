@@ -1,9 +1,6 @@
 ---
 title: twitterはパスワードを忘れてもログインできる
-description: ''
-date: '2015-06-22T12:23:38.000Z'
-categories: []
-keywords: []
+date: "2015-06-22T12:23:38.000Z"
 tags: ["twitter", "security"]
 slug: "a5b7a436-9cfa-4d34-9d64-59012383268e"
 ---

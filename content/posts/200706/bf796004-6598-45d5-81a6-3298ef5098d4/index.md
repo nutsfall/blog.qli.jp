@@ -1,9 +1,6 @@
 ---
 title: 英語ブログを始めました
-description: ''
-date: '2007-06-18T11:21:29.000Z'
-categories: []
-keywords: []
+date: "2007-06-18T11:21:29.000Z"
 tags: ["blogging", "english-learning"]
 slug: "bf796004-6598-45d5-81a6-3298ef5098d4"
 ---

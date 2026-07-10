@@ -1,9 +1,6 @@
 ---
 title: Twitter for Mac がアップデート
-description: ''
-date: '2013-04-26T05:09:14.000Z'
-categories: []
-keywords: []
+date: "2013-04-26T05:09:14.000Z"
 tags: ["twitter-for-mac", "app-update"]
 slug: "563b32f9-423f-4abb-a5ca-85d801beed6b"
 ---

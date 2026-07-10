@@ -1,9 +1,7 @@
 ---
 title: Thingsを使ったGTDワークフロー
 description: 今回はGTDのお話。最近SubscriptionがリリースされたOmniFocusではなく、Thingsの方です。
-date: '2019-04-10T13:03:58.167Z'
-categories: []
-keywords: []
+date: "2019-04-10T13:03:58.167Z"
 tags: ["gtd", "things", "productivity"]
 slug: "da7d5264-4485-4439-8d06-e25d4359aa07"
 ---

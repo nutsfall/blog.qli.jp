@@ -1,9 +1,6 @@
 ---
 title: iTunes Matchはストリーミングサービス？
-description: ''
-date: '2014-05-15T21:53:46.000Z'
-categories: []
-keywords: []
+date: "2014-05-15T21:53:46.000Z"
 tags: ["itunes-match", "streaming"]
 slug: "b9be209e-df03-41b9-b04e-40e136d33f26"
 ---

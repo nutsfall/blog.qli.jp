@@ -1,9 +1,6 @@
 ---
 title: iPhoneアンケート結果発表
-description: ''
-date: '2008-06-15T14:23:59.000Z'
-categories: []
-keywords: []
+date: "2008-06-15T14:23:59.000Z"
 tags: ["iphone", "survey"]
 slug: "6e23e510-416e-4ef4-8be7-cd449444badd"
 ---

@@ -1,9 +1,6 @@
 ---
 title: GTDについて散文的に書いてみる
-description: ''
-date: '2010-04-11T11:48:53.000Z'
-categories: []
-keywords: []
+date: "2010-04-11T11:48:53.000Z"
 tags: ["gtd", "productivity"]
 slug: "01c39a15-d218-4e42-a760-3740d3039088"
 ---

@@ -1,9 +1,6 @@
 ---
 title: ナオト・インティライミ モールツアー 最終日
-description: ''
-date: '2010-07-10T18:53:36.000Z'
-categories: []
-keywords: []
+date: "2010-07-10T18:53:36.000Z"
 tags: ["naoto-intiraymi", "live-music"]
 slug: "66a6f2c1-e2e9-4d9d-b885-cfa9fcb563b3"
 ---

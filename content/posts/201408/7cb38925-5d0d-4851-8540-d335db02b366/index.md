@@ -1,9 +1,6 @@
 ---
 title: 秋のりんご祭りがいよいよ
-description: ''
-date: '2014-08-06T11:18:39.000Z'
-categories: []
-keywords: []
+date: "2014-08-06T11:18:39.000Z"
 tags: ["apple", "iphone"]
 slug: "7cb38925-5d0d-4851-8540-d335db02b366"
 ---

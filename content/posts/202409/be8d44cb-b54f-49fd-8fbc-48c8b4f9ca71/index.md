@@ -1,9 +1,6 @@
 ---
 title: "“Glowtime”をふりかえる"
-description: ''
-date: '2024-09-14T11:32:02.572Z'
-categories: []
-keywords: []
+date: "2024-09-14T11:32:02.572Z"
 tags: ["apple-watch", "airpods", "apple-event"]
 slug: "be8d44cb-b54f-49fd-8fbc-48c8b4f9ca71"
 cover:

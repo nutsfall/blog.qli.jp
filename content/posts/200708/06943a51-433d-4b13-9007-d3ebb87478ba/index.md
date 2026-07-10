@@ -1,9 +1,6 @@
 ---
 title: Google有料追加ストレージに関する矛盾点
-description: ''
-date: '2007-08-11T08:40:18.000Z'
-categories: []
-keywords: []
+date: "2007-08-11T08:40:18.000Z"
 tags: ["google", "cloud-storage"]
 slug: "06943a51-433d-4b13-9007-d3ebb87478ba"
 ---

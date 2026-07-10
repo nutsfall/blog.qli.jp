@@ -1,9 +1,6 @@
 ---
 title: Xperia Z3はいい端末だった
-description: ''
-date: '2014-10-02T14:36:06.000Z'
-categories: []
-keywords: []
+date: "2014-10-02T14:36:06.000Z"
 tags: ["xperia-z3", "playstation-4"]
 slug: "1a60ebf1-d8aa-4cf1-9a71-53551dd35b02"
 ---

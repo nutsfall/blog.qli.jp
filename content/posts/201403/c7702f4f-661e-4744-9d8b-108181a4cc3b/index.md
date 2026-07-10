@@ -1,9 +1,6 @@
 ---
 title: 日本におけるスマートフォン化への変遷
-description: ''
-date: '2014-03-31T11:30:32.000Z'
-categories: []
-keywords: []
+date: "2014-03-31T11:30:32.000Z"
 tags: ["iphone", "android", "japan"]
 slug: "c7702f4f-661e-4744-9d8b-108181a4cc3b"
 ---

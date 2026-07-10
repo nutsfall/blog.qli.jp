@@ -1,9 +1,6 @@
 ---
 title: ソニー製バッテリ全回収！
-description: ''
-date: '2006-09-29T12:05:39.000Z'
-categories: []
-keywords: []
+date: "2006-09-29T12:05:39.000Z"
 tags: ["sony", "battery-recall", "laptop"]
 slug: "6ba7a381-8dd2-47a9-af0c-5d2ee507aa49"
 ---

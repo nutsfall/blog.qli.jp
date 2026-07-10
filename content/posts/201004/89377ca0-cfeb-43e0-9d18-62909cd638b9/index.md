@@ -1,9 +1,6 @@
 ---
 title: アジャイルジャパンに参加して、GTDを思う
-description: ''
-date: '2010-04-10T14:54:00.000Z'
-categories: []
-keywords: []
+date: "2010-04-10T14:54:00.000Z"
 tags: ["agile", "scrum"]
 slug: "89377ca0-cfeb-43e0-9d18-62909cd638b9"
 ---

@@ -1,9 +1,6 @@
 ---
 title: Gmailに電話機能がついた(Google voiceが統合された)
-description: ''
-date: '2010-08-28T09:38:04.000Z'
-categories: []
-keywords: []
+date: "2010-08-28T09:38:04.000Z"
 tags: ["gmail", "google-voice", "google"]
 slug: "1e2342d8-fd05-4a68-ab2d-f500454f7fac"
 ---

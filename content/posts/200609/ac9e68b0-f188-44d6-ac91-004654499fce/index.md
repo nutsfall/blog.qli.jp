@@ -1,9 +1,6 @@
 ---
 title: ファイル整理術(GTD編)
-description: ''
-date: '2006-09-15T11:18:19.000Z'
-categories: []
-keywords: []
+date: "2006-09-15T11:18:19.000Z"
 tags: ["gtd", "productivity"]
 slug: "ac9e68b0-f188-44d6-ac91-004654499fce"
 ---

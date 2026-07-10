@@ -1,9 +1,6 @@
 ---
 title: PHP4のサポート終了宣言
-description: ''
-date: '2007-07-17T23:34:20.000Z'
-categories: []
-keywords: []
+date: "2007-07-17T23:34:20.000Z"
 tags: ["php", "web-development"]
 slug: "18bf63ee-0635-4607-b507-37537b585687"
 ---

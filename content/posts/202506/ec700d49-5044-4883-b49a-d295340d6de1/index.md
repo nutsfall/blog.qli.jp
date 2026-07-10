@@ -1,9 +1,6 @@
 ---
 title: お気に入りの、残し方
-description: ''
-date: '2025-06-21T03:02:40.758Z'
-categories: []
-keywords: []
+date: "2025-06-21T03:02:40.758Z"
 tags: ["pocket", "instapaper", "raindrop"]
 slug: "ec700d49-5044-4883-b49a-d295340d6de1"
 ---

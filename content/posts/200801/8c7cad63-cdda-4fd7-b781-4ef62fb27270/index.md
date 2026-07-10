@@ -1,9 +1,6 @@
 ---
 title: こんなのが発表されるのか
-description: ''
-date: '2008-01-06T11:28:38.000Z'
-categories: []
-keywords: []
+date: "2008-01-06T11:28:38.000Z"
 tags: ["apple", "macworld"]
 slug: "8c7cad63-cdda-4fd7-b781-4ef62fb27270"
 ---

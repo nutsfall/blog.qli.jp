@@ -1,9 +1,6 @@
 ---
 title: 百万円と苦虫女
-description: ''
-date: '2011-05-17T23:29:59.000Z'
-categories: []
-keywords: []
+date: "2011-05-17T23:29:59.000Z"
 tags: ["film", "itunes-store", "aoi-yu"]
 slug: "a52208f5-93b0-4273-9cda-4c6e25dca3b7"
 ---

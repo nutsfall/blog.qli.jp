@@ -1,9 +1,6 @@
 ---
 title: 実行するタスクの選び方
-description: ''
-date: '2016-08-19T12:21:00.000Z'
-categories: []
-keywords: []
+date: "2016-08-19T12:21:00.000Z"
 tags: ["gtd", "task-management", "productivity"]
 slug: "e73b15c1-33ca-4a88-8d8b-8713bbf732e0"
 ---

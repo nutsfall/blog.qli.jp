@@ -1,9 +1,6 @@
 ---
 title: iOS 4.1 で追加されたいくつかの機能
-description: ''
-date: '2010-09-09T06:57:19.000Z'
-categories: []
-keywords: []
+date: "2010-09-09T06:57:19.000Z"
 tags: ["ios", "iphone"]
 slug: "756ea71d-3ea6-47be-9b26-5cf6559e5afb"
 ---

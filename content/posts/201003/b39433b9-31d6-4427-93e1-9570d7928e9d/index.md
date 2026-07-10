@@ -1,9 +1,6 @@
 ---
 title: ぞくぞくとわいてくるアップルのウワサのまとめ
-description: ''
-date: '2010-03-12T11:16:34.000Z'
-categories: []
-keywords: []
+date: "2010-03-12T11:16:34.000Z"
 tags: ["apple", "iphone", "mac"]
 slug: "b39433b9-31d6-4427-93e1-9570d7928e9d"
 ---

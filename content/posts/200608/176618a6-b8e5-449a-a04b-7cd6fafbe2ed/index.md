@@ -1,9 +1,6 @@
 ---
 title: KDDIがau My Pageを発表
-description: ''
-date: '2006-08-28T12:23:51.000Z'
-categories: []
-keywords: []
+date: "2006-08-28T12:23:51.000Z"
 tags: ["kddi", "au", "mobile"]
 slug: "176618a6-b8e5-449a-a04b-7cd6fafbe2ed"
 ---

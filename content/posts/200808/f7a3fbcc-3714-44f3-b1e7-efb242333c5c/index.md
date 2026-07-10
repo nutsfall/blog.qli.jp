@@ -1,9 +1,6 @@
 ---
 title: Blog Action Day 2008
-description: ''
-date: '2008-08-15T14:25:44.000Z'
-categories: []
-keywords: []
+date: "2008-08-15T14:25:44.000Z"
 tags: ["blog-action-day"]
 slug: "f7a3fbcc-3714-44f3-b1e7-efb242333c5c"
 ---

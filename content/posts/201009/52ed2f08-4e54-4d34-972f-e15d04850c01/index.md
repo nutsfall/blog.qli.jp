@@ -1,9 +1,6 @@
 ---
 title: 電子書籍に紙ベースからの脱却を
-description: ''
-date: '2010-09-27T23:01:55.000Z'
-categories: []
-keywords: []
+date: "2010-09-27T23:01:55.000Z"
 tags: ["e-books", "ipad", "sharp"]
 slug: "52ed2f08-4e54-4d34-972f-e15d04850c01"
 ---

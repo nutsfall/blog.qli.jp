@@ -1,9 +1,6 @@
 ---
 title: 10年がたちました
-description: ''
-date: '2016-06-21T13:23:21.000Z'
-categories: []
-keywords: []
+date: "2016-06-21T13:23:21.000Z"
 tags: ["blogging"]
 slug: "8c7154e9-38cf-4259-a272-37d57d6aca3a"
 ---

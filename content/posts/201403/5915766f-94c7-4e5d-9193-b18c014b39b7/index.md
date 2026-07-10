@@ -1,9 +1,6 @@
 ---
 title: E-M10 Black 届く
-description: ''
-date: '2014-03-30T21:14:30.000Z'
-categories: []
-keywords: []
+date: "2014-03-30T21:14:30.000Z"
 tags: ["olympus", "e-m10", "camera"]
 slug: "5915766f-94c7-4e5d-9193-b18c014b39b7"
 ---

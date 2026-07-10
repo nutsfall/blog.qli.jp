@@ -1,9 +1,6 @@
 ---
 title: ほんとに使える「ユーザビリティ」はほんとに使える本だった
-description: ''
-date: '2013-11-06T22:58:27.000Z'
-categories: []
-keywords: []
+date: "2013-11-06T22:58:27.000Z"
 tags: ["usability", "ux", "book-review"]
 slug: "681dbab7-2b71-466e-a16a-73b1eef06ee1"
 ---

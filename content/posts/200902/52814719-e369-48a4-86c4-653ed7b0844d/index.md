@@ -1,9 +1,6 @@
 ---
-title: 'コルテオ / HALFWAY : salyu'
-description: ''
-date: '2009-02-11T21:51:16.000Z'
-categories: []
-keywords: []
+title: "コルテオ / HALFWAY : salyu"
+date: "2009-02-11T21:51:16.000Z"
 tags: ["salyu", "music"]
 slug: "52814719-e369-48a4-86c4-653ed7b0844d"
 ---

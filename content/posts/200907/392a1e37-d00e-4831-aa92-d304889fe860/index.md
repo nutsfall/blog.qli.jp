@@ -1,9 +1,6 @@
 ---
-title: 'Post Electric Blues :: idlewild'
-description: ''
-date: '2009-07-03T22:44:55.000Z'
-categories: []
-keywords: []
+title: "Post Electric Blues :: idlewild"
+date: "2009-07-03T22:44:55.000Z"
 tags: ["idlewild", "music"]
 slug: "392a1e37-d00e-4831-aa92-d304889fe860"
 ---

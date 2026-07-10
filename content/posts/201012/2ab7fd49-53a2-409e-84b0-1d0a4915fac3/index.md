@@ -1,9 +1,6 @@
 ---
 title: Evernoteの使い方を整理してみた
-description: ''
-date: '2010-12-16T22:40:50.000Z'
-categories: []
-keywords: []
+date: "2010-12-16T22:40:50.000Z"
 tags: ["evernote", "gtd"]
 slug: "2ab7fd49-53a2-409e-84b0-1d0a4915fac3"
 ---

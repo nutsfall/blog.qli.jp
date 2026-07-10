@@ -1,9 +1,6 @@
 ---
 title: WWDC2012 Keynote
-description: ''
-date: '2012-06-12T08:46:22.000Z'
-categories: []
-keywords: []
+date: "2012-06-12T08:46:22.000Z"
 tags: ["wwdc", "apple"]
 slug: "47693a0a-cf2a-4ff8-8321-857d829a6a29"
 ---

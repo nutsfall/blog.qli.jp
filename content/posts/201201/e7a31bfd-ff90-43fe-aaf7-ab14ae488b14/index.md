@@ -1,9 +1,6 @@
 ---
 title: "#Xperia ブロガーミーティングに参加した"
-description: ''
-date: '2012-01-18T21:16:37.000Z'
-categories: []
-keywords: []
+date: "2012-01-18T21:16:37.000Z"
 tags: ["xperia", "android", "sony-ericsson"]
 slug: "e7a31bfd-ff90-43fe-aaf7-ab14ae488b14"
 ---

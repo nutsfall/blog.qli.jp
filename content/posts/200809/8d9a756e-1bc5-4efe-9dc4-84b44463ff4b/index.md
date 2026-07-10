@@ -1,9 +1,6 @@
 ---
-title: 'さよならリグレット : くるり'
-description: ''
-date: '2008-09-15T13:28:33.000Z'
-categories: []
-keywords: []
+title: "さよならリグレット : くるり"
+date: "2008-09-15T13:28:33.000Z"
 tags: ["quruli", "music"]
 slug: "8d9a756e-1bc5-4efe-9dc4-84b44463ff4b"
 ---

@@ -1,9 +1,6 @@
 ---
 title: AirMacExtreme(7.2.1)におけるUSB接続ディスクの問題
-description: ''
-date: '2008-01-27T15:41:49.000Z'
-categories: []
-keywords: []
+date: "2008-01-27T15:41:49.000Z"
 tags: ["airmac-extreme", "firmware", "macos"]
 slug: "1e41601f-70f4-4d85-afe4-f0ae03b5dd73"
 ---
