@@ -26,3 +26,4 @@ Creates `content/posts/YYYYMM-UUID/index.md` with draft frontmatter.
 
 - コード・テンプレート・設定を触るとき → `CLAUDE-architecture.md`
 - コンテンツ作業（画像・タグ・スクリプト）→ `CLAUDE-content.md`
+- 既存の仕組み（スクリプト・テンプレート・運用ルール）を変更する前 → `docs/adr/` で関連ADRの経緯・却下案を確認。設計や運用に関わる決定をしたら（「やらない」決定も含め）ADRを追加する。参照・更新の基準は `docs/adr/README.md`

@@ -7,6 +7,8 @@
 - **Firebase Realtime Database** for the anonymous like/clap system (`static/js/likes.js`, `static/js/firebase-config.js`)
 - **GitHub Actions** for weekly automated Medium → Hugo post import (`.github/workflows/medium-import.yml`)
 
+選定の経緯・却下した代替案は `docs/adr/` を参照（ADR-0001〜0004）。
+
 ## Content Structure
 
 Posts are Hugo page bundles: `content/posts/YYYYMM/UUID/index.md`
