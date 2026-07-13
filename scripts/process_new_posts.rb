@@ -3,9 +3,9 @@
 
 # Processes newly imported Medium posts:
 #   1. Removes duplicate H3 title at top of body
-#   2. Localizes first Medium CDN image:
-#        - image before body text → cover.{ext} + cover: frontmatter
-#        - image after body text  → local file + inline {{< figure >}}
+#   2. Localizes all Medium CDN images:
+#        - first image, before body text → cover.{ext} + cover: frontmatter
+#        - otherwise                     → local file + inline {{< figure >}}
 #   3. Runs auto_tagger.rb for all Medium posts (Medium tags are not curated)
 #
 # Usage: ruby scripts/process_new_posts.rb [--dry-run]
@@ -98,10 +98,13 @@ class PostProcessor
     end
 
     # 2. 画像のローカル化: 本文より前なら cover、後ろならインライン figure
-    if (img_match = new_body.match(/^!\[\]\((#{MEDIUM_IMG_RE})\)[^\n]*\n/))
+    #    cover判定は最初の画像のみ（2枚目以降は位置によらずインライン扱い）
+    first_image = true
+    while (img_match = new_body.match(/^!\[\]\((#{MEDIUM_IMG_RE})\)[^\n]*\n/))
       img_url  = img_match[1]
       img_line = img_match[0]
-      is_cover = new_body[0...img_match.begin(0)].strip.empty?
+      is_cover = first_image && new_body[0...img_match.begin(0)].strip.empty?
+      first_image = false
 
       # キャプション検出: 画像行の直後（空行1つ挟んでも可）の短い行、次が空行
       caption = nil
@@ -146,7 +149,7 @@ class PostProcessor
         new_body.sub!(caption_line, '') if caption_line
         changes << "インライン画像ローカル化(#{filename})"
       end
-    end
+    end # while
 
     # 3. Medium記事は常にauto_taggerにかける（Mediumのタグはルール未準拠）
     @needs_tag << path
