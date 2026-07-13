@@ -72,3 +72,19 @@ for img in content/posts/*/*/^index.md(N.); do
 done
 printf '%-45s %5d\n' "参照切れローカル画像" "$broken"
 printf '%-45s %5d\n' "未参照の孤児ファイル" "$orphan"
+
+# 画像拡張子なのに実体が画像でないファイル（マジックバイト検査）。
+# ダウンロード失敗の残骸("bad request"テキストやHTMLエラーページ)の検出用。
+# 判定ロジックは scripts/cover_migrator.rb の real_image? と同じ。
+fake=0
+for img in content/posts/*/*/*.(jpg|jpeg|png|gif|webp)(N.); do
+  sig=$(xxd -p -l 12 "$img")
+  case $sig in
+    ffd8ff*) ;;                       # JPEG
+    89504e47*) ;;                     # PNG
+    47494638*) ;;                     # GIF
+    52494646????????57454250) ;;     # WebP (RIFF....WEBP)
+    *) ((fake++)); (( verbose )) && echo "    not-image: $img" ;;
+  esac
+done
+printf '%-45s %5d\n' "実体が画像でない画像ファイル" "$fake"
