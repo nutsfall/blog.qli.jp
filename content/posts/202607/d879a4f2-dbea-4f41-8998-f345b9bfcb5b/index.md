@@ -6,21 +6,19 @@ source: "medium"
 original_url: "https://medium.com/@hiro/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%81%9F%E3%82%99%E3%81%91%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9-612f5165985b?source=rss-21bfda6f823e------2"
 tags: ["ricoh-gr", "monochrome"]
 draft: false
+cover:
+  image: "cover.jpeg"
 ---
-
-### モノクロだけのカメラ
-
-![](https://cdn-images-1.medium.com/max/1024/1*6BVxwOs0iCqfA_ptn75W-w.jpeg)
 
 RICOH GR IV Monochromeをよく使っています。というか、発売されて数ヶ月、やっと手に入れることができました。
 
 GR IV Monochromeは、モノクロだけを撮ることができるカメラ。なぜモノクロだけが撮れるカメラに興味を持ったのか。それはGR IIIを愛用している中で、このカメラのモノクロの表現力に強くひかれたからです。だったらモノクロだけに特化した表現力を持つ専用のカメラを使ってみたい。それがGR IV Monochromeの登場とシンクロしたのです。
 
-![](https://cdn-images-1.medium.com/max/1024/1*UeHHkZ-jxN7-rU3it2TJsg.jpeg)
+{{< figure src="tullys-glass.jpeg" >}}
 
 これまでカラーの写真は、植物の写真などが中心になってきました。街中のスナップショットは、SNSなどパブリックな場所で公開するには厳しい部分もあるからです。そして植物の写真は、色を楽しむものでもあります。色のないモノクロでは、どういう写真が適しているのか、何が映っているといいのか。建物の形状を楽しめるものがいいのか、それとも何気ない街の光なのか。探り探りで使っています。
 
-![](https://cdn-images-1.medium.com/max/1024/1*GC4NHAMcU2fnXo3_Q8hvhQ.jpeg)
+{{< figure src="station-sign.jpeg" >}}
 
 一般的なレビュー記事ではメカ的なものやスペックが中心になるのだと思いますが、GRはそういうカメラでもないと思うので、そういうのは書かなくてもいいと思っています。ただ、気がついたらバッテリーが枯渇寸前のような気がするのは、そんなものなのでしょうか。また、このカメラに関しては別売りのカードを使用せず、内蔵のメモリだけで使っています。気軽に撮って、都度iPhoneにWi-Fiでコピーする。そんな使い方をしていきたいのです。
 
