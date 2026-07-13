@@ -6,7 +6,8 @@
 #   2. Localizes all Medium CDN images:
 #        - first image, before body text → cover.{ext} + cover: frontmatter
 #        - otherwise                     → local file + inline {{< figure >}}
-#   3. Runs auto_tagger.rb for all Medium posts (Medium tags are not curated)
+#   3. Prints auto_tagger.rb --extract output for all Medium posts (Medium tags are not curated);
+#      the Claude Code session generates tags and applies them via --apply
 #
 # Usage: ruby scripts/process_new_posts.rb [--dry-run]
 # Run after: git pull
@@ -47,10 +48,8 @@ class PostProcessor
 
     unless @needs_tag.empty?
       puts "---"
-      tag_cmd = [RUBY_BIN, AUTO_TAGGER.to_s]
-      tag_cmd << '--dry-run' if @dry_run
-      tag_cmd += @needs_tag.map(&:to_s)
-      system(*tag_cmd)
+      puts "タグ付けが必要です。以下のJSONからタグを生成し、auto_tagger.rb --apply で適用してください:"
+      system(RUBY_BIN, AUTO_TAGGER.to_s, '--extract', *@needs_tag.map(&:to_s))
     end
 
     puts "---"

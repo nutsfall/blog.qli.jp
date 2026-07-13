@@ -14,7 +14,7 @@
   - **本文より前にある画像**（重複H3除去後に本文先頭）→ `cover:` フロントマターを追加し、本文から画像・キャプション行を削除
   - **本文の後にある画像** → インライン画像としてローカル化し、`![]()` とキャプション行を `{{< figure >}}` ショートコードに置換
 - キャプションテキストがあれば cover の `caption:` / figure の `caption=` に設定
-- `auto_tagger.rb` でタグを付与（Mediumのタグはルール未準拠のため常に再付与）
+- タグ付け対象の `auto_tagger.rb --extract` 出力を表示（Mediumのタグはルール未準拠のため常に再付与）。Claude Codeセッションがこの出力からタグを生成し、`--apply` で適用する
 
 処理後に内容を確認してコミットする。
 
@@ -49,18 +49,15 @@ Available image shortcodes (from PaperMod):
 
 ## Tags
 
-All posts have a `tags:` field in frontmatter. Tags follow these rules:
+All posts have a `tags:` field in frontmatter. タグ規約の正本は `scripts/auto_tagger.rb` の `TAG_RULES`（`--extract` の出力に含まれる）。規約の内容と経緯は [ADR-0007](docs/adr/0007-tag-rules.md)。
 
-- **English, lowercase** — use hyphens for multi-word: `j-league`, `apple-music`
-- **1–3 tags per post** (1 is fine for short posts)
-- **Specific over generic** — avoid `diary`, `misc`, `thoughts`, `life`
-- **Proper nouns welcome** — products, artists, teams, works: `apple`, `netflix`, `avispa-fukuoka`
-
-When adding or fixing tags on any post — including reducing excess tags — always use `auto_tagger.rb` instead of editing frontmatter manually.
+When adding or fixing tags on any post — including reducing excess tags — always use `auto_tagger.rb` instead of editing frontmatter manually. The script is a two-step tool driven from a Claude Code session (no LLM call inside the script):
 
 ```bash
-/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb <file>           # tag a specific post
-/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --dry-run <file> # preview without writing
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --extract <file>...        # 対象記事のtitle/excerptとルールをJSONで出力
+# → セッション内のClaudeがルールに従いタグを生成し、[{"path": ..., "tags": [...]}] 形式のJSONを作る
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --apply tags.json --dry-run # プレビュー
+/opt/homebrew/opt/ruby/bin/ruby scripts/auto_tagger.rb --apply tags.json           # 適用
 ```
 
 To check tag counts across all posts:
@@ -69,13 +66,12 @@ To check tag counts across all posts:
 /opt/homebrew/opt/ruby/bin/ruby scripts/tag_checker.rb
 ```
 
-Uses `claude -p` (no API key needed). Requires Claude Code CLI to be authenticated.
 
 ## Maintenance Scripts (Ruby)
 
 Located in `scripts/`:
 - `process_new_posts.rb` — post-import processor for Medium posts (image localize, H3 removal, tagging)
-- `auto_tagger.rb` — bulk-tags posts using Claude CLI (`claude -p`)
+- `auto_tagger.rb` — two-step tagger (`--extract` / `--apply`) driven from a Claude Code session
 - `duplicate_post_cleaner.rb` — removes duplicate posts (85% similarity threshold)
 - `convert_to_page_bundles.rb` — migrates flat `.md` files to page bundle structure
 - `title_slug_updater.rb` — updates frontmatter titles/slugs
