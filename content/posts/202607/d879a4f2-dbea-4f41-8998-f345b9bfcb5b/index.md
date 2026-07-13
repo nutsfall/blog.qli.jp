@@ -4,7 +4,7 @@ date: "2026-07-11T03:01:01"
 slug: "d879a4f2-dbea-4f41-8998-f345b9bfcb5b"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%81%9F%E3%82%99%E3%81%91%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9-612f5165985b?source=rss-21bfda6f823e------2"
-tags: ["ricoh-gr", "monochrome"]
+tags: ["ricoh-gr", "monochrome", "photography"]
 draft: false
 cover:
   image: "cover.jpeg"
