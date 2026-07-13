@@ -63,8 +63,8 @@ main() {
     local current_date=$(date +%Y%m)
     local iso_datetime=$(date -u +"%Y-%m-%dT%H:%M:%S.000Z")
     
-    # ディレクトリ名を生成 (YYYYMM-UUID)
-    local directory_name="${current_date}-${uuid}"
+    # ディレクトリ名を生成 (YYYYMM/UUID)
+    local directory_name="${current_date}/${uuid}"
     
     # フルパスを作成
     local post_dir="$CONTENT_DIR/$directory_name"
@@ -116,14 +116,14 @@ Hugo新規記事作成スクリプト (シンプル版)
     $0                          # タイトルなしでも作成可能
 
 特徴:
-    - YYYYMM-UUID 形式のディレクトリを作成
+    - YYYYMM/UUID 形式のディレクトリを作成
     - slug は UUID のみ
     - 常に draft: true で作成
     - シンプルで高速
     - 引数なしの場合は自動でタイトル生成
 
 生成される構造:
-    content/posts/202509-uuid/index.md
+    content/posts/202509/uuid/index.md
 EOF
 }
 
