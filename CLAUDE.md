@@ -10,7 +10,7 @@
 scripts/hugo_new_post.zsh "Post Title"
 ```
 
-Creates `content/posts/YYYYMM-UUID/index.md` with draft frontmatter.
+Creates `content/posts/YYYYMM/UUID/index.md` with draft frontmatter.
 
 ## Medium記事のインポート後処理
 
