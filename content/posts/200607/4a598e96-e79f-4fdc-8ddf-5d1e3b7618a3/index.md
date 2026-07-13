@@ -1,10 +1,10 @@
 ---
-title: asahi.com：新幹線のごみ箱、２年ぶり再開へ　ＪＲ東が苦情受け�-�社会
+title: asahi.com：新幹線のごみ箱、２年ぶり再開へ　ＪＲ東が苦情受け - 社会
 date: "2006-07-12T09:17:34.000Z"
 tags: ["shinkansen", "jr-east"]
 slug: "4a598e96-e79f-4fdc-8ddf-5d1e3b7618a3"
 ---
-[asahi.com：新幹線のごみ箱、２年ぶり再開へ ＪＲ東が苦情受け�-�社会](http://www.asahi.com/national/update/0712/TKY200607110653.html?ref=rss)
+[asahi.com：新幹線のごみ箱、２年ぶり再開へ ＪＲ東が苦情受け - 社会](http://www.asahi.com/national/update/0712/TKY200607110653.html?ref=rss)
 
 > ＪＲ東日本は１４日から、東北、上越、長野などの各新幹線と特急「成田エクスプレス」の車内ごみ箱の使用を再開する。テロ防止を理由にずっと封鎖してきたが、「不便だ」との声が相次ぎ、夏の観光シーズンを前に解除を決めた。
 
