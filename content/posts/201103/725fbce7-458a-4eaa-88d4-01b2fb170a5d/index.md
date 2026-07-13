@@ -8,6 +8,4 @@ iPadユーザーになってから、instapaperをよく使っています。簡
 
 先日バージョンアップをして、instapaperにようやく”Sharing”という機能が追加されました（[公式ブログ](http://blog.instapaper.com/post/3772087268)）。Facebook、Twitter、Tumblr、Pinboard、Evernoteと連携することができるようになり、たとえばInstapaperで”Like”にした記事をそれらのサービスにポストしたり、”Like”にしなくてもクライアントアプリとかから投稿できるようになりました。
 
-![](0__gANdUKZL1RhGmBKP.jpg)
-
 こういう設定の機能だと、iPhone / iPad それぞれで別々に設定する必要があったりするサービスが多いですが、Instapaperは設定をWEB側に持たせることにより、WEBで設定してしまえば、iPad / iPhoneで設定し直す必要がありません。当たり前と言えば当たり前なんですが、OAuthはiPhoneとかだと面倒だったりするので、素晴らしい仕組みだと思います。

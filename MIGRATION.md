@@ -71,7 +71,7 @@
 - [x] 本文冒頭のインライン画像52記事を `cover:` フロントマターへ移動（cover持ち 43→95件）
 - [x] キャプション自動検出の誤検出を是正: 初回適用で51件中49件が本文冒頭段落の誤検出だったため、全て本文へ復元。caption維持はFlickrクレジット2件のみ（201401/9840671f…, 201401/a313bf35…）
 - スクリプト: `scripts/cover_migrator.rb`（叙述文除外＝全角句読点を含む行はキャプションにしない、画像マジックバイト検証を追加）
-- スキップ1件: 201110/71beca8c… は cover画像の実体が「bad reqeust」テキスト（ダウンロード失敗残骸）でビルドが落ちるため対象外
+- スキップ1件: 201110/71beca8c… は cover画像の実体が「bad reqeust」テキスト（ダウンロード失敗残骸）でビルドが落ちるため対象外（→ [#13](https://github.com/nutsfall/blog.qli.jp/issues/13) で復元不能と判明し画像参照ごと削除）
 
 ### Phase 8: description の重複削除（完了）
 
@@ -82,7 +82,7 @@
 
 ## 残課題（GitHub Issuesへ移行済み）
 
-- [#13](https://github.com/nutsfall/blog.qli.jp/issues/13) 壊れ画像ファイル10件の調査・復元（実体がテキスト/HTML。Phase 7で発見）
+- [#13](https://github.com/nutsfall/blog.qli.jp/issues/13) 壊れ画像ファイル10件の調査・復元（実体がテキスト/HTML。Phase 7で発見）— 対応済み（2026-07-13）: 2件（202403, 202404）はMedium CDN（miro.medium.com）から復元。8件は旧ブログのWordPressエクスポート（qli.jp_2017-01-01.xml）で元URLを特定したところSkitch（2016年終了）等へのホットリンクで、Wayback Machine・Evernote・ローカルのいずれにも実体が残っておらず復元不能のため画像参照ごと削除。`content_lint.zsh` にマジックバイト検査を追加
 - [#14](https://github.com/nutsfall/blog.qli.jp/issues/14) 旧記事タイトルの文字化け（U+FFFD）の調査・修正（Phase 3で発見）
 - [#15](https://github.com/nutsfall/blog.qli.jp/issues/15) UUID slugの扱いの検討
 
