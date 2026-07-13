@@ -1,6 +1,6 @@
 # ADR-0003: 記事はUUID slugのページバンドル（content/posts/YYYYMM/UUID/）
 
-- ステータス: 採用（slugの扱いは [#15](https://github.com/nutsfall/blog.qli.jp/issues/15) で再検討中）
+- ステータス: 採用
 - 日付: 2025-09-15〜19（2026-07-13 事後記録）
 
 ## コンテキスト
@@ -16,5 +16,5 @@
 ## 結果・影響
 
 - URLとファイルパスがタイトル変更の影響を受けず安定する
-- 一方でURLから記事内容が推測できない。人間可読なslugへの移行可否は [#15](https://github.com/nutsfall/blog.qli.jp/issues/15) で検討中（URL変更はリンク切れを伴うため慎重に）
+- 一方でURLから記事内容が推測できないが、これは許容する。人間可読slugへの移行は [#15](https://github.com/nutsfall/blog.qli.jp/issues/15) で検討し、現状維持（UUID slug継続）で確定した（URL変更はリンク切れを伴うため）
 - 202410に旧記事を一括インポートした際の日付・ディレクトリ整理もこのパターンに合わせた
