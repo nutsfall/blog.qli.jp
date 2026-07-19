@@ -4,7 +4,7 @@ date: "2026-07-18T03:01:02"
 slug: "44bed07f-373e-4e74-a721-abd386c33595"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E5%A4%8F%E3%81%AB%E7%B5%82%E3%82%8F%E3%81%A3%E3%81%A6-%E5%A4%8F%E3%81%AB%E5%A7%8B%E3%81%BE%E3%82%8B-89e1032e4e6b?source=rss-21bfda6f823e------2"
-tags: ["football"]
+tags: ["football", "world-cup", "j-league"]
 draft: false
 ---
 
