@@ -4,7 +4,7 @@ date: "2026-08-01T03:01:03"
 slug: "64c1c45c-0893-4e06-8cbd-72237152cacb"
 source: "medium"
 original_url: "https://medium.com/@hiro/1300%E3%81%AE%E3%83%A1%E3%83%A2%E3%82%92%E9%80%A3%E3%82%8C%E3%81%A6%E6%96%B0%E3%81%97%E3%81%84%E3%82%A2%E3%83%97%E3%83%AA%E3%81%B8-154e864785a3?source=rss-21bfda6f823e------2"
-tags: ["bears", "evernote"]
+tags: ["evernote", "bear", "note-apps"]
 draft: false
 ---
 

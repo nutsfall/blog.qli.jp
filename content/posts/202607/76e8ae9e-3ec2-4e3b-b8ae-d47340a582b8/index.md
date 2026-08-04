@@ -4,7 +4,7 @@ date: "2026-07-25T03:01:03"
 slug: "76e8ae9e-3ec2-4e3b-b8ae-d47340a582b8"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B-6938984863f4?source=rss-21bfda6f823e------2"
-tags: []
+tags: ["internet", "social-media"]
 draft: false
 ---
 
