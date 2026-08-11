@@ -59,3 +59,4 @@
 | [0009](0009-no-original-url-backfill.md) | 旧記事1832件のoriginal_url補完は行わない | 採用 |
 | [0010](0010-auto-tagger-two-step.md) | auto_taggerからclaude -p を排除し--extract/--applyの2段構成にする | 採用 |
 | [0011](0011-social-icons-on-author-page-only.md) | ソーシャルアイコンはホームに表示せず著者ページのみに表示する | 採用 |
+| [0012](0012-unprocessed-post-detection-by-git-history.md) | 未処理記事の判定はgit履歴（インポートbotしか触っていない）で行う | 採用 |

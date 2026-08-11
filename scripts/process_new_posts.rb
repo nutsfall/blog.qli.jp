@@ -18,10 +18,15 @@ require 'uri'
 require 'net/http'
 require 'open3'
 require 'optparse'
+require 'set'
 
-POSTS_DIR   = Pathname.new(__dir__).parent / 'content' / 'posts'
+REPO_ROOT   = Pathname.new(__dir__).parent
+POSTS_DIR   = REPO_ROOT / 'content' / 'posts'
 RUBY_BIN    = '/opt/homebrew/opt/ruby/bin/ruby'
 AUTO_TAGGER = Pathname.new(__dir__) / 'auto_tagger.rb'
+
+# Mediumインポートを行うGitHub Actionのcommitter。この人しか触っていない記事＝未処理
+IMPORT_BOT_EMAIL = 'action@github.com'
 
 MEDIUM_IMG_RE   = /https?:\/\/cdn-images-1\.medium\.com\/[^\s\)"]+/
 MEDIUM_PIXEL_RE = /\n*!\[\]\(https?:\/\/medium\.com\/_\/stat\?[^\s\)]*\)\n?/
@@ -61,9 +66,35 @@ class PostProcessor
   def find_targets
     POSTS_DIR.glob('**/*.md').select do |path|
       content = File.read(path, encoding: 'utf-8') rescue next
-      content.match?(/^source:\s*["']?medium/) &&
-        (content.match?(MEDIUM_IMG_RE) || content.match?(MEDIUM_PIXEL_RE))
+      next false unless content.match?(/^source:\s*["']?medium/)
+
+      content.match?(MEDIUM_IMG_RE) || content.match?(MEDIUM_PIXEL_RE) ||
+        untouched_paths.include?(path.relative_path_from(REPO_ROOT).to_s)
     end.sort
+  end
+
+  # インポート以降まだ手を入れていない記事のパス集合。
+  # 画像のない記事は残りの処理（重複H3削除・タグ付け）も必要なので、画像の有無では判定できない
+  def untouched_paths
+    @untouched_paths ||= begin
+      out, _ = Open3.capture2('git', '-C', REPO_ROOT.to_s, 'log', '--no-renames',
+                              '--format=%x00%ae', '--name-only', '--', 'content/posts')
+      emails = Hash.new { |h, k| h[k] = [] }
+      current = nil
+      out.each_line do |line|
+        line = line.chomp
+        if line.start_with?("\0")
+          current = line[1..]
+        elsif !line.empty?
+          emails[line] << current
+        end
+      end
+      POSTS_DIR.glob('**/*.md').filter_map do |path|
+        rel = path.relative_path_from(REPO_ROOT).to_s
+        authors = emails[rel].uniq
+        rel if authors.empty? || authors == [IMPORT_BOT_EMAIL]
+      end.to_set
+    end
   end
 
   def process(path)
