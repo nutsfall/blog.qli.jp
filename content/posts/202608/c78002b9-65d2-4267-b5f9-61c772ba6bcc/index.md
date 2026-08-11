@@ -4,11 +4,9 @@ date: "2026-08-08T03:01:02"
 slug: "c78002b9-65d2-4267-b5f9-61c772ba6bcc"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E9%9F%B3%E5%A3%B0%E5%85%A5%E5%8A%9B%E3%81%A6%E3%82%99%E6%97%A5%E8%A8%98%E3%82%92%E6%9B%B8%E3%81%8F-23bd80606b75?source=rss-21bfda6f823e------2"
-tags: []
+tags: ["day-one", "journaling", "voice-input"]
 draft: false
 ---
-
-### 音声入力で日記を書く
 
 ちょっと前から、また日記を書き始めました。前からたびたび、書いてはやめ、書いてはやめということを繰り返していたのですが。使っているのはDay Oneというアプリです。
 
