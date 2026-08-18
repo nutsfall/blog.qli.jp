@@ -1,7 +1,7 @@
 baseURL: "https://blog.qli.jp/"
 title: "Things on a planet"
 theme: PaperMod
-languageCode: "ja"
+locale: "ja"
 googleAnalytics: "G-HH9NL19GK0"
 
 # 基本設定
