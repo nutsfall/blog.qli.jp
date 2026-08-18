@@ -4,11 +4,9 @@ date: "2026-08-15T03:01:04"
 slug: "8058d54b-25dd-43f5-b5b5-2003e3bc8883"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%82%A2%E3%82%B7%E3%82%99%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%A8%E3%81%84%E3%81%86-%E3%82%82%E3%81%AE%E3%81%AE%E8%A6%8B%E6%96%B9-f3546b85bf3a?source=rss-21bfda6f823e------2"
-tags: []
+tags: ["agile", "remote-work"]
 draft: false
 ---
-
-### アジャイルという、ものの見方
 
 このブログでは音楽や映画とか趣味についてが中心で、あんまり自分がどう物事を見ているか、どう向き合っているかは書いてこなかったように感じている。
 
