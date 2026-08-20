@@ -4,7 +4,9 @@
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     <div class="entry-content md-content">
-        {{ .Content | markdownify }}
+        {{ $opts := dict "display" "block" }}
+        {{ .Content | $.Page.RenderString $opts }}
     </div>
+    {{- /* ADR-0011: ソーシャルアイコンはホームに表示せず著者ページのみに表示する（意図的な削除） */}}
 </article>
 {{- end -}}
