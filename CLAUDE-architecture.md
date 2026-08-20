@@ -27,11 +27,17 @@ Permalink pattern (`hugo.yaml`): `/:year:month:slug/` → e.g. `/202308some-uuid
 
 ## Layout Overrides (`layouts/`)
 
-Custom templates override PaperMod defaults:
-- `_default/single.html` — adds Firebase like button and post metadata
-- `_default/list.html` — paginated listing with home info section
-- `partials/post_meta.html` — date · reading time · word count · author
-- `partials/home_info.html` — homepage welcome message
+Custom templates override PaperMod defaults. Paths follow the Hugo v0.146+ template system (`layouts/` root + `layouts/_partials/`).
+
+移設の経緯・削除したオーバーライドの理由は ADR-0013 を参照。
+
+- `single.html` — adds the Firebase like button and the like/config scripts
+- `taxonomy.html` — hides tags that have only one post
+- `author.html` — standalone author page (`/authors/hiro/`), resolved from the `layout: "author"` front matter in `content/author.md`
+- `_partials/author.html` — links the author name to `/authors/<name>/`
+- `_partials/extend_head.html` — loads `/css/likes.css`
+- `_partials/home_info.html` — homepage welcome message (social icons intentionally omitted, ADR-0011)
+- `_partials/templates/opengraph.html` / `twitter_cards.html` — always derive og:image / twitter:image from page-bundle resources (ADR-0005)
 
 ## Like System
 

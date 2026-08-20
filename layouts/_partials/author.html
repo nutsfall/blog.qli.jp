@@ -1,0 +1,13 @@
+{{- if or .Params.author site.Params.author }}
+    {{- $author := (.Params.author | default site.Params.author) }}
+    {{- $author_type := (printf "%T" $author) }}
+
+    {{- if (or (eq $author_type "[]string") (eq $author_type "[]interface {}")) }}
+        {{- range $i, $v := $author }}
+            {{- if $i }}, {{ end -}}
+            <a href="/authors/{{ $v }}/">{{ $v }}</a>
+        {{- end }}
+    {{- else -}}
+        <a href="/authors/{{ $author }}/">{{ $author }}</a>
+    {{- end }}
+{{- end -}}
