@@ -4,11 +4,9 @@ date: "2026-08-22T03:01:02"
 slug: "bef65ea3-ea65-4fd6-9249-6251ee51ab68"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E5%BE%85%E3%81%9F%E3%81%99%E3%82%99%E3%81%AB%E5%AE%8C%E4%BA%86%E3%81%A6%E3%82%99%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F-things-3-23-846b60bd97f7?source=rss-21bfda6f823e------2"
-tags: ["productivity", "things"]
+tags: ["things", "task-management", "productivity"]
 draft: false
 ---
-
-### 待たずに完了できるようになった Things 3.23
 
 Things 3.23がリリースされた。繰り返しのリマインドを、その回だけ動かせるようになったアップデートだ。
 
