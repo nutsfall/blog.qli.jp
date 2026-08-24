@@ -103,7 +103,7 @@ class PostProcessor
 
     fm_open, fm_body, fm_close, body = $1, $2, $3, $4
     fm    = YAML.safe_load(fm_body, permitted_classes: [Date, Time]) || {}
-    title = fm['title'].to_s.strip.unicode_normalize(:nfc)
+    title = normalize_for_compare(fm['title'].to_s)
 
     new_fm   = fm_body.dup
     new_body = body.dup
@@ -119,8 +119,8 @@ class PostProcessor
     if title && !title.empty?
       h3_match = new_body.lstrip.match(/\A(### (.+))\n/)
       if h3_match
-        h3_title = h3_match[2].strip.unicode_normalize(:nfc)
-        if h3_title.downcase == title.downcase
+        h3_title = normalize_for_compare(h3_match[2])
+        if h3_title == title
           new_body.sub!(/\A\s*### #{Regexp.escape(h3_match[2])}\n\n?/, '')
           changes << "重複タイトル削除"
         end
@@ -191,6 +191,11 @@ class PostProcessor
     end
   rescue => e
     $stderr.puts "ERROR #{path}: #{e.message}"
+  end
+
+  # MediumのH3とfrontmatterのtitleは同じ文字列でも表現が揺れる（NFD/NFC、通常スペース/NBSP）
+  def normalize_for_compare(str)
+    str.strip.unicode_normalize(:nfc).gsub(NBSP, ' ').downcase
   end
 
   def download(url, dest)
