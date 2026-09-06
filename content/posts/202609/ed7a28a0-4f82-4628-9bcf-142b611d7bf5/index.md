@@ -4,11 +4,9 @@ date: "2026-09-05T03:01:02"
 slug: "ed7a28a0-4f82-4628-9bcf-142b611d7bf5"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%81%A6%E3%82%99%E8%81%B4%E3%81%84%E3%81%9F%E6%9B%B2%E3%81%AF-%E3%81%BE%E3%81%9F%E3%82%99%E7%86%B1%E3%81%84-8657b473b74b?source=rss-21bfda6f823e------2"
-tags: ["music"]
+tags: ["headphones", "live-music", "mr-children"]
 draft: false
 ---
-
-### ライブで聴いた曲は、まだ熱い
 
 出かける時はだいたい音楽を聴いている。涼しくなってきたのでヘッドフォンの出番も増えてきた。やっぱりヘッドフォンのスピーカーの大きさで音楽の楽しみ方はずいぶん変わる。空間の広がり、音の強弱をはっきり受け取ることができる。
 
