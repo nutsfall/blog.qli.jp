@@ -1,6 +1,6 @@
 ---
-title: "On Vox: 別冊カドカワ apbank fes’07特集を読んだ"
-date: "2007-08-25T17:09:34.000Z"
+title: "別冊カドカワ apbank fes’07特集を読んだ"
+date: "2007-08-25T17:09:34.000+09:00"
 tags: ["ap-bank-fes", "mr-children", "music-festival"]
 slug: "978476ac-da15-4856-90f7-8c10490ee322"
 ---

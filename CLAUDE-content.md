@@ -72,7 +72,6 @@ To check tag counts across all posts:
 Located in `scripts/`:
 - `process_new_posts.rb` — post-import processor for Medium posts (image localize, H3 removal, tagging)
 - `auto_tagger.rb` — two-step tagger (`--extract` / `--apply`) driven from a Claude Code session
-- `duplicate_post_cleaner.rb` — removes duplicate posts (85% similarity threshold)
 - `convert_to_page_bundles.rb` — migrates flat `.md` files to page bundle structure
 - `title_slug_updater.rb` — updates frontmatter titles/slugs
 - `slug_generator.rb` — generates slugs from titles

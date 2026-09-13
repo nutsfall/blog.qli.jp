@@ -1,7 +1,7 @@
 ---
 title: 嫌われ松子の一生、トリック劇場版2
 date: "2007-01-06T08:38:39.000Z"
-tags: ["film", "blue-dragon"]
+tags: ["film", "kiraware-matsuko", "trick"]
 slug: "53ada620-54d7-439f-9ade-a9bc9585174a"
 ---
 この正月休みの間、家にいる時間はずっとBlue Dragon漬けなので、気晴らしにDVDでも見ることにした。というわけで、今日見た2本の映画の感想を。

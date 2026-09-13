@@ -1,6 +1,6 @@
 ---
-title: "On Vox: Life in Cartoon Motion : MIKA"
-date: "2007-02-26T23:02:32.000Z"
+title: "Life in Cartoon Motion : MIKA"
+date: "2007-02-26T23:02:32.000+09:00"
 tags: ["mika", "mr-children"]
 slug: "b2d35a70-6413-4c8d-a7f9-105a6b764e35"
 ---

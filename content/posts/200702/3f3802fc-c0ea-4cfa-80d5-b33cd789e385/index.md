@@ -1,6 +1,6 @@
 ---
-title: "On Vox: ご連絡"
-date: "2007-02-17T02:38:04.000Z"
+title: "ご連絡"
+date: "2007-02-17T02:38:04.000+09:00"
 tags: ["personal"]
 slug: "3f3802fc-c0ea-4cfa-80d5-b33cd789e385"
 ---

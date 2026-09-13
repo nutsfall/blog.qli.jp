@@ -1,6 +1,6 @@
 ---
-title: "On Vox: Mr.Children onlineの閉鎖宣言"
-date: "2007-09-26T14:46:00.000Z"
+title: "Mr.Children onlineの閉鎖宣言"
+date: "2007-09-26T14:46:00.000+09:00"
 tags: ["mr-children", "fan-site"]
 slug: "1b6ed6e4-5c34-4742-ab06-c281b1df1a0f"
 ---
