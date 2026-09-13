@@ -23,7 +23,7 @@ TAG_RULES = <<~RULES.strip
   - Prefer specific terms over generic ones (avoid "diary", "misc", "thoughts", "life")
   - Use proper nouns for products, artists, teams, works (apple, netflix, avispa-fukuoka)
   - Prefer tags already used on this blog when appropriate
-  - Use British English "film" for film-related tags (film, film-review, japanese-film); do not use movie, movies, or cinema except in proper nouns (unfair-the-movie)
+  - For films, use "film" (not "movie", "movies", or "cinema")
 RULES
 
 class AutoTagger
