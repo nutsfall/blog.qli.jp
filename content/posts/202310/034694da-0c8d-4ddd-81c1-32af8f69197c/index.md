@@ -1,7 +1,7 @@
 ---
 title: あの日を覚えている
 date: "2023-10-21T03:02:37.473Z"
-tags: ["all-night-nippon", "theater"]
+tags: ["all-night-nippon", "theater", "film"]
 slug: "034694da-0c8d-4ddd-81c1-32af8f69197c"
 ---
 先日、「イケメン成人男性が生エビ食べたり、縄跳びを飛んだりするイベント」に行ってきました。

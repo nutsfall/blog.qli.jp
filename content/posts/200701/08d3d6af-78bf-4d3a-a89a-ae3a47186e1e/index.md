@@ -1,7 +1,7 @@
 ---
 title: "On Vox: 嫌われ松子の一生、トリック劇場版2"
 date: "2007-01-06T00:38:40.000Z"
-tags: ["kiraware-matsuko", "trick", "blue-dragon"]
+tags: ["kiraware-matsuko", "trick", "film"]
 slug: "08d3d6af-78bf-4d3a-a89a-ae3a47186e1e"
 ---
 この正月休みの間、家にいる時間はずっとBlue Dragon漬けなので、気晴らし…

@@ -1,7 +1,7 @@
 ---
 title: オレンジな泡沫サタデーナイト
 date: "2021-04-10T04:34:02.490Z"
-tags: ["akai-koen", "apple-music"]
+tags: ["akai-koen", "apple-music", "film"]
 slug: "2d4af430-bf12-424b-938a-1e666f3bd1ec"
 cover:
   image: "1__xVKThPawQr__Euf__g7z__d7Q__2x.jpeg"

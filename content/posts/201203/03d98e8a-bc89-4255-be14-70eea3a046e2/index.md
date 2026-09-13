@@ -1,7 +1,7 @@
 ---
 title: Friends after 3.11 劇場版
 date: "2012-03-10T12:31:54.000Z"
-tags: ["friends-after-3-11", "documentary"]
+tags: ["friends-after-3-11", "documentary", "film"]
 slug: "03d98e8a-bc89-4255-be14-70eea3a046e2"
 ---
 Friends after 3.11 劇場版を見に行った。

@@ -1,7 +1,7 @@
 ---
 title: 映画 高校デビュー
 date: "2012-03-26T12:33:33.000Z"
-tags: ["kokodebu", "itunes"]
+tags: ["kokodebu", "itunes", "film"]
 slug: "d0605635-ec0e-4f8f-8a4c-c1a1a0cd8773"
 ---
 映画 高校デビューみました。

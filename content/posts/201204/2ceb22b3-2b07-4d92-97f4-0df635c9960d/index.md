@@ -1,7 +1,7 @@
 ---
 title: 映画 鴨川ホルモー
 date: "2012-04-13T22:26:09.000Z"
-tags: ["kamogawa-horumo", "apple-tv"]
+tags: ["kamogawa-horumo", "apple-tv", "film"]
 slug: "2ceb22b3-2b07-4d92-97f4-0df635c9960d"
 ---
 最近はまっている、暇な時間つぶしのApple TVでの映画鑑賞。今回は”鴨川ホルモー”

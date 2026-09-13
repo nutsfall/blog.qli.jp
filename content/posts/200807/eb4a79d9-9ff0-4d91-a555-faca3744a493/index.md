@@ -1,7 +1,7 @@
 ---
 title: HERO 映画版
 date: "2008-07-21T06:15:53.000Z"
-tags: ["hero", "japanese-drama"]
+tags: ["hero", "japanese-drama", "film"]
 slug: "eb4a79d9-9ff0-4d91-a555-faca3744a493"
 ---
 [HERO スタンダード・エディション](https://www.amazon.co.jp/dp/B0011Z7ERK)
