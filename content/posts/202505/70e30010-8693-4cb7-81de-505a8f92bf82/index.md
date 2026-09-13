@@ -1,7 +1,7 @@
 ---
 title: やる気とモチベについての雑記
 date: "2025-05-10T03:01:35.751Z"
-tags: ["productivity", "film"]
+tags: ["productivity"]
 slug: "70e30010-8693-4cb7-81de-505a8f92bf82"
 cover:
   image: 1__O0SGBa__swmRCS9jsNNFZ4w.png
