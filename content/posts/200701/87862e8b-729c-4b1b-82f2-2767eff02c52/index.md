@@ -1,7 +1,7 @@
 ---
 title: "On Vox: 幸福な食卓"
 date: "2007-01-27T17:50:46.000Z"
-tags: ["mr-children", "movie"]
+tags: ["mr-children", "film"]
 slug: "87862e8b-729c-4b1b-82f2-2767eff02c52"
 ---
 今日はミスチル主題歌映画が2本も封切りされる日。前もって自分が運営しているミスチ…

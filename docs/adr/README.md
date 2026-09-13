@@ -62,3 +62,4 @@
 | [0012](0012-unprocessed-post-detection-by-git-history.md) | 未処理記事の判定はgit履歴（インポートbotしか触っていない）で行う | 採用 |
 | [0013](0013-hugo-v0146-layout-migration.md) | レイアウトオーバーライドをHugo v0.146の新テンプレート体系へ移設する | 採用 |
 | [0014](0014-build-installs-hugo-only.md) | Cloudflareのビルドでは Hugo だけをインストールする | 採用 |
+| [0015](0015-film-tag-unification.md) | 映画関連のタグはイギリス英語の film に統一する | 採用 |

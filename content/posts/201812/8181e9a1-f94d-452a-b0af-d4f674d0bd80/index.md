@@ -1,7 +1,7 @@
 ---
 title: 2018年の映画を振り返ってみる
 date: "2018-12-28T00:56:35.997Z"
-tags: ["movies"]
+tags: ["film"]
 slug: "8181e9a1-f94d-452a-b0af-d4f674d0bd80"
 cover:
   image: "1__ID0rCTbMs4rqyTsBActfrA__2x.jpeg"
