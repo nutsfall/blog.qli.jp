@@ -1,7 +1,7 @@
 ---
 title: 中田選手が引退を表明
 date: "2006-07-04T08:13:21.000Z"
-tags: ["hidetoshi-nakata", "soccer"]
+tags: ["nakata-hidetoshi", "football"]
 slug: "b92f2079-14f6-4187-b10b-33afa62d537f"
 ---
 中田選手が引退を表明した。  

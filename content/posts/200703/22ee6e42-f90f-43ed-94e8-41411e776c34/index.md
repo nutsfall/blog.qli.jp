@@ -1,7 +1,7 @@
 ---
 title: アンフェア the movie
 date: "2007-03-17T19:02:57.000Z"
-tags: ["unfair-the-movie", "film-review"]
+tags: ["unfair", "film-review"]
 slug: "22ee6e42-f90f-43ed-94e8-41411e776c34"
 ---
 アンフェア見てきました。公開初日初回8時50分上映開始、朝早いよ。  

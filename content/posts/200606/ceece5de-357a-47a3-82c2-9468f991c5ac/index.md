@@ -1,7 +1,7 @@
 ---
 title: 次の未来に向けて
 date: "2006-06-23T11:05:00.000Z"
-tags: ["world-cup", "soccer"]
+tags: ["world-cup", "football"]
 slug: "ceece5de-357a-47a3-82c2-9468f991c5ac"
 ---
 

@@ -14,7 +14,7 @@ ADR-0007のタグ規約は映画を表す語を定めておらず、`film`（35�
 - `movie`, `movies` → `film`
 - `movie-review` → `film-review`
 - `japanese-cinema` → `japanese-film`
-- 作品名などの固有名詞に含まれる語はそのまま（`unfair-the-movie`）
+- 作品名などの固有名詞に含まれる語はそのまま
 - `theater` / `online-theater` は演劇を表すタグで映画を表していないため対象外
 
 既存15記事は `auto_tagger.rb --apply` で置換し、`TAG_RULES` に同じ規約を追加して以後のタグ付けに反映する。

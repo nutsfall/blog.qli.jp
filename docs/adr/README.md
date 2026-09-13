@@ -63,3 +63,5 @@
 | [0013](0013-hugo-v0146-layout-migration.md) | レイアウトオーバーライドをHugo v0.146の新テンプレート体系へ移設する | 採用 |
 | [0014](0014-build-installs-hugo-only.md) | Cloudflareのビルドでは Hugo だけをインストールする | 採用 |
 | [0015](0015-film-tag-unification.md) | 映画関連のタグはイギリス英語の film に統一する | 採用 |
+| [0016](0016-football-tag-unification.md) | サッカー関連のタグはイギリス英語の football に統一する | 採用 |
+| [0017](0017-japanese-name-tag-order.md) | 日本人の人名タグは姓・名の順で書く | 採用 |

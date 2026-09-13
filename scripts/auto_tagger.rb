@@ -24,6 +24,8 @@ TAG_RULES = <<~RULES.strip
   - Use proper nouns for products, artists, teams, works (apple, netflix, avispa-fukuoka)
   - Prefer tags already used on this blog when appropriate
   - For films, use "film" (not "movie", "movies", or "cinema")
+  - For association football, use "football" (not "soccer")
+  - Write Japanese personal names family name first (iwai-shunji, not shunji-iwai)
 RULES
 
 class AutoTagger
