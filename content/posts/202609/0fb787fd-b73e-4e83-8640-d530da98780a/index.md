@@ -4,7 +4,7 @@ date: "2026-09-19T03:01:02"
 slug: "0fb787fd-b73e-4e83-8640-d530da98780a"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E5%85%B1%E6%84%9F%E3%81%A8%E5%A4%9A%E6%A7%98%E6%80%A7%E3%81%AE%E3%81%93%E3%81%A8-9b433a83d36d?source=rss-21bfda6f823e------2"
-tags: ["prism"]
+tags: ["music", "japanese-drama", "ubukata-mika"]
 draft: false
 ---
 
