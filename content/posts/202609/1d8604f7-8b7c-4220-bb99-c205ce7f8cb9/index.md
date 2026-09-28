@@ -4,11 +4,9 @@ date: "2026-09-26T03:01:02"
 slug: "1d8604f7-8b7c-4220-bb99-c205ce7f8cb9"
 source: "medium"
 original_url: "https://medium.com/@hiro/airpods-5%E3%81%AF%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%BF%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E3%83%A2%E3%83%86%E3%82%99%E3%83%AB%E3%81%AEairpods-2750464e3f28?source=rss-21bfda6f823e------2"
-tags: ["airpods"]
+tags: ["airpods", "apple"]
 draft: false
 ---
-
-### AirPods 5はスタンダードモデルのAirPods
 
 Appleの今年の秋は、ハイエンドのiPhoneとApple Watch、そしてAirPods 5だった。ハイエンドだったはずのiPhone Airが今年は姿を見せなかったのはどうなんだ、というツッコミは置いといて、AirPods 5について書いておきたい。
 
