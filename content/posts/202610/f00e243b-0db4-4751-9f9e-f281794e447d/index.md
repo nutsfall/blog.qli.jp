@@ -4,7 +4,7 @@ date: "2026-10-03T03:01:04"
 slug: "f00e243b-0db4-4751-9f9e-f281794e447d"
 source: "medium"
 original_url: "https://medium.com/@hiro/iphone-duo%E3%82%92%E8%AA%9E%E3%82%8B-b99d3a9b58f9?source=rss-21bfda6f823e------2"
-tags: ["apple", "iphone-duo"]
+tags: ["iphone", "apple"]
 draft: false
 ---
 
