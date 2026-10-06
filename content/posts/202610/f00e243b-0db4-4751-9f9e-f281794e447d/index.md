@@ -42,7 +42,7 @@ iPhone Duoのシステムは、あくまでiOSだ。多くのひとのレビュ�
 
 ジャーナリストの西田宗千佳さんが、iPhone Duoについて動画で語っている。
 
-<https://medium.com/media/8a259584170da271d1a440fe35cba8ae/href>
+{{< youtube Nj6aVXBsiXU >}}
 
 西田さんは、Appleは価格を無視して、今できる最高の体験を作ろうとしたという見方を話している。Vision Proのときと同じ考え方だという。OSとハードとソフトを一体で開発できる強みを生かしている、という話だった。
 
