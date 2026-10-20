@@ -4,7 +4,7 @@ date: "2026-10-17T03:01:02"
 slug: "f80f8c31-a0d5-42ef-9259-87700de4c239"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E7%A7%8B%E3%81%AE%E6%9C%80%E4%B8%AD-bf4aba04f662?source=rss-21bfda6f823e------2"
-tags: []
+tags: ["autumn", "mr-children"]
 draft: false
 ---
 
