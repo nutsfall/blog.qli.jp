@@ -4,11 +4,9 @@ date: "2026-10-24T03:01:02"
 slug: "db80655f-2222-451f-9668-2de709492df3"
 source: "medium"
 original_url: "https://medium.com/@hiro/php%E3%81%A6%E3%82%99%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%93%E3%82%8D-6f9ff6d55e95?source=rss-21bfda6f823e------2"
-tags: ["music"]
+tags: ["mr-children", "php", "web-development"]
 draft: false
 ---
-
-### PHPでファンサイトをつくっていたころ
 
 PHPのセキュリティパッチの話が国家を巻き込んで盛り上がっている。PHPといえば、以前Mr.Children ONLINEというWebサイトをPHPで作って公開してたことがある。いわゆる、自作Webサイトだ。
 
