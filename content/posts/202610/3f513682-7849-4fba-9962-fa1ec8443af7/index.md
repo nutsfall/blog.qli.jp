@@ -4,11 +4,9 @@ date: "2026-10-31T03:01:02"
 slug: "3f513682-7849-4fba-9962-fa1ec8443af7"
 source: "medium"
 original_url: "https://medium.com/@hiro/siri-ai%E3%81%8B%E3%82%99%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F-e8d162cb3602?source=rss-21bfda6f823e------2"
-tags: ["ios"]
+tags: ["siri", "ios", "apple-intelligence"]
 draft: false
 ---
-
-### Siri AIが日本語になった
 
 今週iOS 27.2が正式にリリースされた。それと同時にSiri AIがベータ版ながら日本語に対応した。
 
