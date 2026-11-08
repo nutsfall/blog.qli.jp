@@ -2,8 +2,79 @@
 # content/posts 配下の移行残骸パターンを検出して件数を出力する。
 # MIGRATION.md のフェーズ進捗確認用。修正前後で実行して差分を見る。
 # 使い方: scripts/content_lint.zsh [-v]  (-v で該当ファイル一覧も出力)
+#
+# 記事単位モード: scripts/content_lint.zsh --post <記事ディレクトリ|index.md>...
+#   新規インポート記事の整形（process_new_posts.rb ＋タグ付け）が完了したかを判定する。
+#   問題のある記事ごとに内容を出力し、1件でもあれば exit 1。
 
 setopt extendedglob
+
+if [[ "$1" == "--post" ]]; then
+  shift
+  (( $# )) || { echo "usage: $0 --post <post dir|index.md>..." >&2; exit 2; }
+  failed=0
+  for arg in "$@"; do
+    f=$arg
+    [[ -d $f ]] && f=$f/index.md
+    problems=()
+    if [[ ! -f $f ]]; then
+      echo "NG $arg"; echo "    index.md がない"; failed=1; continue
+    fi
+    d=${f:h}
+    fm=$(awk 'NR==1 && /^---$/ {inf=1; next} inf && /^---$/ {exit} inf' "$f")
+    body=$(awk 'c>=2 {print} /^---$/ && c<2 {c++}' "$f")
+
+    grep -q '^draft: true' <<<"$fm" && problems+=("draft: true のまま")
+    grep -qE '^tags: \[ *"|^tags:$' <<<"$fm" || problems+=("タグがない")
+
+    # 本文先頭の見出しがタイトルと同じ（Mediumの重複タイトル）。比較は process_new_posts.rb と同じ正規化
+    dup=$(perl -CSD -MUnicode::Normalize -e '
+      local $/; my $t = <>;
+      my ($fm, $body) = $t =~ /\A---\n(.*?)\n---\n(.*)\z/s or exit;
+      my ($title) = $fm =~ /^title:\s*"?(.*?)"?\s*$/m;
+      my ($h) = $body =~ /\A\s*#+[ \t]+([^\n]*)/ or exit;
+      my $n = sub { my $s = NFC(shift); $s =~ s/\x{00A0}/ /g; $s =~ s/^\s+|\s+$//g; lc $s };
+      print $h if $n->($h) eq $n->($title);
+    ' "$f")
+    [[ -n $dup ]] && problems+=("本文先頭にタイトルと同じ見出し: $dup")
+
+    grep -qE '!\[[^]]*\]\(https?://|figure src="https?://' <<<"$body" && problems+=("リモート画像参照が残っている")
+    grep -q 'cdn-images-1\.medium\.com' "$f" && problems+=("Medium画像URLが残っている")
+    grep -q 'medium\.com/_/stat' <<<"$body" && problems+=("Medium計測ピクセルが残っている")
+    grep -qF '![]()' <<<"$body" && problems+=("空画像 ![]()")
+
+    # ローカル画像（本文・figure・cover）の実ファイル
+    refs=(${(f)"$(
+      { grep -oE '!\[[^]]*\]\([^)]+\)' <<<"$body" | sed -E 's/.*\(([^)]*)\).*/\1/'
+        grep -oE 'figure src="[^"]+"' <<<"$body" | sed -E 's/.*src="([^"]*)"/\1/'
+        grep -oE '^  image: "[^"]+"' <<<"$fm" | sed -E 's/.*"([^"]*)"/\1/'
+      } | grep -vE '^https?://'
+    )"})
+    for img in ${refs:#}; do
+      [[ -f "$d/$img" ]] || problems+=("参照切れ画像: $img")
+    done
+
+    for img in $d/^index.md(N.); do
+      grep -qF "${img:t}" "$f" || problems+=("未参照ファイル: ${img:t}")
+    done
+    for img in $d/*.(jpg|jpeg|png|gif|webp)(N.); do
+      case $(xxd -p -l 12 "$img") in
+        ffd8ff*|89504e47*|47494638*|52494646????????57454250) ;;
+        *) problems+=("実体が画像でない: ${img:t}") ;;
+      esac
+    done
+
+    if (( ${#problems} )); then
+      failed=1
+      echo "NG $f"
+      printf '    %s\n' "${problems[@]}"
+    else
+      echo "OK $f"
+    fi
+  done
+  exit $failed
+fi
+
 cd "$(dirname "$0")/.." || exit 1
 verbose=0
 [[ "$1" == "-v" ]] && verbose=1

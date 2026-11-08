@@ -16,7 +16,13 @@
 - キャプションテキストがあれば cover の `caption:` / figure の `caption=` に設定
 - タグ付け対象の `auto_tagger.rb --extract` 出力を表示（Mediumのタグはルール未準拠のため常に再付与）。Claude Codeセッションがこの出力からタグを生成し、`--apply` で適用する
 
-処理後に内容を確認してコミットする。
+処理後に記事単位のlintで完了を確認し、すべて `OK` になってからコミットする。
+
+```bash
+scripts/content_lint.zsh --post content/posts/YYYYMM/UUID ...  # NGがあれば exit 1
+```
+
+Mediumから来たタグがそのまま残っていても、タグがあれば合格になるので、再付与したかは別に確認する。
 
 ```bash
 /opt/homebrew/opt/ruby/bin/ruby scripts/process_new_posts.rb --dry-run  # プレビュー

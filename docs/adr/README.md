@@ -67,3 +67,4 @@
 | [0017](0017-japanese-name-tag-order.md) | 日本人の人名タグは姓・名の順で書く | 採用 |
 | [0018](0018-on-vox-posts-cleanup.md) | 「On Vox:」記事は抜粋だけのものと重複を消し、残す記事は接頭辞を外してJSTの日付にする | 採用 |
 | [0019](0019-no-automatic-duplicate-deletion.md) | 重複記事の自動削除スクリプトを廃止し、一覧を作って人が判断して消す | 採用 |
+| [0020](0020-per-post-import-lint.md) | インポート後処理の完了確認は content_lint.zsh の記事単位モードで行う | 採用 |
