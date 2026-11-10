@@ -130,7 +130,7 @@ class PostProcessor
     # 2. 画像のローカル化: 本文より前なら cover、後ろならインライン figure
     #    cover判定は最初の画像のみ（2枚目以降は位置によらずインライン扱い）
     first_image = true
-    while (img_match = new_body.match(/^!\[\]\((#{MEDIUM_IMG_RE})\)[^\n]*\n/))
+    while (img_match = new_body.match(/^!\[\]\((#{MEDIUM_IMG_RE})\)[^\n]*(?:\n|\z)/))
       img_url  = img_match[1]
       img_line = img_match[0]
       is_cover = first_image && new_body[0...img_match.begin(0)].strip.empty?
