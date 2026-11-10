@@ -4,7 +4,7 @@ date: "2026-11-07T03:01:02"
 slug: "5fd5260c-2e68-4a3b-91b9-d2d6c4c0b8dd"
 source: "medium"
 original_url: "https://medium.com/@hiro/%E7%A7%8B%E3%81%AE%E6%97%85-2026-f62b24360010?source=rss-21bfda6f823e------2"
-tags: ["trip"]
+tags: ["travel", "railway", "yamagata"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ draft: false
 
 久しぶりにローカル特急に乗る電車の旅、天気がいいとはいえない2日間でしたが、悪天候も含めて楽しめたと思います。
 
-![](https://cdn-images-1.medium.com/max/1024/1*6uGWYk03lYSqDBLoPnUKXQ.jpeg)
+{{< figure src="1_6uGWYk03lYSqDBLoPnUKXQ.jpeg" >}}
