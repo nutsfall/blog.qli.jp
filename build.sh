@@ -14,14 +14,14 @@
 
 main() {
 
-  HUGO_VERSION=0.165.0
+  HUGO_VERSION=0.170.0
 
   export TZ=Europe/Oslo
 
   # Install Hugo
   echo "Installing Hugo ${HUGO_VERSION}..."
   curl -fsSL --retry 3 --retry-delay 2 -o hugo.tar.gz \
-    "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+    "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz"
   mkdir -p "${HOME}/.local/hugo"
   tar -C "${HOME}/.local/hugo" -xf hugo.tar.gz
   rm hugo.tar.gz
