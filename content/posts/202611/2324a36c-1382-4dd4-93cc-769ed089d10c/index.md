@@ -4,11 +4,11 @@ date: "2026-11-14T03:01:01"
 slug: "2324a36c-1382-4dd4-93cc-769ed089d10c"
 source: "medium"
 original_url: "https://medium.com/@hiro/iphone-duo%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A8%E6%9D%A5%E3%81%9F-aaf23a641231?source=rss-21bfda6f823e------2"
-tags: ["iphone-duo"]
+tags: ["iphone-duo", "iphone", "apple"]
 draft: false
+cover:
+  image: "cover.jpeg"
 ---
-
-![](https://cdn-images-1.medium.com/max/1024/1*mF7Y7bWXw4jMB9yR10Esew.jpeg)
 
 iPhone Duoがようやく手元に届きました。10月16日夜9時の予約開始から2分程度で注文が完了し、配送を待つこと3週間ほど。
 
