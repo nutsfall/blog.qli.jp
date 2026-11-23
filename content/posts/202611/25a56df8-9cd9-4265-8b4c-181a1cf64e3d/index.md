@@ -4,7 +4,7 @@ date: "2026-11-21T03:01:03"
 slug: "25a56df8-9cd9-4265-8b4c-181a1cf64e3d"
 source: "medium"
 original_url: "https://medium.com/@hiro/meta-muse%E3%82%92%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B-40baf182c8ea?source=rss-21bfda6f823e------2"
-tags: ["meta-muse"]
+tags: ["meta-muse", "claude", "ai"]
 draft: false
 ---
 
